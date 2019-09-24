@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Taustakuva</item>
+        <item>Widgetit</item>
+        <item>Asetukset</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Selkeä</item>
+        <item>Pilvinen</item>
+        <item>Usvainen</item>
+        <item>Sumuinen</item>
+        <item>Kova rankkasade</item>
+        <item>Rankkasade</item>
+        <item>Kova sade</item>
+        <item>Ukkosmyrsky</item>
+        <item>Sataa</item>
+        <item>Kova sade</item>
+        <item>Sataa</item>
+        <item>Tihkusade</item>
+        <item>Räntää</item>
+        <item>Lumimyrsky</item>
+        <item>Lumisadekuuro</item>
+        <item>Rankka lumisade</item>
+        <item>Lumisade</item>
+        <item>Kevyt lumisade</item>
+        <item>Kova hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Kevyt hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Raekuuro</item>
+        <item>Leijuvaa pölyä</item>
+        <item>Usva</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Oletus</item>
+        <item>Klassinen</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Liuku</item>
+        <item>Häivytä</item>
+        <item>Pyöri</item>
+        <item>Sivu</item>
+        <item>Sarja</item>
+        <item>Kierrä</item>
+        <item>Kuutio</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Teeman oletus</item>
+        <item>Keskellä</item>
+        <item>Vasen</item>
+        <item>Oikea</item>
+    </string-array>
+</resources>

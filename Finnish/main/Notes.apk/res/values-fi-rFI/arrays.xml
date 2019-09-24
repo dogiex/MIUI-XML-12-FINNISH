@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galleria</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nimi</item>
+        <item>Lempinimi</item>
+        <item>Puhelin</item>
+        <item>Sähköposti</item>
+        <item>Yritys</item>
+        <item>IM</item>
+        <item>SIP Puhelin</item>
+        <item>Syntymäpäivä</item>
+        <item>Verkkosivu</item>
+        <item>Osoite</item>
+        <item>Muistilappu</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Tervetuloa Muistioon!</item>
+        <item>Tee muistioita</item>
+        <item>Voit käyttää muistiossasi tekstiä, kuvia ja ääninauhoitteita. Monipuolinen kirjasto tyylejä ja fontteja tekee yksinkertaisista tuherruksistasi näyttäviä.</item>
+        <item>Tarkistuslistat ja muistutukset auttavat sinua seuraavan kauppalistan tai matkan suunnittelemisessa.</item>
+        <item>Jaa muistioita</item>
+        <item>Voit luoda pitkän kuvakaappauksen Muistiossa automaattisesti, jonka voit sen jälkeen jakaa kavereidesi kanssa.</item>
+        <item>Luo &amp; vaihda kansioiden välillä</item>
+        <item>Paina alla olevaa nuolta luodaksesi uuden kansion tai vaihtaaksesi olemassa olevien kansioiden välillä.</item>
+     </string-array>
+    <string-array name="folder_operations">
+        <item>Nimeä uudelleen</item>
+        <item>Poista</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pieni</item>
+        <item>Keskikokoinen</item>
+        <item>Suuri</item>
+        <item>Valtava</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Luomispäivän mukaan</item>
+        <item>Muokkauspäivämäärän mukaan</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Äänimuistiot</item>
+        <item>Liitä alkuperäinen ääninauhoitus muistioihin luodaksesi muistioita sisäänrakennetulla puheesta-tekstiksi moottorilla.</item>
+     </string-array>
+     <string-array name="second_guide_contents_pad_or_inter">
+        <item>Äänimuistiot</item>
+        <item>Voit nyt luoda äänimuistioita. Napauta vain kuvaketta, nauhoita ääntäsi ja tallenna äänitiedosto muistion sisälle.</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Tervetuloa Muistioon
+"</item>
+        <item>"Luo muistio
+Napauta plussaa luodaksesi muistion."</item>
+        <item>"Valitse mallipohjia
+Käytä mallipohjia vaihtaaksesi muistioiden taustoja ja tyylejä.
+Napauta muistion oikeassa alakulmassa olevaa painiketta valitaksesi mallipohjan."</item>
+        <item>"Luo kansioita
+Järjestä muistiosi kansioihin.
+On 2 tapaa luoda kansio:
+1. Napauta kansion kuvaketta vasemmassa yläkulmassa ja napauta sitten plussaa.
+2. Pidä muistiota pohjassa, kunnes ponnahdusikkuna ilmestyy, valitse sen jälkeen \"Siirrä kansioon\" - \"Uusi kansio\"."</item>
+        <item>"Piilota muistiot
+Suojaa yksityiset muistiot salasanalla.
+On 2 tapaa piilottaa muistio:
+1. Napauta \"Lisää\" painiketta muistion oikeassa yläkulmassa ja valitse \"Piilota\".
+2. Pidä muistiota pohjassa, kunnes ponnahdusikkuna ilmestyy, valitse sen jälkeen \"Piilota\"."</item>
+        <item>"Ja lisää mahtavia ominaisuuksia!
+  - Kuvia, muistilistoja, muistutuksia.
+
+Lisää kuvia
+Napauta kuva kuvaketta muistion alareunassa lisätäksesi kuvan.
+Voit ottaa kuvan tai valita sellaisen Galleriasta.
+Kun muistio sisältää kuvan, tätä kuvaa käytetään muistion minikuvana ruudukkonäkymässä.
+
+Luo muistilistoja
+Valintaruutu on muistilistan olennainen osa.
+Napauta valintaruutu kuvaketta muistion alareunassa lisätäksesi valintaruudun tekstikappaleeseen.
+Napauta rasti ruutuun, kun tehtävä on tehty.
+
+Aseta muistutuksia
+Aseta muistutuksia suoraan muistioista.
+Napauta \"Lisää\" painiketta muistion oikeassa yläkulmassa, valitse sen jälkeen \"Muistutus\", asettaaksesi muistutusajan.
+"</item>
+    </string-array>
+</resources>

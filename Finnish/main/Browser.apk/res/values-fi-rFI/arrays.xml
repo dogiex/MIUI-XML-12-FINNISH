@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Sivu takaisin eteenpäin</item>
+        <item>Vaihda välilehtiä</item>
+        <item>Ei mitään</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Oletussivu</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Puhelin</item>
+        <item>Tabletti</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Pystysuora näkymä</item>
+        <item>Vaakasuora näkymä</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Kysy aina</item>
+        <item>Avaa</item>
+        <item>Sulje</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Hyvin pieni</item>
+        <item>Pieni</item>
+        <item>Normaali</item>
+        <item>Suuri</item>
+        <item>Hyvin suuri</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Pöytäkone</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="readmode_theme_background_color">
+        <item>valkoinen</item>
+        <item>beige</item>
+        <item>ruskea</item>
+        <item>vihreä</item>
+        <item>harmaa</item>
+        <item>musta</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Poista</item>
+        <item>Ei kiitos</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Seuraa</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Viesti Selaimesta</item>
+        <item>Seuraa Olympialaisia Mi:llä</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Tarkkailun katsominen</item>
+        <item>Keskeinen ongelma</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Selkeä</item>
+        <item>Osittain pilvistä</item>
+        <item>Pilvistä</item>
+        <item>Vesisade</item>
+        <item>Ukkosmyrskyjä</item>
+        <item>Raekuuro</item>
+        <item>Räntää</item>
+        <item>Kevyt sade</item>
+        <item>Kohtalainen sade</item>
+        <item>Rankkasade</item>
+        <item>Rankkasade</item>
+        <item>Kaatosade</item>
+        <item>Äärimmäinen rankkasade</item>
+        <item>Lumisuihku</item>
+        <item>Kevyt lumisade</item>
+        <item>Kohtalainen lumisade</item>
+        <item>Rankka lumisade</item>
+        <item>Lumimyrsky</item>
+        <item>Sumu</item>
+        <item>Jäätävä sade</item>
+        <item>Hiekkamyrsky</item>
+        <item>Kevyestä kohtalaiseen sateeseen</item>
+        <item>Kohtalaisesta rankkasateeseen</item>
+        <item>Rankkasateesta kaatosateeseen</item>
+        <item>Kaatosateesta kaatosateeseen</item>
+        <item>Kaatosateesta rajuun rankkasateeseen</item>
+        <item>Kevyestä kohtalaiseen lumisateeseen</item>
+        <item>Kohtalaisesta rankkaan lumisateeseen</item>
+        <item>Rankasta lumisateesta lumimyrskyyn</item>
+        <item>Kelluvaa pölyä</item>
+        <item>Nousevaa hiekkaa</item>
+        <item>Hiekkamyrsky</item>
+        <item>Sankka sumu</item>
+        <item>Voimakas sumu</item>
+        <item>Usva</item>
+        <item>Kohtalainen usva</item>
+        <item>Rankka usva</item>
+        <item>Vaarallinen usva</item>
+        <item>Sankka sumu</item>
+        <item>Voimakas sankka sumu</item>
+        <item>Ei mitään</item>
+        <item>Vesisade</item>
+        <item>Lumisade</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="btn_clear_records">
+        <item quantity="other">Poista %d nauhoitusta</item>
+        <item quantity="one">Poista %d nauhoitus</item>
+    </plurals>
+    <plurals name="choose_call_records_count">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="notification_warning">
+        <item quantity="other">Tallennustila vähissä (alle %d minuuttia)</item>
+        <item quantity="one">Tallennustila vähissä (alle %d minuutti)</item>
+    </plurals>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">%d nauhoitusta ladattu</item>
+        <item quantity="one">%d nauhoitus ladattu</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d synkronoimatonta</item>
+        <item quantity="one">%d synronoimaton</item>
+    </plurals>
+</resources>

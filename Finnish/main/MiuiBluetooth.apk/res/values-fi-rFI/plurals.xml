@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Paina ja pidä laatikon painiketta pohjassa %1$d sekunnin ajan</item>
+        <item quantity="one">Paina ja pidä laatikon painiketta pohjassa %1$d sekunnin ajan</item>
+    </plurals>
+</resources>

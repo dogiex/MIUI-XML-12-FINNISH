@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="entries">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Yksityiskohtainen takaisinmaksu (%d vuotta)</item>
+        <item quantity="one">Yksityiskohtainen takaisinmaksu (%d vuosi)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Yksityiskohtainen takaisinmaksu (%d vuotta), CNY</item>
+        <item quantity="one">Yksityiskohtainen takaisinmaksu (%d vuosi), CNY</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d vuotta (%2$d kuukautta)</item>
+        <item quantity="one">%1$d vuosi (%2$d kuukautta)</item>
+    </plurals>
+</resources>

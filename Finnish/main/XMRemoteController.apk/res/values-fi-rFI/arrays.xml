@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Jäähdytys</item>
+        <item>Lämmitys</item>
+        <item>Kosteudenpoisto</item>
+        <item>Tuuletin</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Laitteesi voi muodostaa laiteparin vain Mi TV, Mi Box, ja kourallisen muiden Android-laitteiden kanssa käyttäen Wi-Fi-yhteyttä.</item>
+        <item>Varmista, että olet valinnut oikean A/C mallin laitepariyhteyden muodostamisessa. Seuraa laitteessasi olevia ilmoituksia, kunnes laitepariyhteys on valmis.</item>
+        <item>Et. Tällä hetkellä voit käyttää Mi 4, Mi 4c, ja Redmi Note 2 laitteita infrapunakaukosäätimenä.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Su</item>
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+    </string-array>
+    <string-array name="question">
+        <item>Miksi puhelimeni etsii jatkuvasti langattomia laitteita?</item>
+        <item>Miksi voin vain käynnistää ilmastointilaitteeni, mutta en voi sammuttaa sitä?</item>
+        <item>Voinko käyttää Mi 3, Mi 2, ja Redmi laitteita infrapunakaukosäätimenä?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Käynnistä Haier AC olohuoneessa</item>
+        <item>Aseta lämpötila 25 asteeseen</item>
+        <item>Aseta puhalluksen suunta \"Ylös\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Käynnistä Gree AC</item>
+        <item>Vaihda keinuvaan tilaan</item>
+        <item>Laita ilmastointilaite puhaltamaan kovempaa</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Käynnistä set-top box</item>
+        <item>Haluan katsoa Hunan TV:tä</item>
+        <item>Siirry takaisin kanavalle 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Käynnistä ilmastointilaite</item>
+        <item>Haluan katsoa Shenzhen TV:tä</item>
+        <item>Siirry takaisin kanavalle 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Käynnistä makuuhuoneen TV</item>
+        <item>Sammuta TV</item>
+        <item>Lisää TV:n äänenvoimakkuutta</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Videot</item>
+        <item>Kuvakaappaukset</item>
+        <item>Sovellukset</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Kaikki</item>
+        <item>Suosikit</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Viimeaikainen</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Kaikki kanavat</item>
+        <item>Suosikki kanavat</item>
+        <item>CCTV-kanavat</item>
+        <item>TV-kanavat</item>
+        <item>HD-kanavat</item>
+        <item>Viimeaikoina katsotut</item>
+    </string-array>
+	<string-array name="epg_channel_tab_actionbar_v53">
+        <item>Kaikki kanavat</item>
+        <item>Viimeaikoina katsotut</item>
+        <item>HD-kanavat</item>
+        <item>TV-kanavat</item>
+        <item>CCTV-kanavat</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>Kaikki</item>
+        <item>TV</item>
+        <item>CCTV</item>
+        <item>HD</item>
+        <item>Viimeaikoina</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>Viihde</item>
+        <item></item>
+        <item>Urheilu</item>
+        <item>Lapsille</item>
+        <item>Uutiset</item>
+        <item>Elämäntapa</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Suosittu</item>
+        <item>Elokuvat</item>
+        <item>Viihde</item>
+        <item>TV-ohjelmat</item>
+        <item>Urheilu</item>
+        <item>Lapsille</item>
+        <item>Uutiset</item>
+        <item>Elämäntapa</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Suositut ohjelmat</item>
+        <item>Elokuvat</item>
+        <item>Viihdeohjelmat</item>
+        <item>TV-ohjelmat</item>
+        <item>Urheilu</item>
+        <item>Lapsille</item>
+        <item>Uutiset</item>
+        <item>Elämäntapaohjelmat</item>
+    </string-array>
+    <string-array name="user_notification_tab">
+        <item>\@与我相关</item>
+        <item>系统通知</item>
+    </string-array>
+</resources>

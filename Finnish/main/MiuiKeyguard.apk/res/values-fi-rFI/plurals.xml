@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Virheellinen PUK-koodi, %d yritystä jäljellä</item>
+        <item quantity="one">Virheellinen PUK-koodi, %d yritys jäljellä</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Virheellinen PIN-koodi, %d yritystä jäljellä</item>
+        <item quantity="one">Virheellinen PIN-koodi, %d yritys jäljellä</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Yritä uudelleen %d sekunnin kuluttua</item>
+        <item quantity="one">Yritä uudelleen %d sekunnin kuluttua</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Yritä uudelleen %d sekunnin kuluttua</item>
+        <item quantity="one">Yritä uudelleen %d sekunnin kuluttua</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Noin %d minuuttia kunnes täynnä</item>
+        <item quantity="one">Noin %d minuutti kunnes täynnä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Noin %d tuntia kunnes täynnä</item>
+        <item quantity="one">Noin %d tunti kunnes täynnä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Noin %1$d t %2$d min kunnes täynnä</item>
+        <item quantity="one">Noin %1$d t %2$d min kunnes täynnä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Noin %d minuuttia jäljellä</item>
+        <item quantity="one">Noin %d minuutti jäljellä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Noin %d tuntia jäljellä</item>
+        <item quantity="one">Noin %d tunti jäljellä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Noin %1$d t %2$d min jäljellä</item>
+        <item quantity="one">Noin %1$d t %2$d min jäljellä</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d t %2$d min</item>
+        <item quantity="one">%1$d t %2$d min</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ims_get_packet_count_failed">Pakettien määrän hakeminen epäonnistui</string>
+  <string name="ims_get_packet_count_label">hae pakettien määrä napauttamalla tähän</string>
+  <string name="ims_get_packet_error_count_failed">Pakettien virhemäärän hakeminen epäonnistui</string>
+  <string name="ims_get_packet_error_count_label">hae pakettien virhemäärä napauttamalla tähän</string>
+  <string name="ims_pc_count">ImsPacketCount</string>
+  <string name="ims_per_count">ImsPacketErrorCount</string>
+  <string name="ims_settings">IMS Asetukset</string>
+  <string name="ims_to_cs_retry">ImsToCsRetry</string>
+  <string name="ims_to_cs_retry_summary">Automaattinen uudelleenyritys normaaleissa ääniyhteyksissä (Suositeltu)</string>
+  <string name="ims_to_cs_retry_title">CS Yritä uudelleen</string>
+  <string name="ims_vt_call_quality_high">Korkea</string>
+  <string name="ims_vt_call_quality_low">Alhainen</string>
+  <string name="ims_vt_call_quality_medium">Keskitaso</string>
+  <string name="ims_vt_call_quality_set_failed">Videon kuvanlaadun asettaminen epäonnistui</string>
+  <string name="ims_vt_call_quality_title">VT Puhelulaatu</string>
+  <string name="ims_vt_call_quality_unknown">Tuntematon</string>
+  <string name="ims_vt_call_static_image_error">Ei-tuettu kuvamuoto. Valitse toinen kuva</string>
+  <string name="ims_vt_call_static_image_ignore">Staattista kuvaa ei voi vaihtaa puhelun aikana</string>
+  <string name="ims_vt_call_static_image_okay">Staattinen kuva valittu</string>
+  <string name="ims_vt_call_static_image_text">Valitse staattinen kuva</string>
+  <string name="qti_ims_call_deflect">calldeflect</string>
+  <string name="qti_ims_call_deflect_title">Soita käännettyyn numeroon</string>
+  <string name="qti_ims_number_not_set">Ei asetettu</string>
+  <string name="rtt_toggle_summary">RTT tila</string>
+  <string name="rtt_toggle_title">RTT</string>
+</resources>

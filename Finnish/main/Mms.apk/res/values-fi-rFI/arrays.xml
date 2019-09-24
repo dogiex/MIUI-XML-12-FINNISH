@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Nimi</item>
+        <item>Lempinimi</item>
+        <item>Puhelin</item>
+        <item>Sähköposti</item>
+        <item>Yritys</item>
+        <item>IM</item>
+        <item>SIP Puhelin</item>
+        <item>Syntymäpäivä</item>
+        <item>Verkkosivu</item>
+        <item>Osoite</item>
+        <item>Muistilappu</item>
+        <item>Suhde</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maksimi</item>
+        <item>2 päivää</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Ei asetettu</item>
+        <item>1 tunti</item>
+        <item>6 tuntia</item>
+        <item>12 tuntia</item>
+        <item>1 päivä</item>
+        <item>Maksimi</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain Äänetön -tilassa</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="reason_type">
+        <item>Huijaus</item>
+        <item>Selvä tai laiton sisältö</item>
+        <item>Roskaa</item>
+        <item>Muu</item>
+        <item>Peruuta</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Tekstiviesti</item>
+        <item>Mi Viesti</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Tekstiviesti</item>
+        <item>Mi Viesti</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunti</item>
+        <item>2 sekuntia</item>
+        <item>3 sekuntia</item>
+        <item>4 sekuntia</item>
+        <item>5 sekuntia</item>
+        <item>6 sekuntia</item>
+        <item>7 sekuntia</item>
+        <item>8 sekuntia</item>
+        <item>9 sekuntia</item>
+        <item>10 sekuntia</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mi Viesti</item>
+        <item>CMCC Älykäs tekstiviesti</item>
+    </string-array>
+</resources>

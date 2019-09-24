@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d lukematonta</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arkistoidaanko nämä %1$d keskustelua?</item>
+        <item quantity="zero">Arkistoidaanko nämä %1$d keskustelua?</item>
+        <item quantity="one">Arkistoidaanko tämä keskustelu?</item>
+        <item quantity="two">Arkistoidaanko nämä %1$d keskustelua?</item>
+        <item quantity="few">Arkistoidaanko nämä %1$d keskustelua?</item>
+        <item quantity="many">Arkistoidaanko nämä %1$d keskustelua?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Poistetaanko nämä %1$d keskustelua?</item>
+        <item quantity="zero">Poistetaanko nämä %1$d keskustelua?</item>
+        <item quantity="one">Poistetaanko tämä keskustelu?</item>
+        <item quantity="two">Poistetaanko nämä %1$d keskustelua?</item>
+        <item quantity="few">Poistetaanko nämä %1$d keskustelua?</item>
+        <item quantity="many">Poistetaanko nämä %1$d keskustelua?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Nämä keskustelut sisältää yhdistettyjä kohteita. Poistetaanko ne silti?</item>
+        <item quantity="zero">Nämä keskustelut sisältää yhdistettyjä kohteita. Poistetaanko ne silti?</item>
+        <item quantity="one">Tämä keskustelu sisältää yhdistettyjä kohteita. Poistetaanko se silti?</item>
+        <item quantity="two">Nämä keskustelut sisältää yhdistettyjä kohteita. Poistetaanko ne silti?</item>
+        <item quantity="few">Nämä keskustelut sisältää yhdistettyjä kohteita. Poistetaanko ne silti?</item>
+        <item quantity="many">Nämä keskustelut sisältää yhdistettyjä kohteita. Poistetaanko ne silti?</item>
+    </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Poistetaanko %1$d luonnosta?</item>
+        <item quantity="one">Poistetaanko %1$d luonnos?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d valittuna</item>
+        <item quantity="zero">%d valittuna</item>
+        <item quantity="one">%d valittuna</item>
+        <item quantity="two">%d valittuna</item>
+        <item quantity="few">%d valittuna</item>
+        <item quantity="many">%d valittuna</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d arkistoitiin.</item>
+        <item quantity="one">%1$d arkistoitiin.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d poistettiin.</item>
+        <item quantity="one">%1$d poistettiin.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Vaihdettiin kansioita.</item>
+        <item quantity="one">Vaihdettiin kansiota.</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d henkilöä</item>
+        <item quantity="one">+%1$d henkilö</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d mykistetty</item>
+        <item quantity="one">%1$d mykistetty.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"%1$d viestiä poistettu 'tärkeät' kansiosta"</item>
+        <item quantity="one">"%1$d poistettu 'tärkeät' kansiosta"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"%1$d poistettu 'roskaposti' kansiosta"</item>
+        <item quantity="one">"%1$d poistettu 'roskaposti' kansiosta"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d viestiä ilmoitettu roskapostiksi</item>
+        <item quantity="one">%1$d viesti ilmoitettu roskapostiksi</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d merkitty roskapostiksi</item>
+        <item quantity="one">%1$d merkitty roskapostiksi</item>
+    </plurals>
+	<plurals name="day">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">%d päivän kuluttua</item>
+        <item quantity="one">%d päivän kuluttua</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Luonnokset</item>
+        <item quantity="one">Luonnos</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="zero">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="one">%1$d viesti poistetaan pysyvästi.</item>
+        <item quantity="two">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="few">%1$d viestiä poistetaan pysyvästi.</item>
+        <item quantity="many">%1$d viestiä poistetaan pysyvästi.</item>
+    </plurals>
+	<plurals name="month">
+        <item quantity="other">%d kuukautta</item>
+        <item quantity="one">%d kuukausi</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Siirrä %1$d keskustelua</item>
+        <item quantity="zero">Siirrä %1$d keskustelua</item>
+        <item quantity="one">Siirrä keskustelu</item>
+        <item quantity="two">Siirrä %1$d keskustelua</item>
+        <item quantity="few">Siirrä %1$d keskustelua</item>
+        <item quantity="many">Siirrä %1$d keskustelua</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Näytä %1$d uutta viestiä.</item>
+        <item quantity="zero">Näytä %1$d uutta viestiä.</item>
+        <item quantity="one">Näytä %1$d uusi viesti.</item>
+        <item quantity="two">Näytä %1$d uutta viestiä.</item>
+        <item quantity="few">Näytä %1$d uutta viestiä.</item>
+        <item quantity="many">Näytä %1$d uutta viestiä.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d valittu</item>
+        <item quantity="zero">%d valittu</item>
+        <item quantity="one">%d valittu</item>
+        <item quantity="two">%d valittu</item>
+        <item quantity="few">%d valittu</item>
+        <item quantity="many">%d valittu</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d vanhempaa viestiä</item>
+        <item quantity="zero">%1$d vanhempaa viestiä</item>
+        <item quantity="one">%1$d vanhempi viesti</item>
+        <item quantity="two">%1$d vanhempaa viestiä</item>
+        <item quantity="few">%1$d vanhempaa viestiä</item>
+        <item quantity="many">%1$d vanhempaa viestiä</item>
+    </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ lukematonta</item>
+        <item quantity="one">%1$d+ lukematon</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Piilota %1$d liitettä</item>
+        <item quantity="one">Piilota %1$d liite</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s hakutulosta synkronoiduissa viesteissä</item>
+        <item quantity="one">%s hakutulos synkronoiduissa viesteissä</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">Vielä %1$d jäljellä</item>
+        <item quantity="one">Vielä %1$d jäljellä</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">%1$d uusi viesti</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Vastaa %1$d henkilölle</item>
+        <item quantity="one">Vasta %1$d henkilölle</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s hakutulosta palvelimella</item>
+        <item quantity="one">%s hakutulos palvelimella</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s lähettämätöntä kansiossa %2$s</item>
+        <item quantity="one">%1$s lähettämätön kansiossa %2$s</item>
+    </plurals>
+</resources>

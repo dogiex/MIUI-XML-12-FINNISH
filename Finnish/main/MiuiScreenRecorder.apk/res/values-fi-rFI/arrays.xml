@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_bit_rate">
+        <item>200 Mt/s</item>
+        <item>100 Mt/s</item>
+        <item>50 Mt/s</item>
+        <item>32 Mt/s</item>
+        <item>24 Mt/s</item>
+        <item>16 Mt/s</item>
+        <item>8 Mt/s</item>
+        <item>4 Mt/s</item>
+        <item>1 Mt/s</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_frames">
+        <item>24 fps</item>
+        <item>30 fps</item>
+        <item>48 fps</item>
+        <item>60 fps</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Automaattinen</item>
+        <item>Pystykuva</item>
+        <item>Vaakakuva</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_resolution">
+        <item>1080p</item>
+        <item>720p</item>
+        <item>480p</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Mykistä</item>
+        <item>Mikrofoni</item>
+        <item>Järjestelmän äänet</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Sisäinen tallennustila</item>
+        <item>Ulkoinen tallennustila</item>
+    </string-array>
+</resources>

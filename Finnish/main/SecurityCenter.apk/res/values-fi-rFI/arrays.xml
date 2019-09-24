@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Tällä viikolla "</item>
+        <item>"Tänään "</item>
+        <item>"Tässä kuussa "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Eilen "</item>
+        <item>"Tänään "</item>
+        <item>"Viime kuussa "</item>
+        <item>"Tässä kuussa "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Tällä viikolla: "</item>
+        <item>"Tänään: "</item>
+        <item>"Tässä kuussa: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Eilen: "</item>
+        <item>"Tänään: "</item>
+        <item>"Viime kuussa "</item>
+        <item>"Tässä kuussa: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Eilen (mobiilidata) "</item>
+        <item>"Tänään (mobiilidata) "</item>
+        <item>"Viime kuussa (mobiilidata) "</item>
+        <item>"Tässä kuussa (mobiilidata) "</item>
+        <item>"Eilen (Wi-Fi) "</item>
+        <item>"Tänään (Wi-Fi) "</item>
+        <item>"Viime kuussa (Wi-Fi) "</item>
+        <item>"Tässä kuussa (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobiilidatan käyttö "</item>
+        <item>"Wi-Fi käyttö "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobiilidatan käyttö "</item>
+        <item>"Wi-Fi käyttö "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Näytä varoitus</item>
+        <item>Varoita ja poista mobiilidata käytöstä</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Aina</item>
+        <item>Vain poikkeuksille</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Kun laite on lukittu</item>
+        <item>Kun laite on lukittu tai sovelluksesta poistutaan</item>
+        <item>Kun laite on lukittu tai yhden minuutin jälkeen, kun poistutaan sovelluksesta</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Tila</item>
+        <item>Sovelluksen nimi</item>
+        <item>Käyttötiheys</item>
+        <item>Käytetty tallennustila</item>
+        <item>Asennusaika</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Lajittele tilan mukaan</item>
+        <item>Lajittele sovelluksen nimen mukaan</item>
+        <item>Lajittele käyttötiheyden mukaan</item>
+        <item>Lajittele käytetyn tallennustilan mukaan</item>
+        <item>Lajittele asennusajan mukaan</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Asennuslähde</item>
+        <item>Asennusaika</item>
+        <item>Edellisen päivityksen lähde</item>
+        <item>Edellisen päivityksen aika</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Datan Käyttö</item>
+        <item>Puhelimen saldo</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>静音</item>
+        <item>金币</item>
+        <item>红包来了</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Kuukaisittainen datapaketti</item>
+        <item>Päiväkohtainen datapaketti</item>
+        <item>Rajoittamaton datapaketti</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Poista käytöstä ja ilmoita</item>
+        <item>Vain ilmoitus</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Kerran</item>
+        <item>Joka päivä</item>
+        <item>Työpäivät</item>
+        <item>Arkipäivät</item>
+        <item>Oma valinta</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Kerran</item>
+        <item>Joka päivä</item>
+        <item>Arkipäivät</item>
+        <item>Oma valinta</item>
+    </string-array>
+</resources>

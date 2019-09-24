@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_tag_list">
+        <item>Vika</item>
+        <item>Ehdotus</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="playback_streaming_quality">
+        <item>Auto</item>
+        <item>Alhainen</item>
+        <item>Keskitaso</item>
+        <item>Korkea</item>
+        <item>Erittäin korkea</item>
+    </string-array>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Sähköposti (koti)</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Koti</item>
+        <item>Mobiili</item>
+        <item>Työ</item>
+        <item>Faksi (työ)</item>
+        <item>Faksi (koti)</item>
+        <item>Hakulaite</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Koti</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Yritetään ottaa Wi-Fi käyttöön</item>
+        <item>Yritetään ottaa BT käyttöön</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Soittaaksesi ja lähettääksesi viestejä käyttäen Wi-Fi-yhteyttä, pyydä ensin operaattoriasi asettamaan tämä palvelu käyttöön. Sen jälkeen ota uudelleen Wi-Fi-puhelut käyttöön Asetuksissa.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Rekisteröi operaattorisi kanssa</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Wi-Fi-puhelu</item>
+    </string-array>
+	<string-array name="fingerprint_acquired_vendor">
+        <item>Yritä uudelleen</item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item>Liian nopeasti! Sormenjälkeä ei tunnistettu</item>
+        <item>Siirrä sormeasi hieman ja yritä uudelleen</item>
+        <item>Nosta sormeasi ja laita se takaisin tunnistimelle</item>
+        <item>Pidä sormeasi tunnistimella hieman pidempään</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Siirrä sormeasi hieman</item>
+        <item>Tämä sormenjälki on lisätty, käytä toista sormea</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Koti</item>
+        <item>Työ</item>
+        <item>Muu</item>
+        <item>Muokattu</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Mobiilidata</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+</resources>

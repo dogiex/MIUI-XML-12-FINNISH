@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Ilmoitukset</string>
+  <string name="default_list_type">Lajittelen vastaanottoajan mukaan</string>
+  <string name="disable_float_notification">Kelluvat ilmoitukset eivät ole sallittu</string>
+  <string name="disable_lockscreen_notification">Lukitusnäytön ilmoitukset eivät ole sallittu</string>
+  <string name="disable_show_badge_notification">Ilmoitusmerkit eivät ole sallittu</string>
+  <string name="enable_float_notification">Kelluvat ilmoitukset on sallittu</string>
+  <string name="enable_lockscreen_notification">Lukitusnäytön ilmoitukset on sallittu</string>
+  <string name="enable_show_badge_notification">Ilmoitusmerkit on sallittu</string>
+  <string name="expand_top_notification">Laajenna ylin ilmoitus</string>
+  <string name="expandable_under_keyguard">Avaa Ilmoitusalue Lukitusnäytöltä</string>
+  <string name="float_notifications">Kelluvat ilmoitukset</string>
+  <string name="hint_search_all">Hae sovelluksia</string>
+  <string name="hint_search_in_disabled_apps">Hae sovelluksia, jotka eivät voi näyttää ilmoituksia</string>
+  <string name="hint_search_in_enabled_apps">Hae sovelluksia, jotka voivat näyttää ilmoituksia</string>
+  <string name="list_title_disable_notification">Ilmoitukset eivät ole sallittu</string>
+  <string name="loading">Odota hetki…</string>
+  <string name="lock_screen_display_rules">Muoto</string>
+  <string name="lock_screen_tip_toast">Salli Lukitusnäytön ilmoitukset \"Muodossa\"</string>
+  <string name="lockscreen_notifications">Lukitusnäytön ilmoitukset</string>
+  <string name="not_sent_recently">Ei viimeaikoina</string>
+  <string name="notch_and_status_bar_setting">Näyttölovi &amp; tilapalkki</string>
+  <string name="notification_display_setting">Ilmoitusalue</string>
+  <string name="notification_display_style">Ilmoituksen tyyli</string>
+  <string name="notification_fold_summary">Kaikki ei-tärkeät ilmoitukset ilmestyy erilliseen kansioon</string>
+  <string name="notification_fold_title">Ilmoituksien kansio</string>
+  <string name="notification_manager">Sovellusilmoitukset</string>
+  <string name="notification_style_android">Android</string>
+  <string name="notification_style_miui">MIUI</string>
+  <string name="off">Pois käytöstä</string>
+  <string name="on">Käytössä</string>
+  <string name="settings_guide_title">Tarvitsetko muita asetuksia?</string>
+  <string name="show_badge_notifications">Ilmoitusmerkit</string>
+  <string name="status_bar_setting">Tilapalkki</string>
+  <string name="summary_disable_float_notification">Kelluvat ilmoitukset eivät ole sallittu</string>
+  <string name="summary_disable_lockscreen_notification">Lukitusnäytön ilmoitukset eivät ole sallittu</string>
+  <string name="summary_disable_show_badge_notification">Ilmoitusmerkit eivät ole sallittu</string>
+  <string name="summary_enable_float_notification">Kelluvat ilmoitukset on sallittu</string>
+  <string name="summary_enable_lockscreen_notification">Lukitusnäytön ilmoitukset on sallittu</string>
+  <string name="summary_enable_show_badge_notification">Ilmoitusmerkit on sallittu</string>
+  <string name="summary_float_enable_notification_first">Salli ilmoituksien ottaa kelluvat ilmoitukset käyttöön</string>
+  <string name="summary_lock_screen_enable_notification_first">Salli ilmoituksien ottaa Lukitusnäytön ilmoitukset käyttöön</string>
+  <string name="summary_show_badge_enable_notification_first">Salli ilmoituksien ottaa ilmoitusmerkit käyttöön</string>
+</resources>

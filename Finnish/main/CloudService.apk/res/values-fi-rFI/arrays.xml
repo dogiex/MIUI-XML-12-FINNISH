@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_detail_fixed_items">
+        <item>Näytä synkronoidut kohteet</item>
+        <item>Tallennustilan tiedot</item>
+    </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Tunnistaakseen synkronoidut kohteet</item>
+        <item>Synkronoidakseen viestit</item>
+        <item>Synkronoidakseen yhteystiedot</item>
+        <item>Synkronoidakseen kalenteritapahtumat</item>
+        <item>Synkronoidakseen kohteita, joilla on tallennustilaa käyttäviä palveluita</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Puhelin</item>
+        <item>Tekstiviesti</item>
+        <item>Yhteystiedot</item>
+        <item>Kalenteri</item>
+        <item>Tallennustila</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Synkronoi yhteystiedot Mi Pilven kanssa</item>
+        <item>Ota käyttöön/määritä synkronointi</item>
+        <item>Yhteystiedot;Puheluhistoria;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Synkronoi viestit Mi Pilven kanssa</item>
+        <item>Ota käyttöön/määritä synkronointi</item>
+        <item>Viestit;Tekstiviestit;Multimediaviestit;SMS;MMS;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Synkronoi Galleria Mi Pilven kanssa</item>
+        <item>Ota käyttöön/määritä synkronointi</item>
+        <item>Galleria;Kuvat;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Synkronoi puheluhistoria Mi Pilven kanssa</item>
+        <item>Ota käyttöön/määritä synkronointi</item>
+        <item>Puheluhistoria;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Synkronoi nauhoitukset Mi Pilven kanssa</item>
+        <item>Ota käyttöön/määritä synkronointi</item>
+        <item>Ääninauhuri;Nauhuri;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Synkronoi musiikki Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Musiikki;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Synkronoi muistiot Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Muistiot;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Synkronoi Wi-Fi-asetukset Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Wi-Fi;wifi;WLAN;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Synkronoi Kalenteri Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Kalenteri;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Synkronoi Selain Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Selain;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Synkronoi Tietoturva Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Tietoturva;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Synkronoi Sovellusholvi Mi Pilven kanssa</item>
+        <item>Ota synkronointi käyttöön</item>
+        <item>Sovellusholvi;Kortit;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Pilvi. Kaikki Mi-palvelut yhdessä paikassa.</item>
+        <item>Käytä kuviasi, yhteystietojasi, viestejäsi ja laitteitasi mistä tahansa</item>
+        <item>Tallennustila vähissä;Jäsenyys;Tallennustila;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud;Roska;Poistetut kohteet;Tietoturva</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Etsi laite</item>
+        <item>Poista tiedot ja lukitse laitteesi jos se häviää</item>
+        <item>Etsi laite;Hävinnyt;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Etsi laite</item>
+        <item>Poista tiedot ja lukitse laitteesi jos se häviää</item>
+        <item>Etsi laite;Hävinnyt;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Poistetut kohteet Mi Pilvessä</item>
+        <item>Palauta yhteystietoja, kuvia, viestejä ja paljon muuta</item>
+        <item>Roskat;Poistetut kohteet;Roskakori;Palauta;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Mi Pilven jäsenyys</item>
+        <item>Päivitä jäsenyytesi, hanki lisää tallennustilaa ja turvaa tietosi</item>
+        <item>Tallennustila vähissä;Jäsenyys;Tallennustila;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud;Mega;Ultra;VIP;Varmuuskopiointi;Varmuuskopio;Palauta;Roska;Poistetut kohteet;Roskakori</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Varmuuskopioi Aloitusnäyttö Mi Pilveen</item>
+        <item>Varmuuskopioi Aloitusnäytön ulkoasu, luettelo asennetuista sovelluksista ja järjestelmäasetukset</item>
+        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Mi Pilvi;Mi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Asetukset;Varmuuskopion tiheys;Hallitse varmuuskopioita;Palauta</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Varmuuskopiot</item>
+        <item>Varmuuskopioidut kohteet</item>
+        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Mi Pilvi;Mi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Hallitse varmuuskopioita;Palauta</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Palauta kohteita Mi Pilvestä</item>
+        <item>Lataa varmuuskopioituja kohteita laitteellesi</item>
+        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Palauta;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Synkronoi sovellustiedot</item>
+        <item>Varmuuskopioi Aloitusnäytön ulkoasu</item>
+        <item>Varmuuskopioi järjestelmäasetukset</item>
+        <item>Etsi laite</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Synkronoi yhteystietosi, viestisi, muistiosi, kalenterisi ja paljon muuta</item>
+        <item>Varmuuskopioi sovellukset, Aloitusnäytön ulkoasu, ja taustakuva</item>
+        <item>Varmuuskopioi tärkeät asetukset, mukaan lukien Wi-Fi ja näytön asetukset</item>
+        <item>Lukitse laitteesi etäältä jos se katoaa</item>
+    </string-array>
+</resources>

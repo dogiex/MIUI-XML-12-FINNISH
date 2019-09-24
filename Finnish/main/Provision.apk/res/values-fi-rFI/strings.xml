@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!-- 8.9.17 -->
+  <string name="ai_button_desc">Pääset välittömästi käyttämään älykästä ääniavustajaa</string>
+  <string name="ai_button_double_press">Tuplanapauta</string>
+  <string name="ai_button_double_press_desc">Paina AI-painiketta kaksi kertaa suorittaaksesi mukautettuja tehtäviä</string>
+  <string name="ai_button_long_press">Paina ja pidä pohjassa</string>
+  <string name="ai_button_long_press_desc">Paina ja pidä AI-painiketta pohjassa puhuaksesi Mi AI:lle</string>
+  <string name="ai_button_single_press">Paina</string>
+  <string name="ai_button_single_press_desc">Paina AI-painiketta nähdäksesi Mi AI pikakuvakkeet</string>
+  <string name="ai_button_title">AI-painike</string>
+  <string name="poco_agree_terms_other">(Mukaan lukien POCO Launcher Tietosuojakäytäntö ja Käyttöehdot)</string>
+  <!-- // 8.9.17 -->
+  <string name="accessibility_enabled">Esteettömyys käytössä.</string>
+  <string name="agree">Hyväksy</string>
+  <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
+  <string name="agree_terms_input_method_facemoji">Olen lukenut ja hyväksyn Facemojin Tietosuojakäytännön.</string>
+  <string name="agree_terms_input_method_kika">Olen lukenut ja hyväksyn Kika:n Tietosuojakäytännön.</string>
+  <string name="app_name">Sopimusehto</string>
+  <string name="application_permissions">Sovelluksen käyttöoikeudet</string>
+  <string name="back">Takaisin</string>
+  <string name="cm_terms_content">Parantaaksemme sinulle tarjoamia palveluita, sinun valitsema mobiiliverkko-operaattori voi lähettää henkilökohtaisia tietoja sinusta ja tästä laitteesta heidän palvelimille käyttäen Wi-Fi-verkkoja tai mobiilidata-yhteyttä. Näitä tietoja käytetään vain tilastollisiin tarkoituksiin parantaakseen palveluiden laatua ja tarjoamaan henkilökohtaisempaa sisältöä. Tätä tietoa ei käytetä henkilön tunnistamiseen, eikä niitä anneta kolmansille osapuolille.</string>
+  <string name="cm_terms_title">Mobiiliverkko-operaattorin Sopimusehdot</string>
+  <string name="congratulation_label">Olet valmis rokkaamaan!</string>
+  <string name="congratulation_swipe">Siirry järjestelmään pyyhkäisemällä ylöspäin</string>
+  <string name="congratulation_title">Asennus valmis</string>
+  <string name="content_description_complete">Valmis</string>
+  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_start">Aloita</string>
+  <string name="continue_to_enable_accessibility">Jatka kahdella sormella painamista ottaaksesi esteettömyyden käyttöön.</string>
+  <string name="desc_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, Mi Maksun kaupan vahvistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
+  <string name="desc_international_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
+  <string name="disagree">Peruuta</string>
+  <string name="enable_accessibility_canceled">Esteettömyys peruutettiin.</string>
+  <string name="enable_accessibility_dialog_message">Otit TalkBack-toiminnon käyttöön painamalla näyttöä kahdella sormella kauemmin, kuin 10 sekuntia. TalkBack tarjoaa äänipalautetta niille henkilöille, joilla on näköongelmia. Jos otit sen käyttöön vahingossa, napauta Peruuta-painiketta ja sen jälkeen tuplanapauta näyttöä.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Peruuta</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="ime_privacy_policy">Valitun näppäimistön Tietosuojakäytäntö</string>
+  <string name="ime_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso näppäimistön Tietosuojakäytäntö osoitteessa %s.</string>
+  <string name="input_method_category">Valitse oletusnäppäimistö, jota käytät sähköpostien tai muistioiden kirjoittamiseen, ja lähes kaikkialla muualla. Muista, että voit asentaa kolmannen osapuolen näppäimistön myöhemmin.</string>
+  <string name="input_method_setting">Valitse oletusnäppäimistö</string>
+  <string name="install_preinstall_app">Ladataan sovelluksia…</string>
+  <string name="item_fingerprint">Sormenjälki</string>
+  <string name="item_lock_screen_password">Vain näytön lukitus</string>
+  <string name="language_picker_other_languages_title">Lisää kieliä</string>
+  <string name="language_settings">Valitse kieli</string>
+  <string name="locale_picker_other_locale_title">Lisää alueita</string>
+  <string name="locale_picker_title">Valitse kielesi</string>
+  <string name="miui_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso Tietosuojakäytäntö osoitteessa %s.</string>
+  <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>
+  <string name="multisim_settings_category">SIM-kortin asetukset</string>
+  <string name="multisim_settings_title">2 SIM-korttia havaittu</string>
+  <string name="navigation_picker_gesture_guide">Eleopas</string>
+  <string name="navigation_picker_radio_text_full_screen">Kokonäytön eleet</string>
+  <string name="navigation_picker_radio_text_virtual_key">Painikkeet</string>
+  <string name="next">Seuraava</string>
+  <string name="next_fingerprint">Seuraava</string>
+  <string name="other_settings">Lisäasetukset</string>
+  <string name="other_settings_ad_enable">Henkilökohtaiset mainossuositukset</string>
+  <string name="other_settings_ad_enable_summary">Vastaanota henkilökohtaisia mainoksia käyttäytymistietojesi perusteella</string>
+  <string name="other_settings_auto_update">Päivitä automaattisesti</string>
+  <string name="other_settings_auto_update_summary">MIUI valitsee parhaan hetken päivityksien asentamiselle</string>
+  <string name="other_settings_enhanced_lockscreen">Taustakuvan Karuselli</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Hanki päivitetyt kuvat ja tarinat päivittäin Lukitusnäytöllesi. Käyttöehtoja noudatetaan.</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Käyttöehdot</string>
+  <string name="other_settings_location">Sijainti</string>
+  <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi</string>
+  <string name="other_settings_upload_debug_log_summary">Käyttötilastot, jotka auttavat meitä paikantamaan ja ratkaisemaan ongelmia saattaa sisältää henkilötietojasi</string>
+  <string name="other_settings_upload_debug_log_title">Lähetä diagnostiikkatietoja automaattisesti</string>
+  <string name="other_settings_user_experience">Käyttäjäkokemusohjelma</string>
+  <string name="other_settings_user_experience_summary">Auta meitä parantamaan tuotteitamme ja palveluitamme jakamalla käyttötilastot kanssamme. Näytä tiedot</string>
+  <string name="other_settings_user_experience_summary_index">Näytä tiedot</string>
+  <string name="pref_title_data_slot">Ensisijainen data SIM-kortti</string>
+  <string name="pref_title_voice_slot">Ensisijainen äänen SIM-kortti</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="provision_inputmethod_policy_description">"
+Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
+  <string name="provision_inputmethod_policy_description1">Tietosuojakäytäntö</string>
+  <string name="setting_locale">Asetetaan kieltä…</string>
+  <string name="shut_down">Sammuta</string>
+  <string name="sim_card_detecting">Tarkistetaan SIM-korttia…</string>
+  <string name="sim_card_detecting_check">SIM-korttia ei löytynyt. Varmista, että SIM-kortti on asennettu kunnolla ja sinulla on tarpeeksi saldoa.</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Sallitaanko yhdistäminen mobiilidataverkkoihin? Jos sallit, asettamasi SIM-korttia käytetään mobiilidataverkkojen yhdistämiseen.</string>
+  <string name="sim_card_detecting_title">SIM-kortin tarkastus</string>
+  <string name="sim_card_detection">Aseta SIM-kortti</string>
+  <string name="sim_card_detection_info">Asettaaksesi SIM-korttisi, lue laitteen mukana tulleet ohjeet.</string>
+  <string name="sim_card_detection_mobile_not_available">SIM-kortti ei voinut yhdistää verkkoon</string>
+  <string name="sim_dectection_next">Jatka</string>
+  <string name="sim_redetection">Tarkista uudelleen</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">SIM-korttisi ei voinut yhdistää toimivaan operaattorin verkkoon. Varmista, että datapaketissasi on tarpeeksi saldoa ja yritä yhdistää uudelleen.</string>
+  <string name="skip_underline">Ohita tämä vaihe</string>
+  <string name="start_up_slogan">Suunniteltu koko näytön kokemukselle</string>
+  <string name="summary_not_set">Ei asetettu</string>
+  <string name="system_navigation_mode">Järjestelmän navigointitila</string>
+  <string name="terms_of_use">Käyttöehdot</string>
+  <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
+
+Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. %s ja Mi Tilin komponentit ottavat yhteyden internetiin ja hakevat sijaintisi."</string>
+  <string name="terms_of_use_label_systemhelper">, Itserekisteröity palvelu</string>
+  <string name="terms_of_use_lable_apps">Mi-palvelut, Mi SIM -aktivointipalvelut, Mi Cloud, Etsi laite, Aloitusnäyttö, Pelikeskus, MAB, MIUI Daemon ja MSA-järjestelmän komponentit, Käännöspalvelut, Quick-sovellukset, Sovellusholvi, tilastot, Mi Link</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Sinun täytyy hyväksyä Facemoji:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+  <string name="terms_of_use_lable_gms">, Google Play-palvelut</string>
+  <string name="terms_of_use_lable_smart_cards">, Älykortit</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Facemoji:n Tietosuojakäytäntö</string>
+  <string name="terms_privacy_policy_input_method_kika">Kika:n Tietosuojakäytäntö</string>
+  <string name="title_fingerprint">Aseta salasana</string>
+  <string name="user_agreement">Palveluehdot</string>
+  <string name="voice_assist_advice">Mi AI sallii ääniohjauksen käyttämisen, mutta se kuluttaa enemmän virtaa (+1% tunnissa).</string>
+  <string name="voice_assist_condition">"Voit käyttää Mi AI:ta näissä tilanteissa:
+1. Kun näyttö on päällä.
+2. Kun kuuntelet musiikkia näyttö sammutettuna."</string>
+  <string name="voice_assist_desp">Sano \"Mi AI\" puhelimellesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
+  <string name="voice_assist_title">Herätä äänellä</string>
+  <string name="welcome">Tervetuloa</string>
+  <string name="zone_picker_title">Valitse aikavyöhyke</string>
+</resources>

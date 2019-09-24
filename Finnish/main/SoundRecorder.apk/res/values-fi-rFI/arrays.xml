@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musiikki</item>
+        <item>Ääni</item>
+        <item>Haastattelu</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Musiikki</item>
+        <item>Ääni</item>
+        <item>Haastattelu</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Korkea</item>
+        <item>Normaali</item>
+        <item>Matala</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192 kbit/s, ~90 Mt/t</item>
+        <item>MP3, ~100 kbit/s, ~45 Mt/t</item>
+        <item>MP3, ~75 kbit/s, ~32 Mt/t</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Musiikki</item>
+        <item>Ääni</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Nauhoita musiikkia paremmalla laadulla</item>
+        <item>Siirrä mikrofonia lähemmäksi äänilähdettä parhaimman äänenlaadun vuoksi</item>
+        <item>Aseta puhelin kahden henkilön väliin nauhoittaaksesi keskustelun selvästi</item>
+        <item>High dynamic range -tekniikan avulla mikrofoni tallentaa tarkempaa ääntä</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Nauhoita 2 kanavaisena, kuuntele stereoääntä kuulokkeilla</item>
+        <item>Siirrä mikrofonia lähemmäksi äänilähdettä parhaimman äänenlaadun vuoksi</item>
+        <item>Aseta puhelin kahden henkilön väliin nauhoittaaksesi keskustelun selvästi</item>
+        <item>High dynamic range -tekniikan avulla mikrofoni tallentaa tarkempaa ääntä</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>  
+</resources>

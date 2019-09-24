@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="disable_package_replacement">
+        <item>Poista paketin nimi käytöstä</item>
+    </string-array>
+</resources>

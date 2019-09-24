@@ -1,0 +1,857 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="FpTest">Käynnistä FpTest</string>
+  <string name="FpTest_result">FpTestin tulos:</string>
+  <string name="SDCard">SD-kortti</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Tunnista Sisäinen SD-kortti</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Sisäinen SD-kortti ei käytettävissä</string>
+  <string name="SD_SDCard_available_szie">Käytettävissä oleva koko</string>
+  <string name="SD_SDCard_mounted">Tunnista SD-kortti</string>
+  <string name="SD_SDCard_total_size">Koko yhteensä</string>
+  <string name="SD_SDCard_unmounted">SD-kortti ei käytettävissä</string>
+  <string name="abc_action_bar_home_description">Siirry kotiin</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Siirry ylös</string>
+  <string name="abc_action_menu_overflow_description">Lisää valintoja</string>
+  <string name="abc_action_mode_done">Valmis</string>
+  <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+  <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+  <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+  <string name="abc_capital_on">PÄÄLLÄ</string>
+  <string name="abc_search_hint">Haku…</string>
+  <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+  <string name="abc_searchview_description_query">Hakukysely</string>
+  <string name="abc_searchview_description_search">Haku</string>
+  <string name="abc_searchview_description_submit">Lähetä kysely</string>
+  <string name="abc_searchview_description_voice">Äänihaku</string>
+  <string name="abc_shareactionprovider_share_with">Jaa</string>
+  <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksella %s</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="action_example">Esimerkkitoiminto</string>
+  <string name="action_farr_enroll">FAR FRR:enroll</string>
+  <string name="action_farr_verify">FAR FRR:verify</string>
+  <string name="action_init_base">FAR FRR:init base</string>
+  <string name="action_nothing">odota testiä</string>
+  <string name="afdcalibration_test">AFD KALIBROINTITESTI</string>
+  <string name="afdcalibrationrubberstamp_test">AFD KALIBROINNIN KUMILEIMASINTESTI</string>
+  <string name="afdrubberstamp_test">AFD KUMILEIMASINTESTI</string>
+  <string name="allow_gpu_maxfreq_summary">GPU:n ylikellotuksen kokeellinen tila voi aiheuttaa virtaongelmia tai paljon vakavempia ongelmia. Ne kuitenkin palautetaan normaalisti, kun poistat tämän tilan käytöstä. Otetaanko GPU:n ylikellotustila käyttöön?</string>
+  <string name="audio_spk_cal_wait">Kalibroidaan...</string>
+  <string name="audio_spk_def">Kalibroi kaiuttimet</string>
+  <string name="autorun_output_filename">STTTestResult.xml</string>
+  <string name="baterry_percent">"Akun latausta jäljellä: "</string>
+  <string name="baterry_temperature">"Akun Lämpötila: "</string>
+  <string name="battery_info">Ladataan akun käyttöön liittyviä tietoja</string>
+  <string name="begin_to_save_finger_data">Aloita sormen tietojen tallentaminen</string>
+  <string name="button_ok">OK</string>
+  <string name="camera_capture">Ota kuva</string>
+  <string name="camera_done">Valmis</string>
+  <string name="camera_zoom">Zoomaa</string>
+  <string name="camerainfo">Kameran tiedot</string>
+  <string name="cancel_test">TESTI PERUUTETTU</string>
+  <string name="capacitance_test">VARAUSKYKYTESTI</string>
+  <string name="checkerboard_test">CHECKERBOARD TESTI</string>
+  <string name="cit_OTG_plugin_check_summary">Kun OTG-laite on yhdistetty, teksti \"USB OTG-laite tunnistettu\" pitäisi näkyä alapuolella.</string>
+  <string name="cit_OTG_plugin_check_title">OTG (tunnistaminen)</string>
+  <string name="cit_OTG_plugout_check_summary">Kun OTG-laite on poistettu, teksti \"USB OTG-laite poistettu\" pitäisi näkyä alapuolella.</string>
+  <string name="cit_OTG_plugout_check_title">OTG (poistaminen)</string>
+  <string name="cit_OTG_waiting_in">Yhdistä USB OTG-laite nyt</string>
+  <string name="cit_OTG_waiting_out">Poista USB OTG-laite nyt</string>
+  <string name="cit_abnormal_reboot_summary">Ole hyvä ja odota hetki...Luetaan tämän laitteen vakaustietoja.</string>
+  <string name="cit_abnormal_reboot_title">Laitteen vakaustiedot</string>
+  <string name="cit_ac_charger_in">Ladataan verkkovirralla</string>
+  <string name="cit_ac_charger_out">Verkkovirtalaturi poistettu</string>
+  <string name="cit_accdata_sensor_check_summary">X, Y ja Z -koordinaattien arvot pitäisi ilmestyä alle</string>
+  <string name="cit_accdata_sensor_check_title">Kiihtyvyysanturi</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Liikuta laitetta nopeasti yhteen suuntaan. X, Y ja Z -koordinaattien arvot näkyvät alapuolella. (kun puhelinta liikutetaan: X edustaa vasemmalle/oikealle, Y edustaa eteen/taakse, Z edustaa ylös ja alas).
+Ennen laitteesi kalibrointia, aseta se tasaiselle pinnalle."</string>
+  <string name="cit_accelermeter_sensor_check_title">Kiihtyvyysanturi</string>
+  <string name="cit_apk_signature_failed">apk allekirjoitus EPÄONNISTUI</string>
+  <string name="cit_apk_signature_passed">apk allekirjoitus LÄPÄISTY</string>
+  <string name="cit_aud_current_state">Nykyinen tila:</string>
+  <string name="cit_aud_spk_vendor">Kaiuttimen myyjä:</string>
+  <string name="cit_aud_spkcal">Kalibroi</string>
+  <string name="cit_aud_test_result">Testin tulos:</string>
+  <string name="cit_audio_cali_TEMP">Lämpötila:</string>
+  <string name="cit_audio_cali_done">Kalibrointi valmis!</string>
+  <string name="cit_audio_cali_failed">Kalibrointi epäonnistui, yritä uudelleen!</string>
+  <string name="cit_audio_cali_file_existed">Musiikkitiedostoa ei ole olemassa, kalibrointia ei voi suorittaa!</string>
+  <string name="cit_audio_cali_playing">Tarkista kalibroitu data</string>
+  <string name="cit_audio_cali_q">Q:</string>
+  <string name="cit_audio_cali_summary">Kalibroi kaiuttimen PA</string>
+  <string name="cit_audio_cali_t0">T0:</string>
+  <string name="cit_audio_cali_title">Kaiuttimen PA kalibrointitesti</string>
+  <string name="cit_audio_calibrating">Kalibrointi on käynnissä...</string>
+  <string name="cit_audio_check_summary">Äänitiedot.</string>
+  <string name="cit_audio_check_title">Äänitiedot</string>
+  <string name="cit_audio_get_temp_fail">Lämpötilan tietojen haku epäonnistui!</string>
+  <string name="cit_audio_hdset_plug">"Äänikuulokkeiden liittämiskerrat: "</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Takamikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Etumikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Päämikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_lb_phonecall_title">Simuloitu puhelutesti</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Takamikrofonista kaiuttimeen palautetesti.
+
+Käännä puhelin ympäri, puhu takamikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta."</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Etumikrofonista kaiuttimeen palautetesti.
+
+Puhu etumikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Päämikrofonista kaiuttimeen palautetesti.
+
+Pidä puhelinta, kuin soittaisit sillä, puhu päämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Puhelun simulointitesti.
+
+Pidä puhelinta, kuin soittaisit sillä, puhu päämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta. Tee testi hiljaisessa ympäristössä"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Ylämikrofonista kaiuttimeen palautetesti.
+
+Puhu ylämikrofoniin, sinun pitäisi kuulla ääntä kaiuttimesta"</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Ylämikrofonin kaiutin palautetesti</string>
+  <string name="cit_audio_left_caldata">"Vasemman PA:n Kalibrointitiedot:
+"</string>
+  <string name="cit_audio_left_calfail">Vasemman PA:n Kalibrointi Epäonnistui!</string>
+  <string name="cit_audio_loopback_check_one_title">Päämikrofonista kuulokkeeseen palautetesti</string>
+  <string name="cit_audio_loopback_check_summary_first">"Päämikrofonista kuulokkeeseen palautetesti
+
+Pidä puhelinta kuin soittaisit puhelun, puhu mikrofoniin, sinun pitäisi kuulla äänesi yläkaiuttimesta."</string>
+  <string name="cit_audio_loopback_check_summary_second">"Toisesta mikrofonista kaiuttimeen palautetesti.
+
+Käännä puhelin niin, että kuulokeliitäntä on  suunnattu alaspäin. Puhu kuulokkeeseen. Sinun pitäisi kuulla äänesi ulkoisesta kaiuttimesta."</string>
+  <string name="cit_audio_loopback_check_two_title">Toisesta mikrofonista kaiuttimeen palautetesti</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">Taustamelun vähentämisen testi</string>
+  <string name="cit_audio_loopback_next">Seuraava</string>
+  <string name="cit_audio_loopback_previous">Edellinen</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Taustamelun vähentämisen testi
+
+Pidä puhelinta kuin vastaisit puheluun, puhu mikrofoniin. Sinun pitäisi kuulla kuulokkeesta äänesi taustalla vähennetyllä äänellä."</string>
+  <string name="cit_audio_rcv_type">"Äänen vastaanottimen valmistaja: "</string>
+  <string name="cit_audio_rcv_usetime">"Äänen vastaanottimen käyttöaika: "</string>
+  <string name="cit_audio_right_caldata">"Oikean PA:n Kalibrointitiedot:
+"</string>
+  <string name="cit_audio_right_calfail">Oikean PA:n Kalibrointi Epäonnistui!</string>
+  <string name="cit_audio_spk_type">"Äänikaiuttimen valmistaja: "</string>
+  <string name="cit_audio_spk_usetime">"Äänikaiuttimen käyttöaika: "</string>
+  <string name="cit_aux_camera_action">Zoomaa</string>
+  <string name="cit_aux_camera_check_summary">"Testiohjeet:
+
+1.Napauta alapuolella olevaa Zoomaa-painiketta siirtyäksesi Kameraan
+2.Napauta zoomaa-painiketta kameran esikatselussa jolloin esikatselukuva lähenee
+3.Napauta Valmis kuvaketta."</string>
+  <string name="cit_back_pointer_location_title">Takakosketusanturi</string>
+  <string name="cit_battery_check_summary">Laitteen akkutilastot</string>
+  <string name="cit_battery_check_title">Akun tiedot</string>
+  <string name="cit_battery_temp_fail">Akun lämpötila ei ole normaali (arvo=%d)</string>
+  <string name="cit_battery_temp_pass">Akun lämpötila on normaali</string>
+  <string name="cit_batterylight_blue">Sininen</string>
+  <string name="cit_batterylight_green">Vihreä</string>
+  <string name="cit_batterylight_red">Punainen</string>
+  <string name="cit_batterylight_rgb">Akun valo</string>
+  <string name="cit_batterylight_white">Valkoinen</string>
+  <string name="cit_blue_tooth_address_check_summary">Tämän laitteen Bluetooth-osoite pitäisi näkyä alapuolella.</string>
+  <string name="cit_blue_tooth_address_check_title">Hae Bluetooth-osoite</string>
+  <string name="cit_blue_tooth_scan_check_summary">Alapuolella on tiedot lähellä havaituista Bluetooth-laitteista.</string>
+  <string name="cit_blue_tooth_scan_check_title">Bluetoothin skannaus</string>
+  <string name="cit_blue_torch_on">Ota sininen taskulamppu käyttöön</string>
+  <string name="cit_bluetooth_address_open_error">Bluetooth-osoitetta ei saatu. Bluetooth-laitteen avaamisen aikana tapahtui virhe.</string>
+  <string name="cit_bluetooth_logging_confirm_info">tämä Bluetoothin lokikirjaus kerää laitteesi Bluetooth-protokollan tietoja, tallentaa vain nykyiset Bluetooth-toiminnot. Yksityiset tiedot tallennetaan myös: Bluetooth-puhelinluettelon käyttö/Puheluiden soittohistoria/Tekstiviestit/Multimediaviestit/Vaihdetut tiedostot/Musiikkien metatiedot jne. näitä tietoja käyttää vain XiaoMi yritys sisäisesti virheenkorjaukseen käyttäjien kesken, mutta niitä ei käytetä muihin tarkoituksiin.</string>
+  <string name="cit_bluetooth_logging_confirm_ng">Hylkää</string>
+  <string name="cit_bluetooth_logging_confirm_notify">Hyväksytkö lokitietojen keräämisen?</string>
+  <string name="cit_bluetooth_logging_confirm_ok">Hyväksyn</string>
+  <string name="cit_bluetooth_logging_confirm_title">Bluetooth lokikirjauksen yksityisyysvaroitus</string>
+  <string name="cit_bluetooth_not_support">Tämä laite ei tue Bluetoothia</string>
+  <string name="cit_bluetooth_scan_retry">Skannaa uudelleen</string>
+  <string name="cit_bluetooth_scanning">Skannataan lähellä olevia Bluetooth-laitteita (tämän pitäisi kestää noin 4 sekuntia)…</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">Valmis. Lähellä olevia Bluetooth-laitteita ei löytynyt.</string>
+  <string name="cit_bluetooth_scanning_bluetooth_error">Tapahtui virhe Bluetooth-laitteiden skannauksen aikana.</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Avataan Bluetooth-laitetta…</string>
+  <string name="cit_build_finger_failed">Sormenjäljen luonti EPÄONNISTUI</string>
+  <string name="cit_build_finger_passed">Sormenjäljen luonti ONNISTUI</string>
+  <string name="cit_button_light_off">Painikkeiden valo pois käytöstä</string>
+  <string name="cit_button_light_on">Painikkeiden valo käytössä</string>
+  <string name="cit_calibration_fail">Kalibrointi epäonnistui</string>
+  <string name="cit_calibration_pass">Kalibrointi onnistui</string>
+  <string name="cit_camera_calibration_summary">"Testiohjeet:
+
+1. Napauta alapuolella olevaa kalibrointipainiketta käynnistääksesi OIS (optisen kuvanvakaimen) kalibroinnin.
+2. Kalibrointi onnistui otsikko osoittaa, että OIS on kalibroitu"</string>
+  <string name="cit_camera_sdcard_error">Kuvaa ei voi ottaa. SD-kortti on täynnä.</string>
+  <string name="cit_charger_check_title">Laturitesti</string>
+  <string name="cit_charger_in">Laturi yhdistetty</string>
+  <string name="cit_charger_in_check_title">Laturin yhdistämistesti</string>
+  <string name="cit_charger_plugin_check_summary">Kun USB-laturi on yhdistetty, teksti \"Ladataan käyttäen USB/AC\" pitäisi näkyä alapuolella.</string>
+  <string name="cit_charger_plugin_check_title">Laturi (yhdistä)</string>
+  <string name="cit_charger_plugout_check_summary">Kun USB-laturi on irroitettu, teksti \"USB/AC-laturi irroitettu\" should be displayed below.</string>
+  <string name="cit_charger_plugout_check_title">Laturi (irrota)</string>
+  <string name="cit_charger_test_summary">"During the Charger test, please forward plug in the charger
+and reverse plug in the charger"</string>
+  <string name="cit_charger_test_tips_electric">Nykyisen projektin on testattava latausvirran arvo suurempi kuin 1A</string>
+  <string name="cit_charger_test_tips_hvdcp">Nykyisen projektin täytyy testata USB_HVDCP</string>
+  <string name="cit_charger_waiting_in">Yhdistä laturi</string>
+  <string name="cit_charger_waiting_out">Irrota laturi nyt</string>
+  <string name="cit_dial_emergencycall">Soita 112</string>
+  <string name="cit_display_check_summary">Vahvista, että vaadittu bmp-tiedosto on SD-kortilla. Vahvista, että värit toistetaan systemaattisesti koko näytöllä. Varmista, että näytöllä ei esiinny epäsäännöllisiä kirkkaita tai tummia pisteitä.</string>
+  <string name="cit_display_check_title">Näyttö</string>
+  <string name="cit_display_continue">Aloita testi koskettamalla näyttöä</string>
+  <string name="cit_display_test_end">Lopeta testi</string>
+  <string name="cit_display_test_next">Seuraava</string>
+  <string name="cit_emergencycall_check_summary">Paina Soita 112 painiketta soittaaksesi 112 numeroon tarkistaaksesi, että 112 voidaan yhdistää.</string>
+  <string name="cit_emergencycall_check_title">Hätäpuhelu</string>
+  <string name="cit_exit_test_summary">Kun poistut, kaikki testeihin liittyvät tiedot poistetaan.</string>
+  <string name="cit_exit_test_title">Poistu testistä</string>
+  <string name="cit_f2_cali">Kalibrointi</string>
+  <string name="cit_f2_cali_done">Kalibrointi valmis!</string>
+  <string name="cit_f2_cali_failed">Kalibrointi epäonnistui, yritä uudelleen!</string>
+  <string name="cit_f2_cali_title">Kameran kalibrointi</string>
+  <string name="cit_f2_calibrating">Kalibrointi on käynnissä...</string>
+  <string name="cit_f2_camera_check_summary">"Testiohjeet:
+
+1. Napauta kalibrointipainiketta.
+2. Kalibrointi valmis -teksti tulee näkyviin, kun kamera on kalibroitu."</string>
+  <string name="cit_f2_capture_fail">Kalibrointi epäonnistui, yritä uudelleen!</string>
+  <string name="cit_f2_capture_success">Napauta kalibrointipainiketta!</string>
+  <string name="cit_fail">Epäonnistui</string>
+  <string name="cit_finger_check_title">Sormenjälkitesti</string>
+  <string name="cit_flash_life_check_summary">Laitteen flash-muistin arvioitu elinikä</string>
+  <string name="cit_flash_life_check_title">Flash-muistin ikä</string>
+  <string name="cit_fm_audio_path">Määritä äänen polku</string>
+  <string name="cit_fm_audio_path_headset">Kuulokkeet</string>
+  <string name="cit_fm_audio_path_speaker">Kaiutin</string>
+  <string name="cit_fm_check_summary">Tämä testaa laitteen FM Radion toiminnot.</string>
+  <string name="cit_fm_check_title">FM Radio</string>
+  <string name="cit_fm_close">Sulje FM</string>
+  <string name="cit_fm_not_supported">Tämä laite ei tue FM Radiota</string>
+  <string name="cit_fm_open_1">Käynnistä FM - 88.5</string>
+  <string name="cit_fm_open_2">Käynnistä FM - 107.9</string>
+  <string name="cit_fm_open_bluetooth">Avataan Bluetoothia…</string>
+  <string name="cit_fm_start_service">Käynnistä ääni</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TESTI</string>
+  <string name="cit_fpc_selftest">ITSE-TESTI</string>
+  <string name="cit_fpc_sensor_check_summary">FPC anturitesti, paina painiketta ja odota vihreäksi korostettua onnistui tekstiä.</string>
+  <string name="cit_fpc_sensor_check_title">FPC sormenjälkitunnistin</string>
+  <string name="cit_fptest_summary">Paina FpTesti painiketta suorittaaksesi sormenjälkitestin</string>
+  <string name="cit_fptest_title">Sormenjälki FpTesti</string>
+  <string name="cit_front_camera_check_summary">"Testiohjeet:
+
+1. Napauta Kamera painiketta siirtyäksesi  etukameraan
+2. Napauta sulkijapainiketta
+3. Napauta vahvista kuvaketta. Järjestelmä tallentaa kuvan automaattisesti.
+4. Ottamasi kuva pitäisi näkyä alapuolella. Lopeta testi painamalla Poista."</string>
+  <string name="cit_front_camera_check_title">Etukamera</string>
+  <string name="cit_get_signature_failed">allekirjoituksen haku EPÄONNISTUI</string>
+  <string name="cit_goodix_sensor_check_summary">Goodix anturin testi, paina painiketta ja odota, kunnes vihreäksi korostettu onnistui -teksti ilmaantuu.</string>
+  <string name="cit_goodix_sensor_check_title">Goodix sormenjälkitunnistin</string>
+  <string name="cit_gps_check_summary">Vastaava GPS-tieto pitäisi näkyä alla.</string>
+  <string name="cit_gps_check_title">GPS</string>
+  <string name="cit_gps_disabled">"GPS ei ole käynnistynyt
+
+Käynnistä GPS koskettamalla näyttöä…"</string>
+  <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
+  <string name="cit_gps_location">Sijainti: %s</string>
+  <string name="cit_gps_satellite_count">Satelliittien määrä: %d</string>
+  <string name="cit_gps_satellite_prn">Prn: %s</string>
+  <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyrodata_sensor_check_summary">X，Y ja Z -koordinaattien arvot pitäisi näkyä alla</string>
+  <string name="cit_gyrodata_sensor_check_title">Gyroskooppi</string>
+  <string name="cit_gyroscope_sensor_check_summary">X，Y ja Z -koordinaattien arvot pitäisi näkyä alla</string>
+  <string name="cit_gyroscope_sensor_check_title">Gyroskooppi</string>
+  <string name="cit_hall_down_arrow">↓</string>
+  <string name="cit_hall_far">kaukana</string>
+  <string name="cit_hall_near">lähellä</string>
+  <string name="cit_hall_test_summary">Kun magneetti lähestyy virheää aluetta, tekstin pitäisi muuttua sanaksi lähellä, muussa tapauksessa tekstin sana pitäisi olla kaukana.</string>
+  <string name="cit_hall_test_title">Halli</string>
+  <string name="cit_hardware_info_summary">Odota hetki... Renderöidään tämän laitteen laitteistotietoja</string>
+  <string name="cit_hardware_info_title">Laitteistotiedot</string>
+  <string name="cit_headset_button_check_summary">Kun kuulokkeet on yhdistetty, paina kuulokkeissa olevia painikkeita (yleensä sijaitsee johdossa). Vastaava teksti näytöllä pitäisi muuttua vihreäksi.</string>
+  <string name="cit_headset_button_check_title">Kuulokkeiden painikkeet</string>
+  <string name="cit_headset_button_click">Paina kuulokkeiden painikkeita</string>
+  <string name="cit_headset_button_current">Nykyinen painike: %s</string>
+  <string name="cit_headset_button_fast_forward">Kelaa eteenpäin</string>
+  <string name="cit_headset_button_next">Seuraava</string>
+  <string name="cit_headset_button_pass">Onnistui</string>
+  <string name="cit_headset_button_play_pause">Toista/Pysäytä</string>
+  <string name="cit_headset_button_previous">Edellinen</string>
+  <string name="cit_headset_button_reverse">Aseta USB-kuulokkeet käänteisesti</string>
+  <string name="cit_headset_button_rewind">Kelaa taaksepäin</string>
+  <string name="cit_headset_button_stop">Lopeta</string>
+  <string name="cit_headset_button_unknown">Tuntematon</string>
+  <string name="cit_headset_loopback_check_summary">Yhdistä kuulokkeet laitteeseen samaan aikaan kun pidät niitä päässä. Puhu kuulokkeiden mikrofoniin (usein sijaitsee johdossa). Sinun pitäisi kuulla äänesi kuulokkeista.</string>
+  <string name="cit_headset_loopback_check_title">Kuulokkeiden mikrofonin palautetesti</string>
+  <string name="cit_headset_plug_detect_summary">Kun kuulokkeet on yhdistetty teksti \"Kuulokkeet havaittu\" pitäisi näkyä alla.</string>
+  <string name="cit_headset_plug_detect_title">Kuulokkeiden havaitseminen (yhdistäminen)</string>
+  <string name="cit_headset_plug_finish">Kuulokkeet havaittu</string>
+  <string name="cit_headset_plug_hint">Yhdistä kuulokkeet nyt</string>
+  <string name="cit_headset_pull_detect_summary">Kun kuulokkeet on irroitettu, teksti \"Kuulokkeet on irroitettu\" pitäisi näkyä alla</string>
+  <string name="cit_headset_pull_detect_title">Kuulokkeiden havaitseminen (irroittaminen)</string>
+  <string name="cit_headset_pull_finish">Kuulokkeet on irroitettu</string>
+  <string name="cit_headset_pull_hint">Irroita kuulokkeet nyt</string>
+  <string name="cit_hide_menu">Piilota valikko</string>
+  <string name="cit_kayboard_volume_down">Painike: ÄÄNENVOIMAKKUUS ALAS</string>
+  <string name="cit_kayboard_volume_up">Painike: ÄÄNENVOIMAKKUUS YLÖS</string>
+  <string name="cit_keyboard_back">Painike: TAKAISIN</string>
+  <string name="cit_keyboard_current">Nykyinen näppäimistö: %s</string>
+  <string name="cit_keyboard_menu">Painike: VALIKKO</string>
+  <string name="cit_keyboard_test_summary">Kun painat painikkeita, vastaava näytöllä oleva teksti pitäisi muuttua vihreäksi (huomio: Koti- ja Virtapainikkeet ei sisälly testiin).</string>
+  <string name="cit_keyboard_test_title">Painikkeet</string>
+  <string name="cit_label">Laitteistotestit</string>
+  <string name="cit_lcdlight_brightness">Taustavalo</string>
+  <string name="cit_lcdlight_brightness_max">MAX</string>
+  <string name="cit_lcdlight_brightness_min">MIN</string>
+  <string name="cit_leds_check_summary">Taustavalo, ilmoitusvalo ja taskulampun (takana) pitäisi vastata, kun vastaavaa painiketta painetaan.</string>
+  <string name="cit_leds_check_title">Ilmoitusvalo (LED)</string>
+  <string name="cit_light_sensor_check_summary">DAC-arvon pitäisi näkyä alla</string>
+  <string name="cit_light_sensor_check_title">Valoanturi</string>
+  <string name="cit_magnetic_sensor_check_summary">X, Y ja Z-koordinaattien arvot pitäisi ilmestyä alle</string>
+  <string name="cit_magnetic_sensor_check_title">Magneettianturi</string>
+  <string name="cit_main_camera_check_summary">"Testiohjeet:
+
+1. Napauta alla olevaa Kamera-painiketta siirtyäksesi takakameraan
+2. Varmista, että salama on käytössä
+3. Napauta sulkijapainiketta
+4. Napauta Tarkist kuvaketta. Järjestelmä tallentaa kuvan automaattisesti.
+5. Ottamasi kuva pitäisi näkyä alla. Lopeta testi napauttamalla Poista.</string>
+  <string name="cit_main_camera_check_title">Takakamera</string>
+  <string name="cit_name">Laitteistotestit</string>
+  <string name="cit_nfc_check_summary">Laita kortti puhelimen takapuolen yläosaan</string>
+  <string name="cit_nfc_check_title">NFC testi</string>
+  <string name="cit_nfc_sim_check_summary">Vahvista, että NFC SIM-kortin oikea tila ja tiedot näytetään alapuolella. Vain kaksi NFC SIM-korttia voi yhtäaikaisesti olla olemassa ja jos niillä on oikea tila voi ne läpäistä testin.</string>
+  <string name="cit_no_sim_check_summary">Vahvista, että puhelimessa ei ole SIM-korttia!</string>
+  <string name="cit_no_sim_check_title">Ei SIM-korttia</string>
+  <string name="cit_not_available">Tämä testi ei ole käytettävissä tässä MIUI versiossa</string>
+  <string name="cit_notificationlight">Ilmoitusvalo</string>
+  <string name="cit_notificationlight_off">Ilmoitusvalo pois</string>
+  <string name="cit_notificationlight_on">Ilmoitusvalo päällä</string>
+  <string name="cit_otg_not_supported">Tämä laite ei tue OTG testausta</string>
+  <string name="cit_pass">Onnistui</string>
+  <string name="cit_play_sd_mp3_hifi_summary">Varmista, että tiedosto nimeltään \"music.mp3\" sijaitsee SD-kortilla. Tiedoston \"music.mp3\" pitäisi soida laitteeseen liitetyn HIFI:n kautta, kun avaat tämän testin.</string>
+  <string name="cit_play_sd_mp3_hifi_title">Toista SD-kortille tallennettu MP3(HIFI)</string>
+  <string name="cit_play_sd_mp3_summary">Varmista, että tiedosto nimeltään \"music.mp3\" sijaitsee SD-kortilla. Tiedoston \"music.mp3\" pitäisi soida laitteen ulkoisesta kaiuttimesta, kun avaat tämän testin.</string>
+  <string name="cit_play_sd_mp3_title">Toista SD-kortille tallennettu MP3</string>
+  <string name="cit_playing_sd_mp3">Toistetaan music.mp3…</string>
+  <string name="cit_pointer_location_title">Kosketusanturi</string>
+  <string name="cit_power_check_summary">Akun varaustila pitäisi näkyä prosentteina ja akun lämpötilan myös pitäisi näkyä alla.</string>
+  <string name="cit_power_check_title">Akun ilmaisin</string>
+  <string name="cit_pressure_sensor_check_summary">Paineen arvon pitäisi ilmestyä alle</string>
+  <string name="cit_pressure_sensor_check_title">Paineanturi</string>
+  <string name="cit_proximity_data_check_summary">"Peitä läheisyysanturi (sijaitsee puhelimen yläreunassa lähellä kuulokevastaanotinta) kädelläsi ja sen jälkeen poista käsi anturilta. Arvon pitäisi nousta luvusta 0.0 kun siirrät kättäsi pois päin laitteesta.
+Jos se on ultraääniläheisyysanturi, simuloi toimintoa nostamalla puhelin testin aikana."</string>
+  <string name="cit_proximity_sensor_check_summary">Peitä läheisyysanturi (sijaitsee puhelimen yläreunassa lähellä kuulokevastaanotinta) kädelläsi ja sen jälkeen poista käsi anturilta. Arvon pitäisi nousta luvusta 0.0 kun siirrät kättäsi pois päin laitteesta. Kalibroinnin aikana varmista, että anturin ja kätesi välissä ei ole mitään (esim. näytön suojaa tai hanskoja).</string>
+  <string name="cit_proximity_sensor_check_title">Läheisyysanturi</string>
+  <string name="cit_proximity_us_sensitivity">Herkkyys:</string>
+  <string name="cit_proximity_us_summary">Ultraääniläheisyysanturin kalibrointi</string>
+  <string name="cit_rear_dual_camera_check_title">Taka kaksoiskamera</string>
+  <string name="cit_rear_sub_camera_check_title">Taka sub kamera</string>
+  <string name="cit_recovery_signature_failed">recovery allekirjoitus EPÄONNISTUI</string>
+  <string name="cit_recovery_signature_passed">recovery allekirjoitus ONNISTUI</string>
+  <string name="cit_reset_check_summary">Tämä testi käynnistää laitteen uudelleen. Kaikki edellisen testin tiedot menetetään.</string>
+  <string name="cit_reset_check_title">Uudelleenkäynnistystesti</string>
+  <string name="cit_reset_test">Testaa</string>
+  <string name="cit_reverse_charge_check_summary">Liitä OTG-puhelin lataukseen</string>
+  <string name="cit_rgb_check_blue_light">RGB sininen</string>
+  <string name="cit_rgb_check_green_light">RGB vihreä</string>
+  <string name="cit_rgb_check_red_light">RGB punainen</string>
+  <string name="cit_sar_sensor_check_summary">SAR anturikanavien arvot pitäisi näkyä alla. Peitä puhelimen painike, jos tiedot muuttuvat se toimii hyvin. Älä suorita kalibrointia USB-kaapelin ollessa liitettynä!</string>
+  <string name="cit_sar_sensor_check_title">SAR Anturi</string>
+  <string name="cit_sd_fail">Tapahtui virhe.</string>
+  <string name="cit_sd_mount">Liitä SD-kortti</string>
+  <string name="cit_sd_mount_sucess">SD-kortti liitetty</string>
+  <string name="cit_sd_mp3_not_existed">"Tiedostoa nimeltä \"music.mp3\" ei löydy SD-kortilta
+Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näyttöä toistaaksesi."</string>
+  <string name="cit_sd_plugged_in">SD-kortti havaittu, poista SD-kortti nyt</string>
+  <string name="cit_sd_plugged_out">SD-kortti on poistettu, liitä SD-kortti nyt</string>
+  <string name="cit_sd_plugin_check_summary">Teksti \"SD-kortti havaittu, poista SD-kortti nyt\" pitäisi näkyä alla.</string>
+  <string name="cit_sd_plugin_check_title">SD-kortti (havaitseminen)</string>
+  <string name="cit_sd_plugout_check_summary">Kun poistat SD-kortin, teksti \"SD-kortti on poistettu, liitä SD-kortti nyt\" pitäisi näkyä alla.</string>
+  <string name="cit_sd_plugout_check_title">SD-kortti (poistaminen)</string>
+  <string name="cit_sd_unmount">Poista SD-kortti</string>
+  <string name="cit_sd_unmount_sucess">SD-kortti poistettu</string>
+  <string name="cit_signature_check_label">allekirjoituksen tarkistus:</string>
+  <string name="cit_sim_check_summary">Vahvista, että alla näkyvä SIM-kortin tila ja tiedot on oikein, jos laitteessa on kaksi SIM-korttipaikkaa, vain kaksi SIM-korttia voi olla olemassa ja jos niillä on oikeat tilatiedot voi läpäistä testin</string>
+  <string name="cit_sim_check_title">SIM-kortti</string>
+  <string name="cit_sim_error_unknown">Tuntematon</string>
+  <string name="cit_sim_network_operator">Verkon palveluntarjoaja:</string>
+  <string name="cit_sim_network_operator_name">Verkon palveluntarjoajan nimi:</string>
+  <string name="cit_sim_network_type">Verkon tyyppi:</string>
+  <string name="cit_sim_serial_number">SIM -kortin numero:</string>
+  <string name="cit_sim_sim_country">Maa:</string>
+  <string name="cit_sim_sim_operator">SIM-kortin operaattorin numero:</string>
+  <string name="cit_sim_sim_operator_name">Operaattorin nimi:</string>
+  <string name="cit_sim_state_absent">SIM-korttia ei havaittu</string>
+  <string name="cit_sim_state_network_locked">Verkon PIN-koodi lukittu</string>
+  <string name="cit_sim_state_pin_required">PIN-koodi vaaditaan</string>
+  <string name="cit_sim_state_puk_required">PUK-koodi vaaditaan</string>
+  <string name="cit_sim_state_ready">SIM-kortti valmis</string>
+  <string name="cit_sim_state_unkown">Tuntematon</string>
+  <string name="cit_splash_check_summary">Varmista, että näyttö on mustana vähintään 5 sekuntia.</string>
+  <string name="cit_start_calibration">Kalibroi</string>
+  <string name="cit_stop_calibration">Lopeta kalibroiminen</string>
+  <string name="cit_tfcard_support_summary">Tarkista tämän laitteen TF-muistikortin yhteensopuvuus</string>
+  <string name="cit_tfcard_support_title">TF-muistikortin yhteensopivuus</string>
+  <string name="cit_tof_sensor_check_summary">TOF-arvot pitäisi näkyä alla</string>
+  <string name="cit_tof_sensor_check_title">Tof Anturi</string>
+  <string name="cit_thermal_history_summary">Odota hetki... Luetaan laitteen lämpötilatietoja.</string>
+  <string name="cit_thermal_history_title">Lämpöhistoria</string>
+  <string name="cit_tool">Lisätyökalut</string>
+  <string name="cit_tool_active_mbn">Aktiivinen</string>
+  <string name="cit_tool_active_mbn_notify">Odota hetki, että mbn asetetaan</string>
+  <string name="cit_tool_bluetooth">Bluetooth testityökalu</string>
+  <string name="cit_tool_bluetooth_dut">Siirry Bluetooth testitilaan</string>
+  <string name="cit_tool_bluetooth_enhanced">Siirry Bluetoothin paranneltuun testiin</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run">SUORITA</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run_trigger">Suorita</string>
+  <string name="cit_tool_bluetooth_le_rx_4x">RX: BLE 4.x</string>
+  <string name="cit_tool_bluetooth_le_rx_4x_channel">kanava:</string>
+  <string name="cit_tool_bluetooth_le_rx_50">RX: BLE 5.0</string>
+  <string name="cit_tool_bluetooth_le_rx_50_channel">kanava:</string>
+  <string name="cit_tool_bluetooth_le_rx_50_phy">PHY:</string>
+  <string name="cit_tool_bluetooth_le_rx_ch0">Siirry Bluetooth LE 2.402GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch1">Siirry Bluetooth LE 2.404GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch10">Siirry Bluetooth LE 2.422GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch11">Siirry Bluetooth LE 2.424GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch12">Siirry Bluetooth LE 2.426GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch13">Siirry Bluetooth LE 2.428GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch14">Siirry Bluetooth LE 2.430GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch15">Siirry Bluetooth LE 2.432GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch16">Siirry Bluetooth LE 2.434GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch17">Siirry Bluetooth LE 2.436GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch18">Siirry Bluetooth LE 2.438GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch19">Siirry Bluetooth LE 2.440GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch2">Siirry Bluetooth LE 2.406GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch20">Siirry Bluetooth LE 2.442GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch21">Siirry Bluetooth LE 2.444GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch22">Siirry Bluetooth LE 2.446GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch23">Siirry Bluetooth LE 2.448GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch24">Siirry Bluetooth LE 2.450GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch25">Siirry Bluetooth LE 2.452GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch26">Siirry Bluetooth LE 2.454GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch27">Siirry Bluetooth LE 2.456GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch28">Siirry Bluetooth LE 2.458GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch29">Siirry Bluetooth LE 2.460GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch3">Siirry Bluetooth LE 2.408GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch30">Siirry Bluetooth LE 2.462GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch31">Siirry Bluetooth LE 2.464GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch32">Siirry Bluetooth LE 2.466GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch33">Siirry Bluetooth LE 2.468GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch34">Siirry Bluetooth LE 2.470GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch35">Siirry Bluetooth LE 2.472GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch36">Siirry Bluetooth LE 2.474GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch37">Siirry Bluetooth LE 2.476GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch38">Siirry Bluetooth LE 2.478GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch39">Siirry Bluetooth LE 2.480GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch4">Siirry Bluetooth LE 2.410GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch5">Siirry Bluetooth LE 2.412GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch6">Siirry Bluetooth LE 2.414GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch7">Siirry Bluetooth LE 2.416GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch8">Siirry Bluetooth LE 2.418GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_ch9">Siirry Bluetooth LE 2.420GHz Freq RX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_rx_msg">Siirry Bluetooth LE 5.0 RX testitilaan:</string>
+  <string name="cit_tool_bluetooth_le_rx_msg_old">Siirry Bluetooth LE 4.x RX testitilaan:</string>
+  <string name="cit_tool_bluetooth_le_rx_num">rx pakettien num:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_channel">kanava:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_payload">kuorma:</string>
+  <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
+  <string name="cit_tool_bluetooth_le_tx_50_channel">kanava:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_payload">kuorma:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
+  <string name="cit_tool_bluetooth_le_tx_ch0">Siirry Bluetooth LE 2.402GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch1">Siirry Bluetooth LE 2.404GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch10">Siirry Bluetooth LE 2.422GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch11">Siirry Bluetooth LE 2.424GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch12">Siirry Bluetooth LE 2.426GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch13">Siirry Bluetooth LE 2.428GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch14">Siirry Bluetooth LE 2.430GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch15">Siirry Bluetooth LE 2.432GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch16">Siirry Bluetooth LE 2.434GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch17">Siirry Bluetooth LE 2.436GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch18">Siirry Bluetooth LE 2.438GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch19">Siirry Bluetooth LE 2.440GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch2">Siirry Bluetooth LE 2.406GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch20">Siirry Bluetooth LE 2.442GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch21">Siirry Bluetooth LE 2.444GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch22">Siirry Bluetooth LE 2.446GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch23">Siirry Bluetooth LE 2.448GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch24">Siirry Bluetooth LE 2.450GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch25">Siirry Bluetooth LE 2.452GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch26">Siirry Bluetooth LE 2.454GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch27">Siirry Bluetooth LE 2.456GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch28">Siirry Bluetooth LE 2.458GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch29">Siirry Bluetooth LE 2.460GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch3">Siirry Bluetooth LE 2.408GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch30">Siirry Bluetooth LE 2.462GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch31">Siirry Bluetooth LE 2.464GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch32">Siirry Bluetooth LE 2.466GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch33">Siirry Bluetooth LE 2.468GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch34">Siirry Bluetooth LE 2.470GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch35">Siirry Bluetooth LE 2.472GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch36">Siirry Bluetooth LE 2.474GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch37">Siirry Bluetooth LE 2.476GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch38">Siirry Bluetooth LE 2.478GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch39">Siirry Bluetooth LE 2.480GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch4">Siirry Bluetooth LE 2.410GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch5">Siirry Bluetooth LE 2.412GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch6">Siirry Bluetooth LE 2.414GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch7">Siirry Bluetooth LE 2.416GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch8">Siirry Bluetooth LE 2.418GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_ch9">Siirry Bluetooth LE 2.420GHz Freq TX testitilaan</string>
+  <string name="cit_tool_bluetooth_le_tx_msg">Siirry Bluetooth LE 5.0 TX testitilaan:</string>
+  <string name="cit_tool_bluetooth_le_tx_msg_old">Siirry Bluetooth LE 4.x TX testitilaan:</string>
+  <string name="cit_tool_bluetooth_not_on">Bluetooth ei ole käytössä</string>
+  <string name="cit_tool_bluetooth_off">Poista Bluetooth käytöstä</string>
+  <string name="cit_tool_bluetooth_on">Ota Bluetooth käyttöön</string>
+  <string name="cit_tool_bluetooth_tx_h">Siirry Bluetooth BR/EDR 2.480GHz Freq testitilaan</string>
+  <string name="cit_tool_bluetooth_tx_l">Siirry Bluetooth BR/EDR 2.402GHz Freq testitilaan</string>
+  <string name="cit_tool_cal_accelerometer">Kiihtyvyysanturin kalibrointityökalu</string>
+  <string name="cit_tool_cal_camera">Kameran kalibrointityökalu</string>
+  <string name="cit_tool_cal_gyroscope">Gyroskoopin kalibrointityökalu</string>
+  <string name="cit_tool_check_cal">Peruuta</string>
+  <string name="cit_tool_check_ok">Ok</string>
+  <string name="cit_tool_check_opt">Oletko varma?</string>
+  <string name="cit_tool_check_opt_with_reboot">Käynnistetään uudelleen, oletko varma?</string>
+  <string name="cit_tool_current_modem_test_mode">Nykyinen testitila:</string>
+  <string name="cit_tool_drx_only">DRX</string>
+  <string name="cit_tool_enable_3A_log">Ota 3A loki Switch käyttöön</string>
+  <string name="cit_tool_enable_display_3A_log">Ota 3A lokin näyttäminen käyttöön</string>
+  <string name="cit_tool_exit_modem_mbn">Palauta auto MBN</string>
+  <string name="cit_tool_getting_expired">Umpeutuu!</string>
+  <string name="cit_tool_getting_wait">Noudetaan! Odota hetki.</string>
+  <string name="cit_tool_log">Hae lokit</string>
+  <string name="cit_tool_log_bugreport">Vikailmoitus</string>
+  <string name="cit_tool_log_dmesg">DMESG</string>
+  <string name="cit_tool_log_file_not_exist">%s ei ole olemassa</string>
+  <string name="cit_tool_log_generate_bugreport">Luodaan vikailmoitusta…</string>
+  <string name="cit_tool_log_kmsg">Edellinen kernel loki</string>
+  <string name="cit_tool_log_logcat">ADB loki</string>
+  <string name="cit_tool_log_modem">Modeemin loki</string>
+  <string name="cit_tool_log_no_sdcard">Aseta SD-kortti nyt</string>
+  <string name="cit_tool_log_ril">RIL loki</string>
+  <string name="cit_tool_log_toast">Loki tallennettiin kohteeseen %s</string>
+  <string name="cit_tool_log_toast_generate_bugreport">Luodaan vikailmoitusta… (tämä kestää noin 1 minuutin)</string>
+  <string name="cit_tool_mbn_default_notfiy">Oletus MBN</string>
+  <string name="cit_tool_mbn_no_default_notfiy">Ei oletus MBN</string>
+  <string name="cit_tool_mbn_opt_help">"Operation instructions:
+1. The steps to activate an MBN:
+Step 1: Select the slot of MBN to be activated, which is usually loaded by double cards, and the default is double cards.
+Step 2: You need to select a name of the MBN to be activated. The commonly used MBN is prefabricated in the drop-down list. If it is not found, you can enter the keyword of the MBN name to be activated in the search box to find the MBN you need to activate.
+Step 3: Click the Activate button to load the selected MBN.
+2. Recovery system default MBN can be achieved by clicking the Restore default MBN button.
+3. It can display the information of MBN loaded in the current Modem.
+The first line shows whether the MBN loaded by the current Modem is the default MBN of the system. (Some products may not be integrated into the relevant interface, this line will show: Not Supported)
+The second line shows the name and version number of Default MBN and Carrier MBN currently loaded in Modem. Our custom loaded MBN is Carrier MBN, SUB0 is card 1, SUB1 is card 2."</string>
+  <string name="cit_tool_mbn_path_select_hit">Valitse MBN:n koko polku:</string>
+  <string name="cit_tool_mbn_path_select_notice">Etkö löytänyt yläpuolelta? Etsitkö täältä? Esim. mcfg, ct, eps ... jne</string>
+  <string name="cit_tool_mbn_recovery_default">Palauta oletus MBN</string>
+  <string name="cit_tool_modem">Modeemin testityökalut</string>
+  <string name="cit_tool_modem_bugreport">Pakota modeemin coredump</string>
+  <string name="cit_tool_modem_clear_empty">Tyhjennä</string>
+  <string name="cit_tool_modem_deactive_mbn">Deaktivoi</string>
+  <string name="cit_tool_modem_exit_ftm">Poistu FTM tilasta</string>
+  <string name="cit_tool_modem_feature_config_cust">Nykyinen ominaisuus määritetty seuraavasti</string>
+  <string name="cit_tool_modem_feature_config_default">Nykyinen ominaisuus määritetty oletukseksi</string>
+  <string name="cit_tool_modem_mbn">Muuta modeemin määrityksiä</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">MBN määrityksen lataamis- ja aktivointityökalu</string>
+  <string name="cit_tool_modem_mbn_opt_fail_notfiy">Opt epäonnistui, yritä uudelleen käynnistämällä puhelin uudelleen</string>
+  <string name="cit_tool_modem_offline_log">Avaa/Sulje offline-loki</string>
+  <string name="cit_tool_modem_rf_ant_test">Modeemin rf ant testin asetukset</string>
+  <string name="cit_tool_modem_test_clr">Määritä koodin oletusarvi</string>
+  <string name="cit_tool_modem_test_device_value_set">Muokkaa laitteen tilaa</string>
+  <string name="cit_tool_modem_test_get">Päivitä</string>
+  <string name="cit_tool_modem_test_mode">Modeemin testitilan asetukset</string>
+  <string name="cit_tool_modem_test_mode_closed">Testitila suljettiin</string>
+  <string name="cit_tool_modem_test_mode_mismatch">Testitila ristiriidassa</string>
+  <string name="cit_tool_modem_test_mode_opened">Testitila avattu</string>
+  <string name="cit_tool_modem_test_mode_select">Valitse testitila:</string>
+  <string name="cit_tool_modem_test_mode_set">Vahvista asetus</string>
+  <string name="cit_tool_modem_test_rf_ant">RF Ant</string>
+  <string name="cit_tool_modem_test_set">Vahvista</string>
+  <string name="cit_tool_modem_test_will_set">Avaa testitilan ja käynnistää dutin uudelleen</string>
+  <string name="cit_tool_nfc">NFC testityökalu</string>
+  <string name="cit_tool_nfc_st">Nfc ST:</string>
+  <string name="cit_tool_nfc_st_confreq">taajuus:</string>
+  <string name="cit_tool_nfc_st_run">Käynnistä</string>
+  <string name="cit_tool_nfc_st_stop">Lopeta</string>
+  <string name="cit_tool_no_repeat">Ei toistoja!</string>
+  <string name="cit_tool_not_support">Ei tuettu</string>
+  <string name="cit_tool_opt_fail_info_notify">Opt epäonnistui, puhelin täytyy käynnistää uudelleen.</string>
+  <string name="cit_tool_prx_drx">PRx+DRx</string>
+  <string name="cit_tool_prx_drx_select_mode">Valitse Tila:</string>
+  <string name="cit_tool_prx_drx_select_rat">Valitse RAT:</string>
+  <string name="cit_tool_prx_drx_start_test">Aloita Testi</string>
+  <string name="cit_tool_prx_drx_stop_test">Lopeta Testi</string>
+  <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_rf_ant">RF/Antennin työkalut</string>
+  <string name="cit_tool_select_all">Valitse kaikki</string>
+  <string name="cit_tool_select_none">Älä valitse mitään</string>
+  <string name="cit_tool_select_opposite">Valitse päinvastoin</string>
+  <string name="cit_tool_setting_expired">Asetus vanhentui, yritä uudelleen!</string>
+  <string name="cit_tool_setting_wait">Asetetaan! Odota hetki</string>
+  <string name="cit_tool_splash_test_title">Splash-testi</string>
+  <string name="cit_tool_switch_autosms">Ota käyttöön/Poista käytöstä AutoSMSReg</string>
+  <string name="cit_tool_to_fetching">Noudetaa</string>
+  <string name="cit_tool_tpdump">Kosketa virheenkorjaustilaan</string>
+  <string name="cit_tool_wifi">Wi-Fi testityökalu</string>
+  <string name="cit_tool_wifi_chain_1">1</string>
+  <string name="cit_tool_wifi_chain_1_2">1+2</string>
+  <string name="cit_tool_wifi_chain_2">2</string>
+  <string name="cit_tool_wifi_exit">Poistu</string>
+  <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+  <string name="cit_tool_wifi_rx_ap_name">MT</string>
+  <string name="cit_tool_wifi_rx_chan">Rx: Kanava</string>
+  <string name="cit_tool_wifi_rx_count_error">Arvo ei ole numero</string>
+  <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+  <string name="cit_tool_wifi_rx_error">Ohjelman suorituksessa tapahtui virhe</string>
+  <string name="cit_tool_wifi_rx_exit">Rx: poistu</string>
+  <string name="cit_tool_wifi_rx_run">Suorita</string>
+  <string name="cit_tool_wifi_rx_stop">Lopeta</string>
+  <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
+  <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">kanava:</string>
+  <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+  <string name="cit_tool_wifi_rxn_test_bw">kaistanleveys:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">kanava:</string>
+  <string name="cit_tool_wifi_sniffer">Wi-Fi sniffer-työkalu</string>
+  <string name="cit_tool_wifi_sniffer_settings">Sniffer asetukset</string>
+  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+  <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
+  <string name="cit_tool_wifi_tx_bg_chan">kanava:</string>
+  <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">datanopeus:</string>
+  <string name="cit_tool_wifi_tx_n">Tx: n</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">kaistanleveys:</string>
+  <string name="cit_tool_wifi_tx_n_chan">kanava:</string>
+  <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
+  <string name="cit_tool_wifi_tx_n_txrt">datanopeus: MCS</string>
+  <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+  <string name="cit_tool_wifi_tx_st_chan">kanava:</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Valitse antenni</string>
+  <string name="cit_torch_modify">Muokkaa taskulamppua</string>
+  <string name="cit_torch_off">Sammuta taskulamppu</string>
+  <string name="cit_torch_on">Käynnistä taskulamppu</string>
+  <string name="cit_touch_calib_fail">Kosketuksen kalibrointi epäonnistui, yritä uudelleen</string>
+  <string name="cit_touch_calib_instruction">aloita kalibrointi</string>
+  <string name="cit_touch_calib_pass">Kosketuksen kalibrointi onnistui, käytä sitä normaalisti</string>
+  <string name="cit_touch_calib_summary">Seuraavaksi suoritetaan kosketusnäytön kalibrointi, paina vahvista-painiketta ja älä koske näyttöön sen jälkeen, odota kalibrointi onnistui tekstiä</string>
+  <string name="cit_touch_calib_title">Kosketuksen kalibrointi</string>
+  <string name="cit_touch_panel_test_title">Kosketusanturi</string>
+  <string name="cit_tpdump_check_summary">kosketa painiketta ottaaksesi käyttöön tai poistaaksesi käytöstä kosketuksen dump toiminnon</string>
+  <string name="cit_tpdump_close">poista dump käytöstä</string>
+  <string name="cit_tpdump_open">ota dump käyttöön</string>
+  <string name="cit_tpdump_reset">nollaa dump</string>
+  <string name="cit_usb_OTG_in">USB OTG-laite havaittu</string>
+  <string name="cit_usb_OTG_out">USB OTG-laite poistettu</string>
+  <string name="cit_usb_charger_in">USB-lataus</string>
+  <string name="cit_usb_charger_out">Ei USB-laturissa</string>
+  <string name="cit_version_check_summary">Alapuolella on järjestelmän versiotiedot. Vahvista, että vihreällä korostettu teksti on oikein.</string>
+  <string name="cit_version_check_title">Tarkista versiotiedot</string>
+  <string name="cit_vga_camera_capture">Kamera</string>
+  <string name="cit_vga_camera_capture_fail">Kuvan ottaminen epäonnistui</string>
+  <string name="cit_vga_camera_delete">Poista</string>
+  <string name="cit_vga_camera_deleted">Kuva poistettu</string>
+  <string name="cit_vibrator_check_summary">Katso toimiiko värinä (pitkä ja lyhyt) normaalisti</string>
+  <string name="cit_vibrator_check_title">Värinä</string>
+  <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
+  <string name="cit_vibrator_haptic">Haptinen</string>
+  <string name="cit_vibrator_load_down_pattern">Alaskuvio</string>
+  <string name="cit_vibrator_load_up_pattern">Ylöskuvio</string>
+  <string name="cit_vibrator_long">Pitkä värinä</string>
+  <string name="cit_vibrator_play_touch_pattern">Värinä</string>
+  <string name="cit_vibrator_short">Lyhyt värinä</string>
+  <string name="cit_vibrator_show_advanced">Näytä lisävalinnat</string>
+  <string name="cit_wifi_address_check_summary">Alapuolella on Wi-Fi-verkon osoite, johon puhelimesi on tällä hetkellä yhteydessä. Vahvista, että vihreällä korostettu tieto on oikein.</string>
+  <string name="cit_wifi_address_check_title">Wi-Fi-osoite</string>
+  <string name="cit_wifi_address_error">Wi-Fi-osoitetta ei saatu. Varmista, että Wi-Fi on käytössä.</string>
+  <string name="cit_wifi_ap_scan_check_summary">Alapuolella on Wi-Fi-laitteiden tukiasemien tiedot, jotka havaittiin alueellaan. Vahvista, että vihreäksi korostettu tieto on oikein.</string>
+  <string name="cit_wifi_ap_scan_check_title">Wi-Fi tukiasemien skannaus</string>
+  <string name="cit_wifi_ap_scan_retry">Skannataan uudelleen…</string>
+  <string name="cit_wifi_ap_scanning">Skannataan…</string>
+  <string name="cit_wifi_fail_to_scan">Verkkojen skannaaminen epäonnistui</string>
+  <string name="cit_wifi_state_refresh">Päivitä</string>
+  <string name="cit_yellow_torch_on">Käynnistä keltainen taskulamppu</string>
+  <string name="close_third_color_led">Sulje kolmen värin ledi</string>
+  <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
+  <string name="delete">Poista</string>
+  <string name="description_info">Tietoja</string>
+  <string name="dsi_sar_on_off_tips">Dsi Sar Käytössä/Pois käytöstä -kytkin</string>
+  <string name="error">Virhe</string>
+  <string name="error_app_internal">Sisäisen sovelluksen virhe</string>
+  <string name="error_app_unsupported">Ei tuettu muoto</string>
+  <string name="error_failed_to_get_data">tietojen haku epäonnistui</string>
+  <string name="error_file_not_found">tietoja ei löytynyt</string>
+  <string name="error_getting_sensor_info">Anturitietojen hakuvirhe</string>
+  <string name="error_initializing_sensor">Tapahtui virhe anturia käynnistäessä: %1$s</string>
+  <string name="error_sdcard_access">Järjestelmän tallennustilaa ei voi käyttää!</string>
+  <string name="error_unknown_error">Tuntematon virhe</string>
+  <string name="failed_to_test">Testi epäonnistui</string>
+  <string name="far">FAR(False Accept Rate):</string>
+  <string name="far_count">FAC(False Accept Count):</string>
+  <string name="far_total_count">FATC(False Accept Total Count):</string>
+  <string name="fingerprint">Sormenjälki:</string>
+  <string name="fingerprint_input_title">sormenjäljen syöttötesti</string>
+  <string name="firstplug_mic_check_record_tip">Lopeta nauhoitus. Kuulokkeiden yhdistämisen jälkeen vahvista tulos</string>
+  <string name="fod_check_start_error">"Anturin testityökalua ei voi käynnistää
+Testi epäonnistui!"</string>
+  <string name="fod_check_summary">"Testin ohjeet:
+Automaattinen testi anturin tyypin mukaan
+Käytä testituloksena läpäisyn painallusta tai epäonnistuneen painiketta"</string>
+  <string name="fod_check_title">Sormenjälkianturin tarkistus</string>
+  <string name="fod_check_unknown_sensor_type">"Tuntematon Fod-anturin tyyppi
+Testi epäonnistui!"</string>
+  <string name="fod_fingerprint_input_description">Fod sormenjälkisyötön testi</string>
+  <string name="fod_fingerprint_input_title">Fod sormenjälkisyötön testi</string>
+  <string name="fod_pressure_sensor_pressure_data_collection">Kerätään painetietoja....</string>
+  <string name="fod_pressure_sensor_test_exception">Read node file exception</string>
+  <string name="fod_pressure_sensor_test_fail">Testi epäonnistui, paina Epäonnistui-painiketta</string>
+  <string name="fod_pressure_sensor_test_pressure_too_big">"Anturin keskimääräinen paine on liian korkea: %1$d 
+testi epäonnistui, paina Epäonnistui-painiketta"</string>
+  <string name="fod_pressure_sensor_test_pressure_too_small">"Anturin keskimääräinen paine on liian alhainen: %1$d 
+testi epäonnistui, paina Epäonnistui-painiketta"</string>
+  <string name="fod_pressure_sensor_test_success">"Anturin keskimääräinen paine: %1$d 
+testi onnistui, paina Läpäisi-painiketta"</string>
+  <string name="fod_pressure_sensor_test_summary">"Laita painoa määritettyyn sijaintiin"</string>
+  <string name="fod_pressure_sensor_test_title">Fod paineanturin testi</string>
+  <string name="fp_fod_calibration">fod sormenjäljen kalibrointi</string>
+  <string name="fpc_app_name">Anturin testityökalu</string>
+  <string name="fpc_ok">Ok</string>
+  <string name="fpc_pn_calibration">Taltioi ja varastoi PN-kuva</string>
+  <string name="frr">FRR(False Reject Rate):</string>
+  <string name="frr_chip_not_support">不支持</string>
+  <string name="frr_count">FRC(False Reject Count):</string>
+  <string name="frr_total_count">FRTC(False Reject Total Count):</string>
+  <string name="get_base_finger">Extract Image:get base finger</string>
+  <string name="get_finger_data">Extract Image:sampling finger data</string>
+  <string name="get_sample_finger">Extract Image:get sample finger</string>
+  <string name="get_sensor_info">GET SENSOR INFO</string>
+  <string name="get_template_finger">Extract Image:get template finger</string>
+  <string name="gpu_maxfreq_title">Kokeellinen GPU:n ylikellotustila</string>
+  <string name="hint">Se voi kestää pitkään, odota kärsivällisesti.</string>
+  <string name="hwversion_label">Laitteistoversio</string>
+  <string name="image_quality_test">Kuvanlaatutesti</string>
+  <string name="info">Info</string>
+  <string name="init">initialzing</string>
+  <string name="keyboard">KEY</string>
+  <string name="last_time_test_result">LAST TIME TEST RESULT</string>
+  <string name="lcminfo">LCM information</string>
+  <string name="magnetic_info_hint">Käännä laitetta kahdeksikon (8) muotoisesti</string>
+  <string name="mic1_spk_loop">Mic speak Loop</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC＆ SPK</string>
+  <string name="motor_calibration">Moottorin kalibrointi</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="next">Seuraava</string>
+  <string name="nfc_disable_tip">Ota NFC käyttöön</string>
+  <string name="no_data">--</string>
+  <string name="noise">noise:</string>
+  <string name="none">N/A</string>
+  <string name="ok">Ok</string>
+  <string name="open_third_color_led">Avaa kolmen värin ledi</string>
+  <string name="pass">Läpäisi</string>
+  <string name="phone_not_been_restarted">Puhelinta ei ole käynnistetty uudelleen</string>
+  <string name="picture">Kuva</string>
+  <string name="plugout_and_reverse_plugin">"
+Poista laturista ja aseta laturi takaisin kiinni kääntäen laturipää."</string>
+  <string name="pop_camera">Näytä kamera</string>
+  <string name="pop_push_camera_test_summary">"Paina Näytä kamera -painiketta nähdäksesi tuleeko kamera esiin
+Paina Piilota kamera -painiketta nähdäksesi meneekö kamera takaisin sisään"</string>
+  <string name="pop_push_camera_test_title">Näytä ja piilota kamera -testi</string>
+  <string name="push_camera">Piilota kamera</string>
+  <string name="reboot_prompt_detail">重启手机之后内存测试正常运行！</string>
+  <string name="reboot_times">Uudelleenkäynnistyskerrat:</string>
+  <string name="receiver_off">Vastaanotin pois käytöstä</string>
+  <string name="receiver_on">Vastaanotin käytössä</string>
+  <string name="receiver_on_off_tips">Vastaanottimen Käytössä/Pois käytöstä -kytkin</string>
+  <string name="refresh_number_of_keys">refresh number of keys</string>
+  <string name="removeFingerprint">Poista sormenjälki</string>
+  <string name="remove_headset_and_starttest">Poista kuulokkeet ja paina aloita testaaksesi</string>
+  <string name="resetpixel_test">NOLLAA PIKSELITESTI</string>
+  <string name="run">Käynnistä</string>
+  <string name="sample_data">sample data</string>
+  <string name="sample_hint">extract %1$s samples for one finger</string>
+  <string name="sample_progress_hint">wait for extracting sample datas</string>
+  <string name="sar_authentation_test_title">Sar authentation test</string>
+  <string name="sar_off">Sar Pois käytöstä</string>
+  <string name="sar_on">Sar Käytössä</string>
+  <string name="sar_sensor_calibrate">Aloita kalibrointi</string>
+  <string name="sar_sensor_calibrate_fail">Sar-anturin kalibrointi epäonnistui</string>
+  <string name="sar_sensor_calibrate_success">Sar-anturin kalibrointi onnistui</string>
+  <string name="sar_sensor_collect_data">Aloita tietojen kerääminen</string>
+  <string name="sar_sensor_collect_data_test_summary">"Rotate the phone to ensure that the real-time angle is between 130 and 140 degrees
+Keep the other hand away from the cell phone. Click on the start data acquisition button
+After calibrate success,Observe that the absolute value of CS0i and CS1 is less than 200 and the value of CS1 is more than 300. After five consecutive times, the other hand is close to the bottom of the cell phone,The value of CS0 is highlighted by the button after 3 consecutive times between 3000 and 30000,the pass button is highlight"</string>
+<string name="sar_sensor_collect_test_summary">"Rotate the phone, put it to the fixture
+Click the Start data acquisition button
+Control the fixture close and away from the phone"</string>
+  <string name="sar_sensor_data_check_description">Sar Sensor Data Collect</string>
+  <string name="sar_sensor_data_check_summary">"Hold the top of the phone with one hand
+Make sure the real time Angle is about 45 degrees
+Keep the other hand away from the phone
+Look at the value of CS0
+After the value of CS0 is less than 500 and the value of CS2 greater than 10000 
+Hold the other hand close to the bottom of the phone
+Look at the value of CS0
+The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
+  <string name="sar_sensor_data_check_summary_1">"Hold the top of the phone with one hand
+Make sure the real time Angle is about 45 degrees
+Keep the other hand away from the phone
+Look at the value of CS0
+After the value of CS0 is less than 500 and the value of CS2 greater than 5000 
+Hold the other hand close to the bottom of the phone
+Look at the value of CS0
+The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
+  <string name="sar_sensor_test_description">Sar Sensor Calibrate and Data Collect</string>
+  <string name="sar_sensor_test_err_angle">Puhelin ei ole asetettu oikeaan kulmaan</string>
+  <string name="sar_sensor_test_next_step">Control baffle close to mobile phone</string>
+  <string name="sar_sensor_test_success">Sar-anturin testi onnistui</string>
+  <string name="sar_sensor_test_summary">"Rotate the phone, put it to the fixture
+Click the Start Calibrate button
+After calibrate success, control the fixture close and away from the phone"</string>
+  <string name="sar_sensor_test_timeout">Sar-anturin testin aikakatkaisu</string>
+  <string name="screen_cancel">Poista käytöstä</string>
+  <string name="screen_confirm">Ota käyttöön</string>
+  <string name="search_menu_title">Haku</string>
+  <string name="select">Valitse</string>
+  <string name="select_all">Valitse kaikki</string>
+  <string name="select_automatic">Valitse automaattisesti</string>
+  <string name="select_manual">Valitse manuaalisesti</string>
+  <string name="select_none">Älä valitse mitään</string>
+  <string name="selftest">ITSETESTI</string>
+  <string name="sensor_information">Anturin tiedot</string>
+  <string name="set_dsi_tips">Määritä DSI</string>
+  <string name="show_log">Näytö loki</string>
+  <string name="speak_from_mic">Puhuessasi mikrofoniin, kaiutin toistaa sen. Tuleeko ääntä.</string>
+  <string name="start">Aloita</string>
+  <string name="start_extract_sample">start to extract samples</string>
+  <string name="start_extract_template">start to extract templates</string>
+  <string name="start_far">Aloita FAR</string>
+  <string name="start_frr">Aloita FRR</string>
+  <string name="status">Tila</string>
+  <string name="status_failed">Yksi tai useampi testi epäonnistui</string>
+  <string name="status_passed">Läpäisty</string>
+  <string name="status_running">Käynnissä</string>
+  <string name="status_text">Tila:</string>
+  <string name="success_extract_sample">finished to extract sample datas</string>
+  <string name="success_extract_template">finished to extract template datas</string>
+  <string name="success_get_finger_data">Extract Image:success to get finger data</string>
+  <string name="success_to_test">SUCCESS TO TEST</string>
+  <string name="template_data">template data</string>
+  <string name="template_hint">extract %1$s templates for one finger</string>
+  <string name="template_progress_hint">wait for extracting template datas</string>
+  <string name="test_cases">Test Cases</string>
+  <string name="test_result">TESTITULOS</string>
+  <string name="test_spi_chip_id">Chip ID:</string>
+  <string name="testagain">Voit painaa Kotipainiketta testaaksesi uudelleen</string>
+  <string name="testcase_name">Nimi</string>
+  <string name="title_about">tietoja</string>
+  <string name="title_algo_performance">algo performance</string>
+  <string name="title_bad_point">bad point</string>
+  <string name="title_extract_data">Extract Data</string>
+  <string name="title_far">FAR:</string>
+  <string name="title_farr">FAR and FRR Test</string>
+  <string name="title_frr">FRR:</string>
+  <string name="title_open_short_pixel">open short pixel</string>
+  <string name="title_spi">spi</string>
+  <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
+  <string name="tp_color">TP Color:</string>
+  <string name="tp_version">TP Version:</string>
+  <string name="vendor_ct">CT</string>
+  <string name="wait_test">waiting for test</string>
+</resources>
