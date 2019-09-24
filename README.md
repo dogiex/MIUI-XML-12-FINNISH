@@ -11,3 +11,24 @@ Strings are under a
 
 For more info visit:
 - [Multilang MIUI Support](https://xiaomi.eu) 
+
+## Esittely
+
+Tämä repo sisältää suomenkielisen käännöksen [xiaomi.eu](https://xiaomi.eu) MIUI 11 ROM-versioon.
+
+## Ilmoita virheistä
+
+Käytä [Githubin Issues sivua](https://github.com/dogiex/MIUI-XML-11-FINNISH/issues) ilmoittaaksesi bugit, käännösvirheet ja parannusehdotukset.
+
+## Auta kääntämään
+Jos tahdot auttaa kääntämään tätä projektia se tapahtuu pull requesteilla:
+- Forkkaa tämä repo
+- Tee muutoksia omaan repoosi
+- Tee pull request tekemiisi muokkauksiin alkuperäiseen projektiin
+
+[Lisätietoja forkkauksesta löydät täältä](https://guides.github.com/activities/forking)  
+[Käännöksen tarkistus scriptin löydät täältä](https://translators.xiaomi.eu/XML_MIUI11-Finnish-fi.html)  
+[Alkuperäiset käännösmuutokset jota seurataan](https://github.com/ingbrzy/Xiaomi.eu-MIUIv11-XML-Compare/commits/master/cepheus)  
+
+##### Credits:
+- Dogiex
