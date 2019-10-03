@@ -208,6 +208,7 @@
   <string name="mortgage_item_years">Lainakausi</string>
   <string name="mortgage_loans_amount">Lainan suuruus</string>
   <string name="mortgage_provident_found_interest_rate">Rahaston korko</string>
+  <string name="mortgage_provider_east_money">Tiedon tarjoaa East Money</string>
   <string name="mortgage_repayment_amount">Takaisinmaksun suuruus</string>
   <string name="mortgage_result">Tulokset</string>
   <string name="mortgage_show_details">Näytä tiedot</string>

@@ -61,8 +61,8 @@
         <item quantity="one">%d usein käytetty lause</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Synkronointi on pysäytetty. Jatketaan %d minuutin kuluttua…</item>
-        <item quantity="one">Synkronointi on pysäytetty. Jatketaan %d minuutin kuluttua…</item>
+        <item quantity="other">Synkronointia jatketaan %d minuutin kuluttua</item>
+        <item quantity="one">Synkronointia jatketaan %d minuutin kuluttua</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s minuuttia sitten</item>

@@ -66,7 +66,7 @@ Voit vaihtaa toimintoa valitsemalla Asetukset &gt; Esteettömyys."</string>
   <string name="activitychooserview_choose_application">Valitse sovellus</string>
   <string name="activitychooserview_choose_application_error">%s ei käynnisty</string>
   <string name="adb_active_notification_message">Poista USB-virheenkorjaus käytöstä napauttamalla.</string>
-  <string name="adb_active_notification_title">USB-vianetsintä yhdistetty</string>
+  <string name="adb_active_notification_title">USB-vianetsintä on käytössä</string>
   <string name="adb_debugging_notification_channel_tv">USB-vianetsintä</string>
   <string name="addToDictionary">Lisää sanakirjaan</string>
   <string name="add_account_button_label">Lisää tili</string>
@@ -1580,8 +1580,8 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="usb_storage_title">USB yhdistetty</string>
   <string name="usb_supplying_notification_title">Ladataan yhdistettyä laitetta USB:n kautta</string>
   <string name="usb_tether_notification_title">Internetin jakaminen USB:n kautta on käytössä</string>
-  <string name="usb_unsupported_audio_accessory_message">Liitetty laite ei ole yhteensopiva puhelimen kanssa. Napauta, niin näet lisätietoja.</string>
-  <string name="usb_unsupported_audio_accessory_title">Analoginen äänilaite havaittu</string>
+  <string name="usb_unsupported_audio_accessory_message">Yhdistetty laite ei ole yhteensopiva puhelimen kanssa. Napauta, niin näet lisätietoja.</string>
+  <string name="usb_unsupported_audio_accessory_title">Havaittiin analoginen äänilaite</string>
   <string name="use_a_different_app">Käytä toista sovellusta</string>
   <string name="user_creation_account_exists">Myönnetäänkö sovellukselle %1$s oikeus luoda käyttäjä tilille %2$s?</string>
   <string name="user_creation_adding">Myönnetäänkö sovellukselle %1$s oikeus luoda käyttäjä tilille %2$s (tilillä on jo käyttäjä)?</string>

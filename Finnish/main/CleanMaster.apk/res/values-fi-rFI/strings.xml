@@ -409,7 +409,7 @@
   <string name="news_change">Vaihda</string>
   <string name="no_network">Verkkoyhteyttä ei voi muodostaa, yritä myöhemmin uudelleen</string>
   <string name="no_network_btn">Yritä uudelleen</string>
-  <string name="notification_garbage_cleanup_summary">Roskien koko saavuttanut %s</string>
+  <string name="notification_garbage_cleanup_summary">Tyhjennä roskat (%s) nopeuttaaksesi laitettasi</string>
   <string name="notification_garbage_cleanup_title">Tyhjennä roskatiedostot</string>
   <string name="notification_low_memory_cache_summary">Tallennustilaa käytettävissä alle 1,5 GT</string>
   <string name="notification_low_memory_cache_title">Tyhjennä välimuisti</string>

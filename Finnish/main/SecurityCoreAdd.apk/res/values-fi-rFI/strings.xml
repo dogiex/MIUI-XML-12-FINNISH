@@ -165,16 +165,18 @@ Varmista, että yrityksesi nimi on oikein. Lue ja hyväksy tietosuojakäytäntö
   <string name="go_on_import">Jatka tuomista</string>
   <string name="gpg_message">Kaksoispelisovelluksien luominen vaatii toimiakseen Google Play Pelit. Luodaanko Google Play Pelistä kaksoissovellus?</string>
   <string name="gpg_title">Kaksoissovellus Google Play Peliä varten</string>
-  <string name="green_guard">Lapsilukko</string>
+  <string name="green_guard">Perheen vartija</string>
   <string name="green_guard_des1">Lisää laitteita hallitaksesi niitä etäältä</string>
   <string name="green_guard_des2">Tiedä missä kaikki hallitut laitteet ovat</string>
   <string name="green_guard_des3">Hallitse asennettuja sovelluksia ja rajoita käyttöä</string>
   <string name="green_guard_title2">Näytä sijaintitiedot</string>
   <string name="green_guard_title3">Hallitse sovelluksia</string>
-  <string name="greenguard_child_des">Käytä sovellustamme pysyäksesi yhteydessä</string>
-  <string name="greenguard_child_des_title">Tarvitsen apua ystäviltäni ja perheeltäni</string>
-  <string name="greenguard_parent_des">Lataa sovelluksemme ja lisää muiden henkilöiden laitteita</string>
-  <string name="greenguard_parent_des_title">Minun täytyy autttaa ystäviäni ja perhettäni</string>
+  <string name="greenguard_child_des">Hallinnoi ystäviesi ja perheesi laitteita</string>
+  <string name="greenguard_child_des_title">Lisää laite lukemalla QR-koodi</string>
+  <string name="greenguard_functional_description">"Hallinnoi laitteita etäältä, näytä sijaintitiedot,
+hallitse asennettuja sovelluksia ja rajoita niiden käyttöä"</string>
+  <string name="greenguard_parent_des">Hallinnoi ystäviesi ja perheesi laitteita</string>
+  <string name="greenguard_parent_des_title">Käytä Kite Guardia lisätäksesi laitteita</string>
   <string name="guide_contact_sub_title_desc">"Toiseen tilaan lisätyistä yhteystiedoista tulee yksityisiä.
 Viestit ilmestyvät vain Toisessa tilassa."</string>
   <string name="guide_contact_suc_sub_title_desc">Vain yksityiset yhteystiedot ja viestit näytetään Toisessa tilassa</string>

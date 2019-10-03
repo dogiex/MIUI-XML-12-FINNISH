@@ -284,6 +284,22 @@
         <item quantity="other">Jakaminen epäonnistui. %d kuvan käsittely meneillään…</item>
         <item quantity="one">Jakaminen epäonnistui. %d kuvan käsittely meneillään…</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">%1$d sekunti</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">Optimoitiin %d kuvaa</item>
+        <item quantity="one">Optimoitiin %d kuva</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">%d kuvaa ei ole optimoitu. Lopetetaanko nyt?</item>
+        <item quantity="one">%d kuva ei ole optimoitu. Lopetetaanko nyt?</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d kuvaa jäljellä</item>
+        <item quantity="one">%d kuva jäljellä</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d kuvaa ja videota ei ole varmuuskopioitu</item>
         <item quantity="one">%d kuvaa tai videota ei ole varmuuskopioitu</item>

@@ -2311,7 +2311,8 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gesture_setting_off">Ei käytössä</string>
   <string name="gesture_setting_on">Käytössä</string>
   <string name="gesture_w">W-kuvio</string>
-  <string name="gesture_wakeup_title">Tuplanapauta näyttöä herättääksesi</string>
+  <string name="gesture_wakeup_summary">Voit tuplanapauttaa näyttöä sammuttaaksesi sen, kun Oletus ja Klassinen teema on asetettuna</string>
+  <string name="gesture_wakeup_title">Tuplanapauta näyttöä herättääksesi tai sammuttaaksesi</string>
   <string name="gesture_z">Z-kuvio</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">Gt</string>
@@ -2742,6 +2743,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="lock_screen_notifications_summary_show">Näytä kaikki ilmoitukset ja niiden sisällöt</string>
   <string name="lock_screen_notifications_summary_show_profile">Näytä kaikki työilmoitussisältö</string>
   <string name="lock_screen_notifications_title">Lukitusnäytöllä</string>
+  <string name="lock_screen_settings_title">Lukitusnäyttö</string>
   <string name="lock_screen_signature_summary">Tämä viesti näytetään Lukitusnäytöllä</string>
   <string name="lock_screen_signature_title">Lukitusnäytön omistajatiedot</string>
   <string name="lock_screen_unlock_show">Ohita Lukitusnäyttö</string>
@@ -3403,15 +3405,20 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="notch_force_black_desc">Ota käyttöön tummentaaksesi näyttöloven ympärillä oleva alue</string>
   <string name="notch_force_black_title">Piilota näyttölovi</string>
   <string name="notch_settings">Näyttölovi</string>
+  <string name="notch_style_mod_description">Näyttöloven ja tilapalkin näyttöasetukset</string>
+  <string name="notch_style_mod_title">Piilota näyttölovi</string>
+  <string name="notch_style_show">Älä piilota</string>
+  <string name="notch_style_status_bar_inside">Piilota siirtämättä tilapalkkia</string>
+  <string name="notch_style_status_bar_outside">Piilota siirtämällä tilapalkki</string>
   <string name="notes_privacy_password_role_instruction">Yksityiset muistiot säilytetään täällä.</string>
   <string name="notifi_channels">Ilmoituskategoriat</string>
   <string name="notifi_channels_other">Muu</string>
-  <string name="notifi_importance_default">Toista ääni ja näytä Lukitusnäytöllä</string>
-  <string name="notifi_importance_high">Toista ääni, näytä Lukitusnäytöllä, salli kokonäytön käyttäminen</string>
-  <string name="notifi_importance_low">Älä toista ääntä</string>
-  <string name="notifi_importance_min">Älä näytä Lukitusnäytöllä, älä toista ääntä</string>
-  <string name="notifi_importance_none">Pois käytöstä</string>
-  <string name="notifi_importance_unspecified">Anna sovelluksen päättää</string>
+  <string name="notifi_importance_default">Toista ääni</string>
+  <string name="notifi_importance_high">Toista ääni ja näytä ponnahdusikkuna</string>
+  <string name="notifi_importance_low">Näytä äänettömästi</string>
+  <string name="notifi_importance_min">Näytä äänettömästi ja minimoituna</string>
+  <string name="notifi_importance_none">Älä näytä ilmoituksia koskaan</string>
+  <string name="notifi_importance_unspecified">Salli ääni</string>
   <string name="notifi_no_channels">Tämä sovellus ei ole vielä vastaanottanut yhtään ilmoitusta</string>
   <string name="notification_app_settings_button">Ilmoitusasetukset</string>
   <string name="notification_badge_title">Salli pistemerkki</string>
@@ -3700,7 +3707,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
   <string name="pointer_settings_category">Hiiri/ohjauslevy</string>
   <string name="pointer_speed">Osoittimen nopeus</string>
-  <string name="popup_gesture_summary">Nosta puhelin ja katso näyttöä avataksesi etukameran automaattisesti</string>
+  <string name="popup_gesture_summary">Siirry takaisin Aloitusnäytölle, nosta puhelin ja katso näyttöä avataksesi etukameran automaattisesti</string>
   <string name="popup_gesture_title">Avaa etukamera nostamalla</string>
   <string name="popup_led_summary">Näytä animaatio, kun etukamera tulee näkyviin ja palaa takaisin</string>
   <string name="popup_led_title">Visuaalinen tehoste</string>
@@ -5205,7 +5212,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Tervetuloa käyttämään Google Sync -palvelua!&lt;/font&gt;"
 Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystietojasi, tapaamisiasi ynnä muita tietoja mistä tahansa."</string>
-  <string name="sync_settings">Synkronointi</string>
+  <string name="sync_settings">Tilit &amp; synkronointi</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Vain Wi-Fi</string>
   <string name="system">Järjestelmä</string>
@@ -6361,10 +6368,18 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wifi_wps_setup_title">Wi-Fi Protected Setup -asetukset</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Ikkuna</string>
+  <string name="winscope_trace_quick_settings_title">Winscope Trace</string>
+  <string name="wireless_button">Lataa muita laitteita langattomasti</string>
+  <string name="wireless_charging_settings">Lataa muita laitteita langattomasti</string>
+  <string name="wireless_closed">Pois käytöstä</string>
   <string name="wireless_connected">Yhdistetty</string>
   <string name="wireless_networks_settings_title">Langaton verkko ja verkot</string>
-  <string name="wireless_off">Pois päältä</string>
-  <string name="wireless_on">Päällä</string>
+  <string name="wireless_off">Pois käytöstä</string>
+  <string name="wireless_on">Käytössä</string>
+  <string name="wireless_opened">Käytössä</string>
+  <string name="wireless_tip">"Käytä puhelintasi lataaksesi muita laitteita langattomasti.
+
+Tämä ominaisuus poistetaan käytöstä automaattisesti, jos lataamista ei aloiteta 90 sekunnin kuluessa."</string>
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
   <string name="wizard_next">Seuraava</string>
@@ -6407,7 +6422,9 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="xiaomi_account">Mi Tili</string>
   <string name="xiaomi_cloud_service">Mi Pilvi</string>
   <string name="xiaomi_cloud_service_description">Mi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
-  <string name="xiaomi_cloud_service_disabled">Pois päältä</string>
+  <string name="xiaomi_cloud_service_description_contact">yhteystiedot ja</string>
+  <string name="xiaomi_cloud_service_description_format">Mi Pilvi synkronoi %s kuvaasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi Etsi laite toiminnon avulla.</string>
+  <string name="xiaomi_cloud_service_disabled">Pois käytöstä</string>
   <string name="xiaomi_cloud_service_unknown">Tuntematon</string>
   <string name="xiaomi_money_service">Mi Krediitti</string>
   <string name="xiaomi_router_available_notif_summary">Näytä lisää tietoa napauttamalla.</string>

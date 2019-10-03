@@ -418,6 +418,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="battery_charge_estimating">Lasketaan</string>
   <string name="battery_charge_full">Ladattu</string>
   <string name="battery_charging_prompt">Ladataan</string>
+  <string name="battery_desc_ambient_display">Ambient-näytön kuluttama virta</string>
   <string name="battery_desc_apps">Sovelluksen kuluttama virta</string>
   <string name="battery_desc_bluetooth">Bluetoothin kuluttama virta</string>
   <string name="battery_desc_display">Näytön ja taustavalon kuluttama virta</string>
@@ -537,7 +538,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="call_oversea_block">Estä puhelut ulkomailta</string>
   <string name="call_prefix">Etuliitteen estolista</string>
   <string name="call_private">Estä puhelut piilotetuilta numeroilta</string>
-  <string name="call_stranger_block">Estä puhelut muukalaisilta</string>
+  <string name="call_stranger_block">Estä puhelut tuntemattomilta</string>
   <string name="call_transfer_block">Estä siirretyt puhelut</string>
   <string name="call_transfer_info">Estä tuntemattomista numeroista siirretyt puhelut</string>
   <string name="cancal_to_setting_fingerprint">Peruuta</string>
@@ -1701,6 +1702,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pm_root_success_notification_infomation">Varmista, että ymmärrät root-oikeuden riskit</string>
   <string name="pm_root_success_notification_title">Sallittiin root-oikeus</string>
   <string name="power_20s_shutdown">Laite sammuu %d sekunnin kuluttua</string>
+  <string name="power_ambient_display">Ambient-näyttö</string>
   <string name="power_analysis_consume_title">Akun käyttö</string>
   <string name="power_analysis_suggestion_need_optimize">Akun käyttöongelmia havaittu.</string>
   <string name="power_autorun_apps_empty">Ei automaattisesti käynnistyviä sovelluksia</string>
@@ -2077,7 +2079,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sms_service">Estä palvelutekstiviestit</string>
   <string name="sms_smart_engine_update">Päivitä tekstiviestisuodatin automaattisesti</string>
   <string name="sms_smart_engine_update_now">Päivitä</string>
-  <string name="sms_stranger_block">Estä tekstiviestit muukalaisilta</string>
+  <string name="sms_stranger_block">Estetty</string>
   <string name="sorted_dialog_title">Lajittele</string>
   <string name="sp_background_risk_dialog_summary">, tarkista ja korjaa maksuongelmat.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Olet yhdistettynä julkiseen Wi-Fi-verkkoon, joka saattaa olla suojaamaton. Varmista, että maksusi on suojattu, ennen kuin suoritat sen loppuun.</string>
@@ -2136,11 +2138,12 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_antispam_mode_only_whitelist_sum">Salli vain poikkeuslistalla olevien numeroiden puhelut ja viestit</string>
   <string name="st_antispam_mode_smart">Ilmoitetut numerot</string>
   <string name="st_antispam_mode_smart_sum">Estä numerot, jotka olet itse ilmoittanut ja numerot, jotka muut käyttäjät ovat ilmoittaneet</string>
-  <string name="st_antispam_title_anoy_incoming">Puhelut muukalaisilta</string>
-  <string name="st_antispam_title_anoy_sms">Viestit muukalaisilta</string>
+  <string name="st_antispam_title_anoy_incoming">Puhelut tuntemattomilta</string>
+  <string name="st_antispam_title_anoy_sms">Viestit tuntemattomilta</string>
   <string name="st_antispam_title_contact_incoming">Puhelut Yhteystiedoilta</string>
   <string name="st_antispam_title_contact_sms">Viestit Yhteystiedoilta</string>
   <string name="st_antispam_title_contactandanoy_group">Asetukset</string>
+  <string name="st_antispam_title_mms">Multimediaviesti</string>
   <string name="st_antispam_title_null_incoming">Yksityiset numerot</string>
   <string name="st_antispam_title_service_sms">Palveluilmoitukset</string>
   <string name="st_antispam_title_whitelist">Poikkeukset</string>
@@ -2149,15 +2152,15 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_call_intercept_forwarding">Estä siirretyt puhelut</string>
   <string name="st_call_intercept_oversea">Estä puhelut ulkomailta</string>
   <string name="st_call_intercept_reported">Estä puhelut ilmoitetuista numeroista</string>
-  <string name="st_call_intercept_stranger">Estä puhelut muukalaisilta</string>
+  <string name="st_call_intercept_stranger">Estä puhelut tuntemattomilta</string>
   <string name="st_call_intercept_unknown">Estä puhelut piilotetuista numeroista</string>
   <string name="st_call_other_group">Muu</string>
   <string name="st_call_settings">Puhelun estolista</string>
-  <string name="st_call_stranger_group">Estä puhelut muukalaisilta</string>
+  <string name="st_call_stranger_group">Estä puhelut tuntemattomilta</string>
   <string name="st_confirm_dialog_btn_open">Avaa</string>
   <string name="st_confirm_dialog_summary_contact_call">Kaikki puhelut yhteystiedoilta estetään.</string>
   <string name="st_confirm_dialog_summary_oversea_call">Ota käyttöön estääksesi kaikki saapuvat puhelut ulkomaisista puhelinnumeroista.</string>
-  <string name="st_confirm_dialog_summary_stranger_call">Kaikki puhelut muukalaisilta estetään.</string>
+  <string name="st_confirm_dialog_summary_stranger_call">Kaikki puhelut tuntemattomilta estetään.</string>
   <string name="st_filter_keywords_setting_summary1">Viestit tuntemattomilta numeroilta, jotka sisältävät tässä listassa olevia sanoja estetään.</string>
   <string name="st_filter_keywords_setting_summary2">(Käytä pilkkua erotellaksesi monta avainsanaa)</string>
   <string name="st_filter_keywords_setting_summary3">Viestit tuntemattomilta numeroilta, jotka sisältää tässä luettelossa olevat sanat päästetään läpi.</string>
@@ -2174,7 +2177,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_msg_keyword_white">Avainsanojen poikkeukset</string>
   <string name="st_msg_other_group">Muu</string>
   <string name="st_msg_settings">Tekstiviestien estolista</string>
-  <string name="st_msg_stranger_group">Estä tekstiviestit muukalaisilta</string>
+  <string name="st_msg_stranger_group">Estä viestit tuntemattomilta</string>
   <string name="st_settings_name">Estolistan asetukset</string>
   <string name="st_share_settings">Käytä SIM 1 asetuksia</string>
   <string name="st_sub_title_customize_mode_name">Nimi</string>

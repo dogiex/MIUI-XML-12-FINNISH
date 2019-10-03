@@ -256,8 +256,8 @@ https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
   <string name="hsa_send_again_countdown">Lähetä uudelleen (%d s)</string>
   <string name="hsa_send_failed">Vahvistuskoodia ei voitu lähettää. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="hsa_sending">Lähetetään…</string>
-  <string name="hsa_tip_message">"1. Vahvistuskoodiviesti lähetettiin laitteeseen, joka on liitettynä sinun Apple ID:seen.
-2. Poista kaksivaiheinen todentaminen käytöstä jos vahvistuskoodi ei toimi."</string>
+  <string name="hsa_tip_message">"1. Jos et saa vahvistuskoodiviestiä, varmista, että Apple-laitteesi on kirjautuneena iCloud-tiliisi.
+2. Jos vahvistuskoodiviestin antaminen ei auta, poista kaksivaiheinen todentaminen käytöstä. "</string>
   <string name="hsa_tip_message_shutdown_hsa">Kuinka kaksivaiheinen todentaminen poistetaan käytöstä</string>
   <string name="hsa_tip_message_with_device">"1. Vahvistuskoodiviesti lähetettiin laitteeseen %s, joka on liitettynä sinun Apple ID:seen.
 2. Poista kaksivaiheinen todentaminen käytöstä jos vahvistuskoodi ei toimi."</string>
@@ -267,7 +267,7 @@ https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
   <string name="hsa_verify_failed_message">Kaksivaiheinen todentaminen epäonnistui. Voit yrittää uudelleen tai poista kaksivaiheinen todentaminen käytöstä.</string>
   <string name="hsa_verify_retry">Yritä uudelleen</string>
   <string name="hsa_verify_shutdown">Poista käytöstä</string>
-  <string name="iCloud_ID_verification_tip">Syötä tekstiviestin vahvistuskoodi, joka lähetettiin Apple ID:een liitettyyn puhelinnumeroon. Älä huomioi iPhonen näytölläsi näytettävään ponnahdusikkunakoodiin.</string>
+  <string name="iCloud_ID_verification_tip">Napauta \"Hyväksyn\" Apple-laitteellasi näyttääksesi vahvistuskoodin. Anna vahvistuskoodi täällä.</string>
   <string name="icloud_backup_tip">Kirjaudu vanhan iOS laitteesi iCloud -tiliin</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Avaa Asetukset vanhalla iOS laitteellasi ja valitse iCloud.
 2. Laita yhteystietojen ja muiden kohteiden valintakytkin päälle.

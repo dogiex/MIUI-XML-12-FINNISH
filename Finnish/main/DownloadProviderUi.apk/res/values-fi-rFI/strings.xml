@@ -252,6 +252,7 @@
   <string name="other">Muu</string>
   <string name="other_filter">Muu</string>
   <string name="package_filter">Paketit</string>
+  <string name="path_no_available">Tämä polku ei ole käytettävissä</string>
   <string name="pause_download">Pysäytä</string>
   <string name="paused">Pysäytetty</string>
   <string name="paused_by_app">Pysäytä</string>
