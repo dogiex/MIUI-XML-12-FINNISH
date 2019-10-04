@@ -5,6 +5,8 @@
   <string name="ad_download">Lataa</string>
   <string name="add_private">Piilota tiedostot nyt</string>
   <string name="add_private_files">Lisää tiedostoja</string>
+  <string name="app_function">Hallitse laitteesi tiedostoja</string>
+  <string name="app_name">Tiedostot</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Paketit</string>
@@ -123,6 +125,7 @@
   <string name="error_create_dir">Kansiota ei voitu luoda</string>
   <string name="error_create_file">Tiedostoa ei voitu luoda</string>
   <string name="error_delete_failed">Tiedostoa ei voitu poistaa</string>
+  <string name="error_file_already_exists">Tämä tiedosto on jo olemassa</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
   <string name="error_folder_already_exists">Tämä tiedosto on jo olemassa</string>
   <string name="error_info_cant_send_folder">Tämän tyyppistä tiedostoa ei voi lähettää.</string>
@@ -161,7 +164,10 @@
   <string name="ftp_transfer_secure">Turvallisuus</string>
   <string name="ftp_username_and_passworld">Kirjaudu sisään</string>
   <string name="ftp_username_hint">Käyttäjänimi</string>
-  <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
+  <string name="function_file_operation">"Tiedostojen käyttämiseen ja avaamiseen; "</string>
+  <string name="function_set_private">"Tiedostojen näyttämiseen ja salaamiseen; "</string>
+  <string name="function_use_imei">"Tiedostojen salaamiseen ja IMEI:n käyttämiseen; "</string>
+  <string name="gbk_summary">Yksinkertaistettu kiina Windowsin oletuskoodaus</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">Gt</string>
   <string name="group_title">%2$s from %1$s</string>
@@ -169,7 +175,7 @@
   <string name="group_title_extra_expire">On vanhentumassa</string>
   <string name="group_title_extra_new">Uusi</string>
   <string name="home_action_up">Takaisin</string>
-  <string name="home_title">Tiedostot</string>
+  <string name="home_title">Tiedostohallinta</string>
   <string name="homepage_tab_category">Kategoria</string>
   <string name="homepage_tab_file_view_phone">Tallennustila</string>
   <string name="homepage_tab_recent">Viimeaikaiset</string>

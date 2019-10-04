@@ -491,7 +491,6 @@ Aktivoi tilisi seuraamalla
   <string name="restart_phone_bind_message">Tekstiviestin saapumisessa saattaa kestää hetki. Aloitetaanko alusta tästä huolimatta?</string>
   <string name="restart_phone_bind_title">Vaihda palautuspuhelin</string>
   <string name="same_new_and_old_pwd">Ei voi olla sama, kuin nykyinen salasana</string>
-  <string name="scan_barcode">Skannaa QR-koodi kirjautuaksesi sisään</string>
   <string name="scan_barcode_title">Kirjaudu Mi Tilillesi skannaamalla QR-koodi</string>
   <string name="search_account_security">Tilin tietoturva</string>
   <string name="search_account_security_desc">Tilin Asetukset</string>

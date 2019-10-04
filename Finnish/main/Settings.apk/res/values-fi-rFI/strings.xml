@@ -832,6 +832,8 @@ Varmista, että laite esittää tämän koodin:
   <string name="bluetooth_disable_absolute_volume_summary">Bluetoothin yleinen äänenvoimakkuuden säätö poistetaan käytöstä ongelmien välttämiseksi esimerkiksi silloin, kun laitteen äänenvoimakkuus on liian kova tai sitä ei voi säätää.</string>
   <string name="bluetooth_disable_inband_ringing">Poista kaistan sisäinen soitto käytöstä</string>
   <string name="bluetooth_disable_inband_ringing_summary">Älä toista mukautettuja puhelimen soittoääniä Bluetooth-kuulokkeilla</string>
+  <string name="bluetooth_disable_mi_fast_connect">Poista Mi Link käytöstä</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Poista Mi Link toiminnallisuus käytöstä</string>
   <string name="bluetooth_disable_profile_message">"Tämä poistaa profiilin
 %1$s
 
@@ -973,6 +975,12 @@ Kanavatila"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth-äänen LDAC-koodekki: Toiston laatu</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Valitse Bluetooth-äänen LDAC-koodekki:
 Toiston laatu"</string>
+<string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth-äänen LHDC-koodekki: Viive</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Valitse Bluetooth-äänen LHDC-koodekki:
+Viive"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth-äänen LHDC-koodekki: Toiston laatu</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Valitse Bluetooth-äänen LHDC-koodekki:
+Toiston laatu"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth-ääninäytteen siirtonopeus</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Valitse Bluetooth-äänen koodekki:
 Siirtonopeus"</string>
@@ -1102,6 +1110,14 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="bt_ldac_open_dialog_title">Otetaanko LDAC käyttöön?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Ominaisuudet</string>
+  <string name="bt_lhdc_declaration">Bluetooth-laitteen tukiessa LHDC:tä, se yhdistetään oletuksena. LHDC tarjoaa korkean äänenlaadun kokemuksen, mutta se lisää myös virrankulutusta. Ongelmia saattaa esiintyä toiston aikana Bluetooth-laitteistorajoitteiden takia.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC tarjoaa korkean äänenlaadun kokemuksen, mutta se lisää myös virrankulutusta
+Tämä ominaisuus voidaan poistaa käytöstä [Asetuksista]"</string>
+  <string name="bt_lhdc_dialog_title">Nykyinen laite tukee LHDC:tä, joka on ollut yhdistettynä oletuksena:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC tarjoaa korkean äänenlaadun kokemuksen, mutta se lisää myös virrankulutusta. Ongelmia voi ilmeentyä toiston aikana Bluetooth-laitteistorajoituksien vuoksi.</string>
+  <string name="bt_lhdc_open_dialog_title">Otetaanko LHDC käyttöön?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Ominaisuudet</string>
   <string name="bt_pre_summary">Tarjoaa korkean äänenlaadun kokemuksen</string>
   <string name="bt_rarely_used_device_title">Harvoin käytetyt laitteet (%d)</string>
   <string name="bt_trace_log">Bluetooth jäljitysloki</string>
@@ -1270,18 +1286,23 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="color_led_applications_title">Valitse sovellukset</string>
   <string name="color_led_applications_title_summary">Voit rajoittaa LED-valon käyttöä yksittäisille sovelluksille</string>
   <string name="color_led_battery_title">Pidä päällä latauksen aikana</string>
+  <string name="color_led_charging_summary">Poistetaan käytöstä, kun akku on ladattu</string>
   <string name="color_led_end_time">Lopetusaika</string>
-  <string name="color_led_game_mode_title">Game Turbo</string>
+  <string name="color_led_game_mode_summary">Näytä pelien tehosteet, kun Game Turbo on käytössä</string>
+  <string name="color_led_game_mode_title">Käytä Game Turbolle</string>
   <string name="color_led_hint">Valitse skenaariot, joissa LED-valoa tulisi käyttää. LED-valo syttyy, kun näyttö on asetetty alaspäin ja Älä häiritse -tila on pois käytöstä.</string>
-  <string name="color_led_incall_pulse_title">Vilkuta saapuville puheluille</string>
+  <string name="color_led_incall_pulse_title">Käytä saapuville puheluille</string>
   <string name="color_led_lucky_dialog_message">Tämä ominaisuus vaatii Punaisen kirjejuoren avustajan käyttämisen. Otetaanko käyttöön nyt?</string>
   <string name="color_led_lucky_dialog_title">Ota Punaisen kirjejuoren avustaja käyttöön</string>
-  <string name="color_led_music_mode_summary">Näytä rytmisiä valotehosteita musiikin toiston aikana</string>
-  <string name="color_led_music_mode_title">Musiikki</string>
-  <string name="color_led_notification_pulse_title">Vilkuta ilmoituksille</string>
+  <string name="color_led_music_mode_summary">Näytä rytmisiä valotehosteita musiikin toiston aikana. Ei toimi Äänettömässä tilassa.</string>
+  <string name="color_led_music_mode_title">Käytä musiikille</string>
+  <string name="color_led_notification_pulse_title">Vilkuta ilmoituksille, kun näyttö on sammuksissa</string>
   <string name="color_led_red_more_feature">Erikoistehosteet</string>
-  <string name="color_led_red_package_title">Punaiset kirjekuoret</string>
+  <string name="color_led_red_package_title">Käytä punaisille kirjekuorille</string>
+  <string name="color_led_red_packets_summary">Näytä tehosteet punaisille kirjekuorille WeChatistä ja QQ:sta, kun Punainen kirjekuoren avustaja on käytössä</string>
+  <string name="color_led_special_scene_title">Erikoistehosteet</string>
   <string name="color_led_start_time">Aloitusaika</string>
+  <string name="color_led_summary">Ei toimi Älä häiritse -tilassa</string>
   <string name="color_led_title">LED-valo</string>
   <string name="color_magenta">Magenta</string>
   <string name="color_none">Ei mitään</string>
@@ -2328,6 +2349,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="google_title">Google</string>
   <string name="got_it">Selvä</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiin</string>
+  <string name="gxzw_add_fingerprint_area">Sormenjälkitunnistin</string>
   <string name="gxzw_add_fingerprint_continue">Jatka</string>
   <string name="gxzw_add_fingerprint_edge_message">Siirrä sormeasi tallentaaksesi sormenjälkesi kaikki reunat</string>
   <string name="gxzw_add_fingerprint_edge_title">Säädä otettasi</string>
@@ -2592,6 +2614,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keywords_wifi">wifi;wi-fi;WLAN;WLAN;wlan;WLAN;verkkoyhteys</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, puhelu, soittaa</string>
   <string name="keywords_write_settings">kirjoita muokkaa järjestelmäasetukset</string>
+  <string name="kid_space_settings">Lapsitila</string>
   <string name="kilobyteShort">Kt</string>
   <string name="kilobyte_per_second">Kt/s</string>
   <string name="label_mi_stats">Mi analytiikat</string>
@@ -3042,6 +3065,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="mi_service">Mi Palvelu</string>
   <string name="mi_service_app_detail">Datan käytön tiedot</string>
   <string name="mi_shopping_mall">Mi Kauppa</string>
+  <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Mi Pay Tili</string>
   <string name="misc_files">Muut tiedostot</string>
   <string name="misc_files_selected_count">valittu %1$d/%2$d</string>
@@ -4944,6 +4968,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>
   <string name="status_bar_settings_qs_layout">Pika-asetuksien ulkoasu</string>
   <string name="status_bar_settings_show_lte_for_4g">Näytä LTE-kuvake 4G:n tilalla</string>
+  <string name="status_bar_settings_show_weather">Näytä sää ilmoitusalueella</string>
   <string name="status_bar_settings_status_bar">Tilapalkki</string>
   <string name="status_bar_title">Tilapalkki</string>
   <string name="status_bt_address">Bluetooth-osoite</string>
@@ -6367,17 +6392,10 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Ikkuna</string>
   <string name="winscope_trace_quick_settings_title">Winscope Trace</string>
-  <string name="wireless_button">Lataa muita laitteita langattomasti</string>
-  <string name="wireless_charging_settings">Lataa muita laitteita langattomasti</string>
-  <string name="wireless_closed">Pois käytöstä</string>
   <string name="wireless_connected">Yhdistetty</string>
   <string name="wireless_networks_settings_title">Langaton verkko ja verkot</string>
   <string name="wireless_off">Pois käytöstä</string>
   <string name="wireless_on">Käytössä</string>
-  <string name="wireless_opened">Käytössä</string>
-  <string name="wireless_tip">"Käytä puhelintasi lataaksesi muita laitteita langattomasti.
-
-Tämä ominaisuus poistetaan käytöstä automaattisesti, jos lataamista ei aloiteta 90 sekunnin kuluessa."</string>
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
   <string name="wizard_next">Seuraava</string>

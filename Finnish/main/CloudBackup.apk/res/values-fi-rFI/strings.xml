@@ -163,7 +163,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
   <string name="query_restore_description">Palauta Aloitusnäytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Aloitusnäytölle.</string>
   <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Aloitusnäytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
-  <string name="recover_from_micloud">Palauta Mi Pilvi varmuuskopio</string>
   <string name="recover_home_settings">Palauta Aloitusnäytön asetukset</string>
   <string name="recover_miui_settings">Palauta järjestelmäasetukset</string>
   <string name="recover_settings_description">Pidä laitteesi päällä</string>
@@ -205,6 +204,7 @@ Tarkista verkkoasetukset ja yritä uudelleen."</string>
   <string name="restore_task_in_process">Palautetaan…</string>
   <string name="restore_task_unfinished">Ei voitu palautaa</string>
   <string name="restore_unfinished">Palautetaan, yritä myöhemmin uudelleen</string>
+  <string name="restoring_data">Palautetaan tietoja…</string>
   <string name="restoring_file_title_no_progress">Palautetaan tiedostoja…</string>
   <string name="restoring_settings">Palautetaan asetuksia…</string>
   <string name="retry">Yritä uudelleen</string>

@@ -556,6 +556,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem_test_device_value_set">Muokkaa laitteen tilaa</string>
   <string name="cit_tool_modem_test_get">Päivitä</string>
   <string name="cit_tool_modem_test_mode">Modeemin testitilan asetukset</string>
+  <string name="cit_tool_modem_test_mode_close">Sulje testitila</string>
   <string name="cit_tool_modem_test_mode_closed">Testitila suljettiin</string>
   <string name="cit_tool_modem_test_mode_mismatch">Testitila ristiriidassa</string>
   <string name="cit_tool_modem_test_mode_opened">Testitila avattu</string>

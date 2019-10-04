@@ -6,12 +6,13 @@
   <string name="btn_changelog">Muutosloki</string>
   <string name="btn_download">Lataa (%1$s)</string>
   <string name="btn_error">Tapahtui virhe, yritetäänkö uudelleen?</string>
-  <string name="btn_install">Asenna</string>
+  <string name="btn_install">Tarkista MD5 &amp; Asenna</string>
   <string name="btn_no">Peruuta</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">Pysäytä</string>
   <string name="btn_share">Jaa</string>
   <string name="btn_stop">Lopeta</string>
+  <string name="btn_wrong_md5">Virheellinen MD5, poista ROM napauttamalla!</string>
   <string name="btn_yes">Kyllä</string>
   <string name="channel_downloading">Lataaminen kesken</string>
   <string name="channel_update">Uusi versio saatavilla</string>

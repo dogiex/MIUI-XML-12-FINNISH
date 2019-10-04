@@ -71,6 +71,8 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_shutter_button">Sulkijan painike</string>
   <string name="accessibility_skin_beautify_button">Ihon Kaunistajan painike</string>
   <string name="accessibility_stereo_button">Tarkennuksen säätö</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD pois käytöstä</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD käytössä</string>
   <string name="accessibility_ultra_wide_off">Poistettiin Ultralaajakulmatila käytöstä</string>
   <string name="accessibility_ultra_wide_on">Otettiin Ultralaajakulmtatila käyttöön</string>
   <string name="accessibility_video_btn_play">Toista video</string>
@@ -602,7 +604,6 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_snap_entry_take_picture">Nopean kuvan tila (kuva)</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Kuva</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nopean kuvan tilaa ei voi käyttää jos \"Herätä Äänenvoimakkuuspainikkeella\" on käytössä.</string>
   <string name="pref_camera_sound_title">Kameran äänet</string>
   <string name="pref_camera_square_mode_title">Neliö</string>
   <string name="pref_camera_stereo_mode_title">Tarkennuksen säätäminen</string>
@@ -639,7 +640,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">HEIKKO VALAISTUS</string>
   <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
   <string name="pref_camera_zoom_mode_entry_standard">TAVALLINEN</string>
-  <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+  <string name="pref_camera_zoom_mode_entry_tele">TELE 2X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA LAAJA</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>
@@ -658,6 +659,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_google_lens_title">Lens ehdotukset</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat</string>
   <string name="pref_manual_exposure_title">S</string>
+  <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">F</string>
   <string name="pref_retain_camera_mode_summary">Vaihda kamera edelliseen käytettyyn tilaan, kun avaat sovelluksen.</string>
@@ -759,10 +761,13 @@ ja tuo henkilöt esiin."</string>
   <string name="toast_start_audio_capture">Ota kuva ääntelemällä</string>
   <string name="ubi_focus_capture_fail">Kuvan ottaminen epäonnistui</string>
   <string name="ubifocus_capture_warning_message">Parhaan tuloksen saavuttamiseksi, kuvassasi täytyy kohteiden olla sekä lähellä (alle 1 metrin päässä linssistä) että kaukana</string>
-  <string name="ultra_pixel_photography_32mp_close_tip">32MP pois käytöstä</string>
-  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-  <string name="ultra_pixel_photography_48mp_close_tip">48MP pois käytöstä</string>
-  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_pixel_32mp">32MP</string>
+  <string name="ultra_pixel_48mp">48MP</string>
+  <string name="ultra_pixel_64mp">64MP</string>
+  <string name="ultra_pixel_device">64MP</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD pois käytöstä</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD käytössä</string>
+  <string name="ultra_pixel_zoom_no_support_tip">Zoomaus ei toimi %s Ultra HD -tilassa</string>
   <string name="ultra_wide_bokeh_close_tip">Kokovartalontila pois käytöstä</string>
   <string name="ultra_wide_bokeh_open_tip">Kokovartalontila</string>
   <string name="ultra_wide_close_tip">Ultralaajakulmatila pois käytöstä</string>
@@ -802,5 +807,4 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="wideselfie_rotate_to_front">Kallista puhelinta eteenpäin</string>
   <string name="wideselfie_rotate_to_left_slowly">Käännä puhelinta vasemmalle</string>
   <string name="wideselfie_rotate_to_right_slowly">Käännä puhelinta oikealle</string>
-  <string name="zoom_no_support_tip_48M">Zoomaus ei toimi 48MP-tilassa</string>
 </resources>

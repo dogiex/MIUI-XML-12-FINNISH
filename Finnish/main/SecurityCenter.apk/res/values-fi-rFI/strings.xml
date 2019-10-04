@@ -39,7 +39,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="ac_pre_notification_contentText">Suojaa henkilökohtaiset tietosi</string>
   <string name="ac_pre_notification_contentTitle">Kokeile Sovelluslukkoa</string>
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
-  <string name="ac_summaryOn">Käytössä, salasana vaaditaan sovelluksien avaamiseen</string>
+  <string name="ac_summaryOn">Anna salasana avataksesi suojattuja sovelluksia</string>
   <string name="ac_unmask_all_apps">Poista piilotus kaikilta sovelluksilta</string>
   <string name="access_control_app_is_launching">Sovellus käynnistyy</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Anna salasana ennen uudella sormenjäljellä avaamista</string>
@@ -103,6 +103,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="after_the_lock_screen">Lukitse sovellukset näytön mukana.</string>
   <string name="alert_back_diving_mode_summary">Poistetaanko Immersiivinen tila käytöstä nyt?</string>
   <string name="alert_back_diving_mode_title">Immersiivinen tila</string>
+  <string name="alert_back_milink_hangup_tips_content">Suoratoistoa ei keskeytetä, kun lopetat puhelun. Voit herättää näytön painamalla Virtapainiketta.</string>
   <string name="all_address_choose_hint">Kaikki numerot tästä maakunnasta</string>
   <string name="already_close_gamebooster">Pelien nopeuttaja on pois käytöstä</string>
   <string name="anti_disturb_msg_detail">Poista käytöstä kaikki ilmoitukset paitsi saapuville puheluille</string>
@@ -131,7 +132,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="antivirus_privacy_dialog_cloudscan_description">Lähetä ja skannaa sovellusten nimet ja tiedot käyttäen internetistä haettuja virustunnisteita.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Tämä toiminto salaa ja lähettää laitteesi ID-numeron Avastin, AVL:n ja Tencentin palvelimille (%s).</string>
-  <string name="antivirus_privacy_dialog_summary_link">näytä Tietosuojakäytäntö</string>
+  <string name="antivirus_privacy_dialog_summary_link">Tietosuojakäytäntö</string>
   <string name="antivirus_privacy_dialog_title">Tietosuojakäytäntö</string>
   <string name="antivirus_sec_network_unavailable">Tietoturvasovellus ei voi päivittää, koska olet rajoittanut internetyhteyttä. Sallitaanko Tietoturvan yhdistää internetiin?</string>
   <string name="antivirus_toast_already_update">Ajan tasalla</string>
@@ -439,6 +440,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="battery_history_hours">%1$d t %2$d min %3$d s</string>
   <string name="battery_history_minutes">%1$d min %2$d s</string>
   <string name="battery_history_seconds">%1$d s</string>
+  <string name="battery_statistics_activity_title">Akun käyttötilastot</string>
   <string name="battery_stats_charging_label">Ladataan</string>
   <string name="battery_stats_gps_on_label">GPS käytössä</string>
   <string name="battery_stats_on_battery">%1$s akkukäytöllä</string>
@@ -486,7 +488,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="btn_start_diagnostic">Testaa verkkoa</string>
   <string name="btn_stop_diagnostic">Lopeta</string>
   <string name="btn_text_already_opened">Päällä</string>
-  <string name="btn_text_goto_power_rank">Näytä akun tilasto</string>
+  <string name="btn_text_goto_power_rank">Näytä kaikki tilastot</string>
   <string name="btn_text_goto_setup">Siirry Asetuksiin</string>
   <string name="btn_text_network_speed_detail">Yhteys</string>
   <string name="btn_text_open_now">Ota käyttöön</string>
@@ -1000,6 +1002,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gamebox_immersion_tips_content">Immersiivinen tila rajoittaa SIM-kortin kaikkia toiminnallisuuksia paitsi mobiilidatayhteyttä. Sinua ei keskeytetä puheluilla, etkä tule saamaan ilmoituksia vastaamattomista puheluista. SIM-kortin kaikki toiminnallisuudet palautetaan takaisin, kun Immersiivinen tila poistetaan käytöstä. Otetaanko Immersiivinen tila käyttöön?</string>
   <string name="gamebox_immersion_tips_title">Huomio</string>
   <string name="gamebox_immerson_open">Immersiivistä tilaa otetaan käyttöön. Älä vaihda verkkoja…</string>
+  <string name="gamebox_milink">Suoratoista</string>
   <string name="gamebox_positive_button_text">OK (%1$d s)</string>
   <string name="gamebox_qq_not_find">Asenna QQ ja yritä uudelleen.</string>
   <string name="gamebox_recent_task_expand_fail">Pikakuvakkeiden kanssa toimivia sovelluksia ei ole asennettu</string>
@@ -1526,8 +1529,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_battery_scan_consume_abnormal_title_set">%s kuluttaa akkua</string>
   <string name="notification_exit_power_save_mode">Virransäästö poistettiin käytöstä</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
-  <string name="notification_mask_summary">Piilota ilmoituksen sisältö Lukitusnäytöltä ja Ilmoitusalueelta</string>
-  <string name="notification_mask_title">Piilota sisältö</string>
+  <string name="notification_mask_summary">Älä näytä suojattujen sovelluksien ilmoituksien sisältöä</string>
+  <string name="notification_mask_title">Piilota ilmoituksien sisältö</string>
   <string name="notification_masked_item">Piilota ilmoitukset</string>
   <string name="notification_masked_subtitle">Piilota ilmoitukset Sovelluslukolla suojatuilta sovelluksilta</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
@@ -1633,6 +1636,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="other">Muut asetukset</string>
   <string name="other_exception_summary">Sinulla ei ole internet-yhteyttä</string>
   <string name="other_exception_title">Tarkistetaan muita ongelmia</string>
+  <string name="other_milink_connect">Ei voi suoratoistaa. Toista ominaisuutta suoratoistetaan parhaillaan.</string>
   <string name="package_change_notification_summary">Lisää tietoa napauttamalla.</string>
   <string name="package_change_notification_title">Säädä datan raja automaattisesti</string>
   <string name="package_setted_error_notification_summary">Näytä datan käytön yksityiskohdat napauttamalla.</string>
@@ -1658,6 +1662,12 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_abnormal_scan_reason_use_GPS">Käyttää sijaintipalveluita liian usein</string>
   <string name="pc_abnormal_scan_reason_wake_system">Herättää järjestelmää liian usein</string>
   <string name="pc_activity_title">Optimoi akku</string>
+  <string name="pc_battery_detail_curve_reference_now">Nyt</string>
+  <string name="pc_battery_detail_device_item_title">Akun käyttötilastot</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Tiedot</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Sijoitus</string>
+  <string name="pc_battery_history_rank_mha_menu_item">Milliampeerituntia</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Prosentti</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Asenna USB:n kautta</string>
   <string name="pc_main_activity_back">Takaisin</string>
@@ -1671,6 +1681,10 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_main_sub_battery_text_day_hour">%1$s pv %2$s t jäljellä</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$s t %2$s min jäljellä</string>
   <string name="pc_settings_title">Akun optimointiasetukset</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$d t %2$d min jäljellä</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$d t %2$d min edellisestä latauksesta</string>
+  <string name="pc_statistics_battery_use_summary">%s edellisestä latauksesta</string>
+  <string name="pc_statistics_battery_use_title">Akun käyttö</string>
   <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
   <string name="per_month_pkg_traffic_settings">Aseta tiedonsiirtoraja</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -1888,6 +1902,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="preferred_app_entries_messaging">Viestit</string>
   <string name="preferred_app_entries_music">Musiikki</string>
   <string name="privacy_apps">Piilotetut sovellukset</string>
+  <string name="privacy_apps_begin_use">Aloita</string>
+  <string name="privacy_apps_button_know">Selvä</string>
   <string name="privacy_apps_category_title">Piilotetut sovellukset</string>
   <string name="privacy_apps_checkbox_remind_choice">Älä näytä uudelleen</string>
   <string name="privacy_apps_close">Sulje</string>
@@ -1896,7 +1912,11 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="privacy_apps_manage">Hallinnoi piilotettuja sovelluksia</string>
   <string name="privacy_apps_manage_dialog_title">Tietoja piilotetuista sovelluksista</string>
   <string name="privacy_apps_manager_dialog_message">Tämän sovelluksen kuvaketta ei näytetä Aloitusnäytöllä piilotettuasi tämän sovelluksen. Piilotetaanko tämä sovellus nyt?</string>
+  <string name="privacy_apps_next_stup">Seuraava</string>
+  <string name="privacy_apps_shield_message_summary">Älä näytä suojattujen sovelluksien ilmoituksia</string>
+  <string name="privacy_apps_shield_message_title">Älä näytä ilmoituksia</string>
   <string name="privacy_apps_tutorial">Oppitunti</string>
+  <string name="privacy_apps_tutorial_dlg_title">Kuinka piilotetut sovellukset löytää</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Tämän ominaisuuden avulla voit piilottaa sovelluksen kuvakkeen, jotta se ei enää näy Aloitusnäytölläsi.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Annettuasi salasanasi, piilotettujen sovelluksien kansio tulee esiin.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Levitä kahta sormea näytölläsi. Näet viestin, joka pyytää antamaan Sovelluslukon salasanasi.</string>
@@ -2237,6 +2257,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="status_bar_network_flow_purchase">"   Osta &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Aseta datapaketti &gt;"</string>
   <string name="still_retain_btn">Säilytä</string>
+  <string name="stop_milink_connect">Suoratoisto lopetettiin</string>
   <string name="suggest_app_tolock">Ehdotukset</string>
   <string name="suggest_app_tolock_masked">Piilotettu</string>
   <string name="suggest_app_tolock_unmasked">Näkyvät ilmoitukset</string>
@@ -2322,13 +2343,21 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="system_app">Järjestelmäsovellukset</string>
   <string name="system_application">Järjestelmäsovellukset</string>
   <string name="system_permission_declare_agree">Hyväksyn</string>
+  <string name="system_permission_declare_disagree">En hyväksy</string>
   <string name="system_permission_declare_double_link">Lue ja hyväksy meidän Käyttöehdot ja Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Tervetuloa %1s! Tällä sovelluksella voit käyttää näitä ominaisuuksia: %2s.</string>
   <string name="system_permission_declare_no_say_no">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi normaalisti.</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi osittain.</string>
   <string name="system_permission_declare_privacy_declare">"Kunnioitamme ja suojelemme yksityisyyttäsi.
 Huomioi, että %1s kerää tietojasi ja vaatii seuraavia käyttöoikeuksia toimiakseen normaalisti:"</string>
-  <string name="system_permission_declare_revoke_path">Voit poistaa tämän sovelluksen, kirjautua ulos tililtäsi, tai hallita käyttöoikeuksiasi ja valtuutuksiasi asetuksissa Tietoturva &gt; Hallitse sovelluksia &gt; Käyttöoikeudet &gt; Muut käyttöoikeudet.</string>
+<string name="system_permission_declare_privacy_no_permission">"Huomioi, että %1s kerää tietojasi toimiakseen normaalisti.
+Kunnioitamme ja suojaamme tietosuojaasi."</string>
+  <string name="system_permission_declare_privacy_policy">Lue ja hyväksy meidän Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä.</string>
+  <string name="system_permission_declare_revoke_system">Voit poistua tästä sovelluksesta.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Voit poistaa tämän sovelluksen tai hallita käyttöoikeuksiasi ja valtuutuksiasi asetuksissa Tietoturva &gt; Hallitse sovelluksia &gt; Käyttöoikeudet &gt; Muut käyttöoikeudet.</string>
   <string name="system_permission_declare_use_network">Yhdistä verkkoon</string>
+  <string name="system_permission_declare_use_network_no_permission">Yhdistä verkkoon</string>
+  <string name="system_permission_declare_user_agreement">Lue ja hyväksy meidän Käyttöehdot ennen tämän ominaisuuden käyttämistä.</string>
   <string name="system_permission_perm_answer_call">Soita puheluita</string>
   <string name="system_permission_perm_read_mms">Lukea multimediaviestejä</string>
   <string name="system_permission_perm_read_numbers">Lukea puhelinnumeroita</string>

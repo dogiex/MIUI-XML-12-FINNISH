@@ -14,6 +14,7 @@
   <string name="SMTP_independent_verification_text">SMTP-riippumaton vahvistus</string>
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
+  <string name="account_add_title">Valitse sähköpostipalvelu</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille \"%s\".</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_failure">Istunto aikakatkaistiin</string>
@@ -43,7 +44,7 @@
   <string name="account_settings_enforced_summary">Ei mitään</string>
   <string name="account_settings_incoming_summary">Käyttäjänimi, salasana ja muita saapuvan postin asetuksia</string>
   <string name="account_settings_login_dialog_content_fmt">Käyttäjänimi tai salasana %s on väärä. Päivitetäänkö ne nyt?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">%s kirjautuminen epäonnistui. Palvelin ilmoittaa virheestä: %s</string>
+  <string name="account_settings_login_dialog_reason_fmt">%1$s kirjautuminen epäonnistui. Palvelin ilmoittaa virheestä: %2$s</string>
   <string name="account_settings_login_dialog_title">Kirjautuminen ei onnistu</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Sinun täytyy päivittää Sähköposti manuaalisesti synkronoidaksesi sähköpostisi</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">Sinun täytyy synkronoida Sähköposti manuaalisesti synkronoidaksesi viestit ja kalenteritapahtumat.</string>
@@ -248,7 +249,7 @@
   <string name="bill_center_setting">Maksuasetukset</string>
   <string name="bill_center_setting_head">Tuo tiedot näistä tileistä</string>
   <string name="bill_cycle_text">Maksun jakso</string>
-  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+  <string name="bill_list_card_name_fmt">%1$s | %2$s</string>
   <string name="bill_list_card_num_fmt">**** **** **** %s</string>
   <string name="bill_remind">Maksumuistutus</string>
   <string name="bill_remind_due">Maksumuistutus erääntyy maksettavaksi %s, katso napauttamalla</string>
@@ -435,6 +436,7 @@
   <string name="email_setting">Sähköpostiasetukset</string>
   <string name="email_setting_keywords">Tilit;Lisää tili;sähköposti tilit;lisää sähköposti tili;vahvista ennen poistamista;poista vahvista;vahvista ennen lähettämistä;lähetä vahvista;poista viesti ketju;poista uudelleenohjaa;keskustelu näkymä;sähköposti keskustelu;Virransäästö;sähköposti akku;lähetä palaute;lähetä lokit</string>
   <string name="email_sina">Sina Sähköposti</string>
+  <string name="email_sync_failed">Synkronointi epäonnistui</string>
   <string name="eml_parse_message">Avataan EML-tiedostoa…</string>
   <string name="empty_account_tip">Tiliä ei löytynyt</string>
   <string name="empty_email_tip">Tyhjää viesti ei voi lähettää</string>
@@ -582,12 +584,12 @@
   <string name="loading_conversations">Ladataan…</string>
   <string name="loading_from_remote">Ladataan…</string>
   <string name="local_search">Paikallinen haku</string>
-  <string name="local_search_result">%s tulosta synkronoiduissa viesteissä</string>
   <string name="log_save_path">Lokin polku</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login139">Kirjaudu sisään China Mobilella</string>
-  <string name="login_err_message">Syöttämäsi salasana on virheellinen. Saatat tarvita myös vahvistuskoodin kirjautuaksesi sisään. Jos sinun täytyy palauttaa salasanasi, vieraile osoitteessa https://email.163.com/ nähdäksesi käytettävissä olevat vaihtoehdot.</string>
+  <string name="login_err_message">%1$s Saatat tarvita myös vahvistuskoodin kirjautuaksesi sisään. Jos sinun täytyy palauttaa salasanasi, vieraile osoitteessa https://email.163.com/ nähdäksesi käytettävissä olevat vaihtoehdot.</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
+  <string name="login_failed_tip">Kirjautumisapupalautetta varten lisää WeChat julkinen numero:</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
   <string name="login_mail">Kirjaudu sisään</string>
   <string name="login_qq_psw">Kirjaudu sisään käyttäen QQ-salasanaa/autentikaattori/vahvistuskoodia</string>
@@ -599,6 +601,11 @@
   <string name="mail_description_content">Sähköposti on sähköpostisovellus, joka voi hallita useita tilejä, lähettää ja vastaanottaa sähköposteja ja synkronoida kalenteritietosi ja yhteystietosi. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen. Exchange -yhteystietosi ja kalenteritietosi poistetaan myös.</string>
   <string name="mail_description_title">Tietoja Sähköpostista</string>
   <string name="mail_header_network_not_available">Ei verkkoyhteyttä.</string>
+  <string name="mail_login_help">Kirjautumisapuri</string>
+  <string name="mail_login_help_bottom_tip">Jos sinun täytyy palauttaa salasanasi tai tarkistaa asetuksien tila, vieraile osoitteessa https://email.163.com/ nähdäksesi käytettävissä olevat valinnat sinua varten:</string>
+  <string name="mail_login_help_details1">1. Sähköpostin salasana: Jos et ole asettanut vielä asiakkaan vahvistuskoodia ja olet jo avannut POP3/IMAP/SMTP -protokollan, voit käyttää sähköpostin salasanaa kirjautuaksesi.</string>
+  <string name="mail_login_help_details2">2. Asiakkaan vahvistuskoodi: Jos olet jo asettanut asiakkaan vahvistuskoodin, voit käyttää sitä kirjautumiseen. Varmista myös, että POP3/IMAP/SMTP -protokolla on auki.</string>
+  <string name="mail_login_help_title">Sähköpostin salasana tai asiakkaan vahvistuskoodin kuvaus:</string>
   <string name="mailbox_list_account_selector_combined_view">Yhdistetty näkymä</string>
   <string name="mailbox_name_display_ad">Mainokset</string>
   <string name="mailbox_name_display_circular">Ilmoitukset</string>
@@ -741,7 +748,7 @@ Kokeile vaihtaa toiseen sähköpostitiliin."</string>
   <string name="no_more_mail">Ei enempää viestejä</string>
   <string name="no_recognize_describe">"Lippuja tai varauksia sisältäviä sähköposteja ei löytynyt.
 Kokeile toista postilaatikkoa."</string>
-<string name="no_search_results">Tuloksia ei löytynyt</string>
+<string name="no_search_results">Jatka etsimistä palvelimelta</string>
   <string name="not_subject">(Ei otsikkoa)</string>
   <string name="not_synced_title">Tiliä ei ole synkronoitu</string>
   <string name="note_text">China Mobile -verkon kautta ja tekstiviestivahvistuksella tämä lisää vain tiedonsiirtoa. Tekstiviestiveloituksia ei tule.</string>
@@ -773,7 +780,7 @@ Kokeile toista postilaatikkoa."</string>
   <string name="open_notification_kingagent">Ota hautapisteiden ilmoitukset käyttöön</string>
   <string name="optimization_suggestion">Optimointiehdotus</string>
   <string name="others_mail">Muu</string>
-  <string name="others_mail_des">(Yhteensopiva 600 tuhannen sähköpostipalvelun kanssa)</string>
+  <string name="others_mail_des">Tämä muiden sähköpostipalveluiden tai yrityksen sähköpostipalvelun kanssa</string>
   <string name="outbox_alert_button_no_resend">Älä lähetä</string>
   <string name="outbox_alert_button_resend">Lähetä uudelleen</string>
   <string name="outbox_alert_certificate_error">Ota yhteyttä sähköpostisi ylläpitäjään ja päivitä varmenteesi.</string>
@@ -838,7 +845,7 @@ Kokeile toista postilaatikkoa."</string>
   <string name="permission_tip">Määritys epäonnistui, salli määrityksessä puheluiden ja tekstiviestien käyttöoikeudet</string>
   <string name="phone">puhelin</string>
   <string name="photo_load_failed">Kuvan lataus epäonnistui</string>
-  <string name="photo_view_count" formatted="false">%d/%d</string>
+  <string name="photo_view_count">%1$d/%2$d</string>
   <string name="please_fill_in_your_mailbox_information2">Syötä sähköpostisi tiedot</string>
   <string name="pls_parse_bill_discribe">"Analysoi laskut ja matkatiedot sähköpostistasi
 vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
@@ -913,6 +920,11 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="qq_bar_send_message">Lähetä tekstiviesti</string>
   <string name="qq_login_basecode">Kirjaudutaan QQ Sähköpostiin selaimessa. Syötä salasanasi.</string>
   <string name="qq_login_get_auth">Ota salasanan suojaaminen käyttöön jos et saa tekstiviestiä</string>
+  <string name="qq_login_help_bottom_tip">Jos sinun pitää palauttaa salasanasi tai tarkistaa asetuksiesi tila, vieraile osoitteessa https://mail.qq.com/ nähdäksesi sinulle käytettävissä olevat vaihtoehdot. Lisäkysymyksiä ja palautetta varten lisää WeChat julkinen numero:</string>
+  <string name="qq_login_help_details1">1. QQ salasana: Jos et ole asettanut sähköpostin salasanaa ja asiakkaan vahvistuskoodia, varmista että POP3/IMAP/SMTP -protokolla on auki ja voit käyttää QQ-salasanaa kirjautumiseen.</string>
+  <string name="qq_login_help_details2">2. Sähköpostin salasana: Jos olet asettanut jo sähköpostin salasanan ja et ole asettanut vielä asiakkaan vahvistuskoodia, varmista että POP3/IMAP/SMTP -protokolla on auki ja voit käyttää sähköpostin salasanaa kirjautumiseen.</string>
+  <string name="qq_login_help_details3">3. Asiakkaan vahvistuskoodi: Jos olet asettanut jo QQ-asiakkaan vahvistuskoodin, sinun täytyy käyttää sitä kirjautumiseen. Jos sinun täytyy palauttaa asiakkaan vahvistuskoodi, napauta tähän:</string>
+  <string name="qq_login_help_title">QQ salasanan/sähköpostin salasanan/asiakkaan vahvistuskoodin kuvaus</string>
   <string name="qq_login_notice">Muistutus: Jos olet jo asettanut salasanan, sinun täytyy vahvistaa se kirjautuessasi sisään.</string>
   <string name="qq_login_open_imap">Napauta \"Apua\" ottaaksesi IMAP/SMTP käyttöön</string>
   <string name="qq_login_origin_setting">Kirjaudu syöttämällä käyttäjänimi ja salasana &gt;</string>
@@ -1009,7 +1021,7 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="reply">Vastaa</string>
   <string name="reply_add_bodycontent">Lisätäänkö vastaus viestin sisältöön?</string>
   <string name="reply_all">Vastaa kaikille</string>
-  <string name="reply_attribution" formatted="false">%s kirjoitti %s:</string>
+  <string name="reply_attribution">%1$s, %2$s kirjoitti:</string>
   <string name="report_phishing">Ilmoita kalastelusta</string>
   <string name="report_spam">Ilmoita roskapostista</string>
   <string name="request_copy_db_to_disk">Sähköposti pyytää kopioimaan tietokantasi tiedostoon</string>
@@ -1066,7 +1078,7 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="ser_resp_err_map_max_connections">Liian monta yhteyden yrityskertoja</string>
   <string name="ser_resp_err_map_nouser">Käyttäjää ei ole olemassa</string>
   <string name="ser_resp_err_map_or">%1$s tai %2$s</string>
-  <string name="ser_resp_err_map_pserr">Väärä käyttäjänimi tai salasana</string>
+  <string name="ser_resp_err_map_pserr">Väärä käyttäjänimi tai salasana.</string>
   <string name="ser_resp_err_map_serclosed">%s palvelin suljettu</string>
   <string name="ser_resp_err_map_ssl">"Valitse 'SSL/TLS (Salli kaikki varmenteet)' paikassa 'Suojaustyyppi'"</string>
   <string name="service_protocol_discribe">Olen lukenut ja hyväksyn WPS Sähköpostin Palvelusopimuksen</string>
@@ -1101,7 +1113,7 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="storage">Tallennustila</string>
   <string name="str_select_all">Valitse kaikki</string>
   <string name="str_select_none">Poista valinnat</string>
-  <string name="subject_and_snippet" formatted="false">%s — %s</string>
+  <string name="subject_and_snippet">%1$s — %2$s</string>
   <string name="subject_hint">Aihe</string>
   <string name="sync_contacts_fail_per_content">Salli käyttöoikeus yhteystietoihin napauttamalla</string>
   <string name="sync_contacts_fail_per_title">Yhteystietoja ei voitu synkronoida</string>
@@ -1133,8 +1145,9 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="toast_bar_insufficient_memory_space">Sähköposteja ei voi vastaanottaa. Tallennustilaa ei ole tarpeeksi.</string>
   <string name="toast_bar_invalid_account">Tilitiedot on vanhentuneet. Kirjaudu sisään uudelleen napauttamalla.</string>
   <string name="toast_bar_no_connection_network">Sinulla ei ole internet-yhteyttä</string>
-  <string name="toast_bar_open_gmail_synchronization">Gmailiin yhdistäminen epäonnistui. Ota Gmailin välityspalvelin käyttöön.</string>
+  <string name="toast_bar_open_gmail_synchronization">Gmail-yhteysvirhe. Tarkista verkkoyhteys.</string>
   <string name="toast_bar_send_fail_remind">Sähköpostia ei voitu lähettää. Sähköposti tallennettiin \"Lähtevät\" kansioon.</string>
+  <string name="toast_bar_sync_failed_client_cert">Synkronointi epäonnistui, todennusvirhe, lisää varmenne uudelleen napauttamalla</string>
   <string name="toast_bar_sync_failed_mi_authority">"Ei voitu synkronoida. Odota minuutti tai kaksi ja yritä uudelleen. Katso tiedot.
 (Jos käytät valtuuttamatonta laitetta, yhdistä intranetiin tai käytä vahvistuskoodia.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Synkronoidaksesi kalenteritiedot ja yhteystiedot, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>

@@ -245,6 +245,7 @@ Siirtonopeus"</string>
   <string name="local_backup_password_toast_validation_failure">Varasalasanan asetus epäonnistui</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
   <string name="media_category">Media</string>
+  <string name="missedcall_notification_public_version_title">Puhelin</string>
   <string name="mobile_data_always_on">Mobiilidata aina käytössä</string>
   <string name="mobile_data_always_on_summary">Pidä mobiilidata aina käytössä, vaikka Wi-Fi olisi aktiivinen. Tämä mahdollistaa nopeamman vaihtelun verkkojen välillä.</string>
   <string name="mock_location_app">Valitse valesijaintisovellus</string>

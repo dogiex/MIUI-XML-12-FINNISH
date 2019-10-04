@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">tunti sitten</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">tunti sitten</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Tunnin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">minuutin kuluttua</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">minuutti sitten</item>
+    </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Piilotetaanko nämä tiedostot?</item>
         <item quantity="one">Piilotetaanko tämä tiedosto?</item>
@@ -77,12 +106,16 @@
         <item quantity="one">%d kuva</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Tallennetaanko %d valittua kuvaa ja poistetaanko loput?</item>
-        <item quantity="one">Tallennetaanko %d valittu kuva ja poistetaanko loput?</item>
+        <item quantity="other">Poistetaanko %d kuvaa, joita et valinnut?</item>
+        <item quantity="one">Poistetaanko %d kuva, jota et valinnut?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Poista %d kuvaa</item>
+        <item quantity="one">Poista %d kuva</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Tallenna %d valittua kuvaa</item>
-        <item quantity="one">Tallenna %d valittu kuva</item>
+        <item quantity="other">Pidä %d valittua kuvaa</item>
+        <item quantity="one">Pidä %d valittu kuva</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d kuvaa</item>
@@ -115,6 +148,10 @@
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Poistetaanko %d sarjakuvaa Mi Pilvestä ja tältä laitteelta?</item>
         <item quantity="one">Poistetaanko %d sarjakuva Mi Pilvestä ja tältä laitteelta?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d kohdetta poistettiin</item>
+        <item quantity="one">%d kohde poistettiin</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Poistetaanko %d kohdetta kaikista laitteista ja Mi Pilvestä?</item>
@@ -179,6 +216,29 @@
     <plurals name="file_count_format">
         <item quantity="other">Yhteensä %1$d kohdetta</item>
         <item quantity="one">Yhteensä %1$d kohde</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">minuutin kuluttua</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">minuutti sitten</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d kohdetta odottaa varmuuskopiointia</item>

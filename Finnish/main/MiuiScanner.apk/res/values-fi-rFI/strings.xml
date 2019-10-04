@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää</string>
   <string name="abc_action_mode_done">Valmis</string>
@@ -45,6 +43,7 @@
   <string name="call_anyone">Soita</string>
   <string name="camera_error_title">Kamera virhe</string>
   <string name="cancel">Peruuta</string>
+  <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
   <string name="choose_pay_title">Valitse maksutapa</string>
   <string name="choose_picture">Valitse QR-koodin kuva</string>
   <string name="common_retake_picture">Ota uudelleen</string>
@@ -102,6 +101,7 @@
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Tietosuojakäytäntö</string>
+  <string name="jd_shopping_title">Hae JD:stä</string>
   <string name="keywords_search_code">Lukija;Lue;QR koodi;QR;Tunnistus;Viivakoodi;Viivakoodit;Tuote;Tuotteet;Alipay;WeChat;Kuinka luen QR koodin;Kuinka luen viivakoodin;Kuinka skannaan;MIUI Lukija</string>
   <string name="keywords_search_document">Lukija;Skanneri;Lue asiakirja;Lue asiakirjoja;OCR;Lue tekstiä;Lue</string>
   <string name="keywords_search_namecard">Lukija;Skanneri;Käyntikortti;Käyntikortit;Skannaa;Skannaa kortteja;Kortti;Kortit;Yhteystiedot;Yhteystieto</string>
@@ -131,6 +131,7 @@
   <string name="module_title_shopping">Ostokset</string>
   <string name="module_title_study">Kotiläksy</string>
   <string name="module_title_translation">Käännä</string>
+  <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
   <string name="name">Nimi:</string>
   <string name="new_schedule">Luo tapahtuma</string>
   <string name="nickname">Lempinimi:</string>
@@ -141,6 +142,7 @@
   <string name="not_recommend_access_web_url">Mene silti</string>
   <string name="note">Huomautus:</string>
   <string name="open_url">Avaa URL-osoite</string>
+  <string name="password_toggle_content_description">Näytä salasana</string>
   <string name="pay_no_tip">Älä näytä uudelleen</string>
   <string name="pay_save_this_choose">Muista valintani</string>
   <string name="payment_text">Avaa sovelluksella %s</string>
@@ -227,7 +229,9 @@
   <string name="wifi_details">W-Fi:</string>
   <string name="wifi_exist_fail">Wi-Fi-hotspot \"%1$s\" on jo olemassa. Poista se ja yritä uudelleen.</string>
   <string name="wifi_open_fail">Wi-Fiä ei voi ottaa käyttöön</string>
+  <string name="wifi_psd_toolong">Salasanan pituus on liian pitkä, syötä se manuaalisesti</string>
   <string name="wifi_pwd">Salasana:</string>
   <string name="wifi_security">Turvallisuus:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="wx_not_installed_toast">Tämä ominaisuus avaa WeChatin, asenna WeChat</string>
 </resources>

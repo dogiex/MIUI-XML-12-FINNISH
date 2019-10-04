@@ -186,6 +186,12 @@
     <string name="cancle_sync_cloud_tabs">Peruuta synkronointi</string>
     <string name="cannot_download">Vain http- tai https- URL-osoitteita voi ladata</string>
     <string name="cast_video">Suoratoista video</string>
+    <string name="channel_complete">Valmis</string>
+    <string name="channel_edit">Muokkaa</string>
+    <string name="channel_header_description">Napauta sisään, pitkä painallus muokkaa</string>
+    <string name="channel_header_title">Kanavani</string>
+    <string name="channel_more_description">Lisää kanava napauttamalla</string>
+    <string name="channel_more_title">Lisää Kanava</string>
     <string name="check_security_tip_privacy_policy">Tietosuojakäytäntö</string>
     <string name="check_security_tip_user_agreement">Käyttöehdot</string>
     <string name="checking_now">Tarkistetaan...</string>
@@ -530,6 +536,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="more_option">Lisää vaihtoehtoja</string>
     <string name="movie_player_3g_tip_retry">Jatka</string>
     <string name="movie_player_loading">Tulossa pian：%s</string>
+    <string name="multi_window_max_tips">Ikkunoiden lukumäärä on saavuttanut ylärajan</string>
     <string name="mw_accessibility_date_picker_month">Kuukausi</string>
     <string name="mw_accessibility_date_picker_week">Viikko</string>
     <string name="mw_accessibility_date_picker_year">Vuosi</string>
@@ -841,6 +848,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="pref_notifications_title">Ilmoitukset</string>
     <string name="pref_other_title">Muu</string>
     <string name="pref_paper_mode_title">Lukutila</string>
+    <string name="pref_personalized_customization">Henkilökohtainen mukauttaminen</string>
     <string name="pref_privacy_clear_cache">Tyhjennä välimuisti</string>
     <string name="pref_privacy_clear_cache_dlg">Poistetaanko paikallisen välimuistin sisältö ja tietokannat?</string>
     <string name="pref_privacy_clear_cache_summary">Poista paikallisen välimuistin sisältö ja tietokannat</string>

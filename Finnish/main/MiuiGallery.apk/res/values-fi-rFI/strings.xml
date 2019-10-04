@@ -87,6 +87,9 @@
   <string name="video_editor_video_loading">Valmistellaan videota… Odota hetki ja yritä uudelleen.</string>
   <string name="video_editor_watermark">Vesileima</string>
   <string name="voice_assistant">Äänisyöte</string>
+  <string name="wednesday">Keskiviikko</string>
+  <string name="wednesday_short">Ke</string>
+  <string name="wednesday_shortest">K</string>
   <!-- miui 10 valmis -->
   <string name="accept">Hyväksy</string>
   <string name="accept_or_deny">%1$s jakoi albumin %2$s kanssasi.</string>
@@ -188,6 +191,7 @@
   <string name="app_name">Galleria</string>
   <string name="app_name_view_picture">Katso kuvia</string>
   <string name="app_name_view_video">Katso videoita</string>
+  <string name="apply">Aseta</string>
   <string name="assistant_page_discovery">Tutustu</string>
   <string name="assistant_page_server_error">Tarkista verkkoasetuksesi</string>
   <string name="application_icon">Sovelluskuvake</string>
@@ -216,6 +220,10 @@
   <string name="baby_album_sharers_page_title">Jaa perheen kanssa</string>
   <string name="baby_birthday">Syntymäpäivä</string>
   <string name="baby_face_desc">Vauva-albumi</string>
+  <string name="baby_lock_wallpaper">Lukitusnäytön taustakuva</string>
+  <string name="baby_lock_wallpaper_cancelled">Vaihdettiin Lukitusnäytön taustakuva oletukseksi</string>
+  <string name="baby_lock_wallpaper_save_settings_msg">Asetetaanko nykyiset asetukset?</string>
+  <string name="baby_lock_wallpaper_title">Käytä vauvakuvia Lukitusnäytön taustakuvina</string>
   <string name="baby_name_cannot_empty">Syötä nimi</string>
   <string name="baby_name_cannot_start_with">"Nimi ei voi alkaa merkillä '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Nimi ei voi sisältää merkkiä '%s'"</string>
@@ -282,9 +290,8 @@
   <string name="browse_category_title">Selaa</string>
   <string name="burst_image_download_item_title" formatted="false">Lataa alkuperäinen (%s|%s)</string>
   <string name="burst_preview_title">Sarjakuva</string>
-  <string name="burst_save_all">Tallenna kaikki</string>
+  <string name="burst_save_all">Pidä kaikki kuvat</string>
   <string name="burst_save_choice_title" formatted="false">Valittuna %d/%d</string>
-  <string name="burst_save_confirm_dialog_title">Tallennetaan kuvia</string>
   <string name="burst_save_error_msg">Ei voitu tallentaa</string>
   <string name="burst_save_processing">Käsitellään…</string>
   <string name="buy_member_tip">Ryhdy jäseneksi</string>
@@ -294,6 +301,7 @@
   <string name="byteShort">t</string>
   <string name="camera_needs_auto_backup_tip">Kamera albumi täytyy varmuuskopioida</string>
   <string name="cancel">Peruuta</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Vaihdetaanko Lukitusnäytön taustakuva oletukseksi?</string>
   <string name="cancel_download_btn_text">Lopeta</string>
   <string name="cancel_hint">Toiminto peruutettu</string>
   <string name="cannot_remove_creator">Luojaa ei voi poistaa</string>
@@ -806,6 +814,9 @@
   <string name="custom_select_title_quickly_share">Jaa</string>
   <string name="custom_select_title_select_all">Valitse kaikki</string>
   <string name="custom_select_title_select_item">Valitse kohteet</string>
+  <string name="datetimepicker_dialog_title">Muuta aikaa</string>
+  <string name="datetimepicker_updatetime_failed">Aikaa ei voitu muuttaa</string>
+  <string name="datetimepicker_updatetime_success">Aika muutettiin onnistuneesti</string>
   <string name="debugging_info">Virheenkorjaustiedot on luotu onnistuneesti. Avaa kansio napauttamalla OK.</string>
   <string name="debugging_tip">Luodaan virheenkorjaustiedot</string>
   <string name="decrypt_video_failed">Videota ei voitu valmistella</string>
@@ -816,7 +827,6 @@
   <string name="delete_album_failed">Albumin poisto epäonnistui</string>
   <string name="delete_album_msg_format">Poistetaanko \"%2$s\" albumi %1$s %3$s?</string>
   <string name="delete_album_success">Albumi poistettu</string>
-  <string name="delete_finish_format">%d poistettu</string>
   <string name="delete_from_all_devices_and_cloud">kaikista laitteista ja Mi Pilvestä</string>
   <string name="delete_from_cloud">Poista kohteet Mi Pilvestä</string>
   <string name="delete_from_devices">Kaikista synkronoiduista laitteista</string>
@@ -870,6 +880,8 @@
   <string name="editor_export">Tallenna</string>
   <string name="editor_talkback_redo">Tee uudelleen</string>
   <string name="editor_talkback_undo">Kumoa</string>
+  <string name="editphoto_datetime_needdownload_origin_subtitle">Lataa alkuperäinen tiedosto Mi Pilvestä muuttaaksesi aikaa.</string>
+  <string name="editphoto_datetime_needdownload_origin_title">Lataa alkuperäinen</string>
   <string name="email_picker_title">Lisää jaettu sähköposti</string>
   <string name="empty_description_conditions">Muista merkitykselliset asiat</string>
   <string name="empty_description_no_cards">Muista merkitykselliset asiat</string>
@@ -886,6 +898,8 @@
   <string name="enable_slim_title">Optimoi</string>
   <string name="enter_choice_mode">Siirryttiin jakoikkunaan</string>
   <string name="enter_email_hint">Syötä sähköpostiosoite</string>
+  <string name="eras_ad">jKr.</string>
+  <string name="eras_bc">eKr.</string>
   <string name="error_album_not_exist">Albumia ei ole olemassa</string>
   <string name="error_build_thumbnail_action">Lataa alkuperäinen tiedosto</string>
   <string name="error_build_thumbnail_msg">Esikatselukuvan lataaminen epäonnistui. Yritä ladata alkuperäinen tiedosto.</string>
@@ -1055,6 +1069,7 @@ on käytettävissä"</string>
   <string name="filter_scene_series">Heijastukset</string>
   <string name="filter_scene_vivid">Eloisa</string>
   <string name="filter_scene_warm">Aurinko</string>
+  <string name="filter_single_sky">Maaginen taivas</string>
   <string name="filter_sky_cloudy">Pilvinen</string>
   <string name="filter_sky_detect_forbidden_tips">Taivasta ei tunnistettu</string>
   <string name="filter_sky_download_failed">Liitännäistä ei voitu ladata. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
@@ -1073,6 +1088,9 @@ on käytettävissä"</string>
   <string name="flash_on">Salama käytössä</string>
   <string name="frame_not_support_image_ratio">Tätä kuvasuhdetta ei tueta</string>
   <string name="free_view_desc">3D-näkymä</string>
+  <string name="friday">Perjantai</string>
+  <string name="friday_short">Pe</string>
+  <string name="friday_shortest">P</string>
   <string name="gallery_setting">Asetukset</string>
   <string name="gallery_sync_disable_toast">Gallerian synkronointi ei ole käytössä</string>
   <string name="generate_story_summary">MIUI analysoi kuvasi ja luo muistoja. Poista tämä ominaisuus käytöstä lopettaaksesi muistojen luomisen.</string>
@@ -1538,10 +1556,16 @@ mukauttaaksesi Galleriasi"</string>
   <string name="retry_to_request_qr_code">Yritä uudelleen</string>
   <string name="runtime_permission_ungranted">Galleria suljettiin, vaadittuja käyttöoikeuksia ei ole</string>
   <string name="same_name_album_exist_and_toast">"Saman niminen albumi on jo olemassa. Luotiin '%s' sen sijaan."</string>
+  <string name="saturday">Lauantai</string>
+  <string name="saturday_short">La</string>
+  <string name="saturday_shortest">L</string>
   <string name="scan_barcode_guide">Saadaksesi albumin QR-koodin, napauta Jaa-kuvaketta.</string>
   <string name="scan_barcode_to_join">Lisää albumi skannaamalla QR-koodi</string>
   <string name="scan_qr_code_buttom_text">Näytä tämä albumi skannaamalla QR-koodi</string>
   <string name="screen_doodle_talkback_size">Piirtoviivan leveys</string>
+  <string name="screen_editor_btn_delete">Poista</string>
+  <string name="screen_editor_btn_save">Tallenna</string>
+  <string name="screen_editor_delete_dialog_msg">Poistetaanko tämä kuvakaappaus?</string>
   <string name="screen_editor_finish">Valmis</string>
   <string name="screen_save_dialog_btn_cancel">Peruuta</string>
   <string name="screen_save_dialog_btn_delete">Poista kuvakaappaus</string>
@@ -1627,6 +1651,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="send_secret_file_failed">Jakaminen epäonnistui</string>
   <string name="send_secret_file_space_low">Tallennustilaa ei ole tarpeeksi</string>
   <string name="send_too_many_files_error">Voit lähettää enintään %d kohdetta kerrallaan</string>
+  <string name="set_as_baby_lock_wallpaper">Aseta Lukitusnäytön taustakuvaksi</string>
   <string name="set_as_slide_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
   <string name="set_as_slide_wallpaper_title">Aseta diaesityksen taustakuvaksi</string>
   <string name="set_as_video_wallpaper_description">Ladataanko tämä kohde ja käytetäänkö sitä videotaustakuvana?</string>
@@ -1705,6 +1730,9 @@ mukauttaaksesi Galleriasi"</string>
   <string name="sub_discard_negative_btn">Hylkää</string>
   <string name="sub_discard_positive_btn">Tallenna</string>
   <string name="success_create_quick_icon_on_desk">Luotiin onnistuneesti</string>
+  <string name="sunday">Sunnuntai</string>
+  <string name="sunday_short">Su</string>
+  <string name="sunday_shortest">S</string>
   <string name="sync_album_in_proecess">Synkronoidaan albumia…</string>
   <string name="sync_battery_low">Akku lähes tyhjä</string>
   <string name="sync_cloud_space_full">Mi Pilven tallenustilaa ei ole tarpeeksi</string>
@@ -1742,6 +1770,9 @@ mukauttaaksesi Galleriasi"</string>
   <string name="text_tab_watermark">Vesileimat</string>
   <string name="things_album_empty_title">Kuvia voi lajitella niissä esiintyvien esineiden mukaan</string>
   <string name="thumbnail_name">Esikatselukuva</string>
+  <string name="thursday">Torstai</string>
+  <string name="thursday_short">To</string>
+  <string name="thursday_shortest">T</string>
   <string name="tip_capture_location">Sijainti:</string>
   <string name="tip_capture_params">EXIF data:</string>
   <string name="tip_capture_time">Otettu:</string>
@@ -1758,12 +1789,16 @@ mukauttaaksesi Galleriasi"</string>
   <string name="to_enable_sync_dialog_positive_button_text">Siirry Asetuksiin</string>
   <string name="to_enable_sync_dialog_title">Synkronointi</string>
   <string name="today">Tänään</string>
+  <string name="tomorrow">Huomenna</string>
   <string name="too_many_recipients">Voit lisätä enintään %2$s vastaanottajaa (Tällä hetkellä lisätyt %1$s).</string>
   <string name="trash_bin">Roskakori</string>
   <string name="trash_bin_key_word">Poistetut kuvat</string>
   <string name="trash_bin_summary">Selaa varmuuskopioituja kuvia, jotka poistettiin äskettäin</string>
   <string name="try_again_later">Yritä myöhemmin uudelleen.</string>
   <string name="try_to_send">Lähetä</string>
+  <string name="tuesday">Tiistai</string>
+  <string name="tuesday_short">Ti</string>
+  <string name="tuesday_shortest">T</string>
   <string name="turn_off_and_move">Poista käytöstä ja siirrä</string>
   <string name="turn_on_and_remove">Ota käyttöön ja siirrä</string>
   <string name="turn_on_sync">Ota synkronointi käyttöön</string>

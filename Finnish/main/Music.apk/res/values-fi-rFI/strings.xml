@@ -184,6 +184,10 @@
   <string name="dialog_insufficient_space_on_cache">Latausta ei voi suorittaa loppuun. Sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_insufficient_space_on_external">Latausta ei voi suorittaa loppuun. SD-kortilla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen media ei ole käytettävissä.</string>
+  <string name="dialog_my_playlist_online_changed_merge">Pidä</string>
+  <string name="dialog_my_playlist_online_changed_message">Näyttää siltä, että tämä soittolista muuttui. Voit korvata sen uudella versiolla tai pitää vanhan.</string>
+  <string name="dialog_my_playlist_online_changed_replace">Korvaa</string>
+  <string name="dialog_my_playlist_set_to_public">Jaa tämä soittolista Mi Musiikkiin</string>
   <string name="dialog_queued_body">Tämä tiedosto on latausjonossa.</string>
   <string name="dialog_renew_failure">Pahoittelut, toiminto epäonnistui</string>
   <string name="dialog_renew_free_end">Ilmainen kokeilujaksosi on päättynyt. Tilataanko Hungama PRO?​</string>
@@ -384,10 +388,10 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Vain PRO-jäsenet voi ladata useita kappaleita. Hankitaanko PRO-jäsenyys nys?</string>
-  <string name="hungama_category_chart">Lista</string>
-  <string name="hungama_category_playlist">Soittolista</string>
+  <string name="hungama_category_chart">Suosituimmat listat</string>
+  <string name="hungama_category_playlist">Soittolistat</string>
   <string name="hungama_category_radio">Radio</string>
-  <string name="hungama_category_video">Video</string>
+  <string name="hungama_category_video">Videot</string>
   <string name="hungama_free_download_out_summary">Et voi ladata enempää ilmaisia kappaleita. Hankitaanko PRO-jäsenyys ladataksesi rajattoman määrän kappaleita?</string>
   <string name="hungama_playlist_category">Soittolistakategoria</string>
   <string name="hungama_privacy_desc">Hungaman Tietosuojakäytäntö (valinnainen)</string>
@@ -498,6 +502,10 @@
   <string name="my_account">Mi Tili</string>
   <string name="my_music_empty">Soittolista on tyhjä.</string>
   <string name="my_music_empty_goto_online">Kappaleita ei löytynyt</string>
+  <string name="my_playlist_add_song">Lisää kappaleita</string>
+  <string name="my_playlist_create_self_playlist">Luo soittolistoja suosikkikappaleistasi</string>
+  <string name="my_playlist_set_to_private">Tee yksityiseksi</string>
+  <string name="my_playlist_set_to_public">Tee julkiseksi</string>
   <string name="network_error_and_retry">Yhdistäminen epäonnistui, yritä uudelleen napauttamalla</string>
   <string name="network_request_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_settings_error">Verkkoyhteyttä ei voi muodostaa</string>
@@ -586,7 +594,9 @@
   <string name="permission_declaration_message">Salli pääsy tallennustilaan asetuksissa Tietoturva &gt; Käyttöoikeudet &gt; Käyttöoikeudet &gt; Tallennustila &gt; Musiikki, jotta Musiikki-sovellus toimii normaalisti.</string>
   <string name="permission_declaration_negative_text">Myöhemmin</string>
   <string name="permission_declaration_positive_text">Mene Tietoturvaan</string>
-  <string name="permission_declaration_title">Salli pääsy</string>
+  <string name="permission_declaration_title">Salli käyttö</string>
+  <string name="permission_open">Salli</string>
+  <string name="permission_required">Käyttöoikeuksia vaaditaan</string>
   <string name="pick_favorite_song">Suosikit</string>
   <string name="pick_local_song">Laitteen kappaleet</string>
   <string name="pick_recent_song">Toistettu viimeaikoina</string>
@@ -600,7 +610,7 @@
   <string name="play_video_with_traffic">JATKA</string>
   <string name="play_video_with_traffic_toast">Käytät nyt mobiilidataa.</string>
   <string name="playlist_empty">Soittolistoja ei löytynyt.</string>
-  <string name="playlist_recommend_title">Suosittele</string>
+  <string name="playlist_recommend_title">Suositeltu</string>
   <string name="playlist_title">Soittolistan nimi</string>
   <string name="playlist_title_is_empty">Soittolistan nimi ei voi olla tyhjä</string>
   <string name="playlist_title_is_invalid">Soittolista on jo olemassa</string>
@@ -636,6 +646,7 @@
 Ole onnellinen"</string>
   <string name="repeat_all_notif">Toistetaan uudelleen kaikki kappaleet.</string>
   <string name="repeat_current_notif">Toistetaan uudelleen nykyinen kappale.</string>
+  <string name="request_overlay_permission_desc">Salli Mi Musiikin näyttää kelluva ikkuna, jotta se voi käyttää tätä ominaisuutta.</string>
   <string name="request_share_info">Odota hetki…</string>
   <string name="request_subscription_status">Odota hetki…</string>
   <string name="restart_immediate">Käynnistä nyt</string>
@@ -668,6 +679,7 @@ Ole onnellinen"</string>
   <string name="search_hint_online">Hae artisteja, albumeja, kappaleita, soittolistoja ja videoita verkosta</string>
   <string name="search_history_clear_all">Tyhjennä</string>
   <string name="search_history_delete_all_dialog_titile">Tyhjennetäänkö hakuhistoria nyt?</string>
+  <string name="search_in_youtube">Hae YouTubesta</string>
   <string name="search_instant_online_music">Verkko</string>
   <string name="search_result_local_songs">Paikallinen</string>
   <string name="search_result_online_songs">Verkko</string>
@@ -707,6 +719,7 @@ Ole onnellinen"</string>
   <string name="share_image_error">Kuvan jakaminen epäonnistui latausvirheen takia</string>
   <string name="share_text_list">"Soittolista Mi Musiikissa: "</string>
   <string name="share_text_song">"Kappale Mi Musiikissa: "</string>
+  <string name="show_float_first_hint">Minimoi soitin</string>
   <string name="show_more">Näytä %s lisää</string>
   <string name="shuffle_music">Toista sekoittaen</string>
   <string name="shuffle_off_notif">Sekoitus ei käytössä.</string>
@@ -783,6 +796,9 @@ Ole onnellinen"</string>
   <string name="toast_download_error_by_vip_required">Hanki Premium-tason Kappalepaketti ladataksesi tämän kappaleen.</string>
   <string name="toast_download_in_process">Lataus kesken</string>
   <string name="toast_is_pro">Olet jo PRO-jäsen.</string>
+  <string name="toast_my_playlist_illegal_name">Tämän soittolistan otsikko on virheellinen. Nimeä tämä soittolista uudelleen.</string>
+  <string name="toast_my_playlist_set_to_private">Tämä soittolista on nyt yksityinen. Muut henkilöt eivät näe sitä.</string>
+  <string name="toast_my_playlist_set_to_public">Tämä soittolista on nyt julkinen. Muut henkilöt näkevät sen.</string>
   <string name="toast_new_playlist_name_no_enter">Uutta kappaletta ei voi aloittaa</string>
   <string name="toast_new_playlist_name_too_long">Soittolistan nimi on liian pitkä</string>
   <string name="toast_normal_songs_for_download">Latauksen laatu asetettu normaalille</string>

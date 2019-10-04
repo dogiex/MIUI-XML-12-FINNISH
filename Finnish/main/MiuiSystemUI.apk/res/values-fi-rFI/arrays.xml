@@ -99,6 +99,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
+        <item>LHDC</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
@@ -116,6 +117,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
+        <item>LHDC</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>

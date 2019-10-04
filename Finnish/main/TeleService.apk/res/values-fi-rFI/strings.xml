@@ -508,6 +508,8 @@ Siirtonopeus"</string>
   <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="clear_adb_keys">Peruuta USB-vianetsinnän käyttöoikeudet</string>
+  <string name="clear_all_set_button">Tyhjennä asetukset</string>
+  <string name="clear_all_set_title">Tämä painike tyhjentää kaikki asetukset</string>
   <string name="clir_choices_hide_number">Piilota numero</string>
   <string name="clir_choices_network_default">Verkon oletus</string>
   <string name="clir_choices_show_number">Näytä numero</string>
@@ -760,6 +762,8 @@ Siirtonopeus"</string>
   <string name="entertainment_news_settings">Viihdeuutiset</string>
   <string name="eo_disable">Avoimet työpaikat pois käytöstä</string>
   <string name="eo_enable">Avoimet työpaikat käytössä</string>
+  <string name="eps_only_set_button">Aseta vain eps</string>
+  <string name="eps_only_set_title">Tämä painike on vain eps:n asettamista varten</string>
   <string name="error_updating_title">Virhe puheluasetuksissa</string>
   <string name="exception_error">Verkko- tai SIM-korttivirhe.</string>
   <string name="external_source_trusted">Sallittu</string>
@@ -819,6 +823,7 @@ Siirtonopeus"</string>
   <string name="force_resizable_activities_summary">Pakota kaikki toiminnot hyväksymään koon muuttaminen usean ikkunan tilassa luettelon arvoista riippumatta.</string>
   <string name="force_rtl_layout_all_locales">Pakota RTL-ulkoasun suunta</string>
   <string name="force_rtl_layout_all_locales_summary">Pakota kaikkien kielten näytön ulkoasun suunnaksi RTL</string>
+  <string name="frequecy_num">LTE-kanavan numero</string>
   <string name="fw_change_failed">"Soitonsiirtonumeron vaihtaminen epäonnistui.
 Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="fw_get_in_vm_failed">"Nykyisten soitonsiirtonumeroasetuksien noutaminen ja tallentaminen epäonnistui.
@@ -949,6 +954,9 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="local_weather_enable">Paikallissää käytössä</string>
   <string name="lodgings_disable">Asunnot pois käytöstä</string>
   <string name="lodgings_enable">Asunnot käytössä</string>
+  <string name="lte_band_sel_setting">band list</string>
+  <string name="lte_band_set_status">lte band set</string>
+  <string name="lte_freq_set_button">set freq and pci</string>
   <string name="maintenance_disable">Ylläpito pois käytöstä</string>
   <string name="maintenance_enable">Ylläpito käytössä</string>
   <string name="manageConferenceLabel">Hallinnoi puhelinneuvottelua</string>
@@ -997,6 +1005,10 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>
   <string name="modem_dialog_body">Mobiiliverkko on epävakaa, jonka tuleksena se aiheuttaa häiriöitä ja verkko-ongelmia. Lähetetäänkö palautetta Mi:lle analyysiä varten? Tämä raportti voi sisältää henkilökohtaisesti tunnistettavia tietoja. Raporttisi auttaa korjaamaan tämän virheen, eikä sitä koskaan jaeta missään kaupallisessa yhteydessä.</string>
   <string name="modem_dialog_title">Mobiiliverkko on epävakaa</string>
+  <string name="modem_set_title">MODEEMIN ASETUKSET</string>
+  <string name="modem_setting_button_title">Siirry asetusvalikkoon</string>
+  <string name="modem_setting_info">MODEEMIN ASETUSTIEDOT</string>
+  <string name="modem_setting_text_title">Modeemin testiasetukset</string>
   <string name="msim_apn_not_set">Ei asetettu</string>
   <string name="msim_cmcc_dds_switch_not_support">Operaattorirajoituksen takia SIM-kortteja ei voi vaihtaa.</string>
   <string name="msim_default_setting">Oletusasetukset</string>
@@ -1711,10 +1723,10 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="volte_provision_title">Aktivoi VoLTE-puhelut</string>
   <string name="volte_switch_not_support_summary">VoLTE-puhelut ei ole tuettu mobiilidata SIM-kortilla.</string>
   <string name="volte_switch_not_support_summary2">VoLTE-puhelut ei ole tuettu operaattorillasi.</string>
-  <string name="volte_switch_summary">Käytä VoLTEa parantamaan ääni- ja videopuhelun laatua</string>
+  <string name="volte_switch_summary">Käytä VoLTEa parantamaan äänipuheluiden laatua</string>
   <string name="volte_switch_summary2">Vahvista, että operaattorisi tukee tätä ominaisuutta ennen sen käyttöönottamista. Muuten se saattaa vaikuttaa normaaleihin puheluihin.</string>
-  <string name="volte_switch_title">VoLTE otettu käyttöön</string>
-  <string name="volte_switch_title_ct">VoLTE otettu käyttöön</string>
+  <string name="volte_switch_title">Käytä VoLTEa</string>
+  <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">China Telecom VoLTE-palvelut on käytössä vain alueilla, jossa on LTE-verkon kuuluvuus.</string>
   <string name="vowifi_emergency_notification_channel">Wi-Fi-puhelun hätävaroitus</string>
   <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat mahdollisia matkapuhelinverkon kantavuusalueilla.</string>
