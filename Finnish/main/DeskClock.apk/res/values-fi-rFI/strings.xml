@@ -11,12 +11,12 @@
   <string name="clock_bg_button_setting_title">Taustaväri</string>
   <string name="edit_alarm">Muokkaa hälytystä</string>
   <string name="module_download_cancel">Ei kiitos</string>
-  <string name="module_download_data_msg">Kellon täytyy ladata äänitiedostoja MIUI:n älyhälytyksiä varten. Älyhälytykset sisältävät ääniominaisuuksia, jotka sallivat sen hetkiset säätiedot hälytyksiin. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
+  <string name="module_download_data_msg">Käyttääksesi MIUI:n älyhälytyksiä, Kellon täytyy ladata äänitiedostoja. Älyhälytykset sisältävät ääniominaisuuksia, jotka sallivat sen hetkiset säätiedot hälytyksiin. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
   <string name="module_download_data_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI:n älyhälytyksiä varten. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
   <string name="module_download_data_msg_replace">Päivitetty ääni MIUI:n älykkäille hälytyksille on saatavilla. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
   <string name="module_download_data_msg_timer">Kellon täytyy ladata äänitiedostoja ympäristöääniajastimia varten. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
   <string name="module_download_fail">Ylimääräistä äänitiedostoa ei voitu ladata</string>
-  <string name="module_download_msg">Kellon täytyy ladata äänitiedostoja MIUI:n älyhälytyksiä varten. Älyhälytykset sisältävät ääniominaisuuksia, jotka sallivat sen hetkisen säätietojen käyttämisen hälytyksissä. Ladataanko nyt?</string>
+  <string name="module_download_msg">Käyttääksesi MIUI:n älyhälytyksiä, Kellon täytyy ladata äänitiedostoja. Älyhälytykset sisältävät ääniominaisuuksia, jotka sallivat sen hetkisen säätietojen käyttämisen hälytyksissä. Ladataanko nyt?</string>
   <string name="module_download_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI:n älyhälytyksiä varten. Ladataanko nyt?</string>
   <string name="module_download_msg_replace">MIUI:n älyhälytyksien päivitetty ääni on saatavilla. Ladataanko nyt?</string>
   <string name="module_download_msg_timer">Kellon täytyy ladata äänitiedostoja ympäristöääniajastimia varten. Ladataanko nyt?</string>
@@ -25,6 +25,8 @@
   <string name="module_download_success">Ylimääräinen äänitiedosto ladattiin onnistuneesti</string>
   <string name="module_download_title">Ylimääräinen äänitiedosto vaaditaan</string>
   <string name="module_downloading">Ladataan ylimääräistä äänitiedostoa…</string>
+  <string name="module_update_success">Päivitetyt äänitiedot MIUI:n älyhälytyksiä varten ladattiin onnistuneesti. Voit asettaa MIUI:n älyhälytyksiä Kellon asetuksissa.</string>
+  <string name="module_update_success_control">Selvä</string>
   <string name="monday_to_friday">Maanantaista Perjantaihin</string>
   <string name="set_alarm_done">Valmis</string>
   <string name="time_picker_colon">:</string>
@@ -200,6 +202,8 @@
   <string name="more_setting">Lisäasetukset</string>
   <string name="more_settings">Asetukset</string>
   <string name="never">Kerran</string>
+  <string name="no_alarm_setting">Täällä ei ole hälytyksiä</string>
+  <string name="no_worldclock">Täällä ei ole kelloja</string>
   <string name="oneshot_alarm">Poista hälytyksen jälkeen</string>
   <string name="open_keep_screen">Näyttö pidetään päällä</string>
   <string name="other_category_title">Muu</string>

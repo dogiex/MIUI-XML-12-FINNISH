@@ -314,6 +314,7 @@ Muotokuvatilassa"</string>
   <string name="macro_mode_tip">Linssin ja kohteen etäisyys toisistaan ei pitäisi ylittää 10 cm</string>
   <string name="makeup_reset_toast">Tyhjennettiin meikkitehosteet onnistuneesti</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää tällä hetkellä NFC:n. Korvataanko tämä ominaisuus?</string>
+  <string name="mimoji_app_name">Hauska kamera</string>
   <string name="mimoji_back">Takaisin</string>
   <string name="mimoji_cancle">Peruuta</string>
   <string name="mimoji_check_beyond_20_degrees">Katso suoraan kameraan</string>

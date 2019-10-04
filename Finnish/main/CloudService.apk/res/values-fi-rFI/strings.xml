@@ -132,7 +132,6 @@
   <string name="micloud_confusion_toast_deny">Kirjaudu Mi Tilillesi</string>
   <string name="micloud_confusion_yes">Kyllä</string>
   <string name="micloud_detail_fail">Synkronointi epäonnistui</string>
-  <string name="micloud_detail_not_syncable">Ei voi synkronoida</string>  
   <string name="micloud_detail_query_error">Synkronoinnin edistymisestä ei saatu tietoa</string>
   <string name="micloud_dspt">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen,</string>
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
@@ -173,7 +172,6 @@
   <string name="micloud_find_device_verify_fail">Etsi laite -ominaisuutta ei voitu aktivoida uudelleen</string>
   <string name="micloud_find_device_verify_progress">Aktivoidaan Etsi laite -ominaisuutta uudelleen…</string>
   <string name="micloud_last_sync_canceled">Synkronointi peruutettiin. Yritä uudelleen.</string>
-  <string name="micloud_main_button_set_internet">Asetukset</string>
   <string name="micloud_main_head_menu_cloud_backup">Aloitusnäytön varmuuskopiointi</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Etsi laite ei ole käytettävissä Toisessa tilassa, voit käyttää sitä Ensimmäisessä tilassa.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Palauta poistetut kohteet</string>
@@ -184,8 +182,6 @@
   <string name="micloud_main_manual_sync">Synkronoi manuaalisesti</string>
   <string name="micloud_main_memory_low_title">Puhelimen sisäinen tallennustila on lähes täynnä</string>
   <string name="micloud_main_network_error">Verkkoon ei voi yhdistää</string>
-  <string name="micloud_main_simple_last_sync_time">Synkronoitu viimeksi： %s</string>
-  <string name="micloud_main_simple_off">Synkronointi pois käytöstä</string>
   <string name="micloud_main_sync_mode_summary">Synkronoi sovellustiedot reaaliajassa. Virrankulutus nousee tämän ominaisuuden ollessa käytössä.</string>
   <string name="micloud_main_sync_mode_title">Pikasynkronointi</string>
   <string name="micloud_main_wait_charge">Jatka synkronointia lataamalla laitteesi täyteen.</string>

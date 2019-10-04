@@ -37,6 +37,7 @@
   <string name="chinese_character_younger_brother">弟</string>
   <string name="chinese_character_younger_sister">妹</string>
   <string name="choose_currency">Valitse valuutta</string>
+  <string name="choose_radix">Valitse numerojärjestelmä</string>
   <string name="choose_unit">Valitse yksikkö</string>
   <string name="city">Kaupunki</string>
   <string name="clear">C</string>
@@ -48,6 +49,7 @@
   <string name="convertion_unit">Yksikön muunnin</string>
   <string name="convertion_unit_area">Pinta-alan muunnin</string>
   <string name="convertion_unit_length">Pituuden muunnin</string>
+  <string name="convertion_unit_radix">Numerojärjestelmä</string>
   <string name="convertion_unit_temperature">Lämpöasteen muunnin</string>
   <string name="convertion_unit_time">Ajan muunnin</string>
   <string name="convertion_unit_velocity">Nopeuden muunnin</string>
@@ -143,6 +145,7 @@
   <string name="item_title_dress_size">Vaatteen Koko</string>
   <string name="item_title_length_conversion">Pituus</string>
   <string name="item_title_mortgage">Asuntolaina</string>
+  <string name="item_title_radix">Numerojärjestelmä</string>
   <string name="item_title_relationship">Sukulaisuussuhde</string>
   <string name="item_title_scientific_calculator">Tieteellinen</string>
   <string name="item_title_tax">Verot</string>
@@ -364,6 +367,7 @@
   <string name="unit_data_display_currency_aed">Yhdistyneen Arabiemiirikunnan dirhami</string>
   <string name="unit_data_display_currency_ars">Argentiinan peso</string>
   <string name="unit_data_display_currency_aud">Australian dollari</string>
+  <string name="unit_data_display_currency_bdt">Bangladeshin taka</string>
   <string name="unit_data_display_currency_bgn">Bulgarian lev</string>
   <string name="unit_data_display_currency_bhd">Bahrainin dinaari</string>
   <string name="unit_data_display_currency_bnd">Brunein dollari</string>
@@ -454,6 +458,10 @@
   <string name="unit_data_display_length_um">Mikrometri</string>
   <string name="unit_data_display_length_yd">Jaardi</string>
   <string name="unit_data_display_length_zhang">Zhang</string>
+  <string name="unit_data_display_radix_10">Desimaali</string>
+  <string name="unit_data_display_radix_16">Heksadesimaali</string>
+  <string name="unit_data_display_radix_2">Binääri</string>
+  <string name="unit_data_display_radix_8">Oktaali</string>
   <string name="unit_data_display_temperature_c">Celsius</string>
   <string name="unit_data_display_temperature_f">Fahrenheit</string>
   <string name="unit_data_display_temperature_k">Kelvin</string>

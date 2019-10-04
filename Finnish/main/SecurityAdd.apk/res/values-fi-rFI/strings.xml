@@ -55,12 +55,16 @@
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Avaa selaimessa</string>
+  <string name="password_toggle_content_description">Vaihda salasanan näkyvyys</string>
   <string name="pc_activity_title">Optimoi akku</string>
   <string name="pm_lable_name">Tietoa root-oikeuksista</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
   <string name="privacy_prompt_traffic_purchase_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta saadaan tietoa datan oston vaihtoehdoista.</string>
   <string name="search_menu_title">Haku</string>
   <string name="share">Jaa</string>
+  <string name="size_unit_byte">%1$s t</string>
+  <string name="size_unit_kilobyte">%1$s Kt</string>
+  <string name="size_unit_megabyte">%1$s Mt</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="usage_sorted_loading_text">Odota hetki…</string>
   <string name="xunyou_pay_webview">Xunyou palvelut</string>

@@ -19,8 +19,6 @@
   <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="about_app_name">Tietoja Teemasta</string>
   <string name="about_version_update">Mitä uutta</string>
-  <string name="accessibility_setting_hint">"Napauta painiketta oikeassta yläkulmassa ottaaksesi tämän palvelun käyttöön.
-Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä taustakuvia valitsemissasi sovelluksissa.​"</string>
   <string name="accessibiliy_description_content_account">Profiili</string>
   <string name="accessibiliy_description_content_ad">Mainos</string>
   <string name="accessibiliy_description_content_add_resource">Lisää kohteita</string>
@@ -96,6 +94,7 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="component_title_wallpaper">Taustakuva</string>
   <string name="count_down_tip">%d s jäljellä</string>
   <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
+  <string name="current_using_float_wallpaper_text">Läpinäkyvä</string>
   <string name="current_using_lockscreen_wallpaper_text">Lukitusnäyttö</string>
   <string name="current_version">Nykyinen versio: %1$s</string>
   <string name="current_version_incompatible">Ei yhteensopiva</string>
@@ -117,9 +116,9 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="download_preview_failed">Esikatselun lataaminen epäonnistui</string>
   <string name="download_success">Lataus valmistui</string>
   <string name="dynamic_video_wallpaper">24H-taustakuva</string>
-  <string name="enable_accessibility">Esteettömyyden käyttöoikeuksia vaaditaan</string>
-  <string name="enable_accessibility_hint">Voit ottaa tämän palvelun käyttöön Teemat -sovelluksessa. Sen jälkeen voit valita, missä sovelluksissa näytetään läpinäkyviä taustakuvia.</string>
+  <string name="enable_all_free_mode">Lunasta</string>
   <string name="enable_transparent_wallpaper">Käytä läpinäkyvää taustakuvaa</string>
+  <string name="enabling_all_free_mode">Lunastetaan…</string>
   <string name="exit_extreme_mode_dialog_agree">Hyväksy</string>
   <string name="exit_extreme_mode_dialog_cancel">Peruuta</string>
   <string name="exit_extreme_mode_dialog_title">Poista Äärimmäinen tila käytöstä</string>
@@ -194,11 +193,18 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="gift_use_confirmation_dlg_title">Lähetetäänkö tämä lahja?</string>
   <string name="gift_use_fail_dlg_title">Jotain meni pieleen</string>
   <string name="gift_used">Lähetetty</string>
-  <string name="go_accessibility_setting">Valitse</string>
   <string name="goto_purchased_list">Näytä ostohistoria</string>
   <string name="goto_wechat">Kopioitiin WeChat-tili \"%1$s\" leikepöydälle. Avataanko WeChat nyt?</string>
-  <string name="hide_free">Piilota ilmainen %1$s</string>
+  <string name="has_mamual_hide_font">Piilotettu</string>
+  <string name="has_mamual_hide_theme">Piilotettu</string>
+  <string name="has_mamual_hide_wallpaper">Piilotettu</string>
+  <string name="hide_free_font">Piilota ilmaiset fontit</string>
+  <string name="hide_free_theme">Piilota ilmaiset teemat</string>
+  <string name="hide_free_wallpaper">Piilota ilmaiset taustakuvat</string>
   <string name="hide_incompatible">Piilota yhteensopimattomat %1$s</string>
+  <string name="hide_mamual_hide_font">Älä näytä piilotettuja fontteja</string>
+  <string name="hide_mamual_hide_theme">Älä näytä piilotettuja teemoja</string>
+  <string name="hide_mamual_hide_wallpaper">Älä näytä piilotettuja taustakuvia</string>
   <string name="hide_pull_down_message">Piilotetaanko nippu?</string>
   <string name="hide_pull_down_negative">Älä piilota</string>
   <string name="hide_pull_down_positive">Piilota</string>
@@ -226,6 +232,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="item_resource_audio_optional_color_ring">Takaisinsoittoääni</string>
   <string name="item_resource_audio_optional_notification_ring">Ilmoitukset</string>
   <string name="item_resource_audio_optional_phone_ring">Soittoääni</string>
+  <string name="kuyin_user_agreement_content">Mukautetut soittoäänitilaukset tarjoaa iFlytek. Sinun täytyy hyväksyä %s ennen mukautettujen soittoäänitilauksien käyttämistä. Hyväksytkö?</string>
+  <string name="kuyin_user_agreement_content_href">iFlytek Tietosuojakäytäntö</string>
   <string name="lab">Teemalaboratorio</string>
   <string name="like_list">Tykkäämäni kohteet</string>
   <string name="live_wallpaper">Live taustakuva</string>
@@ -246,6 +254,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_wallpaper">Lukitusnäyttö</string>
   <string name="lockstyle_personal_settings">Muokkaa</string>
+  <string name="long_click_can_hide_resource">Paina ja pidä pohjassa piilottaaksesi kohteet</string>
   <string name="loop_wallpaper_is_here">Taustakuvien diaesitykset on nyt käytettävissä</string>
   <string name="mi_wallpaper">MIUI taustakuva</string>
   <string name="miuishare_account_activate_confirmation">Aktivoi Mi Tili</string>
@@ -275,6 +284,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="mix_icons_option_des">Aloitusnäytön kuvakkeet. Poista valinta käyttääksesi oletusvalintoja.</string>
   <string name="mix_lockscreen_option_des">Taustakuva ja kello. Poista valinta käyttääksesi oletusvalintoja.</string>
   <string name="mix_tip">Teeman komponentit</string>
+  <string name="more_sub_comment">Näytä kaikki vastaukset (%1$d)&gt;</string>
   <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Tämä soittoääni asetetaan molemmille SIM-korteille.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Soittoääni asetetaan molemmille SIM-korteille.</string>
@@ -319,7 +329,6 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="purchased_list_current">Optimoidut teemat</string>
   <string name="purchased_list_legacy">Legacy teemat</string>
   <string name="recently_used">Äskettäin käytetty</string>
-  <string name="reenable_accessibility">Tapahtui virhe. Salli esteettömyyden käyttöoikeudet uudelleen.</string>
   <string name="refresh_footer_all_loaded">Siinä kaikki tältä erää.</string>
   <string name="refresh_footer_failed">Tietoja ei voitu ladata</string>
   <string name="refresh_footer_finish">Ladattiin onnistuneesti</string>
@@ -439,6 +448,9 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_get_auth_not_official">Kolmannen osapuolen teemoja ei tueta</string>
   <string name="resource_get_auth_retrieving">Haetaan tietoa…</string>
   <string name="resource_has_been_downloaded">Olet jo ladannut tämän teeman.</string>
+  <string name="resource_hide">Piilota</string>
+  <string name="resource_hide_fail">Ei voitu piilottaa</string>
+  <string name="resource_hide_succ">Piilotettiin onnistuneesti</string>
   <string name="resource_hint">Herätys</string>
   <string name="resource_import_failed">Tuonti epäonnistui</string>
   <string name="resource_import_successful">Valmis</string>
@@ -475,6 +487,9 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_ranking">Suosittu</string>
   <string name="resource_ranking_free">Ilmainen</string>
   <string name="resource_ranking_purchase">Maksullinen</string>
+  <string name="resource_restore">Palauta</string>
+  <string name="resource_restore_fail">Ei voitu palauttaa</string>
+  <string name="resource_restore_succ">Palautettiin onnistuneesti</string>
   <string name="resource_ringtone_default">Soittoäänet</string>
   <string name="resource_ringtone_playing_error">Virhe</string>
   <string name="resource_ringtone_volume_mute">Soittoääni on äänettömällä</string>
@@ -550,8 +565,13 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="shortcut_message">Lisää Aloitusnäytön pikakuvake!</string>
   <string name="shortcut_show_tip">Älä näytä uudelleen</string>
   <string name="shortcut_title">Tykkäätkö taustakuvistamme?</string>
-  <string name="show_free">Näytä ilmaiset %1$s</string>
+  <string name="show_free_font">Näytä ilmaiset fontit</string>
+  <string name="show_free_theme">Näytä ilmaiset teemat</string>
+  <string name="show_free_wallpaper">Näytä ilmaiset taustakuvat</string>
   <string name="show_incompatible">Näytä yhteensopimattomat %1$s</string>
+  <string name="show_mamual_hide_font">Näytä piilotetut fontit</string>
+  <string name="show_mamual_hide_theme">Näytä piilotetut teemat</string>
+  <string name="show_mamual_hide_wallpaper">Näytä piilotetut taustakuvat</string>
   <string name="swipe_find_more">Näytä lisää pyyhkäisemällä ylös</string>
   <string name="system_precust">Esiasennettu</string>
   <string name="tag_ad">Mainos</string>
@@ -572,9 +592,13 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="theme_changed_failed_message">Teemaa ei voitu asettaa</string>
   <string name="theme_changed_message">Teema asetettu</string>
   <string name="theme_changing_dialog_title">"Asetetaan "</string>
+  <string name="theme_comment_detail_no_more">Siinä kaikki tältä erää</string>
+  <string name="theme_comment_detail_sub_comment_title">Kaikki vastaukset</string>
+  <string name="theme_comment_detail_title">Tiedot</string>
   <string name="theme_comment_dialog_cancel">Ei nyt</string>
   <string name="theme_comment_dialog_message">Tykkäätkö käyttämästäsi teemasta? Arvostaisimme palautettasi!</string>
   <string name="theme_comment_dialog_ok">Esikatsele</string>
+  <string name="theme_comment_sub_comment_bar_hint">Jaa ideasi yhteisömme kanssa</string>
   <string name="theme_component_title_alarm">Herätys</string>
   <string name="theme_component_title_alarmstyle">Herätyksen tyyli</string>
   <string name="theme_component_title_all">Teemat</string>
@@ -661,6 +685,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="transparent_wallpaper_filter_setting">Yksittäiset sovellukset</string>
   <string name="transparent_wallpaper_guide">Siirry Teemoihin</string>
   <string name="transparent_wallpaper_guide_tip">Voit valita läpinäkyvän taustakuvan Teemoissa nyt.</string>
+  <string name="transparent_wallpaper_is_running_in_background">Läpinäkyvä taustakuva on käynnissä taustalla</string>
   <string name="transparent_wallpaper_pref_summary">Taustakuvat, joissa on vähentynyt taustan läpinäkyvyyttä</string>
   <string name="transparent_wallpaper_white_wallpaper">Tee taustasta valkoinen</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">Taustasta ei voitu tehdä valkoista</string>
@@ -676,6 +701,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="uid_change_dialog_message">Olet poistanut päivitykset. Käynnistä laite uudelleen, jotta voit käyttää teemoja.</string>
   <string name="uid_change_dialog_ok">Selvä</string>
   <string name="uid_change_dialog_title">Käynnistä laite</string>
+  <string name="unable_connect_network">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="up_to_the_end">Siinä kaikki tältä erää. Palaa takaisin myöhemmin.</string>
   <string name="update_btn">PÄIVITÄ NYT</string>
   <string name="update_check">Tarkista päivitykset</string>
@@ -701,10 +727,13 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="video_data_tips_title">Tiedonsiirtovaroitus</string>
   <string name="video_silence_apply_success">Määritettiin video ilman ääntä onnistuneesti</string>
   <string name="video_wallpaper_import">Lisää kohteita napauttamalla</string>
+  <string name="wallpaper_24h">24H</string>
   <string name="wallpaper_apply">Aseta</string>
   <string name="wallpaper_crop">Rajaa</string>
   <string name="wallpaper_decoded_error">Taustakuvan lataaminen epäonnistui</string>
+  <string name="wallpaper_delete_all">Poistetaanko valitut kohteet?</string>
   <string name="wallpaper_detail_load_page_no_network">Yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="wallpaper_dynamic">Dynaaminen</string>
   <string name="wallpaper_loop_add_success">Lisättiin onnistuneesti</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Lisää Aloitusnäytön diaesitykseen</string>
   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Lisää Lukitusnäytön diaesitykseen</string>
@@ -727,6 +756,9 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="wallpaper_loop_title">Taustakuvan diaesitys</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Aloitusnäytön taustakuvan diaesitys</string>
   <string name="wallpaper_loop_title_lock_walpaper">Lukitusnäytön taustakuvan diaesitys</string>
+  <string name="wallpaper_online">Online-taustakuvat</string>
+  <string name="wallpaper_online_no_more">Siinä kaikki tältä erää</string>
+  <string name="wallpaper_online_tip">Yhdistä verkkoon katsoaksesi lisää kohteita</string>
   <string name="wallpaper_scroll_type_tips">Taustakuvan vierintä</string>
   <string name="wallpaper_set_as_both">Aseta molempiin</string>
   <string name="wallpaper_set_as_desktop">Aseta Aloitusnäytölle</string>
@@ -737,6 +769,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="wallpaper_settings_no_history">Ei historiaa</string>
   <string name="wallpaper_settings_pad_more_page_title">Lisää taustakuvia</string>
   <string name="wallpaper_settings_page_title">Taustakuva</string>
+  <string name="wallpaper_static">Staattinen</string>
   <string name="wechat_not_found">Asenna ensin WeChat</string>
   <string name="weibo">Weibo</string>
   <string name="wifi_check_cancel">Peruuta</string>

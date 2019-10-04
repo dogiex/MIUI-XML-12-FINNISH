@@ -750,11 +750,6 @@
         <item>10 minuuttia</item>
         <item>30 minuuttia</item>
     </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-        <item>Graafinen</item>
-        <item>Prosentti (kuvakkeen sisällä)</item>
-        <item>Prosentti (kuvakkeen vieressä)</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ei mitään</item>
         <item>Logcat</item>
@@ -924,7 +919,8 @@ Huomautus: Vain Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Graafinen</item>
-        <item>Prosentti</item>
+        <item>Prosentti (kuvakkeen sisällä)</item>
+        <item>Prosentti (kuvakkeen vieressä)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Haku</item>
@@ -1245,6 +1241,11 @@ Huomautus: Vain Ubuntu 8.04!"</item>
        <item>Keskitaso</item>
        <item>Korkea</item>
    </string-array>
+   <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Graafinen</item>
+        <item>Prosentti (kuvakkeen sisällä)</item>
+        <item>Prosentti (kuvakkeen vieressä Ilmoitusalueella)</item>
+    </string-array>
    <string-array name="wifi_calling_mode_choices">
        <item>Wi-Fi ensisijainen</item>
        <item>Mobiili ensisijainen</item>

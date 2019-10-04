@@ -128,6 +128,14 @@
         <item quantity="other">Salasanassa on oltava vähintään %d isoa kirjainta.</item>
         <item quantity="one">Salasanassa on oltava vähintään 1 iso kirjain.</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Voit antaa enintään %d merkkiä</item>
+        <item quantity="one">Voit antaa enintään %d merkin</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Anna vähintään %d merkkiä</item>
+        <item quantity="one">Anna vähintään %d merkki</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN-koodin täytyy olla %d numeroa</item>
         <item quantity="one">PIN-koodin täytyy olla %d numeroa</item>
@@ -174,6 +182,7 @@
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d lisätty</item>
+        <item quantity="one">%d lisätty</item>
     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d rajoitusta</item>

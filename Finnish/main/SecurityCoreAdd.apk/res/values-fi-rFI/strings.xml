@@ -26,6 +26,7 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="can_not_delete_when_calling">Tiloja ei voi poistaa puhelun aikana</string>
   <string name="can_not_switch_when_calling">Tilojen välillä ei voi siirtyä puhelun aikana</string>
   <string name="can_not_switch_when_green_kid_active">Lapsilukko rajoittaa vaihtamisen Toiseen tilaan</string>
+  <string name="can_not_switch_when_super_power_active">Tilojen välillä ei voi siirtyä, kun Äärimmäinen virransäästö on käytössä</string>
   <string name="cancelClosePassword">Älä poista käytöstä</string>
   <string name="cancel_button">Peruuta</string>
   <string name="changePassword">Vaihda salasana</string>

@@ -348,7 +348,6 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="another_migration_already_in_progress">Toinen siirto on jo käynnissä.</string>
   <string name="anti_spam">Estolista</string>
   <string name="aod_and_lock_screen_settings_title">Ambient-näyttö &amp; Lukitusnäyttö</string>
-  <string name="aod_clock_style_title">Kellon tyyli</string>
   <string name="aod_settings_category_name">Ambient-näyttö</string>
   <string name="aod_settings_title">Ambient-näyttö</string>
   <string name="apn_apn">APN</string>
@@ -2526,7 +2525,6 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_shortcuts_helper">Pikanäppäinapuri</string>
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikanäppäimet</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
-  <string name="keyguard_double_tap_to_sleep_title">Tuplanapauta näyttöä lepotilaan</string>
   <string name="keyguard_notification_status_title">Ilmoituksien saapuessa näytön ollessa sammuksissa</string>
   <string name="keyguard_security_setting_others">Muut</string>
   <string name="keyguard_security_setting_privacy_policy">Tietosuojakäytäntö</string>
@@ -3908,6 +3906,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_password_remind_bindaccount_title">Lisää Mi Tili</string>
   <string name="privacy_password_settings">Käytä Yksityisyydensuojan salasanaa</string>
   <string name="privacy_password_settings_next">Seuraava</string>
+  <string name="privacy_password_settings_summary">Yksityisyydensuojan salasanaa käytetään sovelluksissa, jotka saattavat sisältää arkaluontoisia tietoja</string>
   <string name="privacy_password_settings_titles">Yksityisyydensuojan salasana suojaa sinun viestit, kuvat, tiedostot, muistiot ja sovellukset.</string>
   <string name="privacy_password_settings_titles_elder_mode">Yksityisyydensuojan salasana suojaa sinun kuvat, tiedostot ja muistiot.</string>
   <string name="privacy_password_settings_titles_second_space">Yksityisyydensuojan salasana suojaa sinun viestit, kuvat, tiedostot, muistiot ja sovellukset.</string>
@@ -4940,7 +4939,6 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_app_enable_message">Merkit</string>
   <string name="status_bar_settings">Ilmoitukset &amp; tilapalkki</string>
   <string name="status_bar_settings_all_app_display_loading">Odota hetki…</string>
-  <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
   <string name="status_bar_settings_manage_notification">Sovellusilmoitukset</string>
   <string name="status_bar_settings_notification_bar">Ilmoitusalue</string>
   <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>

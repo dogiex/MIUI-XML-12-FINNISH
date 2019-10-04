@@ -39,6 +39,11 @@
   <string name="cancel_action">Peruuta</string>
   <string name="close">Pois päältä</string>
   <string name="configure_input_methods">Valitse näppäimistöt</string>
+  <string name="content_description_dial">Soita</string>
+  <string name="content_description_search">Haku</string>
+  <string name="content_description_share">Jaa</string>
+  <string name="content_description_translate">Käännä</string>
+  <string name="content_description_web_url">Selaa</string>
   <string name="copy">Kopioi</string>
   <string name="cut">Leikkaa</string>
   <string name="default_name">Oletus</string>
@@ -207,6 +212,8 @@
   <string name="turn_off">Poista käytöstä</string>
   <string name="twohours">1 tunti</string>
   <string name="unknown_caller">Tuntematon numero</string>
+  <string name="user_switching_dialog_switch_into_kid_space">Vaihdetaan Lapsitilaan…</string>
+  <string name="user_switching_dialog_switch_out_kid_space">Poistutaan Lapsitilasta…</string>
   <string name="user_switching_dialog_text">Vaihdetaan käyttäjää…</string>
   <string name="voice_begin">Mitä etsit?</string>
   <string name="voice_button_action_down">Vapauta hakeaksesi</string>

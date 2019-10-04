@@ -344,7 +344,7 @@
   <string name="submit_dialog_cancel">En hyväksy</string>
   <string name="submit_dialog_confirm">Hyväksyn</string>
   <string name="submit_dialog_content">Sinun täytyy hyväksyä meidän Tietosuojakäytäntömme ja Käyttöehdot käyttääksesi Palautetta. Ilmoittamasi ongelma lähetetään MIUI:n palvelimille mukaan lukien liittämäsi kohteet (saattaa sisältää henkilötietoja mukaan lukien laitteesi ja verkkosi tiedot). Tämä auttaa meitä paikallistamaan ja ratkaisemaan ilmoittamasi ongelman.</string>
-  <string name="submit_dialog_content_global">Palautteesi, sisältäen liitetiedot (jos liitetty) ja virhelokit (voit poistaa valinnat niistä valintalaatikoista joita et tahdo lähettää) lähetetään MIUI:n palvelimille ja rajoitetulle MIUI:n keskustelupalstan kehittäjille. Palstojesi ja keskustelupalstan aktiviteettitietosi myös kerätään analysoitavaksi ja tuleviin yhteydenottoihin. Lokitiedot saattaa sisältää henkilokohtaisia tietoja ja sijaintitietosi. Valitsemalla \"Hyväksyn"\ tarkoittaa, että olet lukenut ja hyväksyt meidän Tietosuojakäytännön ja Käyttöehdot.</string>
+  <string name="submit_dialog_content_global">Palautteesi, sisältäen liitetiedot (jos liitetty) ja virhelokit (voit poistaa valinnat niistä valintalaatikoista joita et tahdo lähettää) lähetetään MIUI:n palvelimille. Lokitiedot saattaa sisältää henkilokohtaisia tietoja ja sijaintitietosi. Valitsemalla \"Hyväksyn"\ tarkoittaa, että olet lukenut ja hyväksyt meidän Tietosuojakäytännön ja Käyttöehdot.</string>
   <string name="submit_dialog_title">Lähetä raportti</string>
   <string name="submit_feedback_info_failed">Raporttia ei voitu lähettää</string>
   <string name="suggestion_description">Lisää selitys tähän</string>
