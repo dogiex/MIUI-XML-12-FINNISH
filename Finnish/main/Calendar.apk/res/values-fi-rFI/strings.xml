@@ -386,6 +386,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
   <string name="preferences_notification_ringtone_title">Ääni</string>
   <string name="preferences_popup_alert_smart_summary">MIUI tunnistaa automaattisesti merkittävimmät tapahtumat</string>
+  <string name="preferences_popup_alert_smart_summary_new">Aikaherkät tapahtumat ovat tapahtumia, joissa on tarkka aika</string>
   <string name="preferences_popup_alert_smart_tips">Korvaa perinteiset ilmoitukset ponnahdushälytyksillä, jotta tärkeät tapahtumat eivät mene ohi. Ponnahdushälytykset eivät ilmesty pelien aikana, katsoessasi videoita kokonäyttötilassa tai käyttäessäsi Autotilaa.</string>
   <string name="preferences_popup_alert_title">Ponnahdushälytykset</string>
   <string name="preferences_title">Kalenteri</string>
@@ -463,12 +464,14 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="setting_daysoff_update_net_err">Päivityksiä ei voitu tarkistaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="setting_daysoff_update_schedule">Päivitetään…</string>
   <string name="setting_daysoff_update_success">Päivitettiin onnistuneesti</string>
+  <string name="setting_desc_import_todo">Tuo ajastetut tehtävät Muistiosta</string>
   <string name="setting_features_title">Ominaisuuksien asetukset</string>
   <string name="setting_holiday_display_desc">Juhlapyhät näkyvät kotisivulla tapahtumien alapuolella</string>
   <string name="setting_holiday_reminder">Juhlapyhän muistutus</string>
   <string name="setting_others">Lisäasetukset</string>
   <string name="setting_title_about">Tietoa</string>
   <string name="setting_title_holiday_display">Näytä juhlapyhät</string>
+  <string name="setting_title_import_todo">Tuo tehtäviä</string>
   <string name="share_not_install_wechat">Asenna wechat.</string>
   <string name="share_not_install_weibo">Asenna weibo.</string>
   <string name="share_title">Jaa</string>
@@ -503,6 +506,8 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="today_at_time_fmt">Tänään klo %s</string>
   <string name="today_icon_voice_contentdescription">Takaisin tähän päivään</string>
   <string name="today_no_events">Ei tapahtumia</string>
+  <string name="todo_audio_event">"[Äänitehtävä] "</string>
+  <string name="todo_event">Tulevat tehtävät</string>
   <string name="tomorrow">Huomenna</string>
   <string name="tomorrow_at_time_fmt">Huomenna klo %s</string>
   <string name="too_long_content">Sisältö on liian pitkä</string>

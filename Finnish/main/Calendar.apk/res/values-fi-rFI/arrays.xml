@@ -113,6 +113,11 @@
         <item>Kaikille tapahtumille</item>
         <item>Merkittävimpiin tapahtumiin</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Pois käytöstä</item>
+        <item>Kaikille tapahtumille</item>
+        <item>Aikaherkille tapahtumille</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Aina</item>
         <item>Vain äänettömällä</item>
@@ -392,5 +397,14 @@
     <string-array name="widget_style_list">
         <item>Läpinäkyvä</item>
         <item>Valkoinen tausta</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>K</item>
+        <item>T</item>
+        <item>P</item>
+        <item>L</item>
     </string-array>
 </resources>

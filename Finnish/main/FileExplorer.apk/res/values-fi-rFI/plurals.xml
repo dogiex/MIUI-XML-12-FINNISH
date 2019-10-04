@@ -201,6 +201,11 @@
         <item quantity="other">Tarkistettu %1$s päivää peräkkäin, jatka ihmeessä!</item>
         <item quantity="one">Tarkistettu %1$s päivää peräkkäin, jatka ihmeessä!</item>
     </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="zero"> %1$d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
     <plurals name="total_topic_num">
         <item quantity="other">%1$s otsikkoa</item>
         <item quantity="one">%1$s otsikko</item>

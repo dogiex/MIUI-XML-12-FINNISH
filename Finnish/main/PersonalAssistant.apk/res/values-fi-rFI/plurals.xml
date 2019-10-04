@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">%d minuutin kuluttua</item>
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">%d päivän kuluttua</item>
         <item quantity="one">%d päivän kuluttua</item>
