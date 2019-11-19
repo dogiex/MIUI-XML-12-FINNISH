@@ -415,6 +415,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
+  <string name="battery_and_property">Akku &amp; suorituskyky</string>
   <string name="battery_capacity_title">Akun kapasiteetti</string>
   <string name="battery_charge_estimating">Lasketaan</string>
   <string name="battery_charge_full">Ladattu</string>
@@ -1427,7 +1428,7 @@ vastausta"</string>
   <string name="menu_text_networkassistants_unit_kb">Kt</string>
   <string name="menu_text_networkassistants_unit_mb">Mt</string>
   <string name="menu_text_optimize_manage">Paranna nopeutta</string>
-  <string name="menu_text_power_manager">Akun optimointi</string>
+  <string name="menu_text_power_manager">Akku &amp; suorituskyky</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Poista poikkeuksista</string>
   <string name="menu_white">Lisää poikkeuksiin</string>
@@ -1681,6 +1682,9 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_main_sub_battery_text_day_hour">%1$s pv %2$s t jäljellä</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$s t %2$s min jäljellä</string>
   <string name="pc_settings_title">Akun optimointiasetukset</string>
+  <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
+  <string name="pc_search_keywords_property">Suorituskyky</string>
+  <string name="pc_settings_title">Akun &amp; suorituskyvyn asetukset</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$d t %2$d min jäljellä</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d t %2$d min edellisestä latauksesta</string>
   <string name="pc_statistics_battery_use_summary">%s edellisestä latauksesta</string>
@@ -1762,7 +1766,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_super_save_title_text">Äärimmäinen virransäästö</string>
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
-  <string name="power_center_title">Akun optimointi</string>
+  <string name="power_center_title">Akku &amp; suorituskyky</string>
   <string name="power_consume_hardware_total_format">Laitteisto: %s</string>
   <string name="power_consume_other">Muu</string>
   <string name="power_consume_rank_hardware">Laitteisto</string>

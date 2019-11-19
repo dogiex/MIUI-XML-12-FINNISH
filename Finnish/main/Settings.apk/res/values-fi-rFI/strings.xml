@@ -1374,6 +1374,7 @@ Tämä ominaisuus voidaan poistaa käytöstä [Asetuksista]"</string>
   <string name="content_description_menu_button">Valikko</string>
   <string name="connected_wifi">Yhdistetty</string>
   <string name="connecting_to_vpn">Yhdistetään VPN-palvelimelle</string>
+  <string name="connection_and_sharing">Yhteys &amp; jakaminen</string>
   <string name="contributors_title">Avustajat</string>
   <string name="controls_label">Hallinta</string>
   <string name="controls_subtitle">Säädä virrankäyttöä</string>
@@ -3792,6 +3793,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="power_usage_not_available">Akun käyttötietoja ei saatavilla</string>
   <string name="power_usage_summary">Mikä on käyttänyt akkua</string>
   <string name="power_usage_summary_title">Akku &amp; suorituskyky</string>
+  <string name="power_usage_summary_title_new">Akku &amp; suorituskyky</string>
   <string name="power_user">Käyttäjä</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">Esiasennetut sovellukset</string>
@@ -3892,6 +3894,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_close_dlg_button_ok">Poista käytöstä</string>
   <string name="privacy_close_dlg_msg">Kun Yksityisyydensuojan salasana ei ole käytössä, käyttämäsi kohteet ei ole enää suojattuna.</string>
   <string name="privacy_close_dlg_title">Huomio</string>
+  <string name="privacy_dashboard_summary">Käyttöoikeudet, tilitoiminta, henkilötiedot</string>
+  <string name="privacy_dashboard_title">Yksityisyys</string>
   <string name="privacy_delete_space_dlg_message">Vaihtaaksesi Toisen tilan salasanasi, sinun pitää poistaa nykyinen Toinen tila ja luoda uusi.</string>
   <string name="privacy_dlg_button_cancel">Peruuta</string>
   <string name="privacy_factory_reset_dlg_button_text">Palauta</string>
@@ -3945,7 +3949,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_protect_title">Yksityisyyden suojaaminen</string>
   <string name="privacy_protection_title">Yksityisyys</string>
   <string name="privacy_relative">Yksityisyys</string>
-  <string name="privacy_settings">Varmuuskopiointi ja nollaus</string>
+  <string name="privacy_settings">Varmuuskopiointi &amp; nollaus</string>
   <string name="privacy_settings_title">Varmuuskopioi</string>
   <string name="privacy_thumbnail_blur_progress_message">Odota hetki…</string>
   <string name="privacy_thumbnail_blur_title">Sumenna sovelluksien esikatselu</string>
@@ -4624,7 +4628,7 @@ Näytön kiinnittäminen:
   <string name="security_encryption_title">Salaa laite käyttämällä Lukitusnäytön salasanaa</string>
   <string name="security_keyguard_category_name">Lukitusnäyttö</string>
   <string name="security_password_category_name">Näytön lukitus</string>
-  <string name="security_passwords_title">Tietosuoja</string>
+  <string name="security_passwords_title">Yksityisyys</string>
   <string name="security_patch">Android-tietoturvakorjauksen taso</string>
   <string name="security_privacy_settings_title">Yksityisyys</string>
   <string name="security_relative">Turvallisuus</string>
@@ -6213,6 +6217,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="wifi_priority_settings_title">AP prioriteetin asetukset</string>
   <string name="wifi_priority_type_summary">Aseta jokaiselle tukiasemalle prioriteetti käsin</string>
   <string name="wifi_priority_type_title">Aseta tukiaseman prioriteetti</string>
+  <string name="wifi_privacy_settings">Yksityisyys</string>
   <string name="wifi_quick_toggle_summary">Ota Wi-Fi käyttöön</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Tallennettu</string>
