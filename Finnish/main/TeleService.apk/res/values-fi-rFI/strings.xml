@@ -216,7 +216,6 @@ Tällä tabletilla ei ole korvakuuloketta. Voit vaihtaa hands-free-tilaan tai k�
   <string name="battery_info_status_discharging">Ei laturissa</string>
   <string name="battery_info_status_full">Täynnä</string>
   <string name="battery_info_status_not_charging">Kytketty virtalähteeseen, lataaminen ei onnistu</string>
-  <string name="battery_info_status_not_charging">Ei laturissa</string>
   <string name="battery_info_status_unknown">Tuntematon</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="bf_news_settings">Talous- ja yritysuutiset</string>
@@ -345,8 +344,6 @@ Valinta"</string>
   <string name="callFailed_dialToDial">Vaihdettu toiseen numeroon</string>
   <string name="callFailed_dialToDialVideo">Vaihdettu videopuheluksi</string>
   <string name="callFailed_destination_out_of_order">Destination out of order</string>
-  <string name="callFailed_dialToDial">DIAL-pyyntö muutettiin DIAL-pyynnöksi toisella numerolla.</string>
-  <string name="callFailed_dialToDialVideo">DIAL-pyyntö muutettiin Video DIAL-pyynnöksi.</string>
   <string name="callFailed_dialToSs">Puhelu vaihdettu SS-pyynnöksi</string>
   <string name="callFailed_dialToUssd">Puhelu vaihdettu USSD-pyynnöksi</string>
   <string name="callFailed_dialVideoToDial">Vaihdettu tavalliseksi puheluksi</string>

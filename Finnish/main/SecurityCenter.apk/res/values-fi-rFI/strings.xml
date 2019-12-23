@@ -1683,8 +1683,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
   <string name="pc_search_keywords_property">Suorituskyky</string>
   <string name="pc_settings_title">Akun optimointiasetukset</string>
-  <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
-  <string name="pc_search_keywords_property">Suorituskyky</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$d t %2$d min jäljellä</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d t %2$d min edellisestä latauksesta</string>
   <string name="pc_statistics_battery_use_summary">%s edellisestä latauksesta</string>

@@ -384,7 +384,6 @@ käyttäen numeroa %s"</string>
   <string name="dynamic_mode_notification_channel_name">Ohjelmatilan tietoilmoitus</string>
   <string name="dynamic_mode_notification_summary">Virransäästö otettu käyttöön akunkeston pidentämiseksi</string>
   <string name="dynamic_mode_notification_title">Akku saattaa loppua ennen normaalia latausaikaa</string>
-  <string name="editTextMenuTitle">Tekstitoiminnot</string>
   <string name="durationDayHour">%1$d päivä %2$d t</string>
   <string name="durationDayHours">%1$d päivä %2$d t</string>
   <string name="durationDays">%1$d päivää</string>
