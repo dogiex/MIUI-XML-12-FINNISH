@@ -107,8 +107,8 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="one">%1$d minuutin kuluttua</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Selvitettiin %d akkuongelmaa</item>
-        <item quantity="one">Selvitettiin %d akkuongelma</item>
+        <item quantity="other">Ratkaistiin %d akkuongelmaa</item>
+        <item quantity="one">Ratkaistiin %d akkuongelma</item>
     </plurals>
     <plurals name="quick_optimize_issue_found">
         <item quantity="other">Löytyi %d akkuongelmaa</item>
@@ -375,8 +375,8 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="one">%d ilmoitus on näkyvillä</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">Etsi %d sovelluksesta</item>
-        <item quantity="one">Etsi %d sovelluksesta</item>
+        <item quantity="other">Etsi %d sovelluksen joukosta</item>
+        <item quantity="one">Etsi %d sovelluksen joukosta</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Löydettiin %d sovellusta</item>

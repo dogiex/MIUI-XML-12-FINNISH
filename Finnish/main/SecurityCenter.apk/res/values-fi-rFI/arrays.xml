@@ -78,11 +78,6 @@
         <item>Datan Käyttö</item>
         <item>Puhelimen saldo</item>
     </string-array>
-    <string-array name="luckymoney_sound">
-        <item>静音</item>
-        <item>金币</item>
-        <item>红包来了</item>
-    </string-array>
     <string-array name="traffic_package_type">
         <item>Kuukaisittainen datapaketti</item>
         <item>Päiväkohtainen datapaketti</item>

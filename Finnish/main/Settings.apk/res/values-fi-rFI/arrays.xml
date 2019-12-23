@@ -17,6 +17,20 @@
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="ai_item_action_array">
+        <item>Ei mitään</item>
+        <item>Aktivoi Google-avustaja</item>
+    </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Puhu Google-avustajalle</item>
+        <item>Avaa Google-haku</item>
+        <item>Avaa takakamera</item>
+        <item>Avaa etukamera</item>
+        <item>Avaa edellinen sovellus</item>
+        <item>Käynnistä taskulamppu</item>
+        <item>Ota Lukutila käyttöön</item>
+        <item>Ei mitään</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Joka päivä</item>
         <item>Arkiyöt</item>
@@ -281,28 +295,6 @@
         <item>Optimoi yhteyden laatu (330 kb/s / 303 kb/s)</item>
         <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
-        <item>Lyhyt viive</item>
-        <item>Keskimääräinen viive</item>
-        <item>Pitkä viive</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Lyhyt viive (50~100ms)</item>
-        <item>Keskimääräinen viive (150~200ms)</item>
-        <item>Pitkä viive (300~500ms)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Optimoitu yhteyden laadulle</item>
-        <item>Tasapainotettu äänen- ja yhteyden laadulle</item>
-        <item>Optimoitu äänenlaadulle</item>
-        <item>Paras yritys (Automaattinen bittinopeus)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimoitu yhteyden laadulle (400kbps)</item>
-        <item>Tasapainotettu äänen- ja yhteyden laadulle (500/560kbps)</item>
-        <item>Optimoitu äänenlaadulle (900kbps)</item>
-        <item>Paras yritys (Automaattinen bittinopeus)</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>44,1 kHz</item>
@@ -325,7 +317,6 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
-        <item>LHDC</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
@@ -337,7 +328,6 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
-        <item>LHDC</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
@@ -357,6 +347,13 @@
         <item>5 minuuttia</item>
         <item>1 tunti</item>
         <item>Ei aikakatkaisua</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Ei käytössä</item>
+        <item>Suodatus käytössä</item>
+        <item>Enabled Headers Filtered</item>
+        <item>Enabled Media Pkts Filtered</item>
+        <item>Käytössä</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunti</item>
@@ -405,6 +402,10 @@
         <item>Casual</item>
         <item>Kursiivi</item>
         <item>Isot kirjaimet</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Vain kotipuhelin</item>
+        <item>Automaattinen</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Kasvojentunnistus</item>
@@ -732,6 +733,10 @@
     <string-array name="connect_mode_entries">
         <item>Yhteensopivuus</item>
         <item>Nopeus</item>
+    </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Tumma</item>
+        <item>Vaalea</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Edelliset 30 päivää</item>
@@ -1235,6 +1240,10 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Vain tähdellisiltä yhteystiedoilta</item>
         <item>Ei mitään</item>
     </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Ei mitään</item>
+        <item>Manuaalinen</item>
+    </string-array>
     <string-array name="vpn_states">
         <item>Yhteys katkaistu</item>
         <item>Alustetaan…</item>
@@ -1331,6 +1340,10 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Käytä satunnaista MAC-osoitetta (oletus)</item>
+        <item>Käytä laitteen MAC-osoitetta</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Ei mitään</item>

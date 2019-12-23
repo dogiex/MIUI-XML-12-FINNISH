@@ -19,104 +19,104 @@
         <item>Tallennustila</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Synkronoi yhteystiedot Mi Pilven kanssa</item>
+        <item>Synkronoi yhteystiedot Xiaomi Pilven kanssa</item>
         <item>Ota käyttöön/määritä synkronointi</item>
-        <item>Yhteystiedot;Puheluhistoria;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Yhteystiedot;Puheluhistoria;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Synkronoi viestit Mi Pilven kanssa</item>
+        <item>Synkronoi viestit Xiaomi Pilven kanssa</item>
         <item>Ota käyttöön/määritä synkronointi</item>
-        <item>Viestit;Tekstiviestit;Multimediaviestit;SMS;MMS;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Viestit;Tekstiviestit;Multimediaviestit;SMS;MMS;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Synkronoi Galleria Mi Pilven kanssa</item>
+        <item>Synkronoi Galleria Xiaomi Pilven kanssa</item>
         <item>Ota käyttöön/määritä synkronointi</item>
-        <item>Galleria;Kuvat;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Galleria;Kuvat;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Synkronoi puheluhistoria Mi Pilven kanssa</item>
+        <item>Synkronoi puheluhistoria Xiaomi Pilven kanssa</item>
         <item>Ota käyttöön/määritä synkronointi</item>
-        <item>Puheluhistoria;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Puheluhistoria;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Synkronoi nauhoitukset Mi Pilven kanssa</item>
+        <item>Synkronoi nauhoitukset Xiaomi Pilven kanssa</item>
         <item>Ota käyttöön/määritä synkronointi</item>
-        <item>Ääninauhuri;Nauhuri;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Ääninauhuri;Nauhuri;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Synkronoi musiikki Mi Pilven kanssa</item>
+        <item>Synkronoi musiikki Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Musiikki;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Musiikki;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Synkronoi muistiot Mi Pilven kanssa</item>
+        <item>Synkronoi muistiot Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Muistiot;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Muistiot;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Synkronoi Wi-Fi-asetukset Mi Pilven kanssa</item>
+        <item>Synkronoi Wi-Fi-asetukset Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Wi-Fi;wifi;WLAN;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Wi-Fi;wifi;WLAN;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Synkronoi Kalenteri Mi Pilven kanssa</item>
+        <item>Synkronoi Kalenteri Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Kalenteri;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Kalenteri;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Synkronoi Selain Mi Pilven kanssa</item>
+        <item>Synkronoi Selain Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Selain;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Selain;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Synkronoi Tietoturva Mi Pilven kanssa</item>
+        <item>Synkronoi Tietoturva Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Tietoturva;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Tietoturva;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Synkronoi Sovellusholvi Mi Pilven kanssa</item>
+        <item>Synkronoi Sovellusholvi Xiaomi Pilven kanssa</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Sovellusholvi;Kortit;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Sovellusholvi;Kortit;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Mi Pilvi. Kaikki Mi-palvelut yhdessä paikassa.</item>
+        <item>Xiaomi Pilvi. Kaikki Xiaomi-palvelut yhdessä paikassa.</item>
         <item>Käytä kuviasi, yhteystietojasi, viestejäsi ja laitteitasi mistä tahansa</item>
-        <item>Tallennustila vähissä;Jäsenyys;Tallennustila;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud;Roska;Poistetut kohteet;Tietoturva</item>
+        <item>Tallennustila vähissä;Jäsenyys;Tallennustila;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud;Roska;Poistetut kohteet;Tietoturva</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Etsi laite</item>
         <item>Poista tiedot ja lukitse laitteesi jos se häviää</item>
-        <item>Etsi laite;Hävinnyt;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Etsi laite;Hävinnyt;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Etsi laite</item>
         <item>Poista tiedot ja lukitse laitteesi jos se häviää</item>
-        <item>Etsi laite;Hävinnyt;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Etsi laite;Hävinnyt;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Poistetut kohteet Mi Pilvessä</item>
+        <item>Poistetut kohteet Xiaomi Pilvessä</item>
         <item>Palauta yhteystietoja, kuvia, viestejä ja paljon muuta</item>
-        <item>Roskat;Poistetut kohteet;Roskakori;Palauta;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Roskat;Poistetut kohteet;Roskakori;Palauta;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Mi Pilven jäsenyys</item>
+        <item>Xiaomi Pilven jäsenyys</item>
         <item>Päivitä jäsenyytesi, hanki lisää tallennustilaa ja turvaa tietosi</item>
-        <item>Tallennustila vähissä;Jäsenyys;Tallennustila;Pilvi;Synkronointi;Pilvipalvelut;Mi Pilvi;Mi Cloud;Mega;Ultra;VIP;Varmuuskopiointi;Varmuuskopio;Palauta;Roska;Poistetut kohteet;Roskakori</item>
+        <item>Tallennustila vähissä;Jäsenyys;Tallennustila;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud;Mega;Ultra;VIP;Varmuuskopiointi;Varmuuskopio;Palauta;Roska;Poistetut kohteet;Roskakori</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Varmuuskopioi Aloitusnäyttö Mi Pilveen</item>
+        <item>Varmuuskopioi Aloitusnäyttö Xiaomi Pilveen</item>
         <item>Varmuuskopioi Aloitusnäytön ulkoasu, luettelo asennetuista sovelluksista ja järjestelmäasetukset</item>
-        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Mi Pilvi;Mi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Asetukset;Varmuuskopion tiheys;Hallitse varmuuskopioita;Palauta</item>
+        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Asetukset;Varmuuskopion tiheys;Hallitse varmuuskopioita;Palauta</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Varmuuskopiot</item>
         <item>Varmuuskopioidut kohteet</item>
-        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Mi Pilvi;Mi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Hallitse varmuuskopioita;Palauta</item>
+        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Hallitse varmuuskopioita;Palauta</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Palauta kohteita Mi Pilvestä</item>
+        <item>Palauta kohteita Xiaomi Pilvestä</item>
         <item>Lataa varmuuskopioituja kohteita laitteellesi</item>
-        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Palauta;Pilvipalvelut;Mi Pilvi;Mi Cloud</item>
+        <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Palauta;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Synkronoi sovellustiedot</item>

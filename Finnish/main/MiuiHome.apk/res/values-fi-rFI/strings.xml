@@ -253,6 +253,7 @@
     <string name="multi_selecting_tips">Valitaksesi sovelluksen, raahaa sen kuvaketta ja tiputa tänne.</string>
     <string name="no_detail_page">Ei tietoja-sivu</string>
     <string name="no_space_toast">Tilaa ei ole tarpeeksi</string>
+    <string name="no_space_toast_when_click_widget">Tällä sivulla ei ole tarpeeksi tilaa. Raahaa tämä kohde toiselle sivulle.</string>
     <string name="normal_wallpaper">Taustakuva</string>
     <string name="notification_installed">Asennettiin onnistuneesti</string>
     <string name="notification_open_button">Avaa</string>

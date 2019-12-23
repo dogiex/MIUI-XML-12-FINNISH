@@ -15,6 +15,7 @@
   <string name="bluetooth_preference_found_devices">Käytettävissä olevat laitteet</string>
   <string name="bluetooth_preference_scan_title">Etsi laitteita</string>
   <string name="bluetooth_search_for_devices">Etsi laitteista</string>
+  <string name="copy">Kopioi</string>
   <string name="device_picker">Bluetooth laitteen asetukset</string>
   <string name="disconnect">Katkaise yhteys</string>
   <string name="fast_connect_device_box">Laatikko</string>
@@ -49,9 +50,11 @@
   <string name="mi_key_summary_open_camera">Tuplanapauta Mi Avainta avataksesi Kameran</string>
   <string name="mi_key_summary_take_photo">Paina Mi Avainta ottaaksesi kuvan</string>
   <string name="mi_key_take_photo">Ota kuva</string>
+  <string name="not_set">Ei asetettu</string>
   <string name="notify_device_lose_connection_text">Katkaise yhteys laitteeseen %1$s napauttamalla</string>
   <string name="notify_device_lose_connection_title">Menetettiin yhteys laitteeseen %1$s</string>
   <string name="ok_button">OK</string>
+  <string name="preference_copied">\"%1$s\" kopioitiin leikepöydälle.</string>
   <string name="progress_scanning">Etsitään…</string>
   <string name="reset_function_msg">Palauttamalla tämän ominaisuuden asetukset saattaa estää %1$s toimimasta normaalisti.</string>
   <string name="some_app_taking">(%1$s käyttää jo tätä ominaisuutta)</string>

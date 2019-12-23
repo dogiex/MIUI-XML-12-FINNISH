@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- miui 10 valmis -->
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Virheellinen PIN-koodi, %d yritystä jäljellä</item>
         <item quantity="one">Virheellinen PIN-koodi, %d yritys jäljellä</item>
@@ -101,7 +100,6 @@
         <item quantity="other">Yritä uudelleen %d sekunnin kuluttua</item>
         <item quantity="one">Yritä uudelleen %d sekunnin kuluttua</item>
      </plurals>
-     <!-- miui 10 valmis -->
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d viimeaikaista sovellusta</item>
         <item quantity="one">%d viimeaikainen sovellus</item>
@@ -117,14 +115,6 @@
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d nappulaa näytetään Ilmoitusalueella</item>
         <item quantity="one">%1$d nappula näytetään Ilmoitusalueella</item>
-    </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Piilotetaanko %d sovelluksien ilmoitukset?</item>
-        <item quantity="one">Piilotetaanko tämän sovelluksen ilmoitukset?</item>
-    </plurals>
-    <plurals name="block_record_notification_more_text">
-        <item quantity="other">Piilotetaan ilmoitukset %1$s &amp; %2$d muusta sovelluksesta.</item>
-        <item quantity="one">Piilotetaan ilmoitukset %1$s &amp; %2$d muusta sovelluksesta.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Selkeä</item>

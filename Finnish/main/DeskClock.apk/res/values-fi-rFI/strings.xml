@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- miui 10 valmis -->
   <string name="alarm_clock_more_setting">Lisäasetukset</string>
   <string name="channel_name_alarm">Hälytys</string>
   <string name="channel_name_timer">Ajastin</string>
@@ -16,19 +15,40 @@
   <string name="module_download_data_msg_replace">Päivitetty ääni MIUI:n älykkäille hälytyksille on saatavilla. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
   <string name="module_download_data_msg_timer">Kellon täytyy ladata äänitiedostoja ympäristöääniajastimia varten. Mobiilidataasi vaaditaan noin 20 Mt tämän lataamiseksi. Ladataanko nyt?</string>
   <string name="module_download_fail">Ylimääräistä äänitiedostoa ei voitu ladata</string>
+  <string name="module_download_failure">Ääntä ei voitu ladata. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="module_download_msg">Käyttääksesi MIUI:n älyhälytyksiä, Kellon täytyy ladata äänitiedostoja. Älyhälytykset sisältävät ääniominaisuuksia, jotka sallivat sen hetkisen säätietojen käyttämisen hälytyksissä. Ladataanko nyt?</string>
   <string name="module_download_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI:n älyhälytyksiä varten. Ladataanko nyt?</string>
   <string name="module_download_msg_replace">MIUI:n älyhälytyksien päivitetty ääni on saatavilla. Ladataanko nyt?</string>
   <string name="module_download_msg_timer">Kellon täytyy ladata äänitiedostoja ympäristöääniajastimia varten. Ladataanko nyt?</string>
-  <string name="module_download_no_network">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
-  <string name="module_download_ok">Hyväksyn</string>
-  <string name="module_download_success">Ylimääräinen äänitiedosto ladattiin onnistuneesti</string>
-  <string name="module_download_title">Ylimääräinen äänitiedosto vaaditaan</string>
-  <string name="module_downloading">Ladataan ylimääräistä äänitiedostoa…</string>
+  <string name="module_download_no_network">Kellon täytyy yhdistää internetiin ladatakseen ääniä. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="module_download_ok">Salli</string>
+  <string name="module_download_success">Ääni ladattiin onnistuneesti</string>
+  <string name="module_download_title">Ylimääräinen ääni vaaditaan</string>
+  <string name="module_downloading">Ladataan ääntä…</string>
   <string name="module_update_success">Päivitetyt äänitiedot MIUI:n älyhälytyksiä varten ladattiin onnistuneesti. Voit asettaa MIUI:n älyhälytyksiä Kellon asetuksissa.</string>
   <string name="module_update_success_control">Selvä</string>
+  <string name="module_weather_ringtone_download_data">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_weather_ringtone_download_data_privacy">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan. Kellon täytyy yhdistää internetiin ladatakseen noin 30 Mt edestä ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
+  <string name="module_weather_ringtone_download_wifi">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan. Kellon täytyy ladata ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_weather_ringtone_download_wifi_privacy">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan. Kellon täytyy yhdistää internetiin ladatakseen ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
+  <string name="module_weather_ringtone_introduce">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan. Sen avulla voit myös kuunnella nykyisen säätiedon aamulla.</string>
+  <string name="module_weather_ringtone_introduce_global">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan.</string>
+  <string name="module_weather_ringtone_update_data">Säähälytys tulee nyt taustamusiikilla ja paremmilla ääni-ilmoituksilla. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_weather_ringtone_update_success">Säähälytys tulee nyt taustamusiikilla ja paremmilla ääni-ilmoituksilla. Voit ottaa tämän ominaisuuden käyttöön Kellon asetuksissa.</string>
+  <string name="module_week_ringtone_download_data">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_week_ringtone_download_data_privacy">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy yhdistää internetiin ladatakseen noin 30 Mt edestä ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
+  <string name="module_week_ringtone_download_wifi">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy ladata ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_week_ringtone_download_wifi_privacy">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy yhdistää internetiin ladatakseen ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
+  <string name="module_week_ringtone_introduce">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä.</string>
+  <string name="module_week_ringtone_update_data">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_week_ringtone_update_success">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Voit ottaa tämän ominaisuuden käyttöön Kellon asetuksissa.</string>
+  <string name="module_white_noise_download_data">Kellon täytyy ladata äänitiedostoja ajastimien taustaääniä varten. Lataukseen vaaditaan noin 30 Mt mobiilidatastasi. Ladataanko nyt?</string>
+  <string name="module_white_noise_download_data_privacy">Ladatakseen äänitiedostoja ajastimien taustaääniä (n. 30 Mt) varten ja tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Käytät tällä hetkellä mobiilidataa. Hyväksytkö?</string>
+  <string name="module_white_noise_download_wifi">Kellon täytyy ladata äänitiedostoja ajastimien taustaääniä varten. Ladataanko nyt?</string>
+  <string name="module_white_noise_download_wifi_privacy">Ladatakseen äänitiedostoja ajastimien taustaääniä varten ja tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
   <string name="monday_to_friday">Maanantaista Perjantaihin</string>
   <string name="set_alarm_done">Valmis</string>
+  <string name="setting_alarm_arriving_subtitle">Näytä ilmoitukset ennen kuin hälytykset soivat</string>
   <string name="time_picker_colon">:</string>
   <string name="time_picker_label_hour">T</string>
   <string name="time_picker_label_minute">M</string>
@@ -37,6 +57,7 @@
   <string name="timer_alert_type_forest">Metsä</string>
   <string name="timer_alert_type_mute">Oletus</string>
   <string name="timer_alert_type_rain">Tihkusade</string>
+  <string name="timer_alert_type_spring_rain">Kesäsade</string>
   <string name="timer_alert_type_stove_fire">Liesituli</string>
   <string name="timer_alert_type_summer_night">Kesäyö</string>
   <string name="timer_can_continue_in_timer">Avaa Ajastin jatkaaksesi</string>
@@ -57,10 +78,10 @@
   <string name="worldclock_world_time">Aikavyöhykkeet</string>
   <string name="worldcolock_date_display_prefix">Nykyinen: </string>
   <string name="worldcolock_timezone_current">Nykyinen: %1$s</string>
+  <string name="worldcolock_timezone_current_date">d.M.yyyy</string>
   <string name="worldcolock_timezone_date">d.M.</string>
-  <string name="worldcolock_timezone_gap">%s T</string>
+  <string name="worldcolock_timezone_gap">%s t</string>
   <string name="worldcolock_timezone_local">Sama kuin paikallinen aika</string>
-  <!-- miui 10 valmis -->
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää</string>
@@ -110,6 +131,7 @@
   <string name="cancel">Peruuta</string>
   <string name="close_alarm">Sulje hälytys</string>
   <string name="common_settings">Asetukset</string>
+  <string name="confirm">Vahvista</string>
   <string name="confirm_abort">Hylkää</string>
   <string name="content_desc_keep_screen">\"Pidä näyttö päällä\" painike</string>
   <string name="control_set_alarm">Aseta hälytys</string>
@@ -174,8 +196,11 @@
   <string name="life_post_setting">Aamuraportti</string>
   <string name="life_post_setting_FBE_remind">Järjestelmärajoituksen vuoksi aamuraportin säätiedot eivät ehkä näy oikein uudelleenkäynnistyksen jälkeen</string>
   <string name="life_post_setting_close_title">Sulje aamuraportit</string>
+  <string name="life_post_setting_open_background_subtitle">Näytä hälytyksiä koskevat taustakuvat</string>
+  <string name="life_post_setting_open_background_title">Näytä taustakuva</string>
   <string name="life_post_setting_open_desc">Poista toistuvat hälytykset käytöstä klo 04.00 - 10.00 välisenä aikana kuunnellaksesi sääraportin</string>
   <string name="life_post_setting_open_subtitle">Vastaanota säätiedot hälytyksen sulkemisen jälkeen jos kello on välillä 04.00 - 09.30</string>
+  <string name="life_post_setting_open_summary">Sisällytä säätieto ensimmäisessä hälytyksessä, joka sammutetaan klo 4.00 - 10.00 välillä</string>
   <string name="life_post_setting_open_title">Vastaanota aamuraportteja</string>
   <string name="life_post_setting_wake_up_list_title">Heräämisen historia</string>
   <string name="life_post_wake_up_acumu_day_title">Päivien laskenta</string>
@@ -192,6 +217,7 @@
   <string name="life_post_weather_invalid">Hae säätiedot napauttamalla</string>
   <string name="life_post_weather_no_network">Yhdistä verkkoon päivittääksesi säätiedot</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
+  <string name="listen_news_privacy">Tarjotaksemme henkilökohtaisia palveluita, mukaan lukien aamuraportteja hälytyksissäsi, Kellon tarvitsee yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
   <string name="loading_ringtone">Ladataan soittoääntä…</string>
   <string name="menu_add_worldclock">Lisää kello</string>
   <string name="menu_desk_clock">Kello</string>
@@ -199,8 +225,13 @@
   <string name="menu_item_dock_settings">Telakointiasetukset</string>
   <string name="menu_item_sort_by_gmt_offset">Lajittele ajan mukaan</string>
   <string name="menu_item_sort_by_name">Lajittele nimen mukaan</string>
+  <string name="module_dialog_negative">En hyväksy</string>
+  <string name="module_dialog_neutral">Selvä</string>
+  <string name="module_dialog_positive">Hyväksyn</string>
   <string name="more_setting">Lisäasetukset</string>
   <string name="more_settings">Asetukset</string>
+  <string name="network_privacy">Saadakseen paikallisista juhlapyhistä tietoja, säätääkseen hälytyksiä ja tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
+  <string name="network_privacy_global">Tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
   <string name="never">Kerran</string>
   <string name="no_alarm_setting">Täällä ei ole hälytyksiä</string>
   <string name="no_worldclock">Täällä ei ole kelloja</string>
@@ -210,11 +241,15 @@
   <string name="pause">Tauko</string>
   <string name="personal_recommend">Henkilökohtainen sisältösuositukset</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="remind_ringtone">Soittoääni</string>
   <string name="repeat_count">Toistokerrat</string>
   <string name="reset">Nollaa</string>
   <string name="revert">Palauta</string>
-  <string name="search_alarm_clock_keywords">Herätys;herätyskello;Herätys</string>
+  <string name="ringtone_other">Lisää soittoääniä</string>
+  <string name="ringtone_weather">Säähälytyksen soittoäänet</string>
+  <string name="ringtone_week">Viikottaisen hälytyksen soittoäänet</string>
+  <string name="search_alarm_clock_keywords">Herätys;herätyskello;Herätys;Hälytys</string>
   <string name="search_menu_title">Haku</string>
   <string name="search_stopwatch_keywords">Sekuntikello</string>
   <string name="search_timer_keywords">Ajastin</string>
@@ -227,6 +262,8 @@
   <string name="shortcut_start_timer">Käynnistä ajastin</string>
   <string name="shortcut_stop_watch">Käynnistä sekuntikello</string>
   <string name="shut_down_keep_screen">Näyttöä ei pidetä päällä</string>
+  <string name="shutdown_alarm_alert_enable_summary">Hälytys soi, jos se on asetettu vähintään 10 minuutin päähän laitteesi sammuttamisesta</string>
+  <string name="shutdown_alarm_alert_title">Sammutetun laitteen hälytys</string>
   <string name="shutdown_alarm_disable_summary">Hälytys ei soi, kun laite on sammutettu</string>
   <string name="shutdown_alarm_enable_summary">Hälytys soi, jos se on asetettu vähintään 10 minuutin päähän laitteesi sammuttamisesta</string>
   <string name="shutdown_alarm_title">Sammutetun laitteen hälytys</string>
@@ -242,6 +279,9 @@
   <string name="start_up">Aloita</string>
   <string name="stopwatch_lap_empty_text">Ei kierroksia</string>
   <string name="stopwatch_title">Sekuntikello</string>
+  <string name="system_permission_phone_desc">Tunnistaakseen eri laitteet</string>
+  <string name="system_permission_purpose">Hälytykset, sekuntikello, ajatimet ja maailmankello</string>
+  <string name="system_permission_storage_desc">Käyttääkseen hälytyksen soittoääniä</string>
   <string name="system_time_setting">Asetukset</string>
   <string name="system_time_settings_category_title">Aika-asetukset</string>
   <string name="temperature_unit">℃</string>
@@ -276,8 +316,9 @@
   <string name="upcoming_alarm_hint">Voit sulkea tämän hälytyksen ennakkoon</string>
   <string name="update_notification_info">Päivitetään tietoja taustalla…</string>
   <string name="user_agreement">Käyttöehdot</string>
-  <string name="vibrate_pref_summary">Värise, kun hälytys soi</string>
-  <string name="vibrate_when_ringing">Värise, kun soi</string>
+  <string name="vibrate_pref_summary">Värise hälytyksen soidessa</string>
+  <string name="vibrate_when_ringing">Värise soidessa</string>
+  <string name="volume_button_setting_desc">Määritä virta- ja äänenvoimakkuuspainikkeiden toiminnot</string>
   <string name="volume_button_setting_summary">Aseta äänenvoimakkuuspainikkeiden toiminnot hälytyksen aikana</string>
   <string name="volume_button_setting_title">Äänenvoimakkuuspainikkeet</string>
   <string name="workday_alarm_clock">Työpäivän hälytys</string>

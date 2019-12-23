@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_missing_private_key">Yksityinen avain vaaditaan varmenteen asentamiseksi</string>
+  <string name="action_missing_user_cert">Varmenne vaaditaan yksityisen avaimen asentamiseksi</string>
   <string name="app_name">Varmenteen asennusohjelma</string>
   <string name="cert_is_added">%s on asennettu.</string>
   <string name="cert_missing_error">Asennus epäonnistui, koska varmennetiedostoa ei löydy.</string>
@@ -19,7 +21,6 @@
   <string name="name_char_error">Kirjoita nimi, joka sisältää vain kirjaimia ja numeroita.</string>
   <string name="name_credential_dialog_title">Nimeä varmenne</string>
   <string name="name_empty_error">Kirjoita nimi.</string>
-  <string name="no_cert_file_found">USB-tallennustilasta ei löytynyt varmennetta.</string>
   <string name="no_cert_to_saved">Ei asennettavaa varmennetta.</string>
   <string name="one_cacrt">yksi CA-varmenne</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
@@ -31,8 +32,8 @@
   <string name="pick_file_title">Valitse varmenne</string>
   <string name="pkcs12_file_password_dialog_title">Hae tallenteesta %s</string>
   <string name="pkcs12_password_dialog_title">Pura varmenne</string>
-  <string name="sdcard_not_present">USB-tila ei ole käytettävissä.</string>
   <string name="unable_to_save_cert">Varmenteen tallentaminen epäonnistui. Tunnuksien tallennus ei ole käytössä tai sitä ei ole käynnistetty oikein.</string>
+  <string name="userkey_type">Algoritmi:</string>
   <string name="wifi_cancel_label">Peruuta</string>
   <string name="wifi_config_text">"Nimi: %1$s
 FQDN: %2$s

@@ -72,6 +72,14 @@
         <item quantity="other">%d v kuluttua</item>
         <item quantity="one">%d v kuluttua</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d tiedostoa</item>
+        <item quantity="one">%1$s + %2$d tiedosto</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Yritä uudelleen %d sekunnin kuluttua.</item>
+        <item quantity="one">Yritä uudelleen 1 sekunnin kuluttua.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Edellisen %d päivän aikana</item>
         <item quantity="one">Edellisen %d päivän aikana</item>

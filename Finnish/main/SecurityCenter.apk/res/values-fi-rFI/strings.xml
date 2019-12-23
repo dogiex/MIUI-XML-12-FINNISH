@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- 8.9.17 -->
   <string name="card_main_deepclean_whatsapp_title">WhatsApp puhdistaja</string>
   <string name="card_main_hwtest_title">Laitteistotesti</string>
   <string name="device_manager_apply_step_1">Aktivoidaanko laitteen järjestelmänvalvoja tälle sovellukselle?</string>
@@ -8,8 +7,6 @@
 Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi voidaan nollata."</string>
   <string name="device_manager_apply_step_3">Varmista, että ymmärrät kaikki mahdolliset riskit ennen jatkamista. Aktivoidaanko laitteen järjestelmänvalvoja tälle sovellukselle nyt?</string>
   <string name="first_aid_result_summary_not_finished">Tarkistusta ei suoritettu loppuun. Joitakin riskejä saattaa olla havaitsematta.</string>
-  <!-- // 8.9.17 // -->
-  <!-- MIUI 10 valmis -->
   <string name="gb_msg_not_shielded_summary">Näytä</string>
   <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
   <string name="gs_gamebox_detail">Näytä pyyhkäisemällä näytön yläreunasta</string>
@@ -17,7 +14,6 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="midrop_post_notification_contentText">Siirrä tiedostoja jopa 50 Mt/s nopeudella Mi Dropissa.</string>
   <string name="midrop_post_notification_contentTitle">Onko tarvetta jakaa tiedostoja?</string>
   <string name="screenrecord_not_find">Asenna viimeisin versio Näytön Nauhoittajasta ja yritä uudelleen.</string>
-  <!-- MIUI 10 valmis -->
   <string name="Phonepass">Salli puhelut</string>
   <string name="SMS_and_MMS">Teksti- ja multimediaviestit</string>
   <string name="SMSpass">Salli tekstiviestit</string>
@@ -1681,6 +1677,11 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_main_power_manager_hour_minute">%1$s t %2$s min kunnes täynnä</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$s pv %2$s t jäljellä</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$s t %2$s min jäljellä</string>
+  <string name="pc_search_keywords_battery">Akku</string>
+  <string name="pc_search_keywords_battery_save">Virransäästö</string>
+  <string name="pc_search_keywords_battery_use">Akun käyttö</string>
+  <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
+  <string name="pc_search_keywords_property">Suorituskyky</string>
   <string name="pc_settings_title">Akun optimointiasetukset</string>
   <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
   <string name="pc_search_keywords_property">Suorituskyky</string>
@@ -2127,7 +2128,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sp_settings_check_item_title_root">Root</string>
   <string name="sp_settings_check_item_title_sign_exception">Allekirjoituksien poikkeukset</string>
   <string name="sp_settings_check_item_title_update">Järjestelmän päivitykset</string>
-  <string name="sp_settings_check_item_title_virus_exception">Viruksien poikkeukset</string>
+  <string name="sp_settings_check_item_title_virus_exception">Poikkeukset</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Ei kohteita</string>
   <string name="sp_settings_group_title_check_item">Usea kohde</string>

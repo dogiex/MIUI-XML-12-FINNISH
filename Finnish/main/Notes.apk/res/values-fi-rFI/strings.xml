@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- MIUI 10 valmis -->
   <string name="application_icon">Sovelluksen kuvake</string>
   <string name="audio_panel_time_counter_default">00:00</string>
   <string name="audio_toast_file_invalid">Äänitiedosto on virheellinen</string>
@@ -26,7 +25,6 @@
   <string name="save_to_gallery_success_message">Tallennettiin onnistuneesti</string>
   <string name="toolbar_text_description">Tekstin tyyli</string>
   <string name="toolbar_voice_description">Ääni</string>
-     <!-- MIUI 10 valmis -->
   <string name="action_folder_description">Näytä kansiot</string>
   <string name="action_mode_switcher_grid_description">Ruudukkonäkymä</string>
   <string name="action_mode_switcher_list_description">Luettelonäkymä</string>
@@ -47,9 +45,11 @@
   <string name="all_folder_name">Kaikki muistiot</string>
   <string name="all_terms">%1$s ja %2$s</string>
   <string name="app_name">Muistio</string>
+  <string name="app_notification_info">Muistio työskentelee taustalla</string>
   <string name="app_widget">Muistio</string>
   <string name="call_folder_name">Puheluiden muistiot</string>
   <string name="cancel_alarm_description">Peruuta hälytys</string>
+  <string name="check_in_todo_app">Näytä tehtävät</string>
   <string name="cloud_service_state_open_reminder">Ota Pilven synkronointi käyttöön synkronoidaksesi muistiot.</string>
   <string name="cloud_trash_bin_title">Poista muistiot Pilvestä</string>
   <string name="cta_confirm_cancel">Älä salli</string>
@@ -252,6 +252,7 @@ Salli Muistion nauhoittaa ääntä."</string>
   <string name="todo_event_description_today">Tänään</string>
   <string name="todo_event_description_tomorrow">Huomenna</string>
   <string name="todo_event_description_yesterday">Eilen</string>
+  <string name="todo_float_permission_open_reminder">Salli Muistion näyttää kelluva ikkuna muissa sovelluksissa käyttääksesi tätä ominaisuutta.</string>
   <string name="todo_item_group_expired">Vanhentunut</string>
   <string name="todo_item_group_finished">Valmis</string>
   <string name="todo_item_group_further">Myöhemmin</string>
@@ -263,6 +264,7 @@ Salli Muistion nauhoittaa ääntä."</string>
   <string name="todo_item_status_unfinished">Ei valmis</string>
   <string name="todo_menu_add_audio_description">Lisää äänitehtävä</string>
   <string name="todo_menu_add_description">Lisää tehtävä</string>
+  <string name="todo_menu_cancel">Peruuta</string>
   <string name="todo_menu_delete">Poista</string>
   <string name="todo_module_name">Tehtävät</string>
   <string name="todo_notify_alarm_title">Tehtävän muistutus</string>
@@ -277,10 +279,12 @@ Salli Muistion nauhoittaa ääntä."</string>
   <string name="todo_schedule_time_ymdhm">d.M.yyyy HH.mm</string>
   <string name="todo_search_hint">Hae tehtäviä</string>
   <string name="todo_time_picker_title">Aseta muistutus</string>
-  <string name="todo_user_guide_tip1">Tervetuloa \"Tehtäviin\"!</string>
-  <string name="todo_user_guide_tip2">Tämä on tehtävä. Voit merkata sen valmiiksi napauttamalla valintaruutua.</string>
-  <string name="todo_user_guide_tip3">Napauta alla olevaa plussaa luodaksesi tehtävän. Voit lisätä myös äänitehtävän.</string>
-  <string name="todo_user_guide_tip4">Aseta tehtävillesi muistutuksia, jotta et unohda niitä.</string>
+  <string name="todo_user_guide_fw_pop">Lisää Aloitusnäytön pikakuvake</string>
+  <string name="todo_user_guide_tip1">Tervetuloa Tehtäviin!</string>
+  <string name="todo_user_guide_tip2">Täällä voit lisätä tekstiä ja äänitehtäviä.</string>
+  <string name="todo_user_guide_tip3">Muokkaa tekstitehtävää napauttamalla sitä.</string>
+  <string name="todo_user_guide_tip4">Älä unohda luoda Tehtävien pikakuvaketta Aloitusnäytölle.</string>
+  <string name="todo_user_guide_tip5">Pysy aina ajan tasalla äläkä unohda mitään tärkeää!</string>
   <string name="todoalert_done">OK</string>
   <string name="toolbar_check_description">Lisää valintaruutu</string>
   <string name="toolbar_delete_description">Poista tämä muistio</string>

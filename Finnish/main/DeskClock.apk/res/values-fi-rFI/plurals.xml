@@ -52,6 +52,10 @@
         <item quantity="other">Muutettiin torkutuksen aikaväli %d minuuttiin</item>
         <item quantity="one">Muutettiin torkutuksen aikaväli %d minuuttiin</item>
     </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">%1$s minuutin välein, soi %2$s kertaa</item>
+        <item quantity="one">%1$s minuutin välein, soi %2$s kerran</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Hälytys soi %2$s kertaa (%1$s min. per kerta)</item>
         <item quantity="one">Hälytys soi %2$s kerran (%1$s min.)</item>

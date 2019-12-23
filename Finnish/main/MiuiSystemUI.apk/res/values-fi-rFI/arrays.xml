@@ -88,8 +88,16 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (oletus)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Ei käytössä</item>
+        <item>Suodatus käytössä</item>
+        <item>Enabled Headers Filtered</item>
+        <item>Enabled Media Pkts Filtered</item>
+        <item>Käytössä</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
@@ -99,7 +107,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ääni</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
@@ -117,7 +125,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ ääni</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>

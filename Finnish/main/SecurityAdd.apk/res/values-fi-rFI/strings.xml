@@ -43,9 +43,12 @@
   <string name="fastboot_status_locked_summary">Root-käyttöoikeutta ei saada</string>
   <string name="fastboot_unlock_web_title">Mene viralliselle MIUI verkkosivulle ja hae avaustyökalu (unlock tool).</string>
   <string name="game_booster">Pelien nopeuttaja</string>
+  <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon käyttääkseen Pelien nopeuttajan kaikkia ominaisuuksia?</string>
+  <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet eivät ole käytettävissä</string>
   <string name="gamebox_no_network_btn">Lataa uudelleen</string>
   <string name="gb_alipays_can_not_complete">Maksua ei voi suorittaa loppuun. Asenna jatkaaksesi.</string>
   <string name="gb_weixinpay_can_not_complete">Maksua ei voi suorittaa loppuun. Asenna jatkaaksesi.</string>
+  <string name="gdpr_msg">Käyttääksesi Tietoturvan perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi, mukaan lukien Tietoturva -sovelluksen käyttötavat (esim. mobiilidatan käyttötilastot, tiedot haittaohjelmista ja perustiedot laitteestasi) ja muun kaltaisia tietoja, jotka löydät meidän Tietosuojakäytännöstä.</string>
   <string name="lucky_result_title">Punaisen kirjekuoret</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="miuishare_title_more">Lisää</string>
@@ -72,6 +75,7 @@
   <string name="superpower_date">"EEEE d. MMMM'ta'"</string>
   <string name="superpower_dialog_app_select_content">Kolmannen osapuolen sovellukset yleensä vievät enemmän virtaa, kuin järjestelmäsovellukset. Lisätäänkö siitä huolimatta?</string>
   <string name="superpower_dialog_app_select_title">Huomio</string>
+  <string name="superpower_exit_hint">Poistetaan Äärimmäinen virransäästö käytöstä…</string>
   <string name="superpower_incharging">Ladataan</string>
   <string name="superpower_progress_battery_last">%s jäljellä</string>
   <string name="superpower_progress_left_time">%1$d t %2$d min</string>

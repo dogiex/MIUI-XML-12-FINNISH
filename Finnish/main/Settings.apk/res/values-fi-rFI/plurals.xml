@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">%d minuutti sitten</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d vuotta sitten</item>
+        <item quantity="one">%d vuosi sitten</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d sovelluksella on laitteesi täysi käyttöoikeus</item>
+        <item quantity="one">1 sovelluksella on laitteesi täysi käyttöoikeus</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Äärimmäisen lyhyt viive (%1$d ms)</item>
         <item quantity="one">Äärimmäisen lyhyt viive (%1$d ms)</item>
@@ -104,6 +120,14 @@
         <item quantity="other">%s tuntia</item>
         <item quantity="one">1 tunti</item>
     </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d/%2$d sovelluksesta on rajoittamaton käyttöoikeus</item>
+        <item quantity="one">%1$d/%2$d sovelluksesta on rajoittamaton käyttöoikeus</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Käytössä - %1$d sovellusta voi käyttää sijaintia</item>
+        <item quantity="one">Käytössä - %1$d sovellus voi käyttää sijaintia</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Salasanassa on oltava vähintään %d kirjainta.</item>
         <item quantity="one">Salasanassa on oltava vähintään 1 kirjain.</item>
@@ -184,9 +208,17 @@
         <item quantity="other">%d lisätty</item>
         <item quantity="one">%d lisätty</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIM-korttia</item>
+        <item quantity="one">%1$d SIM</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d rajoitusta</item>
         <item quantity="one">1 rajoitus</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d ilmoituskanavaa.</item>
+        <item quantity="one">%1$d ilmoituskanava.</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Poissa %d sovelluksen käytöstä</item>
@@ -195,6 +227,10 @@
     <plurals name="number_of_device_admins">
         <item quantity="other">%d aktiivista sovellusta</item>
         <item quantity="one">%d aktiivinen sovellus</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s sovellusta</item>
+        <item quantity="one">1 sovellus</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d käyttöoikeutta myönnetty</item>
@@ -227,6 +263,10 @@
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Näytä %d piilotettua kohdetta</item>
         <item quantity="one">Näytä %d piilotettu kohde</item>
+    </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d laitetta yhdistetty</item>
+        <item quantity="one">%1$d laite yhdistetty</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">%1$d askeleen päässä äänilokista</item>
@@ -384,9 +424,22 @@ Saat lisätietoja varmenteesta järjestelmänvalvojaltasi."</item>
         <item quantity="other">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
         <item quantity="one">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritys jäljellä, ennen kuin sinun on otettava yhteyttä operaattoriin laitteen lukituksen avaamiseksi.</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Ilmoitukset %1$d sovelluksesta voi ohittaa Älä häiritse -toiminnon</item>
+        <item quantity="zero">Yksikään sovellus ei voi ohittaa Älä häiritse -toimintoa</item>
+        <item quantity="one">Ilmoitukset yhdeltä sovellukselta voi ohittaa Älä häiritse -toiminnon</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automaattista sääntöä käytössä</item>
-        <item quantity="one">1 automaattinen sääntö käytössä</item>
+        <item quantity="other">%d käytössä</item>
+        <item quantity="one">1 käytössä</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">%d ajastusta voi käynnistyä automaattisesti</item>
+        <item quantity="one">1 ajastus voi käynnistyä automaattisesti</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d muuta</item>
+        <item quantity="one">1 muu</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Ota vain herätykset käyttöön %1$d yhdeksi tunniksi %2$s asti.</item>

@@ -21,7 +21,7 @@
         <item quantity="one">%d kuva</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d puheluhistorian nauhoitukset</item>
+        <item quantity="other">%d puheluhistorian nauhoitusta</item>
         <item quantity="one">%d puheluhistorian nauhoitus</item>
     </plurals>
     <plurals name="dirty_wlan_count">
@@ -73,7 +73,7 @@
         <item quantity="one">%s tunti sitten</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s palvelua synkronoidaan Mi Pilveen</item>
-        <item quantity="one">%s palvelu synkronoidaan Mi Pilveen</item>
+        <item quantity="other">%s palvelua synkronoidaan Xiaomi Pilveen</item>
+        <item quantity="one">%s palvelu synkronoidaan Xiaomi Pilveen</item>
     </plurals>
 </resources>
