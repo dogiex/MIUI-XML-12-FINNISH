@@ -21,6 +21,7 @@
   <string name="app_name">Järjestelmäpalvelun liitännäinen</string>
   <string name="app_select_title">Lisää usein käytettyjä sovelluksia</string>
   <string name="cancel_button">Peruuta</string>
+  <string name="cta_main_purpose">Tervetuloa Game Turboon!</string>
   <string name="dialog_market_score_cancel">Peruuta</string>
   <string name="dialog_market_score_dislike">Kommentoi</string>
   <string name="dialog_market_score_like">5 tähteä!</string>

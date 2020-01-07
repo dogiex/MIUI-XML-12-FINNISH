@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Päivittäjä</string>
-  <string name="battery_islow">Liitä laturisi</string>
-  <string name="battery_islow_desc">Akun taso on liian alhainen zip-tiedoston asentamista varten. Liitä laturisi ja yritä myöhemmin uudelleen!</string>
+  <string name="battery_islow">&lt;font color=#f37981&gt;Liitä laturisi&lt;/font&gt;</string>
+  <string name="battery_islow_desc">Akun taso on liian alhainen zip-tiedoston turvallista asentamista varten. Liitä laturisi ja yritä myöhemmin uudelleen!</string>
   <string name="btn_changelog">Muutosloki</string>
   <string name="btn_download">Lataa (%1$s)</string>
   <string name="btn_error">Tapahtui virhe, yritetäänkö uudelleen?</string>
@@ -41,8 +41,9 @@ Tietoja ei poisteta."</string>
   <string name="message_title">HUOMAUTUS!</string>
   <string name="new_version">Uusi versio löytyi!</string>
   <string name="no_info">Tietoja ei ole saatavilla.</string>
+  <string name="no_mirror">Kaikki palvelimet ovat tällä hetkellä offline-tilassa, yritä myöhemmin uudelleen…</string>
   <string name="no_network">Ei pääsyä verkkoon.</string>
-  <string name="no_update">Sinulla on jo uusin versio tai palvelimella on ongelma. Tarkista Xiaomi.eu -verkkosivuilta uusi versio!</string>
+  <string name="no_update">Sinulla on jo uusin versio!</string>
   <string name="no_xioamieu">"Et käytä Xiaomi.eu ryhmän tekemää MIUI:ta!
 Päivitykset eivät ole käytettävissä sinulle!"</string>
   <string name="notif_cancel">Peruuta</string>

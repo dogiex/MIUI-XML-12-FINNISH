@@ -170,6 +170,7 @@
   <string name="gbk_summary">Yksinkertaistettu kiina Windowsin oletuskoodaus</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">Gt</string>
+  <string name="grid_mode">Ruudukkonäkymä</string>
   <string name="group_title">%2$s from %1$s</string>
   <string name="group_title_extra_backup">Varmuuskopiot</string>
   <string name="group_title_extra_expire">On vanhentumassa</string>
@@ -189,6 +190,7 @@
   <string name="instruction_pre_phone">Käynnistä FTP-palvelin koskettamalla</string>
   <string name="just_now">juuri nyt</string>
   <string name="kilobyteShort">Kt</string>
+  <string name="list_mode">Luettelonäkymä</string>
   <string name="load_more">Näytä lisää</string>
   <string name="loading">Odota hetki…</string>
   <string name="local_image">Kuvat</string>
@@ -376,6 +378,7 @@
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB-tallennustila</string>
   <string name="storage_warning">Ulkoista tallennustilaa ei voi käyttää</string>
+  <string name="switch_doc_type">Valitse muoto</string>
   <string name="sys_size_enable">" käytettävissä"</string>
   <string name="tab_app">Lisää</string>
   <string name="tab_category">Kategoriat</string>

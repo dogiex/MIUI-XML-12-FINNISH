@@ -1004,8 +1004,8 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="scan_bussiness_card_merge_tip">Ristiriitaiset tiedot on korvattu</string>
   <string name="scan_duplicate_message">%1$d yhteystietoa samanlaisilla tiedoilla</string>
   <string name="scan_merge">Etsitään yhteystietojen kaksoiskappaleita…</string>
+  <string name="scan_not_installed">Asenna Lukija ensin</string>
   <string name="scan_qrcode_card_hint1">Skannaa ylläoleva QR-koodi</string>
-  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Tallennustilaa ei voi lukea. (Syy: %s)</string>
   <string name="scanning_sdcard_failed_title">Muistia ei voida skannata</string>
   <string name="sdnContacts_empty">Ei SDN</string>

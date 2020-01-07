@@ -121,12 +121,12 @@
         <item quantity="one">1 tunti</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">%1$d/%2$d sovelluksesta on rajoittamaton käyttöoikeus</item>
-        <item quantity="one">%1$d/%2$d sovelluksesta on rajoittamaton käyttöoikeus</item>
+        <item quantity="other">%1$d/%2$d sovelluksesta on pääsy sijaintiin</item>
+        <item quantity="one">%1$d/%2$d sovelluksesta on pääsy sijaintiin</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-        <item quantity="other">Käytössä - %1$d sovellusta voi käyttää sijaintia</item>
-        <item quantity="one">Käytössä - %1$d sovellus voi käyttää sijaintia</item>
+        <item quantity="other">Käytössä - %1$d sovelluksella on pääsy sijaintiin</item>
+        <item quantity="one">Käytössä - %1$d sovelluksella on pääsy sijaintiin</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Salasanassa on oltava vähintään %d kirjainta.</item>
@@ -223,6 +223,14 @@
     <plurals name="notification_summary">
         <item quantity="other">Poissa %d sovelluksen käytöstä</item>
         <item quantity="one">Poissa 1 sovelluksen käytöstä</item>
+    </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d ilmoitusta päivässä</item>
+        <item quantity="one">~%d ilmoitus päivässä</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d ilmoitusta viikossa</item>
+        <item quantity="one">~%d ilmoitus viikossa</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d aktiivista sovellusta</item>
@@ -416,6 +424,14 @@ Saat lisätietoja varmenteesta järjestelmänvalvojaltasi."</item>
         <item quantity="other">%d verkkoa</item>
         <item quantity="one">1 verkko</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d verkkoa &amp; tilausta</item>
+        <item quantity="one">1 verkko &amp; tilaus</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d tilausta</item>
+        <item quantity="one">1 tilaus</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">Jaettu %d verkkoa</item>
         <item quantity="one">Jaettu %d verkko</item>
@@ -428,6 +444,10 @@ Saat lisätietoja varmenteesta järjestelmänvalvojaltasi."</item>
         <item quantity="other">Ilmoitukset %1$d sovelluksesta voi ohittaa Älä häiritse -toiminnon</item>
         <item quantity="zero">Yksikään sovellus ei voi ohittaa Älä häiritse -toimintoa</item>
         <item quantity="one">Ilmoitukset yhdeltä sovellukselta voi ohittaa Älä häiritse -toiminnon</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
         <item quantity="other">%d käytössä</item>

@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_message_clear_records">Poistetaanko valitut nauhoitukset?</string>
   <string name="alert_message_delete_local_record">Poistetaanko tämä nauhoitus?</string>
-  <string name="alert_message_delete_record">Poistamalla nauhoituksen laitteeltasi se poistetaan myös Mi Pilvestä. Poistetaanko nyt?</string>
+  <string name="alert_message_delete_record">Poistamalla nauhoituksen laitteeltasi se poistetaan myös Xiaomi Pilvestä. Poistetaanko nyt?</string>
   <string name="alert_message_delete_record_title">Poistetaanko nauhoitus?</string>
   <string name="app_name">Ääninauhuri</string>
   <string name="back">Takaisin</string>
@@ -14,12 +14,12 @@
   <string name="call_record_list_group_unconnected">Ei yhdistetty</string>
   <string name="clear_records">Poista synkronoidut nauhoitukset</string>
   <string name="cloud_record_open">Synkronoi nauhoitukset</string>
-  <string name="cloud_record_tip">Synkronoi nauhoitukset Mi Pilveen.</string>
-  <string name="cloud_service_state_open_reminder">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi nauhoitukset.</string>
+  <string name="cloud_record_tip">Synkronoi nauhoitukset Xiaomi Pilveen.</string>
+  <string name="cloud_service_state_open_reminder">Ota pilven synkronointi käyttöön synkronoidaksesi nauhoitukset.</string>
   <string name="cloud_status_full_dialog_cancel">Ei nyt</string>
   <string name="cloud_status_full_dialog_msg">Pilven tallennustilasi on täynnä, nauhoituksia ei voi synkronoida. Hanki lisää talennustilaa päivittämällä tilisi.</string>
   <string name="cloud_status_full_dialog_ok">Päivitä</string>
-  <string name="cloud_status_full_dialog_title">Mi Pilven tallennustila on täynnä</string>
+  <string name="cloud_status_full_dialog_title">Xiaomi Pilven tallennustila on täynnä</string>
   <string name="data_connection_body">Käyttämällä mobiilidata-yhteyttä tämän tiedoston lataamiseen lisää datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä lisämaksuja.</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tiedonsiirtovaroitus</string>
@@ -28,7 +28,7 @@
   <string name="deleting_message">Poistetaan…</string>
   <string name="details">Tiedot</string>
   <string name="dialog_content_storage_full">Nauhoitus pysäytettiin, koska laitteellasi ei ole riittävästi tallennustilaa.</string>
-  <string name="dialog_privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta? Varmista tilisi turvallisuus kirjautumalla osoitteeseen i.mi.com ennen Mi Pilvi -palveluiden valtuutuksen peruuttamista.</string>
+  <string name="dialog_privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta? Varmista tilisi turvallisuus kirjautumalla osoitteeseen i.mi.com ennen Xiaomi Pilvipalveluiden valtuutuksen peruuttamista.</string>
   <string name="dialog_title_storage_full">Tallennustilaa ei ole riittävästi</string>
   <string name="download">Lataa</string>
   <string name="duration_format_hour">%s t</string>
@@ -207,7 +207,7 @@
   <string name="recognize_extra_price_desp">(Ainutlaatuinen tarjous Mi-käyttäjille)</string>
   <string name="record">Nauhoita</string>
   <string name="record_back_pressed_hint">Lopettaaksesi tunnistuksen, kosketa Takaisin-painiketta uudelleen</string>
-  <string name="record_download">Lataa Mi Pilvestä</string>
+  <string name="record_download">Lataa Xiaomi Pilvestä</string>
   <string name="record_download_complete">Ladattu</string>
   <string name="record_download_msg">Nauhoituksia voi toistaa vasta latauksen jälkeen.</string>
   <string name="record_download_msg_reload">Tätä nauhoitusta ei ole olemassa.</string>

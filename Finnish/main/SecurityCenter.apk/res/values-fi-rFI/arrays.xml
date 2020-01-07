@@ -16,6 +16,10 @@
         <item>"Tänään: "</item>
         <item>"Tässä kuussa: "</item>
     </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Kyllä</item>
+        <item>Ei</item>
+    </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Eilen: "</item>
         <item>"Tänään: "</item>
@@ -43,6 +47,14 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Näytä varoitus</item>
         <item>Varoita ja poista mobiilidata käytöstä</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Oletus</item>
+        <item>Priorisoi suorituskykyä</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Käytetään oletuslämpötilan määritystilaa</item>
+        <item>Priorisoidaan suorituskykyä</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Aina</item>

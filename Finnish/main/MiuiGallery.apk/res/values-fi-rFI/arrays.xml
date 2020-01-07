@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="backup_automatically_key_words">
         <item>Varmuuskopioi kuvat</item>
-        <item>Synkronoi kuvat Mi Pilven kanssa</item>
+        <item>Synkronoi kuvat pilven kanssa</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Viikonloppuni</item>

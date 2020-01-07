@@ -59,6 +59,11 @@
   <string name="audio_duration_minutes_format">%1$d minuuttia</string>
   <string name="audio_duration_seconds_format">%1$d sekuntia</string>
   <string name="audition_ringtone">Toista</string>
+  <string name="author_attention">Seuraa</string>
+  <string name="author_attention_success">Seurattiin onnistuneesti</string>
+  <string name="author_dialog_message">Poistetaanko tilin seuraaminen?</string>
+  <string name="author_dynamic">Tila</string>
+  <string name="author_dynamic_no_resource">Tuloksia ei löytynyt</string>
   <string name="automatically_update_using_theme_tips">Päivitä automaattisesti seuraavalla kerralla</string>
   <string name="backup_theme_dialog_message">Varmuuskopioidaanko nykyinen teemasi?</string>
   <string name="backup_theme_dialog_ok">Varmuuskopioi</string>
@@ -109,6 +114,9 @@
   <string name="description_version_szie">Versio: %1$s Koko: %2$s</string>
   <string name="desktop_effects">Aloitusnäytön tehosteet</string>
   <string name="desktop_wallpaper">Aloitusnäyttö</string>
+  <string name="detail_author_attention_head">Seuraa joitain merkittävimmistä suunnittelijoistamme</string>
+  <string name="detail_author_fans">"Seuraajaa: "</string>
+  <string name="detail_author_works">"Kohdetta: "</string>
   <string name="detail_recommend_title">Saatat pitää näistä</string>
   <string name="dev_options">Kehittäjäasetukset</string>
   <string name="dev_options_summary">Verkkolähteet</string>
@@ -255,7 +263,6 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="lockscreen_wallpaper">Lukitusnäyttö</string>
   <string name="lockstyle_personal_settings">Muokkaa</string>
   <string name="long_click_can_hide_resource">Paina ja pidä pohjassa piilottaaksesi kohteet</string>
-  <string name="loop_wallpaper_is_here">Taustakuvien diaesitykset on nyt käytettävissä</string>
   <string name="mi_wallpaper">MIUI taustakuva</string>
   <string name="miuishare_account_activate_confirmation">Aktivoi Mi Tili</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>
@@ -347,6 +354,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_alarm_default">Herätys</string>
   <string name="resource_app_name">Näytä lähteet</string>
   <string name="resource_apply">Aseta</string>
+  <string name="resource_apply_trial">Aseta</string>
   <string name="resource_back">Takaisin</string>
   <string name="resource_buy">Osta</string>
   <string name="resource_can_not_selected">%1$s ei voi valita</string>
@@ -418,6 +426,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_download">Lataa</string>
   <string name="resource_download_notification_title_many">%1$s teemaa ladattu</string>
   <string name="resource_download_notification_title_one">Teema ladattu</string>
+  <string name="resource_download_trial">Kokeile</string>
   <string name="resource_downloaded_title">Ladatut lähteet</string>
   <string name="resource_downloading">Ladataan</string>
   <string name="resource_exchange">Lunasta</string>
@@ -756,6 +765,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="wallpaper_loop_title">Taustakuvan diaesitys</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Aloitusnäytön taustakuvan diaesitys</string>
   <string name="wallpaper_loop_title_lock_walpaper">Lukitusnäytön taustakuvan diaesitys</string>
+  <string name="wallpaper_no_favorite">Täällä ei ole vielä kohteita.</string>
+  <string name="wallpaper_no_record">Täällä ei ole vielä kohteita.</string>
   <string name="wallpaper_online">Online-taustakuvat</string>
   <string name="wallpaper_online_no_more">Siinä kaikki tältä erää</string>
   <string name="wallpaper_online_tip">Yhdistä verkkoon katsoaksesi lisää kohteita</string>

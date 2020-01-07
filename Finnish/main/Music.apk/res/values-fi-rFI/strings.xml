@@ -160,6 +160,7 @@
   <string name="delete_download">Poista</string>
   <string name="delete_file_as_well">Poista tämä kappale pysyvästi</string>
   <string name="delete_file_end">Poista pysyvästi</string>
+  <string name="delete_file_error">Tiedostoa ei voitu poistaa</string>
   <string name="delete_file_start">Poista valitut tiedostot</string>
   <string name="deselect_all">Poista valinnat</string>
   <string name="desktop_lyric_button_close">Sulje</string>
@@ -187,7 +188,7 @@
   <string name="dialog_my_playlist_online_changed_merge">Pidä</string>
   <string name="dialog_my_playlist_online_changed_message">Näyttää siltä, että tämä soittolista muuttui. Voit korvata sen uudella versiolla tai pitää vanhan.</string>
   <string name="dialog_my_playlist_online_changed_replace">Korvaa</string>
-  <string name="dialog_my_playlist_set_to_public">Jaa tämä soittolista Mi Musiikkiin</string>
+  <string name="dialog_my_playlist_set_to_public">Jaa tämä soittolista kaikkien Mi Musiikkiin ja Hungama musiikin käyttäjien kanssa</string>
   <string name="dialog_queued_body">Tämä tiedosto on latausjonossa.</string>
   <string name="dialog_renew_failure">Pahoittelut, toiminto epäonnistui</string>
   <string name="dialog_renew_free_end">Ilmainen kokeilujaksosi on päättynyt. Tilataanko Hungama PRO?​</string>
@@ -305,6 +306,7 @@
   <string name="eq_preset_select">Valitse esiasetus</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Taajuuskorjain</string>
+  <string name="error_not_support">Ei tuettu</string>
   <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
   <string name="exo_controls_fullscreen_description">Kokonäyttötila</string>
   <string name="exo_controls_next_description">Seuraava raita</string>
@@ -340,6 +342,8 @@
   <string name="facebook_not_installed">Asenna Facebook ensin.</string>
   <string name="fail_to_fetch_payment_page_url">Maksutietoja ei saatu</string>
   <string name="fail_to_play">Kappaletta ei voi soittaa</string>
+  <string name="failed_not_access_sd_card">Sälli ensin SD-kortin käyttö</string>
+  <string name="failed_obtain_permissions">Käyttöoikeuksia ei saatu</string>
   <string name="fav_login_msg">Kirjaudu sisään Mi Tililläsi ladataksesi kappaleita</string>
   <string name="favorite_canceled">Poistettiin suosikeista</string>
   <string name="favorite_playlist">Suosikit</string>
@@ -363,6 +367,10 @@
   <string name="filter_by_size_prefix">"Piilota tiedostot, jotka pienempiä kuin "</string>
   <string name="filter_by_size_summary">Piilota pienet äänitiedostot</string>
   <string name="filter_size_unit">%d Kt</string>
+  <string name="floating_view_dialog_desc">Musiikin toistaminen lopetetaan jos poistut tältä sivulta. Poistutaanko siitä huolimatta?</string>
+  <string name="floating_view_dialog_leave">Poistu</string>
+  <string name="floating_view_dialog_stay">Jää</string>
+  <string name="floating_view_dialog_title">Poistutaanko tältä sivulta?</string>
   <string name="follow">Seuraa</string>
   <string name="followed">Seurataan</string>
   <string name="font_family">miui</string>
@@ -381,10 +389,13 @@
   <string name="hide_lyric">Piilota sanoitukset</string>
   <string name="higher_quality_music">Korkea äänenlaatu</string>
   <string name="higher_quality_music_summary">Suoratoista ja lataa korkeamman bitraten tiedostoja</string>
+  <string name="home_tab_home">Koti</string>
   <string name="home_tab_joox">JOOX Musiikki</string>
   <string name="home_tab_local">Musiikkini</string>
+  <string name="home_tab_more_music">Lisää musiikkia</string>
   <string name="home_tab_online">Online-musiikki</string>
-  <string name="home_tab_yandex">Yandex Musiikki</string>
+  <string name="home_tab_search">Haku</string>
+  <string name="home_tab_yandex">Yandex.Music</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Vain PRO-jäsenet voi ladata useita kappaleita. Hankitaanko PRO-jäsenyys nys?</string>
@@ -529,6 +540,7 @@
   <string name="not_login">Ei kirjautuneena</string>
   <string name="not_now">Ei nyt</string>
   <string name="not_selected">Valitse kappale</string>
+  <string name="not_support_documentui">DocumentUI ei ole tuettu tällä laitteella</string>
   <string name="notif_title_file_size">%1$d yhteensä</string>
   <string name="notif_title_single_downloading">Ladataan %1$s</string>
   <string name="notification_download_complete">Lataaminen valmis</string>
@@ -685,6 +697,7 @@ Ole onnellinen"</string>
   <string name="search_result_online_songs">Verkko</string>
   <string name="search_songs">Hae kappaleita</string>
   <string name="search_menu_title">Haku</string>
+  <string name="search_more">Lisää</string>
   <string name="search_songs_count">Kappaleet: %d</string>
   <string name="select">Valitse</string>
   <string name="select_all">Valitse kaikki</string>
@@ -733,8 +746,10 @@ Ole onnellinen"</string>
   <string name="sleep_mode_summary">Lopeta soitin tietyn ajan jälkeen</string>
   <string name="sleep_mode_title">Nukkuma-ajastin</string>
   <string name="sliding_pro_center">PRO-keskus</string>
+  <string name="song_already_in_playlist">Tämä kappale on jo jonossa</string>
   <string name="song_exist_in_playlist">Tämä kappale on jo jonossa</string>
   <string name="song_info">Kappaleen tiedot</string>
+  <string name="song_is_added_to_playlist">Lisättiin jonoon</string>
   <string name="song_is_empty">Kappaleen nimi ei voi olla tyhjä.</string>
   <string name="song_name">Kappale</string>
   <string name="song_not_find">Tämä kappale ei ole käytettävissä.</string>
@@ -747,6 +762,7 @@ Ole onnellinen"</string>
   <string name="start_to_check_new_version">Tarkistetaan päivityksiä…</string>
   <string name="start_to_download">Ladataan…</string>
   <string name="start_to_play">Toista</string>
+  <string name="storage_cloned_app">Kaksoissovelluksien tallennustila</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB tallennustila</string>

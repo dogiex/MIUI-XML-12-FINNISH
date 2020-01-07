@@ -52,12 +52,36 @@
         <item quantity="other">Muutettiin torkutuksen aikaväli %d minuuttiin</item>
         <item quantity="one">Muutettiin torkutuksen aikaväli %d minuuttiin</item>
     </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Soi %1$s kertaa</item>
+        <item quantity="one">Soi %1$s kerran</item>
+    </plurals>
     <plurals name="snooze_duration_desc">
         <item quantity="other">%1$s minuutin välein, soi %2$s kertaa</item>
         <item quantity="one">%1$s minuutin välein, soi %2$s kerran</item>
     </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">%1$s minuutin välein</item>
+        <item quantity="one">%1$s minuutin välein</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Hälytys soi %2$s kertaa (%1$s min. per kerta)</item>
         <item quantity="one">Hälytys soi %2$s kerran (%1$s min.)</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Torkutettu %d minuutiksi</item>
+        <item quantity="one">Torkutettu %d minuutiksi</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d tuntia "</item>
+        <item quantity="one">"%1$d tunti "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minuuttia "</item>
+        <item quantity="one">"%1$d minuutti "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">%1$d sekunti</item>
     </plurals>
 </resources>

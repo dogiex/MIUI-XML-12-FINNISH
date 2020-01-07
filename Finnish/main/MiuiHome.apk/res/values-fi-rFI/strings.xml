@@ -4,6 +4,19 @@
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
     <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
     <string name="add_screen">Lisää näyttö</string>
+    <string name="all_apps">Kaikki sovellukset</string>
+    <string name="all_apps_no_search_results">Tuloksia ei löytynyt</string>
+    <string name="all_apps_search_app">Hae sovelluksia</string>
+    <string name="all_apps_search_market_message">Hae verkosta</string>
+    <string name="all_apps_setting_desktop_desc">Näytä kaikki asennetut sovellukset Aloitusnäytöllä. Paina sovelluskuvaketta pohjassa nähdäksesi käytettävissä olevat pikakuvakkeet, hallinnoidaksesi sitä tai poistaaksesi sovelluksen.</string>
+    <string name="all_apps_setting_desktop_title">Tavallinen</string>
+    <string name="all_apps_setting_drawer_desc">Sijoita kaikki asennetut sovellukset Sovelluslaatikkoon, jonka voit avata pyyhkäisemällä ylöspäin Aloitusnäytöltä. Löydät silti Aloitusnäytölle siirtämäsi sovellukset Sovelluslaatikosta.</string>
+    <string name="all_apps_setting_drawer_tips_desc">Sovelluslaatikko avataan Aloitusnäytöltä pyyhkäisemällä ylöspäin. Aloitusnäytön tilan muuttaminen Sovelluslaatikoksi poistaa Haku -toiminnon käytöstä. Vaihdetaanko siitä huolimatta?</string>
+    <string name="all_apps_setting_drawer_tips_title">Sovelluslaatikon käyttäminen</string>
+    <string name="all_apps_setting_drawer_title">Sovelluslaatikolla</string>
+    <string name="all_apps_setting_title">Aloitusnäyttö</string>
+    <string name="all_apps_slide_up_tips">Ylöspäin pyyhkäiseminen on varattu Sovelluslaatikon avaamiselle. Vaihda tavalliseen Alotisnäytön tilaan ja yritä uudelleen.</string>
+    <string name="all_apps_suggestions">Sovellusehdotukset</string>
     <string name="announce_for_app_move_in_folder">Siirrettiin kansiossa sijaintiin %1$d</string>
     <string name="announce_for_checked">%1$s, tarkistettu</string>
     <string name="announce_for_choose_default_screen">Aseta näyttö %1$d oletusaloitusnäytöksi</string>
@@ -298,6 +311,7 @@
     <string name="privacy_thumbnail_blur_summary">Sumenna sovelluksien esikatselu Viimeaikaisissa</string>
     <string name="privacy_thumbnail_blur_title">Sumenna sovelluksien esikatselu</string>
     <string name="quick_app">Pikasovellukset</string>
+    <string name="recent_apps">Viimeaikainen</string>
     <string name="recents_config_title">Viimeaikaiset</string>
     <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
     <string name="recommend_apps_default_title">Tyhjä</string>
@@ -310,6 +324,7 @@
     <string name="recommend_loading">Ladataan</string>
     <string name="recommend_refresh">Päivitä</string>
     <string name="recommend_xout">Älä näytä</string>
+    <string name="remove_invalidate_gadget_tips">Yksi käyttämistäsi widgeteistä ei ole enää käytettävissä. Voit lisätä toisen.</string>
     <string name="reset_description_first_time">Voit palauttaa ulkoasun kohteesta %1$s 2 tunnin sisällä</string>
     <string name="reset_description_others">Voit palauttaa ulkoasun kohteesta %1$s</string>
     <string name="reset_fail">Ei voitu palauttaa</string>

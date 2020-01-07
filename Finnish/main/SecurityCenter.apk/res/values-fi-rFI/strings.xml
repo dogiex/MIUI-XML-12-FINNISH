@@ -130,7 +130,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="antivirus_privacy_dialog_summary">Tämä toiminto salaa ja lähettää laitteesi ID-numeron Avastin, AVL:n ja Tencentin palvelimille (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">Tietosuojakäytäntö</string>
   <string name="antivirus_privacy_dialog_title">Tietosuojakäytäntö</string>
-  <string name="antivirus_sec_network_unavailable">Tietoturvasovellus ei voi päivittää, koska olet rajoittanut internetyhteyttä. Sallitaanko Tietoturvan yhdistää internetiin?</string>
+  <string name="antivirus_sec_network_unavailable">Tietoturvaa ei voi päivittää, koska olet rajoittanut internetyhteyden. Sallitaanko Tietoturvan yhdistää internetiin?</string>
   <string name="antivirus_toast_already_update">Ajan tasalla</string>
   <string name="antivirus_toast_network_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="antivirus_toast_update_failed">Päivittäminen epäonnistui</string>
@@ -411,6 +411,9 @@ Et menetä mitään sovellustietoja."</string>
   <string name="background_restrict_app_dialog_message">Rajoittamalla tämän sovelluksen verkon käyttöä taustalla saattaa vaikuttaa sen toimintaan toimia normaalisti, vastaanottaa viestejä, ladata sisältöä jne. Rajoitetaanko siitä huolimatta?</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
+  <string name="banner_optimizemanage_summary">Vapauta muistia</string>
+  <string name="banner_red_money_assist_button">Ota käyttöön</string>
+  <string name="banner_red_money_assist_summary">Avaa punaiset kirjekuoret nopeammin</string>
   <string name="battery_and_property">Akku &amp; suorituskyky</string>
   <string name="battery_capacity_title">Akun kapasiteetti</string>
   <string name="battery_charge_estimating">Lasketaan</string>
@@ -609,10 +612,10 @@ Et menetä mitään sovellustietoja."</string>
   <string name="cpu_usage_view_action_btn_text">Näytä napauttamalla</string>
   <string name="create_gamebooster_destop">Luotiin Aloitusnäytön pikakuvake onnistuneesti</string>
   <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien nopeuttajasta</string>
-  <string name="cta_dialog_msg">Sinun täytyy hyväksyä Tietosuojakäytäntömme, ennen kuin voit käyttää Tietoturva-sovellusta. Tietoturva-sovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi toimiakseen normaalisti ja pitääkseen virustorjunnan ajantasalla. Hyväksytkö?</string>
   <string name="cta_dialog_negative">Poistu</string>
   <string name="cta_dialog_positive">Hyväksyn</string>
-  <string name="cta_dialog_title">Internet-yhteys</string>
+  <string name="cta_dialog_title">Internetyhteys</string>
+  <string name="cta_main_purpose">Tervetuloa Tietoturvaan! Voit käyttää tätä sovellusta tyhjentääksesi laitteessasi olevia roskia, etsiäksesi ja neutralisoidaksesi viruksia, optimoidaksesi laitteen suorituskykyä pelejä varten, säästääksesi virtaa, hallinnoidaksesi sovelluksia ja paljon muuta.</string>
   <string name="cta_settings">Salli internetyhteys</string>
   <string name="current_network_state_not_need_diagnose">Internetyhteys on normaali.</string>
   <string name="customize_limit_pkg">%s (mukautettu)</string>
@@ -658,7 +661,7 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="deep_clean_never_memory_clean">Ei koskaan</string>
   <string name="deep_power_save_item_summary_auto_brightness">Säädä näytön kirkkautta automaattisesti säästääksesi virtaa</string>
   <string name="deep_power_save_item_summary_bluetooth">Poista Bluetooth käytöstä säästääksesi virtaa</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Laita näyttö lepotilaan 30 sekunnin käyttämättömyyden jälkeen säästääksesi virtaa</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Laita näyttö lepotilaan 15 sekunnin käyttämättömyyden jälkeen säästääksesi virtaa</string>
   <string name="deep_power_save_item_title_auto_brightness">Ota automaattinen kirkkaus käyttöön</string>
   <string name="deep_power_save_item_title_bluetooth">Poista Bluetooth käytöstä</string>
   <string name="deep_power_save_item_title_lock_screen_time">Laita näyttö lepotilaan</string>
@@ -738,7 +741,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="dlg_remove_whitelist">Poistetaanko nämä numerot poikkeuksista?</string>
   <string name="dlg_remove_whitelist_ing">Poistetaan…</string>
   <string name="dlg_remove_whitelist_title">Poista</string>
-  <string name="dlg_sec_network_unavailable">Tietoturva-sovellus ei voi päivittää, koska olet rajoittanut internetyhteyden. Sallitko Tietoturvan yhdistää internetiin?</string>
+  <string name="dlg_sec_network_unavailable">Tietoturvaa ei voi päivittää, koska olet rajoittanut internetyhteyden. Sallitaanko Tietoturvan yhdistää internetiin?</string>
   <string name="dlg_title_not_open_stranger_identify">Soittajan ID</string>
   <string name="dlg_update_btn_contiue">Jatka</string>
   <string name="dlg_update_btn_open">Hyväksyn</string>
@@ -772,8 +775,96 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="empty_title_permission_apps_list">Ei sovelluksia.</string>
   <string name="empty_title_root_apps">Ei rootattuja sovelluksia.</string>
   <string name="enable_network">Ota verkko ensin käyttöön</string>
-  <string name="enter">进入</string>
   <string name="every_day">Joka päivä</string>
+  <string name="ew_alert_arrive_location">Seisminen aalto saapui %s</string>
+  <string name="ew_alert_dial_text">Soita hätäyhteystiedolle</string>
+  <string name="ew_alert_earthquake_center_title">Keskipiste</string>
+  <string name="ew_alert_earthquake_distance">Olet %s km päässä keskipisteestä</string>
+  <string name="ew_alert_earthquake_feel_max">Vakava</string>
+  <string name="ew_alert_earthquake_feel_middle">Voimakas</string>
+  <string name="ew_alert_earthquake_feel_normal">Kevyt</string>
+  <string name="ew_alert_earthquake_feel_title">Arvioitu voimakkuus</string>
+  <string name="ew_alert_earthquake_level_title">Arvioitu suuruus</string>
+  <string name="ew_alert_emergency_text">"Näytä
+lääketieteellinen kortti"</string>
+  <string name="ew_alert_help_earthquake_title">Seisminen aalto saapui</string>
+  <string name="ew_alert_help_place_navigation">Navigoi</string>
+  <string name="ew_alert_help_place_text">Jos mahdollista, mene lähimpään suojaan varmistaaksesi turvallisuuden ja saadaksesi tarvittavaa apua.</string>
+  <string name="ew_alert_help_place_title">Lähellä oleva suoja</string>
+  <string name="ew_alert_help_safe_title">Vältä vaaraa</string>
+  <string name="ew_alert_help_tips">Pysy rauhallisena ja varuillasi. Vältä roikkuvia esineitä äläkä käytä hissiä. Etsi turvallinen alue, tiputus, suoja ja pidä kiinni.</string>
+  <string name="ew_alert_no_contact">Aseta ensin hätäyhteystieto paikassa Tietoturva &gt; Maanjäristysvaroitus</string>
+  <string name="ew_alert_no_emergency">Lisää lääketieteelliset tietosi paikassa Tietoturva &gt; Maanjäristysvaroitus</string>
+  <string name="ew_alert_text_from">Tiedot tarjoaa %s</string>
+  <string name="ew_app_name">Maanjäristysvaroitus</string>
+  <string name="ew_app_name_exercise">Maanjäristysvaroitus (Demo)</string>
+  <string name="ew_app_name_test">Maanjäristysvaroitus (Beta)</string>
+  <string name="ew_app_name_test_run">Maanjäristysvaroitus (Trial)</string>
+  <string name="ew_arrive_text_tips">Seisminen aalto saapui: %s</string>
+  <string name="ew_button_confirm">Hyväksyn</string>
+  <string name="ew_button_exit">En hyväksy</string>
+  <string name="ew_china_version_first_start_network_msg">"Tämä toiminto tarjoaa maanjäristysvaroitusominaisuuden. Se ilmoittaa sinulle tulevista maanjäristyksistä ja toistaa varoitusäänen. Voit etsiä lähimmän suojan, soittaa hätäyhteystiedollesi ja esittää lääketieteellisen korttisi jos sitä tarvitaan.
+Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti.
+Toimiakseen normaalisti, tämä ominaisuus tarvitsee seuraavat käyttöoikeudet kerätäkseen henkilötietosi:
+&amp;#8226; Sijaintitiedot:
+Sijaintisi paikallistamiseen ja tarkan maanjäristysvaroituksen tarjoamiseen
+Jos et suostu antamaan näitä käyttöoikeuksia tai jakamaan ja lähettämään henkilötietojasi, et voi käyttää tätä ominaisuutta. Voit päättää poistaa tämän ominaisuuden käytöstä tai olla ottamatta sitä käyttöön näissä tapauksissa.
+Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+  <string name="ew_close">Poista hälytykset käytöstä</string>
+  <string name="ew_emergency_allergy">Allergiat</string>
+  <string name="ew_emergency_basic_info">Perustiedot</string>
+  <string name="ew_emergency_birthday">Syntymäpäivä</string>
+  <string name="ew_emergency_blood_type">Veriryhmä</string>
+  <string name="ew_emergency_choose">Valitse</string>
+  <string name="ew_emergency_delete_all">Poista kaikki lääketieteellinen tieto</string>
+  <string name="ew_emergency_delete_text">Poistetaanko kaikki lääketieteelliset tiedot nyt?</string>
+  <string name="ew_emergency_delete_title">Poista</string>
+  <string name="ew_emergency_detail_info">Yksityiskohdat</string>
+  <string name="ew_emergency_edit_text">Muokkaa</string>
+  <string name="ew_emergency_edit_title">Lääketieteellinen kortti</string>
+  <string name="ew_emergency_idcard">ID</string>
+  <string name="ew_emergency_input">Syötä</string>
+  <string name="ew_emergency_input_allergy">Luettele allergiasi</string>
+  <string name="ew_emergency_input_medical">Luettele sairaudet ja niiden hoidot</string>
+  <string name="ew_emergency_input_medicine">Luettele lääkkeet joita otat</string>
+  <string name="ew_emergency_medical">Sairaudet</string>
+  <string name="ew_emergency_medicine">Aktiivinen lääkitys</string>
+  <string name="ew_emergency_name">Nimi</string>
+  <string name="ew_emergency_organ_donation">Oletko vapaaehtoinen elintenluovuttaja?</string>
+  <string name="ew_emergency_privacy">Tietosuojalausunto: Täällä kertomasi tietoja käytetään vain hätätapauksissa ja ne säilytetään laitteellasi. Emme lähetä näitä tietoja meidän palvelimille.</string>
+  <string name="ew_emergency_recent_medicine">Viimeaikainen aktiivinen lääkitys</string>
+  <string name="ew_emergency_title">Lääketieteellinen kortti</string>
+  <string name="ew_first_start_network_title">Käyttöehdot</string>
+  <string name="ew_guide_law_agree">Hyväksyn</string>
+  <string name="ew_guide_law_done">Selvä</string>
+  <string name="ew_guide_law_exit">En hyväksy</string>
+  <string name="ew_guide_law_text">"Tämä toiminto tarjoaa sinulle maanjäristysvaroitusominaisuuden. Sinun täytyy ymmärtää, että maanjäristysvaroitustiedot tarjoaa kolmannen osapuolen varhaisvaroitusvirasto. Xiaomi ei valvo kolmansien osapuolten virastoja eikä sillä ole mitään hallintaa niitä kohtaan. Xiaomi ei lupaa tai takaa maanjäristysvaroitustietojen tarkkuutta, oikeellisuutta eikä ajankohtaisuutta, eikä se takaa että maanjäristysvaroituspalvelu vastaa kaikkia tarpeitasi. Sinun täytyy ymmärtää, että tämä ominaisuus on tarkoitettu vain viitteelliseksi. Olet yksin vastuussa suorittamiesi toimien riskeistä ja seurauksista tämän ominaisuuden tarjoamien tietojen perusteella"</string>
+  <string name="ew_guide_law_title">Vastuuvapauslauseke</string>
+  <string name="ew_guide_next_text">Seuraava</string>
+  <string name="ew_guide_play_audio">Toista varoitusääni</string>
+  <string name="ew_guide_play_audio_last">Toista varoitusääni (%d s)</string>
+  <string name="ew_guide_statement_text">&lt;Data&gt;"&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Vastuuvapauslauseke&amp;lt;/a&amp;gt; Milloin käyttäjä (jäljempänä \"sinä\") aktivoi maanjäristysvaroitusominaisuuden, hän sitoutuu sopimukseen Xiaomin ja sen kumppaneiden (jäljempänä \"Xiaomi\") kanssa. Käyttämällä tätä ominaisuutta, tiedostat että olet lukenut tämän vastuuvapauslausekkeen ja että ymmärrät täysin ja olet lukenut koko vastuuvapauslausekkeen sisällön. Jos et hyväksy tätä vastuuvapauslauseketta, sinun tulisi poistaa maanjäristysvaroitusominaisuus käytöstä välittömästi.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Erityinen lausunto&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Asiaankuuluvien lakien ja asetusten mukaisesti maanjäristyksen varhaisvaroituspalveluja tarjotaan vain alueille, joille viranomaiset ovat antaneet luvan. Tämä tarkoittaa sitä, kun olet ottanut maanjäristysvaroitusominaisuuden käyttöön ja laitteesi on valtuutetulla alueella, pystyt vastaanottamaan maanjäristysvaroituspalveluita. Voit tarkistaa alueluettelon missä maanjäristyspalveluita tällä hetkellä tarjotaan. Lisää alueita tuetaan tulevaisuudessa. Pysy kuulolla!&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Vastuuvapauslauseke&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Tietoturvasovellus tarjoaa sinulle maanjäristysvaroitusominaisuuden. Sinun täytyy ymmärtää, että maanjäristysvaroitustiedot tarjoaa kolmannen osapuolen varhaisvaroitusvirasto. Xiaomi ei valvo kolmansien osapuolten virastoja eikä sillä ole mitään hallintaa niitä kohtaan. &amp;lt;br&amp;gt; Xiaomi ei lupaa tai takaa maanjäristysvaroitustietojen tarkkuutta, oikeellisuutta eikä ajankohtaisuutta, eikä se takaa että maanjäristysvaroituspalvelu vastaa kaikkia tarpeitasi.&amp;lt;br&amp;gt; Maanjäristysvaroitustietojen vastaanottaminen vaatii, että laitteesi on yhdistettynä mobiiliverkkoon. Kolmansien osapuolien viestintälinjojen viat, tekniset ongelmat, verkko- tai päätelaitteiden viat, järjestelmän epävakaus ja muut erilaiset ylivoimaiset esteet saattavat estää sinua saamasta maanjäristyksen varoitustietoja. Xiaomi ei ole vastuussa tällaisten tapahtumien aiheuttamista vahingoista.&amp;lt;br&amp;gt; Sinun täytyy ymmärtää, että tämä ominaisuus on tarkoitettu vain viitteelliseksi. Olet yksin vastuussa suorittamiesi toimien riskeistä ja seurauksista tämän ominaisuuden tarjoamien tietojen perusteella. &amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
+  <string name="ew_guide_tips_1">Sinulle ilmoitetaan tulevista maanjäristyksistä ja kuulet varoitusäänen</string>
+  <string name="ew_guide_tips_2">Tiedot ja varoitusääni päivitetään maanjäristyksen aikana</string>
+  <string name="ew_guide_tips_3">Löydät lähimmän suojan, voit soittaa hätäyhteystiedollesi ja voit näyttää lääketieteellisen korttisi jos sitä tarvitaan</string>
+  <string name="ew_guide_title">Näytä demo</string>
+  <string name="ew_main_close_text">Et saa ajan tasalla olevia tietoja tästä maanjäristyksestä jos poistat hälytyksen käytöstä. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="ew_main_close_title">Huomio</string>
+  <string name="ew_main_contact_change">Muuta</string>
+  <string name="ew_main_contact_change_dialog_content">Voit muuttaa tai poistaa hätäyhteystietosi. Et voi käyttää hätäyhteystietoasi jos poistat sen.</string>
+  <string name="ew_main_contact_change_dialog_title">Muuta hätäyhteystieto</string>
+  <string name="ew_main_contact_delete">Poista</string>
+  <string name="ew_main_contact_summary">Lisätty: %s</string>
+  <string name="ew_main_contact_tips">Ota yhteyttä tähän henkilöön hätätapauksissa</string>
+  <string name="ew_main_contact_title">Hätäyhteystieto</string>
+  <string name="ew_main_detail_title">Asetukset</string>
+  <string name="ew_main_emergency_tips">Tallenna perustiedot terveydestäsi, jotta ne ovat käden ulottuvilla</string>
+  <string name="ew_main_emergency_title">Lääketieteellinen kortti</string>
+  <string name="ew_main_open_tips">Tämä ominaisuus ilmoittaa sinua tulevista maanjäristyksistä ja soittaa varoitusäänen. Saat myös tietoja hätäpalveluista sen jälkeen, kun hätälaskenta loppuu.</string>
+  <string name="ew_main_open_title">Vastaanota hälytyksiä ja hanki apua</string>
+  <string name="ew_main_place_tips">Opi missä lähin hätäsuoja on milloin tarvitset sitä</string>
+  <string name="ew_main_place_title">Lähellä olevat hätäsuojat</string>
+  <string name="ew_safe_place_no_maps_tips">Ei voi hakea. Asenna Baidu Maps tai Amap ensin.</string>
   <string name="examination_score_100">Kaikki näyttää hyvältä!</string>
   <string name="examination_score_60_0">Skannaa nyt</string>
   <string name="examination_score_80_100">Muutama kohde voidaan optimoida</string>
@@ -943,6 +1034,12 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="free_time_traffic_title">Syötä hiljaisen ajan datan raja</string>
   <string name="free_traffic_settings">Hiljaisen ajan datan käyttö asetukset</string>
   <string name="function_close">Pois päältä</string>
+  <string name="function_gwsd_detail">"Tietoja tästä ominaisuudesta:
+ 1. Saapuvat puhelut SIM-kortillesi, jolla käytetään mobiilidataa ei keskeytä mobiilidatayhteyttä. Yhteys keskeyteyy vain jos vastaat puheluun.
+ 2. Kun tämä ominaisuus on käytössä, soittaja ei kuule puhelun odotuksen soittoääniä. Saapuvat puhelut lopetetaan, mikäli siihen ei vastata 6 sekuntiin.
+ 3. Tämä ominaisuus toimii vain SIM-korteilla, joissa käytetään mobiilidataa. Puhelut ensisijaiseen SIM-korttiin keskeyttää mobiilidatayhteyden.
+ 4. Tämä ominaisuus toimii vain China Mobilella ja China Unicomilla."</string>
+  <string name="function_gwsd_title">Älä salli saapuvia puheluita keskeyttää SIM-kortin datayhteyttä</string>
   <string name="function_shield_auto_bright">Poista automaattinen kirkkaus käytöstä</string>
   <string name="function_shield_eye_shield">Poista Lukutila käytöstä</string>
   <string name="function_shield_pull_notification_bar">Älä avaa Ilmoitusaluetta</string>
@@ -974,7 +1071,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gamebooster_lowbattery_notification_summary">Lataa laitteesi, ennen kuin se sammuu.</string>
   <string name="gamebooster_lowbattery_notification_title">Akun taso on vähemmän, kuin 5%%</string>
   <string name="gamebooster_main_activity_back">Takaisin</string>
-  <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Pelien nopeuttajan kaikkia ominaisuuksia?</string>
+  <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Game Turbon kaikkia ominaisuuksia?</string>
   <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet eivät ole käytettävissä</string>
   <string name="gamebox_app_not_find">Asenna sovellus ensin.</string>
   <string name="gamebox_browser_not_find">Asenna Mi Browser ensin</string>
@@ -1079,17 +1176,14 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_xunyou_gift_type_one">Xunyou 1-päivän parannus</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-päivän parannus</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-päivän parannus</string>
-  <string name="gdpr_msg">Käyttääksesi Tietoturva-sovelluksen perusominaisuuksia, sinun täytyy hyväksyä se, että Xiaomi kerää, prosessoi ja käyttää henkilökohtaisia tietoja, mukaan lukien tietoja kuinka käytät Tietoturva-sovelluksen ominaisuuksia (esim. mobiilidatan käyttötilastoja, haittaohjelmia, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan Tietosuojakäytännössämme.</string>
-  <string name="ge">个</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Käyttääksesi Tietoturva-sovelluksen perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, prosessoi ja käyttää henkilökohtaisia tietojasi, mukaan lukien tietoja kuinka käytät Tietoturvasovelluksen ominaisuuksia (esim. mobiilidatan käyttötilastoja, haittaohjelmia, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Tietosuojakäytännössämme&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Haetaan tietoa…</string>
   <string name="gigabyteShort">Gt</string>
-  <string name="give_lucky_money">红包大派送</string>
   <string name="gmscore_support_remind">Poista tämä ominaisuus käytöstä jos kohtaat ongelmia Gmailin, Google Mapsin ja muiden Google-sovelluksien kanssa. Se vähentää hieman akun kestoa.</string>
   <string name="gmscore_support_service">Googlen peruspalvelut</string>
   <string name="go_to">Jatka</string>
   <string name="go_to_setting_fingerprint">Asetukset</string>
   <string name="google_base_app_install_choice">Sovellus vaatii Google Services Frameworkin toimiakseen normaalisti, ladataanko ja asennetaanko se?</string>
-  <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_advanced_setting_summary">Yksittäisten pelien asetukset</string>
   <string name="gs_advanced_setting_title">Lisäasetukset</string>
   <string name="gs_anto_clean_memory_whitelist">Muistin poikkeukset</string>
@@ -1394,15 +1488,10 @@ vastausta"</string>
   <string name="menu_setting_traffic">Aseta manuaalisesti</string>
   <string name="menu_sms">Lähetä viesti</string>
   <string name="menu_summary_antispam">Estä puhelut ja viestit</string>
-  <string name="menu_summary_antispam_2">Estetyt puhelut ja viestit</string>
   <string name="menu_summary_antivirus">Tarkista laitteesi viruksilta</string>
-  <string name="menu_summary_antivirus_2">Mahdollisia riskejä löytyi</string>
-  <string name="menu_summary_antivirus_3">Laitetta ei ole tarkistettu</string>
   <string name="menu_summary_app_manager">Päivitä ja poista sovelluksia</string>
-  <string name="menu_summary_app_manager_2">Päivityksiä on saatavilla</string>
   <string name="menu_summary_garbage_cleanup">Roskia ei löytynyt</string>
-  <string name="menu_summary_garbage_cleanup_2">Roskien koko</string>
-  <string name="menu_summary_garbage_cleanup_3">Tyhjennä roskat nyt</string>
+  <string name="menu_summary_garbage_cleanup_ex">Tyhjennä %s edestä roskia</string>
   <string name="menu_summary_networkassistants">Hallinnoi datasuunnitelmaasi</string>
   <string name="menu_summary_networkassistants_2">Meni rajan yli</string>
   <string name="menu_summary_networkassistants_3">Dataa on tarpeeksi jäljellä</string>
@@ -1682,7 +1771,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_search_keywords_battery_use">Akun käyttö</string>
   <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
   <string name="pc_search_keywords_property">Suorituskyky</string>
-  <string name="pc_settings_title">Akun optimointiasetukset</string>
+  <string name="pc_settings_title">Akun &amp; suorituskyvyn asetukset</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$d t %2$d min jäljellä</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d t %2$d min edellisestä latauksesta</string>
   <string name="pc_statistics_battery_use_summary">%s edellisestä latauksesta</string>
@@ -1696,6 +1785,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="perfermance_optimization_summary">Vältä ylikuumenemisen- ja laitteistoon liittyviä ongelmia</string>
   <string name="perfermance_optimization_title">Suorituskyvyn optimointi</string>
   <string name="permission_action_accept">Hyväksy</string>
+  <string name="permission_action_always">Salli aina</string>
+  <string name="permission_action_foreground">Sovelluksen käytön aikana</string>
   <string name="permission_action_prompt">Ilmoita</string>
   <string name="permission_action_reject">Kiellä</string>
   <string name="permission_close_permission_control_dialog_msg">Kun käyttöoikeuden hallinta ei ole käytössä, sovellukset eivät kysy lupaasi ennen yhteystietojen lukemista, puheluhistorian katsomista, järjestelmän asetuksien muuttamista, tai pääsyä kameraan ja muihin laitteen resursseihin.</string>
@@ -1706,9 +1797,18 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="permission_with_SMS_and_MMS">SMS ja MMS viesteihin liittyvät käyttöoikeudet</string>
   <string name="permission_with_call_and_contact">Puheluihin, yhteystietoihin ja puheluhistoriaan liittyvät käyttöoikeudet.</string>
   <string name="permit_running_network">Taustalla oleva data</string>
-  <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
   <string name="person_hotpot">Mobiili hotspotit</string>
   <string name="phone">Puhelin</string>
+  <string name="phone_manage">Apuohjelmat</string>
+  <string name="phone_manage_app_manager_summary">Hallinnoi laitteellasi olevia sovelluksia</string>
+  <string name="phone_manage_clean_summary">Vapauta tallennustilaa</string>
+  <string name="phone_manage_clean_title">Puhdistaja</string>
+  <string name="phone_manage_electric_summary">Optimoi laitteesi säästääksesi virtaa</string>
+  <string name="phone_manage_electric_title">Akku</string>
+  <string name="phone_manage_special_summary">Tutustu lisäominaisuuksiimme</string>
+  <string name="phone_manage_special_title">Erikoistoiminnot</string>
+  <string name="phone_manage_system_tool_summary">Hyödyllisiä järjestelmätason työkaluja</string>
+  <string name="phone_manage_system_tool_title">Työkalut</string>
   <string name="pkg_traffic">Aseta tiedonsiirtoraja</string>
   <string name="pm_auto_start_by_other">Pyydetty käynnistys</string>
   <string name="pm_auto_start_by_other_app">Salli sovelluksen käynnistyä toisen sovelluksen pyynnöstä</string>
@@ -1794,6 +1894,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_optimize_save_mode_not_opened">Virransäästö ei käytössä</string>
   <string name="power_optimize_save_on_lockscreen">Säästä virtaa, kun laite on lukittuna</string>
   <string name="power_phone">Äänipuhelut</string>
+  <string name="power_save_mode">Virransäästö</string>
   <string name="power_save_mode_auto_exit_summary">Poista käytöstä, kun akkua on 60% tai täyteen ladattu</string>
   <string name="power_save_mode_auto_exit_title">Poista käytöstä, kun ladattu</string>
   <string name="power_save_mode_close_warn_text">Virransäästö rajoittaa taustatyöskentelyä ja synkronointia. Jos käytät sitä, kun laitteesi on ladattu, jotkut ominaisuudet ei välttämättä toimi kunnolla. Pidetäänkö Virransäästö päällä, kun laitteesi on ladattu?</string>
@@ -1809,6 +1910,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_save_ps_close_setting">Poista taustapalvelut käytöstä (synkronointi, GPS) säästääksesi virtaa</string>
   <string name="power_save_ps_freeze">Jäädytä tustalla olevat sovellukset</string>
   <string name="power_save_ps_limit">Rajoita järjestelmäsovelluksien aktiviteettia</string>
+  <string name="power_save_settings">Akun asetukset</string>
   <string name="power_save_started_summary_text">Virransäästö on käytössä. Se vähentää sovelluksien taustatyöskentelyä, lopettaa synkronoinnin ja minimoi järjestelmän animaatioita.</string>
   <string name="power_save_summary_text">Vähennä sovellusten taustatyöskentelyä, lopeta synkronointi ja minimoi järjestelmän animaatioita ottamalla Virransäästö käyttöön.</string>
   <string name="power_save_title_text">Virransäästö</string>
@@ -1816,8 +1918,16 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_setting_background_app_save_summary">Rajoita sovelluksien työskentelyä taustalla vaikuttamatta niiden toiminnallisuuteen</string>
   <string name="power_setting_background_app_save_title">Taustavirransäästö</string>
   <string name="power_setting_category_other">Lisäasetukset</string>
+  <string name="power_setting_config_scenario_policies_title">Tilanteet</string>
+  <string name="power_setting_features">Erikoistoiminnot</string>
+  <string name="power_setting_important_warning">Huomio</string>
   <string name="power_setting_power_save_summary_text">Optimoi järjestelmäasetukset säästääksesi virtaa</string>
+  <string name="power_setting_scenario_policies_summary">Tunnista tilanteet missä virransäästötiloja vaihdetaan automaattisesti</string>
   <string name="power_setting_super_save_summary_text">Rajoita useita järjestelmätoimintoja säästääksesi virtaa</string>
+  <string name="power_setting_warm_configure">Lämpötilan hallinta</string>
+  <string name="power_setting_warm_performance_tip">Tilanteet, jotka vaativat suurta virrankulutusta nostaa laitteesi lämpötilaa lämpötilanhallinnan oletustilaa korkeammalle.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Lataa yhteensopivia laitteita langattomasti</string>
+  <string name="power_setting_wireless_reverse_charging_title">Käänteinen langaton lataaminen</string>
   <string name="power_settings_category_title">Akun ilmaisin</string>
   <string name="power_settings_lock_screen_saver_title">Lukitusnäytön asetukset</string>
   <string name="power_settings_number">Prosentti</string>
@@ -2037,13 +2147,14 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="section_title_clear_acc">Tyhjennä välimuisti</string>
   <string name="section_title_security_defend">Tietoturva</string>
   <string name="section_title_system">Järjestelmän tietoturva</string>
-  <string name="security_center_slogan">Tietoturva. Aina valppaana.</string>
+  <string name="security_center_slogan">Pidä laitteesi nopeana ja turvallisena</string>
   <string name="security_scan_optimizing">Optimoidaan…</string>
   <string name="securityadd_install_fail">Liitännäistä ei voitu päivittää. Yritä uudelleen.</string>
   <string name="securityadd_update_tips_cancle">Ei nyt</string>
   <string name="securityadd_update_tips_message">Päivitä Tietoturvapalvelun liitännäinen käyttääksesi viimeisimpiä peliominaisuuksia. %1$d Mt ladataan.</string>
   <string name="securityadd_update_tips_now">Päivitä</string>
   <string name="securityadd_update_tips_title">Päivitä</string>
+  <string name="securitycenter_tab_title">Tietoturva</string>
   <string name="see_detail">Tiedot</string>
   <string name="see_more_content">Päivitä Pelit nähdäksesi lisää kohokohtia</string>
   <string name="set_applock_password">Aseta salasana</string>
@@ -2117,7 +2228,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sp_empty_title_sign_exception">Lisää sovellus poikkeuksiin painamalla sitä pitkään</string>
   <string name="sp_monitored_apps_count_zero">Maksusovelluksia ei ole suojattu</string>
   <string name="sp_monitored_apps_list_title">Seuranta-asetukset</string>
-  <string name="sp_network_privacy_dialog_message">Tietoturvasovellus ei toimi kunnolla, koska olet rajoittanut internetyhteyden. Sallitaanko Tietoturvan yhdistää internetiin?</string>
+  <string name="sp_network_privacy_dialog_message">Tietoturva ei toimi kunnolla, koska olet rajoittanut internetyhteyden. Sallitaanko Tietoturvan yhdistää internetiin?</string>
   <string name="sp_network_privacy_dialog_title">Tietoturvatarkistusta ei voi käyttää</string>
   <string name="sp_scan_item_monitor">Monitoroi maksuja</string>
   <string name="sp_scan_item_url_antispam">Suojaa ilkeiltä URL-osoitteilta</string>
@@ -2293,7 +2404,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_mifi_insurance">Hanki vuoden vaihtotakuu, joka kattaa myös laitteistovauriot</string>
   <string name="summary_miui_update">Päivitys saatavilla: %s.</string>
   <string name="summary_mms">Estä tekstiviesti spämmi automaattisesti</string>
-  <string name="summary_network_switch">Salli Tietoturva sovelluksen yhdistää internetiin</string>
+  <string name="summary_network_switch">Salli Tietoturvan yhdistää internetiin</string>
   <string name="summary_never_flow_verify">Operaattorisi ei ole vahvistanut tätä numeroa</string>
   <string name="summary_payment_risk">Näyttää, että maksuympäristö ei ole turvallinen</string>
   <string name="summary_permission">Vältä ei-toivottuja maksuja suojaa henkilökohtaiset tiedot</string>
@@ -2345,10 +2456,12 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="system_app">Järjestelmäsovellukset</string>
   <string name="system_application">Järjestelmäsovellukset</string>
   <string name="system_permission_declare_agree">Hyväksyn</string>
+  <string name="system_permission_declare_analytics_declare">Kiitos, että rekisteröit mukaan Käyttäjäkokemusohjelmaamme. Laitteesi täytyy olla yhdistettynä internetiin, jotta tämä ominaisuus toimisi normaalisti. Sinun täytyy myös sallia seuraavat käyttöoikeudet, jotta voimme kerätä tietoja, jotka auttavat meitä parantamaan tuotteitamme ja palveluitamme. Nämä tiedot kerätään vain tilastollisiin tarkoituksiin. Emme voi käyttää näitä tietoja henkilöllisyytesi tunnistamiseen.</string>
   <string name="system_permission_declare_disagree">En hyväksy</string>
   <string name="system_permission_declare_double_link">Lue ja hyväksy meidän Käyttöehdot ja Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Tervetuloa %1s! Tällä sovelluksella voit käyttää näitä ominaisuuksia: %2s.</string>
   <string name="system_permission_declare_no_say_no">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi normaalisti.</string>
+  <string name="system_permission_declare_no_say_no_analytics">Jos et halua sallia näitä käyttöoikeuksia, voit poistaa rekisteröinnin asetuksissa Asetukset &gt; Lisäasetukset &gt; Yksityisyys &gt; Käyttäjäkokemusohjelma.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi osittain.</string>
   <string name="system_permission_declare_privacy_declare">"Kunnioitamme ja suojelemme yksityisyyttäsi.
 Huomioi, että %1s kerää tietojasi ja vaatii seuraavia käyttöoikeuksia toimiakseen normaalisti:"</string>
@@ -2356,7 +2469,7 @@ Huomioi, että %1s kerää tietojasi ja vaatii seuraavia käyttöoikeuksia toimi
 Kunnioitamme ja suojaamme tietosuojaasi."</string>
   <string name="system_permission_declare_privacy_policy">Lue ja hyväksy meidän Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä.</string>
   <string name="system_permission_declare_revoke_system">Voit poistua tästä sovelluksesta.</string>
-  <string name="system_permission_declare_revoke_uninstallable">Voit poistaa tämän sovelluksen tai hallita käyttöoikeuksiasi ja valtuutuksiasi asetuksissa Tietoturva &gt; Hallitse sovelluksia &gt; Käyttöoikeudet &gt; Muut käyttöoikeudet.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Voit kirjautua ulos, poistaa tämän sovelluksen tai peruuttaa valtuutuksen menemällä Tietoturva &gt; Hallitse sovelluksia &gt; Käyttöoikeudet &gt; Käyttöoikeudet.</string>
   <string name="system_permission_declare_use_network">Yhdistä verkkoon</string>
   <string name="system_permission_declare_use_network_no_permission">Yhdistä verkkoon</string>
   <string name="system_permission_declare_user_agreement">Lue ja hyväksy meidän Käyttöehdot ennen tämän ominaisuuden käyttämistä.</string>
@@ -2364,6 +2477,8 @@ Kunnioitamme ja suojaamme tietosuojaasi."</string>
   <string name="system_permission_perm_read_mms">Lukea multimediaviestejä</string>
   <string name="system_permission_perm_read_numbers">Lukea puhelinnumeroita</string>
   <string name="system_permission_perm_send_mms">Lähettää multimediaviestejä</string>
+  <string name="system_tool_green_guard">Perheen vartija</string>
+  <string name="system_tool_sos">Hätätila SOS</string>
   <string name="tab_blacklist">Estolista</string>
   <string name="tab_block_log_unKnowNumber">Yksityinen numero</string>
   <string name="tab_call">Puhelut</string>
@@ -2489,7 +2604,7 @@ Tässä ohjeet:
   <string name="title_chain_start">Rajoita ketjukäynnistystä</string>
   <string name="title_cleaner_cloudscan">Pilven roskien skannaus</string>
   <string name="title_cloud_account">Mi Tili</string>
-  <string name="title_cloud_service">Mi Pilvi</string>
+  <string name="title_cloud_service">Xiaomi Pilvi</string>
   <string name="title_cloud_space_almost_full">Pilven tallennustila on lähes täynnä, kohteita ei välttämättä synkronoida</string>
   <string name="title_cloud_space_full">Pilvi on täynnä</string>
   <string name="title_cmcc_app_check">Vahvistus ei ole valmis</string>

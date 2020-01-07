@@ -163,6 +163,7 @@ Voit nyt kirjautua Mi Tilillesi käyttäen %s."</string>
 ID: %s
 Lähetä tämä koodi valvojalle."</string>
   <string name="empty_device_list_notice">Ei laitteita</string>
+  <string name="ep_unsupported">Laitteesi ei tue kirjautumista Xiaomi-tilille</string>
   <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo olemassa toisella Mi Tilillä.</string>
   <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on väärin.</string>
   <string name="exceed_binded_phone_times_notice">Tämä puhelinnumero on jo olemassa toisella Mi Tilillä.</string>
@@ -524,6 +525,13 @@ Aktivoi tilisi seuraamalla
   <string name="temporary_not_available">Tämä toiminto ei ole vielä käytettävissä.</string>
   <string name="turn_off_find_device_failed_title">Laitteen etsintää ei voi sammuttaa</string>
   <string name="turning_off_find_device">Poistetaan Etsi laite -toiminto käytöstä…</string>
+  <string name="two_factor_auth">Kaksivaiheinen tunnistautuminen</string>
+  <string name="two_factor_auth_click_confirm">Vahvista kirjautuminen</string>
+  <string name="two_factor_auth_click_confirm_summary">Näet ilmoituksen toisessa yhdistetyssä Mi-laitteessa. Napauta ilmoitusta salliaksesi uuden laitteen kirjautumisen.</string>
+  <string name="two_factor_auth_method">Todennustapa</string>
+  <string name="two_factor_auth_need_code">Syötä koodi</string>
+  <string name="two_factor_auth_need_code_summary">Näet koodin toisessa yhdistetyssä Mi-laitteessa. Syötä tämä koodi uudella laitteella kirjautuaksesi sisään.</string>
+  <string name="two_factor_auth_summary">Kirjautuessasi sisään uudella laitteella tai uudessa sijainnissa, sinua ilmoitetaan tästä toisessa yhdistetyssä laitteessa. Sinun täytyy vahvistaa, että kyseinen kirjautumisyritys on sinun valtuuttama.</string>
   <string name="unbind_sns_description">Kun katkaiset yhteyden tähän tiliin, et voi enää käyttää %s tilitietojasi Mi Tilin kirjautumiseen.</string>
   <string name="unlock_help_notice">"Apua:
 1. Jos unohdit salasanasi, mene id.mi.com palauttaaksesi sen.

@@ -36,6 +36,30 @@
         <item quantity="other">Näytä kaikki %d kommenttia</item>
         <item quantity="one">Näytä %d kommentti</item>
     </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Poistetaanko %s kohdetta nyt?</item>
+        <item quantity="one">Poistetaanko %s kohde nyt?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">Valittuna %s kohdetta</item>
+        <item quantity="one">Valittuna %s kohde</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Tiedostokoko: %.2f Kt</item>
+        <item quantity="one">Tiedostokoko: %.2f Kt</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s tulosta haulle \"%1$s\"</item>
+        <item quantity="one">%2$s tulosta haulle \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d kuvaa</item>
+        <item quantity="one">%d kuva</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d videota</item>
+        <item quantity="one">%d video</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other"> tilaajaa</item>
         <item quantity="one"> tilaaja</item>

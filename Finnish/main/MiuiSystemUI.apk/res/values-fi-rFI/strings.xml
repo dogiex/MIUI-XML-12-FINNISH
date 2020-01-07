@@ -216,6 +216,17 @@
      <string name="broadcast_tile">Broadcast laatta</string>
      <string name="bt_is_off">Bluetooth on pois käytöstä</string>
      <string name="btn_camera">Syötä kasvosi</string>
+     <string name="bubble_accessibility_action_move">Siirrä</string>
+     <string name="bubble_accessibility_action_move_bottom_left">Siirrä vasemmalle alas</string>
+     <string name="bubble_accessibility_action_move_bottom_right">Siirrä oikealle alas</string>
+     <string name="bubble_accessibility_action_move_top_left">Siirrä vasemmalle ylös</string>
+     <string name="bubble_accessibility_action_move_top_right">Siirrä oikealle ylös</string>
+     <string name="bubble_content_description_single">%1$s from %2$s</string>
+     <string name="bubble_content_description_stack">%1$s from %2$s ja %3$d lisää</string>
+     <string name="bubble_dismiss_text">Hylkää</string>
+     <string name="bubbles_deep_link_button_description">Avaa %1$s</string>
+     <string name="bubbles_prompt">Sallitaanko kuplat kohteesta %1$s?</string>
+     <string name="bubbles_settings_button_description">Asetukset %1$s kuplalle</string>
      <string name="camera_hint">Pyyhkäise kuvaketta siirtyäksesi Kameraan</string>
      <string name="camera_label">Avaa Kamera</string>
      <string name="car_lockscreen_disclaimer_text">Pysy täysin tietoisena ajo-olosuhteista ja noudata aina voimassa olevia lakeja. Ajo-ohjeet saattavat olla epätarkkoja, ei kokonaan valmiita, vaarallisia, sopimattomia, kiellettyjä tai ne saattavat sisältää hallinnollisten alueiden ylittämistä. Yritystiedot saattavat olla myös epätarkkoja tai ei kokonaan valmiita. Tiedot ei ole reaaliaikaisia ja sijainnin tarkkuutta ei voida taata. Älä käsittele mobiililaitettasi ajon aikana tai käytä sovelluksia, jotka ei ole suunniteltu Android Auto:lle.</string>
@@ -402,7 +413,9 @@
      <string name="input_puk_code">Anna PUK-koodi</string>
      <string name="installer_cd_button_title">Asenna Androidin Tiedostonsiirto -sovellus Mac:lle</string>
      <string name="instant_apps">Pikasovellukset</string>
-     <string name="instant_apps_message">Pikasovellukset ei vaadi asennusta.</string>
+     <string name="instant_apps_message">Sovellus avattiin ilman asentamista.</string>
+     <string name="instant_apps_message_with_help">Sovellus avattiin ilman asentamista. Lisätietoja napauttamalla.</string>
+     <string name="instant_apps_title">%1$s käynnissä</string>
      <string name="interruption_level_alarms">Vain hälytykset</string>
      <string name="interruption_level_alarms_twoline">"Vain
      hälytykset"</string>
@@ -586,16 +599,16 @@
      <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattiin Bluetooth-laitteella</string>
      <string name="miui_ringer_count_down">Ajastin</string>
      <string name="miui_ringer_standard">Äänetön</string>
-     <string name="miui_ringer_standard_description">Mykistä saapuvien puheluiden ja ilmoituksien soittoääni</string>
+     <string name="miui_ringer_standard_description">Mykistä saapuvien puheluiden ja ilmoituksien soittoäänet</string>
      <string name="miui_ringer_total">Älä häiritse</string>
      <string name="miui_ringer_total_description">Mykistä äänet ja poista värinä käytöstä kaikille kohteille paitsi herätyskellolle</string>
      <string name="miui_screen_rotation_freeze_message">Automaattinen kierto poistettu käytöstä.</string>
-     <string name="miui_toast_zen_dnd_to_off">Älä häiritse poistettiin käytöstä. Äänet ja värinä palautettiin normaaliksi.</string>
-     <string name="miui_toast_zen_standard_to_off">Älä häiritse poistettiin käytöstä. Soittoäänet palautettiin normaaliksi.</string>
-     <string name="miui_toast_zen_standard_to_off_when_shield_media">Älä häiritse poistettiin käytöstä. Soittoäänet, mukaan luettuna ilmoitukset ja median äänet toistetaan.</string>
+     <string name="miui_toast_zen_dnd_to_off">Älä häiritse -tila poistettiin käytöstä. Äänet ja värinä palautettiin normaaliksi.</string>
+     <string name="miui_toast_zen_standard_to_off">Äänetön tila poistettiin käytöstä. Soittoäänet palautettiin normaaliksi.</string>
+     <string name="miui_toast_zen_standard_to_off_when_shield_media">Äänetön tila poistettiin käytöstä. Soittoäänet, mukaan lukien ilmoitukset ja median äänet toistetaan.</string>
      <string name="miui_toast_zen_to_dnd">Siirryttiin Älä häiritse -tilaan. Äänet mykistettiin ja värinä poistettiin käytöstä.</string>
-     <string name="miui_toast_zen_to_standard">Siirryttiin Älä häiritse -tilaan. Puheluiden ja ilmoituksien soittoäänet mykistetään.</string>
-     <string name="miui_toast_zen_to_standard_when_shield_media">Siirryttiin Älä häiritse -tilaan. Soittoäänet, mukaan luettuna ilmoitukset ja median äänet mykistetään.</string>
+     <string name="miui_toast_zen_to_standard">Siirryttiin Äänettömään tilaan. Puheluiden ja ilmoituksien soittoäänet mykistetään.</string>
+     <string name="miui_toast_zen_to_standard_when_shield_media">Siirryttiin Äänettömään tilaan. Soittoäänet, mukaan lukien ilmoitukset ja median äänet mykistetään.</string>
      <string name="mobile_data">Mobiilidata</string>
      <string name="monitoring_description_app">Olet yhteydessä kohteeseen %1$s, joka voi valvoa verkon käyttöä, mukaan lukien sähköposteja, sovelluksia ja verkkosivuja.</string>
      <string name="monitoring_description_app_personal">Olet yhteydessä kohteeseen %1$s, joka voi valvoa henkilökohtaista verkon käyttöä, mukaan lukien sähköposteja, sovelluksia ja verkkosivuja.</string>
@@ -756,6 +769,7 @@
      <string name="qs_dnd_replace">Korvaa</string>
      <string name="qs_dnd_until">%s asti</string>
      <string name="qs_edit">Muokkaa</string>
+     <string name="qs_open_night_mode_alert_summary">Tietyt näytön asetukset eivät ole yhteensopivia Tummantilan kanssa. Ne palautetaan kuitenkin ennalleen, kun poistat Tummantilan käytöstä.</string>
      <string name="qs_paging">Käytä uusia Pika-asetuksia</string>
      <string name="qs_rearrange">Järjestä Pika-asetukset uudelleen</string>
      <string name="quick_settings">Pika-asetukset</string>
@@ -804,6 +818,7 @@
      <string name="quick_settings_night_secondary_label_on_at">Päälle klo %s</string>
      <string name="quick_settings_night_secondary_label_on_at_sunset">Päälle auringonlaskun aikaan</string>
      <string name="quick_settings_night_secondary_label_until_sunrise">Auringonnousuun asti</string>
+     <string name="quick_settings_nightmode_label">Tummatila</string>
      <string name="quick_settings_notifications_label">Ilmoitukset</string>
      <string name="quick_settings_papermode_label">Lukutila</string>
      <string name="quick_settings_powermode_label">Suorituskykytila</string>
@@ -1052,6 +1067,7 @@
      <string name="wifi_is_off">Wi-Fi pois käytöstä</string>
      <string name="wifi_limited_connection">Rajallinen yhteys</string>
      <string name="wrong_password">Virheellinen salasana</string>
+     <string name="yes_bubbles">Salli</string>
   <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
   <string name="accessibility_action_divider_left_30">Left 30%</string>
   <string name="accessibility_action_divider_left_50">Left 50%</string>
@@ -1161,6 +1177,7 @@
   <string name="app_process_limit_title">Taustaprosessi</string>
   <string name="as_important">Tärkeä</string>
   <string name="as_unimportant">Ei tärkeä</string>
+  <string name="ask_me_later_bubbles">Kysy myöhemmin</string>
   <string name="aspect_cancel">Peruuta</string>
   <string name="aspect_message">Tämä sovellus käynnistetään uudelleen kokonäyttötilassa. Jos törmäät ongelmiin, voit poistaa kokonäyttötilan käytöstä tälle sovellukselle asetuksista Asetukset &gt; Koko näytön ruutu &gt; Kokonäyttötila.</string>
   <string name="aspect_ok">OK</string>
@@ -1348,6 +1365,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="description_direction_left">"Liu'uta vasemmalle ja %s."</string>
   <string name="description_direction_up">"Liu'uta ylös ja %s."</string>
   <string name="description_image_button_answer">Vastaa</string>
+  <string name="description_image_button_bubble_answer">Kaiutin</string>
   <string name="description_image_button_reject">Hylkää</string>
   <string name="description_image_icon_sim_card">SIM %1$d</string>
   <string name="description_target_search">Haku</string>
@@ -1528,6 +1546,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="low_temperature_button_ok">Selvä</string>
   <string name="low_temperature_warning_message">Lämpötila on liian alhainen. Puhelimesi saattaa sammua milloin tahansa. Varmista, että tallennat kaikki tärkeät työsi.</string>
   <string name="low_temperature_warning_title">Alhaisen lämpötilan varoitus</string>
+  <string name="manage_bubbles_text">Hallinnoi</string>
   <string name="managed_profile_foreground_toast">Käytät työprofiilia</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
   <string name="mdb_entering">Aloitetaan…</string>
@@ -1579,6 +1598,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="nav_guide_ok">Aseta</string>
   <string name="nav_guide_title">Piilota näyttöpainikkeet</string>
   <string name="no_application">Nothing</string>
+  <string name="no_bubbles">Kiellä</string>
   <string name="no_multi_window_app">Ei sovelluksia, jotka tukevat Jaettua näyttö</string>
   <string name="no_notification_tips">Ei ilmoituksia.</string>
   <string name="no_sim_card">Ei SIM-korttia</string>
@@ -1941,6 +1961,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="wifi_disabled_network_failure">IP-kokoonpanovirhe</string>
   <string name="wifi_disabled_password_failure">Todennusvirhe</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi-yhteysvirhe</string>
+  <string name="wifi_disconnected">Yhteys katkaistu</string>
   <string name="wifi_display_certification">Langattoman näytön sertifiointi</string>
   <string name="wifi_display_certification_summary">Näytä langattoman näytön sertifiointiin liittyvät asetukset</string>
   <string name="wifi_fail_to_scan">Verkkoja ei voi etsiä.</string>
@@ -1948,6 +1969,8 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="wifi_no_internet_no_reconnect">Yhteyttä ei muodosteta automaattisesti</string>
   <string name="wifi_not_in_range">Ei kantoalueella</string>
   <string name="wifi_remembered">Tallennettu</string>
+  <string name="wifi_scan_throttling">Wi‑Fi-haun rajoitus</string>
+  <string name="wifi_scan_throttling_summary">Vähentää virrankulutusta ja parantaa verkon toimintaa</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_security_owe">Paranneltu avoin</string>
   <string name="wifi_verbose_logging">Käytä Wi-Fin laajennettua lokikirjausta</string>

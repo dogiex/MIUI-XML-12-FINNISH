@@ -1485,6 +1485,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">Automaattinen WCDMA/GSM</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Suosi LTE</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Suosi 4G (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">Suosi 4G</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">Automaattinen LTE/WCDMA/GSM</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">Suosi 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Automaattinen</string>

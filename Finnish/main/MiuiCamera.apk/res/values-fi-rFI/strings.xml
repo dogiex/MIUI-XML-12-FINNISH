@@ -281,6 +281,7 @@ Muotokuvatilassa"</string>
   <string name="live_error_confirm">Säädä aika</string>
   <string name="live_error_message">Jotkut toiminnot eivät välttämättä toimi oikein, jos järjestelmän aika on virheellinen.</string>
   <string name="live_error_title">Järjestelmän aika ei ole oikeassa</string>
+  <string name="live_music_author">Xiaomi Lyhytvideo</string>
   <string name="live_music_change_bgm">Vaihda taustamusiikki</string>
   <string name="live_music_close_cancel_message">Peruuta</string>
   <string name="live_music_close_message">Suljetaanko musiikki nyt?</string>
@@ -309,8 +310,11 @@ Muotokuvatilassa"</string>
   <string name="live_sticker_tab_name">TikTok Magic -tarra</string>
   <string name="live_sticker_updating">Päivitetään…</string>
   <string name="lying_direct_hint">Nykyinen suunta</string>
-  <string name="macro_mode">Macro</string>
+  <string name="macro_mode">Makro</string>
   <string name="macro_mode_tip">Linssin ja kohteen etäisyys toisistaan ei pitäisi ylittää 10 cm</string>
+  <string name="macro_mode_use_hint_text_body">"Käytä Makro-tilaa, jotta pienet kohteet
+näyttävät kuvissa suuremmilta"</string>
+  <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="makeup_reset_toast">Tyhjennettiin meikkitehosteet onnistuneesti</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää tällä hetkellä NFC:n. Korvataanko tämä ominaisuus?</string>
   <string name="mimoji_app_name">Hauska kamera</string>
@@ -487,6 +491,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Piilota kasvojentunnistuksen kehys automaattisesti</string>
   <string name="pref_camera_facedetection_title">Kasvojentunnistus</string>
   <string name="pref_camera_flashmode_entry_auto">Automaattinen</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Pehmeä valo</string>
   <string name="pref_camera_flashmode_entry_off">Pois käytöstä</string>
   <string name="pref_camera_flashmode_entry_on">Käytössä</string>
   <string name="pref_camera_flashmode_entry_torch">Taskulamppu</string>
@@ -553,7 +558,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_peak_entry_on">Käytössä</string>
   <string name="pref_camera_peak_title">Tarkennuksen huippu</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
-  <string name="pref_camera_picture_format_entry_raw">Raw</string>
+  <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö</string>
   <string name="pref_camera_picturesize_entry_standard">Normaali 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kameran kehys</string>
@@ -717,6 +722,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_watermark_on">Käytössä</string>
   <string name="pref_watermark_title">Vesileima</string>
   <string name="preparing_sd">Tarkistetaan sisäistä tallennustilaa…</string>
+  <string name="recommend_soft_light_tip">Käytä salamaa pehmeän valon tilassa</string>
   <string name="record_back_pressed_hint">Lopeta nauhoittaminen napauttamalla uudelleen</string>
   <string name="screen_on_proximity_sensor_hint">Poistaaksesi tämän ominaisuuden käytöstä, paina Äänenvoimakkuus ylös ja Takaisin -painikkeita samanaikaisesti.</string>
   <string name="screen_on_proximity_sensor_summary">Älä peitä kuulokealuetta</string>

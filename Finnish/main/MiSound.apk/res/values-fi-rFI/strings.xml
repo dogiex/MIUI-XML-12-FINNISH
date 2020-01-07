@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_sound">Lisää mukautettu esiasetus</string>
-  <string name="app_name">Kuulokkeet &amp; äänitehosteet</string>
+  <string name="app_name">Kuulokkeet</string>
   <string name="apply_sound">Aseta</string>
   <string name="can_you_here">Kuuletko äänen?</string>
   <string name="complete_dialog_button">Selvä</string>
@@ -104,7 +104,7 @@
   <string name="music_headset_mode_settings">Kuulokkeiden etäpainikkeet</string>
   <string name="music_headset_mode_volume">Hallitse äänenvoimakkuuden tasoa</string>
   <string name="music_headset_no_contected">Kuulokkeita ei tunnistettu</string>
-  <string name="music_headset_settings">Kuulokkeet &amp; äänitehosteet</string>
+  <string name="music_headset_settings">Kuulokkeet</string>
   <string name="music_hifi_summary">Vähentää melu- ja taustakohinaa ja lisää äänenlaatua</string>
   <string name="music_hifi_title">Hi-Fi-ääni</string>
   <string name="music_mi_effect_summary">Käytä Mi Äänenparantajaa kaiuttimien kanssa</string>

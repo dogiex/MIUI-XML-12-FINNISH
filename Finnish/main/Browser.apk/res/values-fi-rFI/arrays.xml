@@ -9,11 +9,17 @@
         <item>Oletussivu</item>
         <item>Muu</item>
     </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Oletus aloitussivu</item>
+        <item>Tyhjennä aloitussivu</item>
+        <item>Mukautettu</item>
+    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Puhelin</item>
         <item>Tabletti</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Ruudukkonäkymä</item>
         <item>Pystysuora näkymä</item>
         <item>Vaakasuora näkymä</item>
     </string-array>

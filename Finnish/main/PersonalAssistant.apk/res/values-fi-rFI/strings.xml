@@ -728,6 +728,10 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="locations">Usein käydyt paikat</string>
   <string name="locations_preferences">Osoitteet</string>
   <string name="login_before_use">Sinun täytyy ensin kirjautua sisään</string>
+  <string name="login_dialog_body">Ota pilven synkronointi käyttöön käyttääksesi kohteitasi useilta laitteilta. Kirjaudutaanko sisään ja otetaanko synkronointi käyttöön nyt?</string>
+  <string name="login_dialog_negative">Ei nyt</string>
+  <string name="login_dialog_positive">Kirjaudu sisään ja ota käyttöön</string>
+  <string name="login_dialog_title">Ota synkronointi käyttöön</string>
   <string name="login_ok">Kirjaudu sisään</string>
   <string name="look_more">Näytä lisää</string>
   <string name="main_add">Lisää</string>

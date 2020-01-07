@@ -97,7 +97,7 @@
   <string name="gps">Navigoi</string>
   <string name="image_file_name_format">"'lukija'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Tuo yhteystieto</string>
-  <string name="impunity_declaration_content">Lukijan täytyy käyttää kameraasi ja käsitellä sovelluksella ottamiasi kuvia. Älä ota kuvia Lukijalla, jotka sisältävät henkilökohtaisia tietojasi. Napauttamalla \"Hyväksyn\", hyväksyt meidän Tietosuojakäytännön ja sallit Lukijan yhdistää internetiin.</string>
+  <string name="impunity_declaration_content">Lukijan täytyy käyttää kameraasi ja käsitellä sovelluksella ottamiasi kuvia. Älä ota kuvia Lukijalla, jotka sisältävät henkilökohtaisia tietojasi. Napauttamalla \"Hyväksyn\", hyväksyt meidän &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Tietosuojakäytännön&lt;/a&gt;&lt;/font&gt; ja sallit Lukijan yhdistää internetiin.</string>
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Tietosuojakäytäntö</string>
@@ -229,9 +229,9 @@
   <string name="wifi_details">W-Fi:</string>
   <string name="wifi_exist_fail">Wi-Fi-hotspot \"%1$s\" on jo olemassa. Poista se ja yritä uudelleen.</string>
   <string name="wifi_open_fail">Wi-Fiä ei voi ottaa käyttöön</string>
-  <string name="wifi_psd_toolong">Salasanan pituus on liian pitkä, syötä se manuaalisesti</string>
+  <string name="wifi_psd_toolong">Salasana on liian pitkä. Syötä salasana manuaalisesti.</string>
   <string name="wifi_pwd">Salasana:</string>
   <string name="wifi_security">Turvallisuus:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wx_not_installed_toast">Tämä ominaisuus avaa WeChatin, asenna WeChat</string>
+  <string name="wx_not_installed_toast">Tämän ominaisuuden täytyy käyttää WeChattia. Asenna WeChat ensin.</string>
 </resources>

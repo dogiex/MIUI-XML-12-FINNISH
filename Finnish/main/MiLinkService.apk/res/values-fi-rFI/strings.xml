@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="actionbar_button_up_description">Takaisin</string>
+  <string name="casting_tips">Suoratoistetaan…</string>
+  <string name="console_guide_btn_got_it">Selvä</string>
+  <string name="console_guide_subtitle_hang_up">Voit jatkaa suoratoistamista laitteesi näytön ollessa sammuksissa. Tämä ominaisuus vähentää virrankulutusta.</string>
+  <string name="console_guide_subtitle_private">Älä näytä kelluvia ilmoituksia, saapuvia puheluita ja muita henkilökohtaisia asioita ulkoisella näytöllä</string>
+  <string name="console_guide_subtitle_small_window">Pienennä suoratoistettava ikkuna, jotta voit käyttää puhelimellasi muita ominaisuuksia</string>
+  <string name="dialog_can_not_find_device">Lähellä olevia laitteita ei löytynyt</string>
+  <string name="dialog_cancle">Peruuta</string>
+  <string name="dialog_connect_fail">Yhdistäminen epäonnistui</string>
+  <string name="dialog_connect_retry">Yritä uudelleen napauttamalla</string>
+  <string name="dialog_connect_verify_perssion">Valtuuta suoratoistaminen ensin televisiossasi</string>
+  <string name="dialog_connect_verify_perssion_fail">Valtuuttaminen epäonnistui. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="dialog_connected">Yhdistetty</string>
+  <string name="dialog_connecting">Yhdistetään…</string>
+  <string name="dialog_ok">OK</string>
+  <string name="dialog_only_suport_content">Striimaa kuvia, videoita tai musiikkia</string>
+  <string name="dialog_open_wifi_bt">Ota käyttöön</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Varmista, että langattoman suoratoiston ominaisuus on otettu käyttöön kohdelaitteessa.
+Katso ohjeita, jos yhteyden muodostamisessa on ongelmia."</string>
+  <string name="dialog_recent_connected">Viimeaikainen</string>
+  <string name="dialog_retry">Yritä uudelleen</string>
+  <string name="dialog_scanning_device">Haetaan lähellä olevia laitteita…</string>
+  <string name="dialog_scanning_precondition">Ota Wi-Fi ja Bluetooth käyttöön puhelimessasi käyttääksesi langatonta näyttöä.</string>
+  <string name="dialog_select_tv">Valitse laite (%d)</string>
+  <string name="dialog_show_help">Apua</string>
+  <string name="disconnect">Lopeta suoratoisto</string>
+  <string name="hang_up">Suoratoista näyttö sammutettuna</string>
+  <string name="hang_up_alert_dialog_content">Jatka suoratoistamista, vaikka laitteesi näyttö on sammutettuna. Tämä ominaisuus vähentää virrankulutusta. Paina Virtapainiketta käynnistääksesi näytön päälle.</string>
+  <string name="hang_up_alert_dialog_neg">Peruuta</string>
+  <string name="hang_up_alert_dialog_pos">OK</string>
+  <string name="hang_up_alert_dialog_title">Aiotaan suoratoistaa näyttö sammuksissa…</string>
+  <string name="help_page_text_01">Apua</string>
+  <string name="help_page_text_02">Mitä on suoratoistaminen?</string>
+  <string name="help_page_text_03">Suoratoistaminen on puhelimesi näytön kohteiden peilaamista isommalle ulkoiselle näytölle. Sen avulla voit näyttää kuvia ja videoita ystävillesi ja perheellesi käyttämättä mobiilidataa.</string>
+  <string name="help_page_text_04">Kuinka suoratoistan kohteita isomalle näytölle?</string>
+  <string name="help_page_text_05">Vaihe 1: Tarkista laitteesi ja verkkoympäristösi</string>
+  <string name="help_page_text_06">"1. Sinun ei tarvitse yhdistää internetiin, jos haluat suoratoistaa jotain Mi-puhelimestasi Mi-televisioon.
+2. Jos et voi muodostaa yhteyttä näiden kahden laitteen välillä, yritä yhdistää molemmat laitteet samaan Wi-Fi-verkkoon."</string>
+  <string name="help_page_text_08">Vaihe 2: Ota suoratoisto käyttöön</string>
+  <string name="help_page_text_09">Napauta \"Suoratoista\" painiketta puhelimesi Ilmoitusalueella. Ota sekä Wi-Fi että Bluetooth käyttöön, jotta yhteys on vakaampi.</string>
+  <string name="help_page_text_10">Jos haluat suoratoistaa kohteita suoraan Galleria tai Mi Video -sovelluksista, voit käyttää niiden sisäänrakennettuja suoratoisto-ominaisuuksia.</string>
+  <string name="help_page_text_11">Vaihe 3: Valitse laite</string>
+  <string name="help_page_text_12">Valitse ulkoinen laite käytettävissä olevien laitteiden luettelosta aloittaaksesi suoratoistamisen.</string>
+  <string name="help_page_text_13">Etkö pysty yhdistämään ulkoiseen laitteeseen?</string>
+  <string name="help_page_text_14">"1. Jos haluat käyttää Xiaomin laitetta, mutta et löydä sitä käytettävissä olevien laitteiden luettelosta, yritä seuraavaa:
+Yhdistä sekä puhelimesi että ulkoinen näyttö (esim. televisiosi) samaan Wi-Fi-verkkoon tai yhdistä ulkoinen näyttö puhelimesi kannettavaan hotspot-verkkoon. Jos Wi-Fi-verkkoja ei ole käytettävissä tai et voi yhdistää molempia laitteita samaan verkkoon, tarkista että ulkoisen näytön suoratoisto-ominaisuus on ajan tasalla ja olet ottanut Bluetoothin käyttöön puhelimessasi ja ulkoisessa näytössä ja että olet ottanut Miracast -ominaisuuden käyttöön televisiossasi.
+2. Jos suoratoistat Xiaomin laitteella ensimmäistä kertaa, sinun täytyy suorittaa valtuuttaminen loppuun.
+3. Jos haluat käyttää muuta laitetta, kuin Xiaomin, mutta et löydä sitä käytettävissä olevien laitteiden luettelosta, yritä seuraavaa:
+Yhdistä puhelimesi ja ulkoinen näyttö (esim. televisiosi) samaan Wi-Fi-verkkoon tai yhdistä ulkoinen näyttö puhelimesi kannettavaan hotspot-verkkoon. Jos tämä ei auta, asenna LeEco suoratoistosovellus televisioosi ja seuraa sen ohjeita."</string>
+  <string name="help_page_text_14_global">"1. Jos haluat käyttää Xiaomin laitetta, mutta et löydä sitä käytettävissä olevian laitteiden luettelosta, yritä seuraavaa:
+Yhdistä sekä puhelimesi että ulkoinen näyttö (esim. televisiosi) samaan Wi-Fi-verkkoon tai yhdistä ulkoinen näyttö puhelimesi kannettavaan hotspot-verkkoon. Jos Wi-Fi-verkkoja ei ole käytettävissä tai et voi yhdistää molempia laitteita samaan verkkoon, tarkista että ulkoisen näytön suoratoisto-ominaisuus on ajan tasalla ja olet ottanut Bluetoothin käyttöön puhelimessasi ja ulkoisessa näytössä ja että olet ottanut Miracast -ominaisuuden käyttöön televisiossasi.
+2. Jos suoratoistat Xiaomin laitteella ensimmäistä kertaa, sinun täytyy suorittaa valtuuttaminen loppuun.
+3. Jos haluat käyttää muuta laitetta, kuin Xiaomin, mutta et löydä sitä käytettävissä olevien laitteiden luettelosta, yritä seuraavaa:
+Yhdistä puhelimesi ja ulkoinen näyttö (esim. televisiosi) samaan Wi-Fi-verkkoon tai yhdistä ulkoinen näyttö puhelimesi kannettavaan hotspot-verkkoon."</string>
+  <string name="help_page_text_15">Miracast -ominaisuus eri laitteilla</string>
+  <string name="help_page_text_16">Mi TV/Mi Projector</string>
+  <string name="help_page_text_17">"Voit suoratoistaa kohteita Mi-puhelimestasi useimpiin Mi-televisioihin pelkästään Bluetoothin avulla ilman, että otat Miracasti-ominaisuutta käyttöön manuaaliesti.
+Jos sinun täytyy ottaa Miracasti käyttöön, paina [MENU] painiketta ja valitse Sovellukseni &gt; Suoratoistaminen &gt; Miracast."</string>
+  <string name="help_page_text_17_1">Xiaomin asiakaspalvelu: 400-100-5678</string>
+  <string name="help_page_text_18">Samsung TV</string>
+  <string name="help_page_text_19">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit painaa kaukosäätimen [SOURCE] painiketta ja sen jälkeen valita \"Näytön Peilaaminen\". Tämä ominaisuus on oletuksena käytössä eri malleissa.</string>
+  <string name="help_page_text_20">Samsungin asiakaspalvelu: 400-810-5858</string>
+  <string name="help_page_text_21">LG TV</string>
+  <string name="help_page_text_22">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Tämä ominaisuus on oletuksena käytössä eri malleissa.</string>
+  <string name="help_page_text_23">LG:n asiakaspalvelu: 400-819-9999</string>
+  <string name="help_page_text_24">Philips TV</string>
+  <string name="help_page_text_25">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Tämä ominaisuus on oletuksena käytössä eri malleissa.</string>
+  <string name="help_page_text_26">Philipsin asiakaspalvelu: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit painaa kaukosäätimen [MENU] painiketta ja sen jälkeen valita Asetukset &gt; Yhteys &gt; Verkko &gt; Useita näyttöjä.</string>
+  <string name="help_page_text_29">TPV:n asiakaspalvelu: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit painaa kaukosäätimen [SMART] painiketta ja sen jälkeen valita Suoratoisto &gt; Langaton näyttö. Jotkut mallit tukee myös pelien suoratoistoa: Hi Cast &gt; Suoratoista pelejä &gt; Android.</string>
+  <string name="help_page_text_32">Hisensen asiakaspalvelu: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit valita Sovellukset &gt; Suoratoisto &gt; Android-laite &gt; Miracast.</string>
+  <string name="help_page_text_35">Skyworthin asiakaspalvelu: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit painaa kaukosäätimen [SOURCE] painiketta ja sen jälkeen valita \"Näytön Peilaaminen\". Joillakin muilla malleilla voit ottaa tämän ominaisuuden käyttöön asetuksista Verkot &gt; Wi-Fi Direct. Tämä ominaisuus on oletuksena käytössä eri malleissa.</string>
+  <string name="help_page_text_38">Sonyn asiakaspalvelu: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit valita Sovellukset &gt; Näytön Peilaaminen.</string>
+  <string name="help_page_text_41">Panasonicin asiakaspalvelu: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit valita Järjestelmä &gt; Järjestelmätyökalut &gt; Useat Näytöt &gt; Näytön Peilaaminen.</string>
+  <string name="help_page_text_44">Changhong asiakaspalvelu: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit valita Sovellukset &gt; Langaton Näyttö.</string>
+  <string name="help_page_text_47">TCL:n asiakaspalvelu: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Ota tämä ominaisuus käyttöön menemällä Sovellukseni &gt; Wi-Fi Näyttö.</string>
+  <string name="help_page_text_50">AODIN asiakaspalvelu: 400-810-5858</string>
+  <string name="help_page_text_51">LeEco</string>
+  <string name="help_page_text_52">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit ottaa tämän ominaisuuden käyttöön asetuksissa Asetukset &gt; Verkot &gt; Useat näytöt &gt; Langaton Näyttö.</string>
+  <string name="help_page_text_53">LeEcon asiakaspalvelu: 10109000</string>
+  <string name="help_page_text_55">"Jos et voi muodostaa yhteyttä verkkoon, varmista että ulkoinen näyttösi tukee Miracast-ominaisuutta ja että se on otettu käyttöön. Joillakin malleilla tätä ominaisuutta kutsutaan Langattomaksi Näytöksi, Näytön Peilaamiseksi tai Useaksi näytöksi. Katso alla olevat tiedot oppiaksesi, kuinka Miracast otetaan käyttöön.
+4. Jos törmäät ongelmiin, voit ilmoittaa niistä käyttämällä meidän \"Palvelut &amp; palaute\" sovellusta."</string>
+  <string name="help_page_text_55_global">"Jos et voi muodostaa yhteyttä verkkoon, varmista että ulkoinen näyttösi tukee Miracast-ominaisuutta ja että se on otettu käyttöön. Joillakin malleilla tätä ominaisuutta kutsutaan Langattomaksi Näytöksi, Näytön Peilaamiseksi tai Useaksi näytöksi.
+4. Jos törmäät ongelmiin, voit ilmoittaa niistä käyttämällä meidän \"Palvelut &amp; palaute\" sovellusta."</string>
+  <string name="help_page_text_end">Jos laitteesi merkki ei ole tässä luettelossa, ota yhteyttä valmistajaan oppiaksesi lisää suoratoisto-ominaisuuksista."</string>
+  <string name="notification_rc_title">XiaoMi TV Avustaja</string>
+  <string name="notification_show_more">Näytä lisää ominaisuuksia napauttamalla</string>
+  <string name="privacy_agree">Hyväksyn</string>
+  <string name="privacy_text_1">"Tervetuloa Suoratoistoon! Suoratoistaminen sallii puhelimesi kohteiden peilaamisen isommalle ulkoiselle näytölle.
+Suojaamme henkilötietojasi siihen liittyvillä lakipykälillä, säädöksillä ja tietosuojakäytännöillä. Jotkut ominaisuudet tarjoaa kolmannen osapuolen palveluntarjoaja HappyCast. Ennen tämän ominaisuuden käyttämistä, lue ja hyväksy meidän HappyCast Käyttöehdot ja HappyCast Tietosuojakäytäntö.
+Toimiakseen normaalisti, tämä sovellus tarvitsee internetyhteyden ja se vaatii myös seuraavat käyttöoikeudet kerätäkseen henkilötietojasi:"</string>
+  <string name="privacy_text_2">"Jos et hyväksy käyttöoikeuksia tai jaa ja lähetä henkilötietojasi, et voi käyttää tätä sovellusta. Voit poistaa tämän sovelluksen, kirjautua ulos siitä tai rajoittaa käyttöoikeuksia Asetuksissa näissä tapauksissa.
+Lue ja hyväksy meidän Käyttöehdot ja Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+  <string name="privacy_text_pemission">"　　•Kuvien käyttäminen ja tallentaminen laitteellesi, jotta niitä voidaan peilata ulkoisille näytöille
+　　•Puheluiden ja äänen nauhoittaminen, jotta ääntä voidaan suoratoistaa ulkoisilla laitteilla
+　　•Puhelinnumeron, IMEI:n ja IMSI:n käyttöoikeus, jotta laitteesi voidaan tunnistaa
+　　•Sijaintitietojesi käyttöoikeus, jotta lähellä olevat laitteet voidaan löytää"</string>
+  <string name="private_protect">Piilota yksityiset kohteet</string>
+  <string name="san_wait_msg_1">Ota langaton suoratoisto käyttöön kohdelaitteella</string>
+  <string name="san_wait_msg_2">Laitteiden hakeminen saattaa kestää hetken…</string>
+  <string name="san_wait_msg_3">Ulkoiset laitteet löytyvät helpommin, kun ne ovat yhdistettynä samaan verkkoon puhelimesi kanssa</string>
+  <string name="san_wait_msg_4">Katso \"Apua\" jos et löydä laitteita</string>
+  <string name="small_window">Pienennä ikkuna</string>
+  <string name="status_bar_in_casting">Suoratoistetaan…</string>
+  <string name="status_bar_in_casting_long">Näytä lisää suoratoisto-ominaisuuksia napauttamalla</string>
+  <string name="tile_label">Suoratoisto</string>
+  <string name="toast_guide_show_more">Lisätietoja</string>
+  <string name="toast_guide_title">Tutustu meidän uusiin ominaisuuksiin täällä</string>
+  <string name="toast_msg_for_multi_window">Tätä ominaisuutta ei voi käyttää Jaetussa näytössä</string>
+  <string name="toast_msg_for_small_window">Voit pienentää ikkunan, jota suoratoistetaan käyttääksesi muita puhelimesi ominaisuuksia keskeyttämättä suoratoistoa.</string>
+  <string name="toast_title_for_small_window">Valitse \"Pienennä ikkuna\" sovelluksessa</string>
+</resources>
