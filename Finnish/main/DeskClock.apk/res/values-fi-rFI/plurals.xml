@@ -32,22 +32,6 @@
         <item quantity="other">%d sekuntia</item>
         <item quantity="one">%d sekunti</item>
     </plurals>
-    <plurals name="snooze_message">
-        <item quantity="other">Torkuta %d minuuttia</item>
-        <item quantity="one">Torkuta %d minuutti</item>
-    </plurals>
-    <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d tuntia "</item>
-        <item quantity="one">"%1$d tunti "</item>
-    </plurals>
-    <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d minuuttia "</item>
-        <item quantity="one">"%1$d minuutti "</item>
-    </plurals>
-    <plurals name="timer_message_second">
-        <item quantity="other">%1$d sekuntia</item>
-        <item quantity="one">%1$d sekunti</item>
-    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Muutettiin torkutuksen aikaväli %d minuuttiin</item>
         <item quantity="one">Muutettiin torkutuksen aikaväli %d minuuttiin</item>

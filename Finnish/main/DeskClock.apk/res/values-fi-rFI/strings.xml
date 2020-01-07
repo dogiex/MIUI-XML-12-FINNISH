@@ -47,8 +47,6 @@
   <string name="module_white_noise_download_wifi">Kellon täytyy ladata äänitiedostoja ajastimien taustaääniä varten. Ladataanko nyt?</string>
   <string name="module_white_noise_download_wifi_privacy">Ladatakseen äänitiedostoja ajastimien taustaääniä varten ja tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
   <string name="monday_to_friday">Maanantaista Perjantaihin</string>
-  <string name="set_alarm_done">Valmis</string>
-  <string name="setting_alarm_arriving_subtitle">Näytä ilmoitukset ennen kuin hälytykset soivat</string>
   <string name="time_picker_colon">:</string>
   <string name="time_picker_label_hour">T</string>
   <string name="time_picker_label_minute">M</string>
