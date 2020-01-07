@@ -61,20 +61,15 @@
   <string name="currency_update_support">Valuuttakurssit tarjoaa Webull.</string>
   <string name="currency_update_time_format">Valuuttakurssit tarjoaa Webull (%s)</string>
   <string name="currency_update_updating">Päivitetään kursseja…</string>
-  <string name="current_rate_remind_commercial"/>
-  <string name="current_rate_remind_fund"/>
   <string name="dateformat">d.M.yyyy</string>
-  <string name="daughter">女儿</string>
   <string name="day">päivä</string>
-  <string name="default_separator_text">的</string>
-  <string name="default_text">我</string>
   <string name="degDesc">Kulma</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">poista</string>
   <string name="description_content">Perus ominaisuuksien lisäksi, Laskin toimii myös monimuuntimena, lainojen laskemiseen ja verolaskurina. Varmista, että voi elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="description_title">Tietoja Laskimesta</string>
   <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
-  <string name="dialog_privacy_content">Laskimen perusominaisuuksien lisäksi sovelluksemme sisältää tieteellisen laskimen ja monikäyttöisen muuntimen. Joidenkin ominaisuuksien on yhdistettävä internetiin toimiakseen normaalisti. Sinun täytyy lukea ja hyväksyä meidän %1$s ja %2$s, ennen Laskimen käyttämistä.</string>
+  <string name="dialog_privacy_content">Perustoimintojen lisäksi, Mi Laskimella voit muuntaa valuuttoja ja mittayksiköitä, laskea lainojen takaisinmaksuja ja paljon muuta. Jotkut toiminnot vaativat internetyhteyden toimiakseen normaalisti. &lt;Data&gt;Ennen tämän sovelluksen käyttämistä, lue ja hyväksy meidän &amp;lt;a href=%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%2$s&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="dialog_privacy_title">Käyttöehdot</string>
   <string name="dialog_rating_desc_ask">Mitä mieltä olet Laskimesta?</string>
   <string name="dialog_rating_desc_less">Voisitko antaa meille myös palautetta?</string>
