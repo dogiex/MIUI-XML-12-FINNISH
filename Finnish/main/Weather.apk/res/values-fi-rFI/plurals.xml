@@ -16,6 +16,10 @@
         <item quantity="other">%1$s aseman keskiarvo</item>
         <item quantity="one">%1$s aseman keskiarvo</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s-päivän ennustus</item>
+        <item quantity="one">%1$s-päivän ennustus</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">%1$s-päivän ennustus</item>
         <item quantity="one">%1$s-päivän ennustus</item>

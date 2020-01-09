@@ -2518,6 +2518,7 @@ Kaupungissa ei näkynyt hevosia tai muita eläimiä: tavaroita kuljetettiin pien
   <string name="fsg_mistake_touch_title">Eleiden tuplatarkistus</string>
   <string name="full_screen_display">Kokonäyttötila</string>
   <string name="full_screen_keyboard_optimization">Paranna näppäimistöä</string>
+  <string name="full_screen_keyboard_settings">Kokonäytön näppäimistöasetukset</string>
   <string name="full_transparent_smarrcover_title">Läpinäkyvä etukuori</string>
   <string name="fullbackup_data_summary">"Varmuuskopioi automaattisesti laitteen tiedot (kuten Wi-Fi-salasanat ja soittohistoria) sekä sovellusten tiedot (kuten asetukset ja sovellusten tallentamat tiedostot) Google Driveen.
 
@@ -2704,6 +2705,8 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="input_assistance">Työkalut</string>
   <string name="input_hint_prefix">Syötä %1$s</string>
   <string name="input_method">Syöttötapa</string>
+  <string name="input_method_bottom_close">Pois käytöstä</string>
+  <string name="input_method_bottom_open">Käytössä</string>
   <string name="input_method_function_clipboard">Leikepöytä ja usein käytetyt lauseet</string>
   <string name="input_method_function_clipboard_des">Napauta nähdäksesi leikepöydän sisältö ja usein käyetyt lauseet</string>
   <string name="input_method_function_no_function">Ei mitään</string>
@@ -2714,12 +2717,14 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="input_method_function_voice_des">Napauta käyttääksesi äänisyötettä</string>
   <string name="input_method_function_xiaoai">Mi AI -äänisyöte</string>
   <string name="input_method_function_xiaoai_des">Napauta käyttääksesi Mi AI -äänisyötettä</string>
+  <string name="input_method_manage">Hallinnoi näppäimistöjä</string>
   <string name="input_method_selector">Syöttötavan valinta</string>
   <string name="input_method_selector_always_hide_title">Piilota aina</string>
   <string name="input_method_selector_always_show_title">Näytä aina</string>
   <string name="input_method_selector_show_automatically_title">Automaattinen</string>
   <string name="input_method_settings">Asetukset</string>
   <string name="input_method_settings_button">Asetukset</string>
+  <string name="input_method_settings_text">Asetukset</string>
   <string name="input_methods_and_subtype_enabler_title">Valitse aktiiviset syöttötavat</string>
   <string name="input_methods_settings_label_format">%1$s-asetukset</string>
   <string name="input_methods_settings_title">Tekstisyöttö</string>
@@ -2788,6 +2793,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_layout_dialog_switch_hint">Vaihda painamalla Ctrl+välilyönti</string>
   <string name="keyboard_layout_dialog_title">Valitse näppäimistöasettelu</string>
   <string name="keyboard_layout_picker_title">Näppäimistöasettelut</string>
+  <string name="keyboard_mouse_touch">Näppäimistö, hiiri ja ohjauslevy</string>
   <string name="keyboard_settings_category">Näppäimistö ja syöttötavat</string>
   <string name="keyboard_settings_title">Android-näppäimistö</string>
   <string name="keyboard_shortcuts_helper">Pikanäppäinapuri</string>
@@ -4041,6 +4047,7 @@ Tämä antaa sovellukselle myös oikeuden ottaa Älä häiritse ‑tilan käytt�
 OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin."</string>
   <string name="other_advanced_settings">Lisäasetukset</string>
   <string name="other_device_info">Muut</string>
+  <string name="other_input_settings">Näppäimistön lisäasetukset</string>
   <string name="other_personal_settings">Henkilökohtaiset asetukset</string>
   <string name="other_relative">Muut</string>
   <string name="other_settings_sync_settings">Synkronointi</string>
@@ -4367,7 +4374,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="priority_storage_title">Tallennustilan asetukset</string>
   <string name="priority_summary">Näytä ilmoitukset luettelon kärjessä</string>
   <string name="priority_title">Prioriteetti</string>
-  <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Mi Pilvi -palveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
+  <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Xiaomi Pilvipalveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
   <string name="privacy_authorize_dialog_agree">Hyväksyn</string>
   <string name="privacy_authorize_dialog_exit">Poistu</string>
   <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Käyttääksesi tämän palvelun perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme saadaksesi lisätietoja, kuinka keräämme ja käsittelemme henkilötietoja. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
@@ -4777,7 +4784,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_confirm">Ota käyttöön</string>
   <string name="screen_dark_mode_advanced_title">Lisäasetukset</string>
   <string name="screen_dark_mode_select_time_error_summary">Aloitusaika ja päättymisaika ei voi olla sama</string>
-  <string name="screen_dark_mode_smart_dark_summary">Aseta tummatila myös kolmannen osapuolen sovelluksiin. Jotkut sovellukset voivat näkyä väärin</string>
+  <string name="screen_dark_mode_smart_dark_summary">Aseta tummatila myös kolmannen osapuolen sovelluksiin. Jotkut sovellukset voivat näkyä väärin.</string>
   <string name="screen_dark_mode_smart_dark_title">Globaali tummatila</string>
   <string name="screen_dark_mode_time_title">Ajastus</string>
   <string name="screen_effect">Kontrasti &amp; värit</string>

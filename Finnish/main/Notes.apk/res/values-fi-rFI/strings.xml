@@ -28,7 +28,7 @@
   <string name="action_folder_description">Näytä kansiot</string>
   <string name="action_mode_switcher_grid_description">Ruudukkonäkymä</string>
   <string name="action_mode_switcher_list_description">Luettelonäkymä</string>
-  <string name="action_settings_description">Avaa Asetukset</string>
+  <string name="action_settings_description">Asetukset</string>
   <string name="actionbar_close_description">Sulje</string>
   <string name="actionbar_home_description">Takaisin</string>
   <string name="add_account_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa?</string>

@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- MIUI 10 valmis -->
   <string name="daily_forecast_add_city_add">Seuraa</string>
   <string name="daily_forecast_add_city_message">Seuraa kaupungin %1$s säätietoja yksityiskohtaisempaa ennustusta varten.</string>
   <string name="daily_forecast_add_city_title">Seuraa kaupungin %1$s säätä</string>
-  <!-- MIUI 10 valmis -->
+  <string name="about_weather_setting">Tietoja Säästä</string>
+  <string name="about_weather_setting_feedback">Palaute</string>
+  <string name="abrupt_weather_settings_summary_type">Vastaanota hälytyksiä odotetuista vesisateista, ilmanlaadun muutoksista ja muista merkittävistä muutoksista</string>
   <string name="abrupt_weather_settings_summary_type_a">Epätavallisen sään varoituksen valintakytkin</string>
   <string name="abrupt_weather_settings_summary_type_b">Epätavallisen sään varoituksen valintakytkin</string>
   <string name="abrupt_weather_settings_title">Epätavallisen sään varoitus</string>
@@ -35,7 +36,10 @@
   <string name="activity_weathermain_locationg">Paikannetaan…</string>
   <string name="activity_weathermain_locationg_error">Sijainnin paikantaminen epäonnistui</string>
   <string name="add_city">Lisää</string>
-  <string name="alert_warning">Säävaroitukset</string>
+  <string name="alert_detail_title">Hälytyksen tiedot</string>
+  <string name="alert_warning">Säähälytykset</string>
+  <string name="alert_weather_enable_settings_summary">Vastaanota virallisia säävaroituksia</string>
+  <string name="alert_weather_enable_settings_title">Säävaroitukset</string>
   <string name="already_voted">Äänestetty</string>
   <string name="already_voted_toast">Olet jo äänestänyt tänään</string>
   <string name="app_name">Sää</string>
@@ -108,14 +112,8 @@
   <string name="content_desc_close_button">Sulje</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
-  <string name="daily_forcast_no_wind">0</string>
-  <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
-  <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-  <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
-  <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s myöhemmin.</string>
   <string name="daily_forcast_whirl_wind">Pyörremyrsky</string>
-  <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail">Ennusteen tiedot</string>
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_no_data">"Säätietojen haku epäonnistui
@@ -127,6 +125,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="empty_view_net_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="empty_view_refresh">Yritä uudelleen</string>
   <string name="eu_region_version_first_start_network_msg">Käyttämällä tätä tuotetta hyväksyt, että tämä tuote yhdistää verkkoon, kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien hakemiesi kaupunkien koordinaatteja ja muita tietoja lueteltu Tietosuojakäytännössämme. Tutustu Tietosuojakäytäntöömme lukeaksesi, kuinka keräämme ja käsittelemme tietoja. Napauttamalla \"Hyväksyn\", hyväksyt Xiaomin %1$s ja %2$s.</string>
+  <string name="feedback">Ilmoita virheellisestä säätiedosta</string>
   <string name="feedback_cloudy">Pilvinen</string>
   <string name="feedback_foggy">Sumuinen</string>
   <string name="feedback_haze">Usva</string>
@@ -205,7 +204,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="more_details">Lisätietoja</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa.</string>
-  <string name="night_not_disturb_settings_summary">Mykistä hälytykset, jotka tulevat klo 23.00 ja 07.00 välisenä aikana</string>
+  <string name="night_not_disturb_settings_summary">Estä hälytykset aikaväliltä 23.00 - 7.00</string>
   <string name="night_not_disturb_settings_title">Älä häiritse yöllä</string>
   <string name="no_data">Ei tietoja</string>
   <string name="no_network_btn">Yritä uudelleen</string>
@@ -309,6 +308,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
+  <string name="warning_weather_day_and_night_settings_summary">Vastaanota päivittäin yhteenvetoja, jotka sisältävät säätiedot kello 7.00 ja 19.00</string>
+  <string name="warning_weather_day_and_night_settings_title">Päivittäiset yhteenvedot</string>
   <string name="weather_alert_channel_name">Hälytykset</string>
   <string name="weather_introduce">Aina kanssasi, satoi tai paistoi.</string>
   <string name="weather_permission_agree">Hyväksyn</string>

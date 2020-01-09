@@ -163,7 +163,7 @@ Voit nyt kirjautua Mi Tilillesi käyttäen %s."</string>
 ID: %s
 Lähetä tämä koodi valvojalle."</string>
   <string name="empty_device_list_notice">Ei laitteita</string>
-  <string name="ep_unsupported">Laitteesi ei tue kirjautumista Xiaomi-tilille</string>
+  <string name="ep_unsupported">Laitteellasi ei voi kirjautua Mi Tilille</string>
   <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo olemassa toisella Mi Tilillä.</string>
   <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on väärin.</string>
   <string name="exceed_binded_phone_times_notice">Tämä puhelinnumero on jo olemassa toisella Mi Tilillä.</string>
