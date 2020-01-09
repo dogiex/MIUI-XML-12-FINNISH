@@ -95,8 +95,8 @@ Jos sinun täytyy ottaa Miracasti käyttöön, paina [MENU] painiketta ja valits
   <string name="help_page_text_51">LeEco</string>
   <string name="help_page_text_52">Ensimmäiseksi varmista, että Miracast-ominaisuus on tuettu laitteellasi. Joillakin malleilla voit ottaa tämän ominaisuuden käyttöön asetuksissa Asetukset &gt; Verkot &gt; Useat näytöt &gt; Langaton Näyttö.</string>
   <string name="help_page_text_53">LeEcon asiakaspalvelu: 10109000</string>
-  <string name="help_page_text_55">"Jos et voi muodostaa yhteyttä verkkoon, varmista että ulkoinen näyttösi tukee Miracast-ominaisuutta ja että se on otettu käyttöön. Joillakin malleilla tätä ominaisuutta kutsutaan Langattomaksi Näytöksi, Näytön Peilaamiseksi tai Useaksi näytöksi. Katso alla olevat tiedot oppiaksesi, kuinka Miracast otetaan käyttöön.
-4. Jos törmäät ongelmiin, voit ilmoittaa niistä käyttämällä meidän \"Palvelut &amp; palaute\" sovellusta."</string>
+  <string name="help_page_text_55">"Jos et voi muodostaa yhteyttä verkkoon, varmista että ulkoinen laitteesi (esim. TV) tukee Miracast-ominaisuutta. Suoratoistotoiminnon nimet ulkoisella laitteellasi saattaa vaihdella riippuen laitteesi valmistajasta. Katso alla olevat tiedot oppiaksesi Miracast-toiminnoista eri laitteissa.
+4. Jos törmäät muihin ongelmiin, voit ilmoittaa kysymyksesi ja ehdotuksesi käyttäen Palautesovellusta."</string>
   <string name="help_page_text_55_global">"Jos et voi muodostaa yhteyttä verkkoon, varmista että ulkoinen näyttösi tukee Miracast-ominaisuutta ja että se on otettu käyttöön. Joillakin malleilla tätä ominaisuutta kutsutaan Langattomaksi Näytöksi, Näytön Peilaamiseksi tai Useaksi näytöksi.
 4. Jos törmäät ongelmiin, voit ilmoittaa niistä käyttämällä meidän \"Palvelut &amp; palaute\" sovellusta."</string>
   <string name="help_page_text_end">Jos laitteesi merkki ei ole tässä luettelossa, ota yhteyttä valmistajaan oppiaksesi lisää suoratoisto-ominaisuuksista."</string>

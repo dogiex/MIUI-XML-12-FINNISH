@@ -50,8 +50,8 @@
   <string name="call_folder_name">Puheluiden muistiot</string>
   <string name="cancel_alarm_description">Peruuta hälytys</string>
   <string name="check_in_todo_app">Näytä tehtävät</string>
-  <string name="cloud_service_state_open_reminder">Ota Pilven synkronointi käyttöön synkronoidaksesi muistiot.</string>
-  <string name="cloud_trash_bin_title">Poista muistiot Pilvestä</string>
+  <string name="cloud_service_state_open_reminder">Ota pilven synkronointi käyttöön synkronoidaksesi muistiot.</string>
+  <string name="cloud_trash_bin_title">Poistetut muistiot pilvestä</string>
   <string name="cta_confirm_cancel">Älä salli</string>
   <string name="cta_confirm_ok">Salli</string>
   <string name="cta_dialog_message">Muistio tarvitsee käyttöoikeuksia yhdistää internetiin, nauhoittaa ääntä ja käyttää yhteystietojasi toimiakseen normaalisti. Sallitaanko?</string>
@@ -63,10 +63,10 @@
   <string name="date_time_picker_has_not_set_alarm">Hälytystä ei ole asetettu</string>
   <string name="date_time_picker_has_set_alarm">Hälytys asetettiin onnistuneesti</string>
   <string name="db_downgrade_clear_button">Tyhjennä sovellustiedot</string>
-  <string name="db_downgrade_clear_date_reminder">Vaihtamalla toiseen MIUI versioon vaaditaan Muistion sovellustietojen tyhjentäminen. Ennen kuin teet sen, varmista että olet ottanut varmuuskopion muistioistasi Pilveen.</string>
+  <string name="db_downgrade_clear_date_reminder">Vaihtamalla toiseen MIUI versioon vaaditaan Muistion sovellustietojen tyhjentäminen. Ennen kuin teet sen, varmista että olet ottanut varmuuskopion muistioistasi pilveen.</string>
   <string name="default_folder_name">Nimeämätön kansio</string>
   <string name="delete_folder_dialog_tile">Poista kansio</string>
-  <string name="dialog_privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta lähes käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta? Varmista tilisi turvallisuus kirjautumalla osoitteeseen i.mi.com ennen Pilvipalveluiden valtuutuksen peruuttamista.</string>
+  <string name="dialog_privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimilta. Tämä saattaa tehdä sovelluksesta lähes käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta? Varmista tilisi turvallisuus kirjautumalla osoitteeseen i.mi.com ennen pilvipalveluiden valtuutuksen peruuttamista.</string>
   <string name="dialog_share_as_pic">Jaa muistio kuvana</string>
   <string name="dialog_share_as_text">Jaa muistio tekstinä</string>
   <string name="dialog_share_title">Jaa muistio</string>
@@ -136,7 +136,7 @@
   <string name="menu_unhide">Tuo esiin</string>
   <string name="menu_unstick">Poista kiinnitys</string>
   <string name="not_now">Ei nyt</string>
-  <string name="note_description_content">Muistio on loistava sovellus kirjata ideasi. Siinä on sisäänrakennetut muistutukset ja se synkronoi muistiosi Pilveen, jotta voit käyttää niitä milloin tahansa, mistä tahansa. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="note_description_content">Muistio on loistava sovellus kirjata ideasi. Siinä on sisäänrakennetut muistutukset ja se synkronoi muistiosi pilveen, jotta voit käyttää niitä milloin tahansa, mistä tahansa. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="note_description_title">Tietoja Muistiosta</string>
   <string name="note_link_email">Kirjoita sähköposti</string>
   <string name="note_link_other">Avaa käyttäen karttasovellusta</string>
@@ -155,7 +155,7 @@
   <string name="permlab_accessNote">Pääsy muistioihin</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Pyyhkäise kahdella sormen ylöspäin poistaaksesi muistioita ilman vahvistusta</string>
   <string name="pref_desc_todo_float_mode">Avaa tehtävien työkalut pyyhkäisemällä näytön reunalta</string>
-  <string name="pref_title_cloud_trash_bin">Poista muistiot Pilvestä</string>
+  <string name="pref_title_cloud_trash_bin">Poistetut muistiot pilvessä</string>
   <string name="pref_title_common">Lisäasetukset</string>
   <string name="pref_title_font_size">Fontin koko</string>
   <string name="pref_title_note_style">Tyyli</string>
@@ -197,7 +197,7 @@
   <string name="sns_title_send">Lähetä viesti</string>
   <string name="sns_toast_empty">Tyhjää viestiä ei voi lähettää</string>
   <string name="sns_toast_over_limit">Lähetetty kuvana</string>
-  <string name="sync_tips">Synkronoi muistiot Pilveen napauttamalla.</string>
+  <string name="sync_tips">Synkronoi muistiot pilveen napauttamalla.</string>
   <string name="theme_blue_description">Sininen</string>
   <string name="theme_green_description">Vihreä</string>
   <string name="theme_red_description">Punainen</string>

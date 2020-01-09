@@ -188,6 +188,7 @@
   <string name="select">Valitse</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="send_files_to">Lähetä tiedostot kohteeseen</string>
+  <string name="service_not_subscribed">EI TILAUSTA PALVELUUN -33-</string>
   <string name="set_password_action">Aseta salasana</string>
   <string name="set_password_message">Aseta salasana, jotta voit käyttää tätä toimintoa.</string>
   <string name="set_password_title">Aseta salasana</string>
@@ -254,6 +255,7 @@
   <string name="unknown_caller">Tuntematon numero</string>
   <string name="unrecognized_manufacture">Tuntematon</string>
   <string name="unrecognized_model">Tuntematon laite</string>
+  <string name="user_authentication_failed">TUNNISTUSVIRHE -29-</string>
   <string name="user_switching_dialog_switch_into_kid_space">Vaihdetaan Lapsitilaan…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Poistutaan Lapsitilasta…</string>
   <string name="user_switching_dialog_text">Vaihdetaan käyttäjää…</string>

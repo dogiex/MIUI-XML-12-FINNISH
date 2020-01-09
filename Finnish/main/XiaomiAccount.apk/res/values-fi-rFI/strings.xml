@@ -163,7 +163,7 @@ Voit nyt kirjautua Mi Tilillesi käyttäen %s."</string>
 ID: %s
 Lähetä tämä koodi valvojalle."</string>
   <string name="empty_device_list_notice">Ei laitteita</string>
-  <string name="ep_unsupported">Laitteellasi ei voi kirjautua Mi Tilille</string>
+  <string name="ep_unsupported">Laitteesi ei tue kirjautumista Xiaomi-tilille</string>
   <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo olemassa toisella Mi Tilillä.</string>
   <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on väärin.</string>
   <string name="exceed_binded_phone_times_notice">Tämä puhelinnumero on jo olemassa toisella Mi Tilillä.</string>
@@ -448,10 +448,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_use_generated_pwd_message">Varmista, että muistat salasanasi. Voit käyttää sitä muiden Mi palveluiden kirjautumiseen.</string>
   <string name="passport_use_generated_pwd_title">Muista salasanasi!</string>
   <string name="passport_user_agreement">Käyttäjäsopimus</string>
-  <string name="passport_user_agreement_p1">Hyväksyn </string>
-  <string name="passport_user_agreement_p2">Palveluehdot</string>
-  <string name="passport_user_agreement_p3"> ja </string>
-  <string name="passport_user_agreement_p4">Tietosuojakäytännön</string>
+  <string name="passport_user_agreement_link">&lt;Data&gt;"Olen lukenut ja hyväksyn Xiaomin &amp;lt;a href=%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%2$s&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="passport_user_agreement_required">Käyttöehdot (pakollinen)</string>
   <string name="passport_user_id_notice">Mi Tilisi ID on %s.</string>
   <string name="passport_user_reg_region">Maa/Alue</string>
@@ -521,6 +518,11 @@ Aktivoi tilisi seuraamalla
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Lähetetty</string>
   <string name="sns_access_token_expired_warning">Tilin kirjautuminen on vanhentunut. Yhdistä tili uudelleen kirjautumalla sisään uudelleen.</string>
+  <string name="system_ad">Mainoksia järjestelmäsovelluksissa</string>
+  <string name="system_ad_list">Katso aiheeseen liittyviä sovelluksia.</string>
+  <string name="system_ad_summary">"Ota tämä ominaisuus käyttöön salliaksesi pienen määrän mainoksia näytettäväksi järjestelmäsovelluksissa. Nämä mainokset auttavat meitä kehittämään ja parantamaan tuotteitamme ja palveluitamme. Voit poistaa tämän ominaisuuden käytöstä koska tahansa. Kiitos tuestasi! "</string>
+  <string name="system_ad_switch">Mainoksia järjestelmäsovelluksissa</string>
+  <string name="system_ad_switch_failed">epäonnistui</string>
   <string name="talkback_scan_barcode">Skannaa QR-koodi</string>
   <string name="temporary_not_available">Tämä toiminto ei ole vielä käytettävissä.</string>
   <string name="turn_off_find_device_failed_title">Laitteen etsintää ei voi sammuttaa</string>

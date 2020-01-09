@@ -1497,6 +1497,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Ensisijaisen verkon tyyppi</string>
   <string name="preferred_phone_account">Ensisijainen soittotili</string>
+  <string name="preferred_wificall_roaming_title">Verkkovierailuasetukset</string>
   <string name="preferred_wificall_title">Verkkoasetukset</string>
   <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="private_num">Salainen numero</string>
