@@ -794,10 +794,10 @@
   <string name="confirm_merge_face_albums">Yhdistetäänkö tämä albumi %s kanssa?</string>
   <string name="confirm_merge_many_face_albums">Yhdistetäänkö nämä albumit %s kanssa?</string>
   <string name="confirm_not_face">Ei osumia</string>
-  <string name="confirm_recommandation_face_is">" "<Data> Oletko varma, että hän on <font color=#323232><b>%1$s</b></font>? Tämä henkilö siirretään albumiin \"%2$s\". </Data>" "</string>
-  <string name="confirm_recommandation_face_not">" "<Data>" Oletko varma, ettei hän ole <font color=#323232><b>%1$s</b></font>? "</Data>" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "<Data> Oletko varma, että he ovat <font color=#323232><b>%1$s</b></font>? Nämä henkilöt siirretään albumiin \"%2$s\". </Data>" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Oletko varma, etteivät he ole <font color=#323232><b>%1$s</b></font>? "</Data>" "</string>
+  <string name="confirm_recommandation_face_is"><Data>Oletko varma, että hän on <font color=#323232><b>%1$s</b></font>? Tämä henkilö siirretään albumiin \"%2$s\".</Data></string>
+  <string name="confirm_recommandation_face_not"><Data>Oletko varma, ettei hän ole <font color=#323232><b>%1$s</b></font>?</Data></string>
+  <string name="confirm_recommandation_multiple_faces_are"><Data>Oletko varma, että he ovat <font color=#323232><b>%1$s</b></font>? Nämä henkilöt siirretään albumiin \"%2$s\".</Data></string>
+  <string name="confirm_recommandation_multiple_faces_not"><Data>Oletko varma, etteivät he ole <font color=#323232><b>%1$s</b></font>?</Data></string>
   <string name="contact_tip">Yhteystieto</string>
   <string name="context_menu_add_contact">Lisää yhteystietoihin</string>
   <string name="context_menu_copy">Kopioi</string>
