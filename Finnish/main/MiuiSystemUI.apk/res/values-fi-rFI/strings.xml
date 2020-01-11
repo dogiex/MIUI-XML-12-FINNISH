@@ -730,32 +730,32 @@
      <string name="plugins">Liitännäiset</string>
      <string name="power_notification_controls_description">"Ilmoituksien hallinnan avulla voit asettaa sovelluksen ilmoituksille tärkeysjärjestyksen 0:sta 5:een. 
 
-     "&lt;b&gt;Taso 5&lt;/b&gt;" 
+     "<b>Taso 5</b>" 
      - Näytä ilmoitusluettelon ylimpänä 
      - Salli koko näytössä keskeyttäminen 
      - Kurkista aina 
 
-     "&lt;b&gt;Taso 4&lt;/b&gt;" 
+     "<b>Taso 4</b>" 
      - Estä koko näytössä keskeyttäminen 
      - Kurkista aina 
 
-     "&lt;b&gt;Taso 3&lt;/b&gt;" 
+     "<b>Taso 3</b>" 
      - Estä koko näytössä keskeyttäminen 
      - Älä kurkista ikinä 
 
-     "&lt;b&gt;Taso 2&lt;/b&gt;" 
+     "<b>Taso 2</b>" 
      - Estä koko näytössä keskeyttäminen 
      - Älä kurkista ikinä 
      - Älä ikinä päästä ääntä ja värinää 
 
-     "&lt;b&gt;Taso 1&lt;/b&gt;" 
+     "<b>Taso 1</b>" 
      - Estä koko näytössä keskeyttäminen 
      - Älä kurkista ikinä 
      - Älä ikinä päästä ääntä tai värinää 
      - Piilota lukitusnäytöltä ja ilmoituspalkista 
      - Näytä ilmoitusluettelon pohjimmaisena 
 
-     "&lt;b&gt;Taso 0&lt;/b&gt;" 
+     "<b>Taso 0</b>" 
      - Estä sovelluksen kaikki ilmoitukset"</string>
      <string name="profile_owned_footer">Profiilia saatetaan valvoa</string>
       <string name="qs_customize">Salli Pika-asetuksissa pitkän painalluksen mukauttaminen</string>

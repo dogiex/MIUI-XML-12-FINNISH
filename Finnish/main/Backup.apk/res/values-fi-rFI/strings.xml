@@ -27,7 +27,7 @@ Varmista, että USB-asemassa on tarpeeksi tallennustilaa ennen aloittamista."</s
   <string name="flash_drive_search_backup_files">"Etsitään USB-varmuuskopiota…
 Älä muuta tai nimeä uudelleen varmuuskopioituja tiedostoja."</string>
   <string name="gallery_summary">Gallerian asetukset (ei sisällä kuvia)</string>
-  <string name="lack_perm_msg">Mi Mover tarvitsee seuraavat käyttöoikeudet: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Mover tarvitsee seuraavat käyttöoikeudet: <b>%s</b>.</string>
   <string name="lack_perm_title">Käyttöoikeuksia vaaditaan</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Sijainti</string>
@@ -56,7 +56,7 @@ ladataksesi ja asentaaksesi Mi Moverin."</string>
   <string name="trans_intro_desc_9_method_3_title">3. Ilmoita ongelmista QQ:ssa</string>
   <string name="trans_intro_desc_old_market">Napauta \"Aloita\". Skannaa QR-koodi uudella puhelimella, odota kunnes Mi Mover tietää, mitkä tiedostot lähetetään ja napauta \"Lähetä\".</string>
   <string name="trans_intro_question_9_market">%d. Palaute.</string>
-  <string name="trans_open_camera_failed_message">Käynnistä laitteesi uudelleen tai tarkista onko Mi Moverin sallittua käyttää &lt;b&gt;Kameraa&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_message">Käynnistä laitteesi uudelleen tai tarkista onko Mi Moverin sallittua käyttää <b>Kameraa</b>.</string>
   <string name="trans_open_camera_failed_title">Kameraan ei voitu yhdistää</string>
   <string name="trans_open_location_button">Ota käyttöön</string>
   <string name="trans_open_location_message">Ota sijaintipalvelut käyttöön saadaksesi luettelon käytettävistä Wi-Fi-verkoista.</string>

@@ -47,7 +47,7 @@
   <string name="find_device_dspt_provision">Jos hävität laitteesi, voit mennä %s paikantamaan, lukitsemaan tai palauttamaan tehdasasetukset siihen. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa Asetuksista.</string>
   <string name="find_device_error_network">Tarkista datayhteys ja yritä uudelleen.</string>
   <string name="find_device_error_server">Palvelinvirhe</string>
-  <string name="find_device_gdpr_prompt">Ottamalla Etsi laite -ominaisuuden käyttöön, hyväksyt meidän &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Tietosuojakäytännön&lt;/u&gt;&lt;/a&gt;. Jos sinun täytyy peruuttaa valtuutus, poista tämä ominaisuus käytöstä.</string>
+  <string name="find_device_gdpr_prompt">Ottamalla Etsi laite -ominaisuuden käyttöön, hyväksyt meidän <a href="app://com.miui.cloudservice.gdpr.license"><u>Tietosuojakäytännön</u></a>. Jos sinun täytyy peruuttaa valtuutus, poista tämä ominaisuus käytöstä.</string>
   <string name="find_device_operation_failure_rpc">RPC virheen vuoksi toimintoa ei voitu suorittaa.</string>
   <string name="find_device_send_sms_alert">Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="find_device_service_title">Etsi laite</string>
@@ -171,7 +171,7 @@ Paikanna ja lukitse laitteesi, mikäli kadotat sen."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat suosittelee ottamaan laitteen etsinnän käyttöön</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suosittelee ottamaan laitteen etsinnän käyttöön</string>
   <string name="micloud_find_device_guide_progress">Laitteen etsintää otetaan käyttöön…</string>
-  <string name="micloud_find_device_guide_title">Kirjaudu sisään osoitteeseen &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; paikantaaksesi, lukitaksesi tai poistaaksesi laitteesi tiedot. Tämä saattaa auttaa sinua löytämään laitteesi, mikäli se häviää.</string>
+  <string name="micloud_find_device_guide_title">Kirjaudu sisään osoitteeseen &lt;font color=#0097FF&gt;<b>i.mi.com</b>&lt;/font&gt; paikantaaksesi, lukitaksesi tai poistaaksesi laitteesi tiedot. Tämä saattaa auttaa sinua löytämään laitteesi, mikäli se häviää.</string>
   <string name="micloud_find_device_open_fail">Laitteen etsinnän ottaminen käyttöön epäonnistui</string>
   <string name="micloud_find_device_opened">Laitteen etsintä on käytössä</string>
   <string name="micloud_find_device_opened_content">Löydä laitteesi täältä %s</string>

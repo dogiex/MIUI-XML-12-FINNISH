@@ -896,7 +896,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="payment_record_menu_select">Valitse</string>
   <string name="payment_report_failed_record_dialog_cancel">Peruuta</string>
   <string name="payment_report_failed_record_dialog_message">"Ilmoita käsittelemättömät laskut auttaaksesi meitä tekemään maksujen laskemisen tarkemmaksi.
-"&lt;b&gt;Jakamiasi kohteita käytetään vain parantaaksemme Sovellusholvia.&lt;/b&gt;</string>
+"<b>Jakamiasi kohteita käytetään vain parantaaksemme Sovellusholvia.</b></string>
   <string name="payment_report_failed_record_dialog_ok">Ilmoita</string>
   <string name="payment_upload_data_fail">Tietojen lähetys epäonnistui</string>
   <string name="payment_upload_data_no_data">Ei lähetettävää tietoa</string>

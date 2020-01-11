@@ -164,25 +164,25 @@ Jos haluat käyttää tätä ominaisuutta, ota esteettömyysvalikko käyttöön 
   <string name="accessibility_screen_magnification_navbar_short_summary">Zoomaa napauttamalla painiketta.</string>
   <string name="accessibility_screen_magnification_navbar_summary">"Kun suurennus on käytössä, voit suurentaa näytöllä olevia kohteita.
 
-"&lt;b&gt;Zoomaa:&lt;/b&gt;" käynnistä suurennus ja napauta sitten haluamaasi kohtaa näytöllä
-"&lt;ul&gt;&lt;li&gt;&amp;#8226; Vieritä: vedä vähintään kahta sormea näytön poikki&lt;/li&gt;"
-"&lt;li&gt;&amp;#8226; Säädä zoomausta: nipistä vähintään kaksi sormea yhteen tai levitä ne erilleen&lt;/li&gt;&lt;/ul&gt;"
+"<b>Zoomaa:</b>" käynnistä suurennus ja napauta sitten haluamaasi kohtaa näytöllä
+"<ul><li>&amp;#8226; Vieritä: vedä vähintään kahta sormea näytön poikki</li>"
+"<li>&amp;#8226; Säädä zoomausta: nipistä vähintään kaksi sormea yhteen tai levitä ne erilleen</li></ul>"
 
-"&lt;b&gt;Zoomaa väliaikaisesti:&lt;/b&gt;" käynnistä suurennus ja paina pitkään missä tahansa näytöllä
-"&lt;ul&gt;&lt;li&gt;&amp;#8226; Liiku näytöllä: vedä sormea eri suuntiin&lt;/li&gt;"
-"&lt;li&gt;&amp;#8226; Loitonna: nosta sormi&lt;/li&gt;&lt;/ul&gt;"
+"<b>Zoomaa väliaikaisesti:</b>" käynnistä suurennus ja paina pitkään missä tahansa näytöllä
+"<ul><li>&amp;#8226; Liiku näytöllä: vedä sormea eri suuntiin</li>"
+"<li>&amp;#8226; Loitonna: nosta sormi</li></ul>"
 
 Suurennus ei toimi näppäimistöllä tai siirtymispalkissa."</string>
   <string name="accessibility_screen_magnification_navbar_title">Suurenna pikanäppäimellä</string>
   <string name="accessibility_screen_magnification_short_summary">Lähennä napauttamalla kolme kertaa.</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Suurenna pikanäppäimellä ja kolmoisnapautuksella.</string>
-  <string name="accessibility_screen_magnification_summary">&lt;b&gt;Zoomaa&lt;/b&gt;" napauttamalla näyttöä nopeasti kolme kertaa.
-"&lt;ul&gt;&lt;li&gt;Vieritä näyttöä vetämällä kahta tai useampaa sormea näytöllä.&lt;/li&gt;"
-"&lt;li&gt;Säädä zoomausta nipistämällä kahdella tai useammalla sormella.&lt;/li&gt;&lt;/ul&gt;"
+  <string name="accessibility_screen_magnification_summary"><b>Zoomaa</b>" napauttamalla näyttöä nopeasti kolme kertaa.
+"<ul><li>Vieritä näyttöä vetämällä kahta tai useampaa sormea näytöllä.</li>"
+"<li>Säädä zoomausta nipistämällä kahdella tai useammalla sormella.</li></ul>"
 
-"&lt;b&gt;Zoomaa väliaikaisesti&lt;/b&gt;" napauttamalla näyttöä nopeasti kolme kertaa ja pitämällä sormesi näytöllä kolmannen napautuksen jälkeen.
-"&lt;ul&gt;&lt;li&gt;Siirry eri kohtaan vetämällä sormeasi näytöllä.&lt;/li&gt;"
-"&lt;li&gt;Zoomaa ulos nostamalla sormesi näytöltä.&lt;/li&gt;&lt;/ul&gt;"
+"<b>Zoomaa väliaikaisesti</b>" napauttamalla näyttöä nopeasti kolme kertaa ja pitämällä sormesi näytöllä kolmannen napautuksen jälkeen.
+"<ul><li>Siirry eri kohtaan vetämällä sormeasi näytöllä.</li>"
+"<li>Zoomaa ulos nostamalla sormesi näytöltä.</li></ul>"
 
 Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="accessibility_screen_magnification_title">Suurennus</string>
@@ -978,7 +978,7 @@ laitteesta
   <string name="bluetooth_disable_profile_title">Poistetaanko profiili?</string>
   <string name="bluetooth_disabled">Ei näy muille laitteille</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s irrotetaan median äänentoistosta.</string>
-  <string name="bluetooth_disconnect_all_profiles">Katkaisee yhteyden laitteeseen:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Katkaisee yhteyden laitteeseen:&lt;br&gt;<b>%1$s</b></string>
   <string name="bluetooth_disconnect_headset_profile">%1$s irrotetaan handsfree-äänentoistosta.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s irrotetaan syöttölaitteesta.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Laitteelta %1$s katkaistaan tämän puhelimen kautta muodostettu internetyhteys.</string>
@@ -2476,14 +2476,14 @@ Kaupungissa ei näkynyt hevosia tai muita eläimiä: tavaroita kuljetettiin pien
   <string name="foreground_traffic">Etualalla %s</string>
   <string name="forget">Unohda</string>
   <string name="forget_passpoint_dialog_message">Voit menettää jäljellä olevan ajan tai datan. Tarkista asia operaattorilta ennen poistamista.</string>
-  <string name="forget_password_button_text">&lt;u&gt;Unohdin salasanani&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Unohdin salasanani</u></string>
   <string name="forget_password_dialog_button_text">Takaisin</string>
   <string name="forget_password_dialog_content_four">2. Valitse [Poista tiedot], ja odota kunnes laitteesi käynnistyy uudelleen.</string>
-  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Jos unohdat salasanasi, et voi enää palauttaa sitä. Voit kuitenkin nollata salasanasi, &amp;lt;font color=#ec2700&amp;gt;kun olet poistanut laitteeltasi kaikki tiedot&amp;lt;/font&amp;gt; (mukaan lukien kuvat, yhteystiedot, jne.). Varmuuskopioi kaikki tärkeät tiedot ennen toimenpidettä."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_one"><Data>"Jos unohdat salasanasi, et voi enää palauttaa sitä. Voit kuitenkin nollata salasanasi, &amp;lt;font color=#ec2700&amp;gt;kun olet poistanut laitteeltasi kaikki tiedot&amp;lt;/font&amp;gt; (mukaan lukien kuvat, yhteystiedot, jne.). Varmuuskopioi kaikki tärkeät tiedot ennen toimenpidettä."</Data></string>
   <string name="forget_password_dialog_content_three">1. Sammuta laitteesi. Paina [Virta] ja [Äänenvoimakkuus+] -painikkeita yhtä aikaa ja pidä ne pohjassa, kunnes näet kuvakkeen.</string>
   <string name="forget_password_dialog_content_two">Seuraa näitä vaiheita tietojen poistamiseen:</string>
   <string name="forget_password_dialog_title">Nollaa tiedot</string>
-  <string name="forget_pattern">&lt;u&gt;Unohtuiko kuvio?&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>Unohtuiko kuvio?</u></string>
   <string name="forget_privacy_password_setting">Lisää Mi Tili</string>
   <string name="forget_privacy_password_summary">Käytä Mi Tiliäsi salasanan palauttamiseen</string>
   <string name="forget_wifi_message">Laitteesi ei enää yhdistä automaattisesti tähän verkkoon.</string>
@@ -4377,7 +4377,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Xiaomi Pilvipalveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
   <string name="privacy_authorize_dialog_agree">Hyväksyn</string>
   <string name="privacy_authorize_dialog_exit">Poistu</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Käyttääksesi tämän palvelun perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme saadaksesi lisätietoja, kuinka keräämme ja käsittelemme henkilötietoja. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message"><Data>"Käyttääksesi tämän palvelun perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme saadaksesi lisätietoja, kuinka keräämme ja käsittelemme henkilötietoja. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt;."</Data></string>
   <string name="privacy_authorize_network_error">Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="privacy_authorize_privacy_policy">Tietosuojakäytäntö</string>
   <string name="privacy_authorize_revoke">Peruuta</string>
@@ -5685,13 +5685,13 @@ Voit asentaa sovellukset uudelleen myöhemmin, mutta niiden laitteelle tallentam
 
 Kaikki kohteen ^1 tiedot poistetaan. Suosittelemme, että varmuuskopioit tiedot ensin.
 
-"&lt;b&gt;Valokuvien ja muiden mediatiedostojen varmuuskopiointi&lt;/b&gt;"
+"<b>Valokuvien ja muiden mediatiedostojen varmuuskopiointi</b>"
 Siirrä mediatiedostosi toiseen tässä laitteessa olevaan tallennustilaan, tai siirrä ne tietokoneelle USB-johdon avulla.
 
-"&lt;b&gt;Sovellusten varmuuskopiointi&lt;/b&gt;"
+"<b>Sovellusten varmuuskopiointi</b>"
 Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjennetään. Jos haluat säilyttää nämä sovellukset, siirrä ne toiseen tämän laitteen tallennustilaan."</string>
   <string name="storage_internal_title">Laitteen tallennustila</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Kun tämä ^1 poistetaan, siihen tallennetut sovellukset lakkaavat toimimasta eivätkä mediatiedostot ole käytettävissä ennen kuin se liitetään uudelleen.&lt;/b&gt;"
+  <string name="storage_internal_unmount_details"><b>Kun tämä ^1 poistetaan, siihen tallennetut sovellukset lakkaavat toimimasta eivätkä mediatiedostot ole käytettävissä ennen kuin se liitetään uudelleen.</b>"
 
 ^1 on alustettu niin, että se toimii vain tämän laitteen kanssa."</string>
   <string name="storage_label">Tallennustila</string>
@@ -5746,10 +5746,10 @@ Kaikki kohteeseen ^1 tallennetut sovellukset poistetaan ja niiden tiedot tyhjenn
 
 Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
 
-"&lt;b&gt;Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista.&lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
+"<b>Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista.</b> Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_next">Poista tiedot ja alusta</string>
   <string name="storage_wizard_format_confirm_public_body">"^1 on alustettava.
-"&lt;b&gt;Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista. &lt;/b&gt; Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
+"<b>Alustaminen tarkoittaa, että ^1 tyhjennetään kaikista tiedoista. </b> Suosittelemme varmuuskopiointia, jotta et menetä tärkeitä tietoja.</string>
   <string name="storage_wizard_format_confirm_public_title">Alusta kannettavana tallennustilana</string>
   <string name="storage_wizard_format_confirm_third_body">Alustetaan ^1</string>
   <string name="storage_wizard_format_confirm_title">Alusta sisäisenä tallennustilana</string>
@@ -5762,7 +5762,7 @@ Alustamisen jälkeen ^1 toimii vain tässä laitteessa.
   <string name="storage_wizard_init_title">Määritä ^1</string>
   <string name="storage_wizard_migrate_body">"Uusi ^1 on nyt käytettävissä, ja voit siirtää kuvasi, tiedostosi ja jotkin sovellukset siihen.
 Siirto vie noin ^2 ja vapauttaa ^3 sisäistä tallennustilaa. Jotkin sovellukset eivät toimi siirron aikana."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Siirron kesto on arviolta ^1. Siirron myötä ^3 saa ^2 lisätilaa.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Siirron kesto on arviolta ^1. Siirron myötä ^3 saa ^2 lisätilaa.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Siirrä</string>
   <string name="storage_wizard_migrate_confirm_title">Siirrä tiedot nyt</string>
   <string name="storage_wizard_migrate_details">"Siirron aikana:
@@ -6988,9 +6988,9 @@ Annetaanko tämä lupa kaikille sovelluksille, jotka haluavat etsiä verkkoja?"<
   <string name="wifi_settings_summary">Ota käyttöön ja hallinnoi langattoman yhteyden tukiasemia</string>
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_cancel">Peruuta</string>
-  <string name="wifi_setup_description_connected">Jatka määritystä valitsemalla &lt;b&gt;Seuraava&lt;/b&gt;".
+  <string name="wifi_setup_description_connected">Jatka määritystä valitsemalla <b>Seuraava</b>".
 
-Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;.</string>
+Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "<b>Takaisin</b>.</string>
   <string name="wifi_setup_detail">Verkon tiedot</string>
   <string name="wifi_setup_eap_not_supported">Et voi määrittää EAP Wi-Fi -yhteyttä asennuksen aikana. Voit määrittää yhteyden asennuksen jälkeen menemällä Asetukset &gt; Langaton verkko &amp; verkot.</string>
   <string name="wifi_setup_title">Wi-Fi-asetukset</string>

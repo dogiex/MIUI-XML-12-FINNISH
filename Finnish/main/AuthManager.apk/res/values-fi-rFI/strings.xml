@@ -111,7 +111,7 @@
   <string name="permgroupdesc_sensors">käyttää anturitietoja elintoiminnoistasi</string>
   <string name="permgroupdesc_sms">lähettää ja tarkastella tekstiviestejä</string>
   <string name="permgroupdesc_storage">käyttää laitteellesi tallennettuja valokuvia, mediatiedostoja ja muita tiedostoja</string>
-  <string name="permgrouprequest_storage_isolated">Sallitaanko &lt;b&gt;%1$s&lt;/b&gt; käyttää laitteesi kuvia ja mediaa?</string>
+  <string name="permgrouprequest_storage_isolated">Sallitaanko <b>%1$s</b> käyttää laitteesi kuvia ja mediaa?</string>
   <string name="permission_description_summary_activity_recognition">Sovellukset, joilla on tämä käyttöoikeus, voivat käyttää fyysistä aktiviteettiäsi, kuten kävelyä, pyöräilyä, ajamista, askelmääriä ja muita</string>
   <string name="permission_description_summary_calendar">Sovellukset, joilla on tämä käyttöoikeus, voivat käyttää kalenteriasi</string>
   <string name="permission_description_summary_call_log">Sovellukset, joilla on tämä käyttöoikeus, voivat lukea ja kirjoittaa puhelulokia</string>

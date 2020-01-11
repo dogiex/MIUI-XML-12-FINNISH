@@ -1200,7 +1200,7 @@ Poistetaanko tili?"</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Näytä lisää keskusteluja</string>
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
-Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran, tai &lt;b&gt;Vaihda Synkronointiasetuksia&lt;/b&gt; ottamalla tälle tilille sähköpostin automaattisen synkronointi käyttöön.</string>
+Kosketa "<b>Synkronoi nyt</b> synkronoidaksesi sähköpostin kerran, tai <b>Vaihda Synkronointiasetuksia</b> ottamalla tälle tilille sähköpostin automaattisen synkronointi käyttöön.</string>
   <string name="wait_for_sync_title">Odotetaan synkronointia</string>
   <string name="wait_help_context">Odota</string>
   <string name="wait_while_update_db">Odota hetki, tietokannan päivitys meneillään!</string>
