@@ -26,10 +26,35 @@
         <item>1 päivä</item>
         <item>Maksimi</item>
     </string-array>
+    <string-array name="message_sending_method">
+        <item>Ehdotettu viestintäpalvelu</item>
+        <item>SMS, MMS</item>
+        <item>RCS-chat, RCS-tiedostonsiirto</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Aina</item>
         <item>Vain Äänetön -tilassa</item>
         <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Älä koskaan kysy ja aina lähetä SMS-linkkinä</item>
+        <item>Älä koskaan kysy äläkä koskaan lähetä SMS-linkkinä</item>
+        <item>Kysy aina</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Älä koskaan kysy ja lähetä aina tekstiviestinä</item>
+        <item>Älä koskaan kysy äläkä koskaan lähetä tekstiviestinä</item>
+        <item>Kysy aina</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>kysy aina</item>
+        <item>älä koskaan muuta kokoa</item>
+        <item>muuta aina valitun vaihtoehdon koko, joka tallennetaan sen jälkeen oletusarvoksi</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>kysy aina</item>
+        <item>älä koskaan muuta kokoa</item>
+        <item>muuta aina valitun vaihtoehdon koko, joka tallennetaan sen jälkeen oletusarvoksi</item>
     </string-array>
     <string-array name="reason_type">
         <item>Huijaus</item>
