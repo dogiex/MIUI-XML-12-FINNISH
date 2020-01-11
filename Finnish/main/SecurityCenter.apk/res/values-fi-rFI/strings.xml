@@ -237,12 +237,12 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="app_manager_reset_app_preferences_button">Palauta sovellukset</string>
   <string name="app_manager_reset_app_preferences_desc">"Tämä palauttaa kaikki asetukset seuraaville toiminnoille:
 
-"&lt;li&gt;Käytöstä poistetut sovellukset&lt;/li&gt;"
-"&lt;li&gt;Käytöstä poistetut sovellusilmoitukset&lt;/li&gt;"
-"&lt;li&gt;Oletussovellukset&lt;/li&gt;"
-"&lt;li&gt;Sovellusten taustalla tapahtuvat datarajoitukset&lt;/li&gt;"
+"<li>Käytöstä poistetut sovellukset</li>"
+"<li>Käytöstä poistetut sovellusilmoitukset</li>"
+"<li>Oletussovellukset</li>"
+"<li>Sovellusten taustalla tapahtuvat datarajoitukset</li>"
 
-Et menetä mitään sovellustietoja."</string>
+Et menetä sovellustietoja."</string>
   <string name="app_manager_reset_app_preferences_title">Palautetaanko sovellusasetukset?</string>
   <string name="app_manager_search_prompt">Etkö löytänyt tuloksia? Kokeile tulosten näyttämistä kaikista sovelluksista.</string>
   <string name="app_manager_show_all_apps">Näytä kaikki sovellukset</string>
