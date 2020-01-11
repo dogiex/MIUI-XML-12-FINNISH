@@ -97,7 +97,7 @@
   <string name="gps">Navigoi</string>
   <string name="image_file_name_format">"'lukija'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Tuo yhteystieto</string>
-  <string name="impunity_declaration_content">Lukijan täytyy käyttää kameraasi ja käsitellä sovelluksella ottamiasi kuvia. Älä ota kuvia Lukijalla, jotka sisältävät henkilökohtaisia tietojasi. Napauttamalla \"Hyväksyn\", hyväksyt meidän <font color=\"#ff32b4ff\"><a href=\"%1$s\" style=\"color:#ff32b4ff;\">Tietosuojakäytännön</a></font> ja sallit Lukijan yhdistää internetiin.</string>
+  <string name="impunity_declaration_content">Lukijan täytyy käyttää kameraasi ja käsitellä sovelluksella ottamiasi kuvia. Älä ota kuvia Lukijalla, jotka sisältävät henkilökohtaisia tietojasi. Napauttamalla \"Hyväksyn\", hyväksyt meidän &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Tietosuojakäytännön&lt;/a&gt;&lt;/font&gt; ja sallit Lukijan yhdistää internetiin.</string>
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Tietosuojakäytäntö</string>
