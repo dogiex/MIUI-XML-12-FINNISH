@@ -112,8 +112,8 @@
   <string name="description_uploadtime">Päivitä</string>
   <string name="description_version">Versio</string>
   <string name="description_version_szie">Versio: %1$s Koko: %2$s</string>
-  <string name="desktop_effects">Aloitusnäytön tehosteet</string>
-  <string name="desktop_wallpaper">Aloitusnäyttö</string>
+  <string name="desktop_effects">Liikkuva taustakuva</string>
+  <string name="desktop_wallpaper">Taustakuva</string>
   <string name="detail_author_attention_head">Seuraa joitain merkittävimmistä suunnittelijoistamme</string>
   <string name="detail_author_fans">"Seuraajaa: "</string>
   <string name="detail_author_works">"Kohdetta: "</string>
@@ -244,7 +244,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="kuyin_user_agreement_content_href">iFlytek Tietosuojakäytäntö</string>
   <string name="lab">Teemalaboratorio</string>
   <string name="like_list">Tykkäämäni kohteet</string>
-  <string name="live_wallpaper">Live taustakuva</string>
+  <string name="live_wallpaper">Videotaustakuvat</string>
   <string name="loading">Odota hetki…</string>
   <string name="loading_resource_detail_fail">Lähdettä ei voi ladata</string>
   <string name="loading_resource_detail_info">Odota hetki…</string>
@@ -630,7 +630,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="theme_component_title_photo_frame">Kuvan reunukset</string>
   <string name="theme_component_title_ringtone">Soittoääni</string>
   <string name="theme_component_title_statusbar">Ilmoitusalue</string>
-  <string name="theme_component_title_wallpaper">Aloitusnäyttö</string>
+  <string name="theme_component_title_wallpaper">Taustakuva</string>
   <string name="theme_current_using_has_update">Teeman päivitys saatavilla</string>
   <string name="theme_description_title_customized">Kustomoitu</string>
   <string name="theme_description_title_default">Oletus</string>
@@ -673,8 +673,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="tips_theme_gate_transfer_fail">Tätä sivua ei voitu avata. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="title_component">Mukauta teema</string>
   <string name="title_my_audio_resource">Soittoääneni</string>
-  <string name="title_my_miwallpaper_desktop_effects">Aloitusnäytön tehosteet</string>
-  <string name="title_my_miwallpaper_resource">Live taustakuvani</string>
+  <string name="title_my_miwallpaper_desktop_effects">Liikkuvat taustakuvat</string>
+  <string name="title_my_miwallpaper_resource">Videotaustakuvani</string>
   <string name="title_my_miwallpaper_video_file_resource">Taustakuvaelokuvani</string>
   <string name="title_my_wallpaper_resource">Taustakuvani</string>
   <string name="title_system_audio_notification_resource">Järjestelmän ilmoitukset</string>

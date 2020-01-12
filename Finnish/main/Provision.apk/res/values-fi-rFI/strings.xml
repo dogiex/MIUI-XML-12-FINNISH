@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- 8.9.17 -->
   <string name="ai_button_desc">Pääset välittömästi käyttämään älykästä ääniavustajaa</string>
   <string name="ai_button_double_press">Tuplanapauta</string>
   <string name="ai_button_double_press_desc">Paina AI-painiketta kaksi kertaa suorittaaksesi mukautettuja tehtäviä</string>
@@ -10,7 +9,6 @@
   <string name="ai_button_single_press_desc">Paina AI-painiketta nähdäksesi Mi AI pikakuvakkeet</string>
   <string name="ai_button_title">AI-painike</string>
   <string name="poco_agree_terms_other">(Mukaan lukien POCO Launcher Tietosuojakäytäntö ja Käyttöehdot)</string>
-  <!-- // 8.9.17 -->
   <string name="accessibility_enabled">Esteettömyys käytössä.</string>
   <string name="agree">Hyväksy</string>
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
@@ -35,6 +33,8 @@
   <string name="enable_accessibility_dialog_message">Otit TalkBack-toiminnon käyttöön painamalla näyttöä kahdella sormella kauemmin, kuin 10 sekuntia. TalkBack tarjoaa äänipalautetta niille henkilöille, joilla on näköongelmia. Jos otit sen käyttöön vahingossa, napauta Peruuta-painiketta ja sen jälkeen tuplanapauta näyttöä.</string>
   <string name="enable_accessibility_dialog_negative_btn">Peruuta</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="font_hint_large">Oletus tekstin koko</string>
+  <string name="font_hint_normal">Suurenna tekstin kokoa</string>
   <string name="ime_privacy_policy">Valitun näppäimistön Tietosuojakäytäntö</string>
   <string name="ime_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso näppäimistön Tietosuojakäytäntö osoitteessa %s.</string>
   <string name="input_method_category">Valitse oletusnäppäimistö, jota käytät sähköpostien tai muistioiden kirjoittamiseen, ja lähes kaikkialla muualla. Muista, että voit asentaa kolmannen osapuolen näppäimistön myöhemmin.</string>
@@ -88,6 +88,10 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="sim_dectection_next">Jatka</string>
   <string name="sim_redetection">Tarkista uudelleen</string>
   <string name="sim_scard_detecting_check_mobile_not_available">SIM-korttisi ei voinut yhdistää toimivaan operaattorin verkkoon. Varmista, että datapaketissasi on tarpeeksi saldoa ja yritä yhdistää uudelleen.</string>
+  <string name="skip_gesture_guide_dialog_message">Varmista, että osaat käyttää kokonäytön eleitä ennen tämän valitsemista.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">Peruuta</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="skip_gesture_guide_dialog_title">Kokonäytön eleet</string>
   <string name="skip_underline">Ohita tämä vaihe</string>
   <string name="start_up_slogan">Suunniteltu koko näytön kokemukselle</string>
   <string name="summary_not_set">Ei asetettu</string>
@@ -96,7 +100,8 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="terms_of_use_label">"Yksityisyytesi on todella tärkeää meille. Lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 
 Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. %s ja Mi Tilin komponentit ottavat yhteyden internetiin ja hakevat sijaintisi."</string>
-  <string name="terms_of_use_label_systemhelper">, Itserekisteröity palvelu</string>
+  <string name="terms_of_use_label_systemhelper">, Itserekisteröity palvelu, Sulautunut sijaintipalvelujen tarjoaja, HTMLViewer</string>
+  <string name="terms_of_use_label_updater">, Päivittäjä</string>
   <string name="terms_of_use_lable_apps">Mi-palvelut, Mi SIM -aktivointipalvelut, Mi Cloud, Etsi laite, Aloitusnäyttö, Pelikeskus, MAB, MIUI Daemon ja MSA-järjestelmän komponentit, Käännöspalvelut, Quick-sovellukset, Sovellusholvi, tilastot, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 

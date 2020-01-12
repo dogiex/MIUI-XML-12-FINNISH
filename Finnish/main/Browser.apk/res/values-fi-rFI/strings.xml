@@ -1060,7 +1060,11 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="sync_and_backup_bookmark">Synkronoi ja varmuuskopioi kirjanmerkit</string>
     <string name="sync_and_backup_history">Synkronoi ja varmuuskopioi historiat</string>
     <string name="sync_cloud_tabs">Synkronointi</string>
-    <string name="tab_hotpage">Uutis Syöte</string>
+    <string name="system_permission_accounts_purpose">Käytetään järjestelmätilin kirjautumiseen ja hallinnointiin</string>
+    <string name="system_permission_main_purpose">Selaa verkkoa, hae tietoja, lue uutisia, katso videoita jne.</string>
+    <string name="system_permission_phone_state_purpose">Käytetään laitteen IMEI-tunnisteen saamiseen, jotta voidaan tarjota vastaavaa palvelua</string>
+    <string name="system_permission_storage_purpose">Käytetään tiedostojen lukemiseen ja kirjoittamiseen, kuten kuvien tallentamiseen ja tiedostojen lähettämis-/lataamistoimintoihin</string>
+    <string name="tab_hotpage">Uutissyöte</string>
     <string name="tab_quicklinks">Aloitussivu</string>
     <string name="tab_yellowpage">Linkit</string>
     <string name="tabs_description">Välilehdet</string>

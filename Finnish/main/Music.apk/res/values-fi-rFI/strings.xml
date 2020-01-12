@@ -119,6 +119,7 @@
   <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
   <string name="checking_new_version">Tarkistetaan päivityksiä…</string>
   <string name="choose_download_quality">Valitse latauksen laatu</string>
+  <string name="choose_music_lang_pref">Ensisijaiset kielet kappaleille</string>
   <string name="choose_stream_quality">Valitse suoratoiston laatu</string>
   <string name="click_to_shuffle">Sekoita soittolista koskettamalla</string>
   <string name="close_music_time">"Aikaa jäljellä: "</string>
@@ -746,10 +747,10 @@ Ole onnellinen"</string>
   <string name="sleep_mode_summary">Lopeta soitin tietyn ajan jälkeen</string>
   <string name="sleep_mode_title">Nukkuma-ajastin</string>
   <string name="sliding_pro_center">PRO-keskus</string>
-  <string name="song_already_in_playlist">Tämä kappale on jo jonossa</string>
+  <string name="song_already_in_playlist">Tämä kappale on jo soittolistalla</string>
   <string name="song_exist_in_playlist">Tämä kappale on jo jonossa</string>
   <string name="song_info">Kappaleen tiedot</string>
-  <string name="song_is_added_to_playlist">Lisättiin jonoon</string>
+  <string name="song_is_added_to_playlist">Lisättiin soittolistalle</string>
   <string name="song_is_empty">Kappaleen nimi ei voi olla tyhjä.</string>
   <string name="song_name">Kappale</string>
   <string name="song_not_find">Tämä kappale ei ole käytettävissä.</string>
@@ -774,6 +775,7 @@ Ole onnellinen"</string>
   <string name="tab_artist_list">Artistit</string>
   <string name="tab_folder">Kansiot</string>
   <string name="tab_playlist">Soittolistat</string>
+  <string name="tab_top_results">Parhaat tulokset</string>
   <string name="tab_track">Kappaleet</string>
   <string name="tab_track_list">Kappaleet</string>
   <string name="tab_video">Videot</string>
@@ -815,6 +817,7 @@ Ole onnellinen"</string>
   <string name="toast_my_playlist_illegal_name">Tämän soittolistan otsikko on virheellinen. Nimeä tämä soittolista uudelleen.</string>
   <string name="toast_my_playlist_set_to_private">Tämä soittolista on nyt yksityinen. Muut henkilöt eivät näe sitä.</string>
   <string name="toast_my_playlist_set_to_public">Tämä soittolista on nyt julkinen. Muut henkilöt näkevät sen.</string>
+  <string name="toast_my_playlist_sync_failed">Soittolistaa ei voitu synkronoida verkkovirheen takia.</string>
   <string name="toast_new_playlist_name_no_enter">Uutta kappaletta ei voi aloittaa</string>
   <string name="toast_new_playlist_name_too_long">Soittolistan nimi on liian pitkä</string>
   <string name="toast_normal_songs_for_download">Latauksen laatu asetettu normaalille</string>
