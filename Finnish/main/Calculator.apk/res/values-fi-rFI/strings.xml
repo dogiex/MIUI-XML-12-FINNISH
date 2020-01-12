@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- 8.9.17 -->
+  <string name="network_purpose">Tervetuloa Laskimeen! Laskimella voit muuntaa valuuttoja, laskea asuntolainan takaisinmaksuja ja paljon muuta.</string>
   <string name="tax_thershold_native_new">%s (uusi)</string>
   <string name="tax_thershold_native_new_description">Verot lasketaan uuden verolain mukaan 1. lokakuuta 2018 alkaen</string>
-  <!-- // 8.9.17 // -->
   <string name="allow">Hyväksyn</string>
   <string name="angle">deg</string>
   <string name="app_name">Laskin</string>

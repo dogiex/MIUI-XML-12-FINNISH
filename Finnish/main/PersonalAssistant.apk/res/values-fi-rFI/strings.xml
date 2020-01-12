@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- MIUI 10 valmis -->
+  <string name="location_permission_desc">Navigointireittien rakentamiseen ja autonkorjauspalvelujen tarjoamiseen</string>
   <string name="app_name">miot-device-lib</string>
   <string name="app_setting">Sovellusholvin asetukset</string>
   <string name="app_setting_add_header_bg">Kansikuva</string>
@@ -52,7 +52,6 @@
   <string name="miot_device_mijia_uninstall_title">Ei asennettu</string>
   <string name="miot_device_network_error">Ei yhteyttä</string>
   <string name="net_unavailable">Verkkoyhteyttä ei voitu muodostaa.</string>
-  <!-- MIUI 10 valmis -->
   <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
   <string name="access_select">Valittiin %s</string>
   <string name="access_unselect">Poistettiin valinta %s</string>
@@ -685,8 +684,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="hotel_name_example">Esim. Xiaomi Hotelli</string>
   <string name="hotel_passenger_name">Puhelinnumero</string>
   <string name="hotel_phone">Esim. 040-123-4567</string>
-  <string name="hour12_format_en">hh:mm</string>
-  <string name="hour24_format_en">HH:mm</string>
+  <string name="hour12_format_en">h.mm</string>
+  <string name="hour24_format_en">H.mm</string>
   <string name="http_stock_error">Tietoja ei voitu ladata</string>
   <string name="immediate_recommendation">Suositukset</string>
   <string name="item_type_custom">Mukauta</string>
@@ -794,7 +793,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="miuishare_wechat_timeline_title">WeChat Hetket</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="month_day_format">d.M.</string>
-  <string name="month_day_hour_minute_format_en">d.M. HH:mm</string>
+  <string name="month_day_hour_minute_format_en">d.M. H.mm</string>
   <string name="month_format_en">d.M.</string>
   <string name="month_list_activity_label">Tilin %1$s laskelma</string>
   <string name="month_record_list_money">Summa</string>
@@ -1216,7 +1215,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="wx_timeline">Hetket</string>
   <string name="xiaomi_search_label">Haku</string>
   <string name="xspace_resolver_activity_title">Valitse sovellus</string>
-  <string name="year_month_day_all_format_en">d.M.yyyy HH:mm:ss</string>
+  <string name="year_month_day_all_format_en">d.M.yyyy H.mm.ss</string>
   <string name="year_month_day_format">d.M.yyyy</string>
   <string name="yesterday">Eilen</string>
 </resources>

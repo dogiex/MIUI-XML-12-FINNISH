@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="no_memory_space">ei muistitilaa</string>
+    <string name="wechat_not_installed">Wechat ei ole asennettu</string>
     <string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_up_description">Siirry ylös</string>
     <string name="abc_action_menu_overflow_description">Lisää</string>

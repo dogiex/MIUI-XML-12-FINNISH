@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="auth_fingerprint_content_message_error">Sormenjälkeä ei voitu lukea, yritä uudelleen</string>
   <string name="app_name">Application Extension Service</string>
   <string name="auth_activity_label">Vahvistuskoodit</string>
   <string name="auth_fingerprint_content">Vahvista sormenjälkesi käyttääksesi tallennettuja salasanoja</string>

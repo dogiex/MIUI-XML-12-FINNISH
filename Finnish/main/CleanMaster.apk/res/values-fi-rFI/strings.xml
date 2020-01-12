@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="appcleaner_g_day_earlier">Aiemmin</string>
+  <string name="appcleaner_g_seven_day">Viimeiset 7 päivää</string>
+  <string name="appcleaner_g_thirty_day">Viimeiset 30 päivää</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Tyhjennä %s WeChatin välimuistia vapauttaaksesi tallennustilaa</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">Älä unohda tyhjentää välimuistia</string>
+  <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Muistuta WeChatin välimuistin tyhjentämisestä</string>
+  <string name="appcleaner_wechat_pref_size_100_MB">100 Mt</string>
+  <string name="appcleaner_wechat_pref_size_1_GB">1 Gt</string>
+  <string name="appcleaner_wechat_pref_size_300_MB">300 Mt</string>
+  <string name="appcleaner_wechat_pref_size_500_MB">500 Mt</string>
+  <string name="appcleaner_wechat_pref_time_every_day">Päivittäin</string>
+  <string name="appcleaner_wechat_pref_time_fifteen_day">15 päivän välein</string>
+  <string name="appcleaner_wechat_pref_time_seven_day">7 päivän välein</string>
+  <string name="appcleaner_wechat_pref_time_three_day">3 päivän välein</string>
+  <string name="appcleaner_wechat_pref_title_clean_alert">Muistuta tyhjentämään WeChatin välimuisti</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Välimuistin koko</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Muistuta</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Välimuistin koko</string>
+  <string name="button_agree">Hyväksyn</string>
+  <string name="button_deny">Kieltäydyn</string>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Mainokset</string>
   <string name="activity_title_apk">Paketit</string>

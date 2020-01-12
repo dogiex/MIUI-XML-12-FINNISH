@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- MIUI 10 valmis -->
+  <string name="prompt_to_suggest_to_open_volte_from_operator">Puheluita ei voi soittaa. Ota yhteyttä China Telecomiin ottaaksesi VoLTE-palvelun käyttöön.</string>
+  <string name="wifi_call_accept">OK</string>
+  <string name="wifi_call_available_message">Voit soittaa puheluita nyt käyttäen Wi-Fiä. Jos olet yhteydessä Wi-Fi-verkkoon, voit puhua vaikka olisit alueella, jossa ei ole mobiiliverkon kuuluvuutta.</string>
+  <string name="wifi_call_available_title">Otetaan Wi-Fi-puhelua käyttöön</string>
+  <string name="wifi_call_cancel">Peruuta</string>
+  <string name="wifi_call_help">Apua</string>
+  <string name="wifi_call_help_message">Jos valitset ensisijaisena mobiiliverkot, mobiiliverkkoja käytetään oletusarvoisesti puheluihin. Tapauksissa, jossa mobiiliverkon signaalia ei ole lainkaan tai se on todella heikko, käytetään Wi-Fi-verkkoa sen sijasta.</string>
+  <string name="wifi_call_help_title">Wi-Fi-puheluiden ohje</string>
+  <string name="wifi_call_notification_message">Tämän palvelun tarjoaa Orange. Palvelun aktivoimiseen saattaa kestää useita tunteja. Saat tekstiviestivahvistuksen, kun se on käytettävissä.</string>
   <string name="voice_service_cannot_call_notification_content">Saatat kohdata yhteysongelmia, jos yrität soittaa puheluita.</string>
    <string name="voice_service_cannot_call_notification_title">Et voi soittaa puheluita nykyisessä verkossa</string>
    <string name="voice_service_switch_summary">Ota käyttöön käyttääksesi VoLTE-puhelutoimintoa VoLTE-verkoissa</string>
@@ -14,7 +22,6 @@ Tällä tabletilla ei ole korvakuuloketta. Voit vaihtaa hands-free-tilaan tai k�
   <string name="voice_service_warning_dialog_ok">Selvä</string>
   <string name="voice_service_warning_dialog_ok_timer">Selvä (%d)</string>
   <string name="voice_service_warning_dialog_title">VoLTE-puhelut</string>
-  <!-- MIUI 10 valmis -->
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM corporate unlock PIN</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Corporate unlock request unsuccessful.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Requesting RUIM corporate unlock…</string>

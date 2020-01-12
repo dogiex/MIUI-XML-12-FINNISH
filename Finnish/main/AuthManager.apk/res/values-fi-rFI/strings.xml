@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Pääsy puhelinnumeroon ja IMSI:n</string>
+  <string name="permdesc_camera">Ottaa kuvia ja nauhhoittaa videoita</string>
+  <string name="permdesc_in_calls">Minotoroi saapuvia puheluita</string>
+  <string name="permdesc_location">Pääsy sijaintitietoihin</string>
+  <string name="permdesc_microphone">Nauhoittaa puheluita ja ääntä</string>
+  <string name="permdesc_out_calls">Monitoroi lähetäviä puheluita</string>
+  <string name="permdesc_read_calendar">Pääsy kalenteritapahtumiin</string>
+  <string name="permdesc_read_storage">Pääsy laitteelle tallennettuihin kuviin ja tiedostoihin</string>
+  <string name="permdesc_recognition">Pääsy terveys ja liikkumistietoihin</string>
+  <string name="permdesc_sensors">Pääsy vartalon anturitietoihin</string>
+  <string name="permdesc_write_calendar">Kalenteritapahtumien käyttö ja lisääminen</string>
+  <string name="permdesc_write_storage">Kuvien ja tiedostojen tallentaminen laittelle ja käyttäminen</string>
   <string name="HIPS_Action_Accept">Salli</string>
   <string name="HIPS_Action_Accept_Once">Salli Kerran</string>
   <string name="HIPS_Action_Reject">Kiellä</string>

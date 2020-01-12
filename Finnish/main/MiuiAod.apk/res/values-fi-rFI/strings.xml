@@ -32,8 +32,8 @@
   <string name="always_style">Aina</string>
   <string name="animation_clock_panel">Aaltovalitsin</string>
   <string name="aod_close_color_inversion">Tätä ominaisuutta ei voi yhdistää käänteisen väriominaisuuden kanssa. Poista käänteiset värit ensin käytöstä.</string>
-  <string name="aod_dual_togother">HH:mm</string>
-  <string name="aod_dual_togother_12">hh:mm aa</string>
+  <string name="aod_dual_togother">H.mm</string>
+  <string name="aod_dual_togother_12">h.mm aa</string>
   <string name="aod_lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="aod_lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="aod_mode_preview">Esikatselu</string>

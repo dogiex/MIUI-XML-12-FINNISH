@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="close_hotspot_when_connecting_to_wifi">Hotspot on käytössä. Ota Wi-Fi käyttöön.</string>
+  <string name="setting_function_sort">Järjestä ominaisuudet</string>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää</string>

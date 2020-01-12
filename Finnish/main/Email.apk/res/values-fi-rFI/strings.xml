@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- 8.9.17 -->
+  <string name="account_options_actionbar_title">Yleiset asetukset</string>
+  <string name="mail_outlook_login_tips">Microsoftin vaatumuksien mukaan sinun täytyy syöttää salasana Microsoftin valtuutussivustolla.</string>
+  <string name="mail_outlook_oauth_login">Kirjaudu sisään käyttäen OAuth</string>
+  <string name="mail_outlook_psw_login">Kirjaudu salasanalla</string>
+  <string name="outlook_login_failed_non_proxy_title">OutLook-palvelinta ei voitu käyttää</string>
+  <string name="quick_reply_expend">Laajenna</string>
+  <string name="sync_calendra_fail_per_content">Salli kalenterin käyttö napauttamalla</string>
+  <string name="sync_calendra_fail_per_title">Kalenteria ei voitu synkronoida</string>
+  <string name="sync_calendra_fail_permission">Kalenteria ei voitu synkronoida, salli Sähköpostille käyttöoikeus kalenteriisi Asetuksissa</string>
   <string name="account_settings_preference_add_account">Lisää sähköpostitili</string>
   <string name="mailbox_name_display_add_account">Lisää sähköpostitili</string>
   <string name="notify_channel_new_mail">Ilmoita uusista viesteistä</string>
@@ -10,7 +18,6 @@
   <string name="notify_channel_service">Ilmoita taustasynkronoinnista</string>
   <string name="show_more_attachment">Lisää liitetiedostoja</string>
   <string name="update_to_wps_mail">Nauti WPS Mailin avulla useammasta ominaisuudesta</string>
-  <!-- // 8.9.17 -->
   <string name="SMTP_independent_verification_text">SMTP-riippumaton vahvistus</string>
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
@@ -1181,7 +1188,7 @@ Poistetaanko tili?"</string>
   <string name="unknow">Tuntematon</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
-  <string name="update_date_format_templete">HH:mm, d.M.</string>
+  <string name="update_date_format_templete">H.mm, d.M.</string>
   <string name="update_domain_summary">Päivitä käytettävien verkkotunnusten ja määritysten luettelo</string>
   <string name="update_domain_title">Päivitä verkkotunnusasetukset</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>

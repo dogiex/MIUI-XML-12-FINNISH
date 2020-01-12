@@ -662,7 +662,7 @@ odota hetki toiminnon jälkeen."</string>
   <string name="mishopsdk_share_fail_image_loading">图片下载中，请稍后再试</string>
   <string name="mishopsdk_share_progress_title">图片加载中...</string>
   <string name="mishopsdk_share_title">分享到</string>
-  <string name="mishopsdk_time_y_m_d_h_m">d.M.yyyy HH:mm</string>
+  <string name="mishopsdk_time_y_m_d_h_m">d.M.yyyy H.mm</string>
   <string name="mishopsdk_toast_copy_link_already">已复制到剪贴板</string>
   <string name="mishopsdk_toast_share_fail">网络状况不佳，分享失败，请稍后再试</string>
   <string name="mishopsdk_toast_uninstall_weibo">请先安装新浪微博客户端</string>

@@ -1,9 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- MIUI 10 valmis -->
+  <string name="mi_message_title">Mi Viesti</string>
+  <string name="mms_main_purpose">Käyttääksesi Viestinnän kaikkia ominaisuuksia, salli sovelluksen yhdistää internetiin ja ota Mi Viesti ja Älyviestintä käyttöön.</string>
+  <string name="mms_title">Viestintä</string>
+  <string name="mx_main_purpose">"Mi Viestin avulla voit lähettää viestejä toisille Mi Viestin käyttäjille internetin välityksellä ilman lisämaksuja.
+Lähtevä tekstiviesti vaaditaan Mi Viestin aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä."</string>
+  <string name="mx_privacy_policy">Mi Viestin Tietosuojakäytäntö</string>
+  <string name="perm_purpose_mms_account">Tilitietojen käyttämiseen</string>
+  <string name="perm_purpose_mms_storage">Multimediaviestien liitteiden tallentamiseen</string>
+  <string name="perm_purpose_rcs_account">Aloittelijan oppaan näyttämiseen uusille käyttäjille</string>
+  <string name="perm_purpose_rcs_phone_state">Laitteesi tunnistamiseksi, pääsy IMEI-koodiin</string>
+  <string name="perm_purpose_rcs_storage">Kuvien, videoiden, tiedostojen ja muiden RCS-liitteiden tallentamiseen</string>
+  <string name="rcs_main_purpose">Tämä ominaisuus sallii sinun lähettää ja vastaanottaa RCS-viestejä. RCS Viestinnän tarjoaa China Mobile.</string>
+  <string name="rcs_message_title">RCS Viestintä</string>
+  <string name="smart_message_title">Älyviestintä</string>
+  <string name="smart_msg_main_purpose">Älyviestintä tarjoaa lähettäjän ID:n tunnistuksen ja älyvalikkopalvelut.</string>
+  <string name="smart_msg_privacy_policy">Älyviestinnän Tietosuojakäytäntö</string>
+  <string name="system_permission_declare_agree">Hyväksyn</string>
+  <string name="system_permission_declare_disagree">Kieltäydyn</string>
+  <string name="system_permission_declare_double_link" formatted="false">Lue ja hyväksy meidän %1s ja %2s ennen tämän ominaisuuden käyttämistä.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Tervetuloa %1s! %2s</string>
+  <string name="system_permission_declare_no_say_no">Jos päätät olla antamatta vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei toimi normaalisti.</string>
+  <string name="system_permission_declare_privacy_declare">"Kunnioitamme ja suojelemme yksityisyyttäsi.
+Huomaa, että %1s täytyy kerätä tietojasi ja se vaatii seuraavat käyttöoikeudet toimiakseen normaalisti:"</string>
+  <string name="system_permission_declare_revoke_path">Voit peruuttaa valtuutuksesi ja poistaa palvelun käytöstä Viestinnän asetuksista.</string>
+  <string name="system_permission_declare_single_link">Lue ja hyväksy meidän %1s ennen tämän ominaisuuden käyttämistä.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Lue ja hyväksy meidän %1s, %2s, ja %3s ennen näiden ominaisuuksien käyttämistä.</string>
+  <string name="system_permission_declare_use_network">Yhdistä verkkoon</string>
+  <string name="system_permission_perm_answer_call">Soittaa puheluita</string>
+  <string name="system_permission_perm_read_mms">Lukea multimediaviestejä</string>
+  <string name="system_permission_perm_read_numbers">Lukea puhelinnumeroita</string>
+  <string name="system_permission_perm_send_mms">Lähettää multimediaviestejä</string>
   <string name="toast_pending_hangup_msg">Viesti lähetetään puhelun päätyttyä</string>
   <string name="url_scan_again">Tarkista uudelleen</string>
-  <!-- MIUI 10 valmis -->
   <string name="action_firewall_setting">Estolista</string>
   <string name="action_get_otp">Hae koodi</string>
   <string name="action_sign_in">Kirjaudu sisään</string>

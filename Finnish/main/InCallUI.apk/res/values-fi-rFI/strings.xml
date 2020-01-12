@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="incoming_circle_text_video_answer">Vapauta vastaaksesi videolla</string>
+  <string name="incoming_circle_text_video_answer_p">Pyyhkäise ylöspäin vastaaksesi videolla</string>
+  <string name="manager_conference_done">Valmis</string>
   <string name="antispam_local_marked">Paikallisesti merkattu</string>
   <string name="antispam_notification_title">Tuntematon numero</string>
   <string name="antispam_provider">Tunnistanut %s</string>

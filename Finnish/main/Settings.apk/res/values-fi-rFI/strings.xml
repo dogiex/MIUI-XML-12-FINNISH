@@ -1,14 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- 8.9.17 -->
-  <string name="accessibility_summary_source">Provided by %s</string>
+  <string name="always_style">Aina</string>
+  <string name="aod_close_color_inversion">Tämä ominaisuus ei toimi käänteisillä väreillä. Poista ensin käänteiset värit käytöstä.</string>
+  <string name="aod_name_wanxiang">Himmennetty näyttö</string>
+  <string name="aod_notification_style_animation">Näytä animaatio</string>
+  <string name="aod_notification_style_none">Älä tee mitään</string>
+  <string name="aod_notification_style_screen_on">Valaise näyttö</string>
+  <string name="aod_show_mode_title">Näytä kohteet</string>
+  <string name="aod_style_description">Näytä kello, päivämäärä, aika, ilmoitukset ja muita kohteita näytön ollessa sammuksissa</string>
+  <string name="aod_style_title">Tyyli</string>
+  <string name="aod_to_close">Poista käytöstä</string>
+  <string name="calendar_remind">Tapahtumat</string>
+  <string name="choose_lock_pattern_header_text">Aseta kuvio</string>
+  <string name="confirm_lock_pattern_header_text">Piirrä kuviosi</string>
+  <string name="modify_default_browser_message">Jos asetat kolmannen osapuolen sovelluksen oletusselaimeksi, se saattaa aloittaa keräämään selainhistoriaasi ja muita tietoja. Asetetaanko siitä huolimatta?</string>
+  <string name="notification_animation_style">Erikoistehosteet</string>
+  <string name="notification_remind">Ilmoitukset</string>
+  <string name="scheduled_style">Ajastettu</string>
+  <string name="system_haptic_feedback">Haptinen palaute</string>
+  <string name="temporary_style">10 sekuntia näytön napauttamisen jälkeen</string>
+  <string name="title_layout_current2_weight">Tekstin koko ja fontin lihavuus</string>
+  <string name="weight_heavy">Lihavoitu</string>
+  <string name="weight_light">Kevyt</string>
+  <string name="weight_setting_toast">Voit vaihtaa fontin lihavuutta vain järjestelmän oletusfontille</string>
+  <string name="accessibility_summary_source">Tarjoaja %s</string>
   <string name="bootloader_device_bind_no_data_network">Poista Wi-Fi käytöstä ja lisää tilisi ja laitteesi käyttäen mobiilidataa.</string>
   <string name="bootloader_device_bind_server_token_expired_1">Ei voitu vahvistaa. Yritä lisätä tilisi ja laitteesi uudelleen.</string>
   <string name="bootloader_device_bind_server_token_expired_2">Ei voitu vahvistaa. Kirjaudu tiliisi uudelleen ja aloita alusta.</string>
   <string name="credentials_title_verification">Vahvistaminen</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
-  <!-- MIUI 10 valmis -->
-  
   <string name="miui_lab_drive_mode_desc">Käytä ääniohjausta &amp; kuuntele WeChat viestejä</string>
   <string name="miui_lab_drive_mode_title">Autotila</string>
   <string name="miui_lab_super_resolution_desc">Tee kuvista terävempiä</string>
@@ -63,7 +83,6 @@
   <string name="wifi_traffic_priority_regular_summary">Jaa kaistanleveys taustaprosessien ja etualalla olevan sovelluksen kanssa</string>
   <string name="wifi_traffic_priority_summary">Priorisoi yhteyden nopeus automaattisesti</string>
   <string name="wifi_turned_on_message">Wi-Fi on käytössä</string>
-  <!-- MIUI 10 valmis -->
   <string name="Accounts_settings_title">Tilit</string>
   <string name="a11y_settings_label">Esteettömyysasetukset</string>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
@@ -2028,7 +2047,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dndm_summary">Puhelut ja ilmoitukset mykistyvät, jotka saapuvat Älä Häiritse-toiminnon ollessa käytössä.</string>
   <string name="dndm_summary_for_pad">Ilmoitukset, jotka saapuvat, kun Älä Häiritse on päällä mykistetään.</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
-  <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
+  <string name="dndm_twenty_four_hour_time_format">H.mm</string>
   <string name="dndm_vip_call_button_title">Salli puhelut poikkeuksilta</string>
   <string name="dndm_vip_call_setting_detal">Salli aina puhelut poikkeuksilta</string>
   <string name="dndm_vip_call_setting_title">Poikkeukset</string>

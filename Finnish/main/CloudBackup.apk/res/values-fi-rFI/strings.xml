@@ -53,7 +53,7 @@
   <string name="cloud_app_restore_error">Palauttaminen epäonnistui</string>
   <string name="cloud_app_restore_success">Sovellukset palautettiin</string>
   <string name="cloud_app_restore_wifi_prompt">Palauta pilven varmuuskopiosta.</string>
-  <string name="cloud_back_up_date_format">HH:mm d.M.yyyy</string>
+  <string name="cloud_back_up_date_format">H.mm d.M.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Nämä varmuuskopioidaan Xiaomi Pilveen, kun laitteesi on yhdistettynä Wi-Fi verkkoon:
 *  Sovellukset, Aloitusnäytön asettelu ja taustakuvat
 *  Herätykset, kello, ja aika-asetukset
@@ -92,7 +92,7 @@ Huomio: Asennettujen sovellusten datatietoja ei varmuuskopioida Xiaomi Pilveen. 
   <string name="confirm_restore_summary">Aloitusnäyttösi käynnistetään uudelleen. Varmuuskopioidut sovellukset ladataan automaattisesti.</string>
   <string name="confirm_restore_title">Palauta</string>
   <string name="customization">Kustomoi</string>
-  <string name="date_format">HH:mm:ss d.M.yyyy</string>
+  <string name="date_format">H.mm.ss d.M.yyyy</string>
   <string name="deskclock_backup">Herätyskello</string>
   <string name="desktop_downloading">Ladataan</string>
   <string name="desktop_failed">Virhe</string>

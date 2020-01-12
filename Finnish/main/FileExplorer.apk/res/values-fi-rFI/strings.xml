@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="path_name_email">Sähköposti</string>
   <string name="action_mode_deselect_all">Poista valinnat</string>
   <string name="action_mode_select_all">Valitse kaikki</string>
   <string name="ad_download">Lataa</string>

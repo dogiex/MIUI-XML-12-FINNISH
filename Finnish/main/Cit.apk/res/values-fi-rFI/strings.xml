@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="battery_authentic">Akku aito</string>
   <string name="FpTest">Käynnistä FpTest</string>
   <string name="FpTest_result">FpTestin tulos:</string>
   <string name="SDCard">SD-kortti</string>

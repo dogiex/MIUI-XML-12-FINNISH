@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="clock_date_time_format_seconds_12">h.mm.ss</string>
+  <string name="clock_date_time_format_seconds_24">H.mm.ss</string>
+  <string name="dialog_legal_off_day"><Data>Näyttää siltä, että käytät juhlapyhien hälytyksiä. Tämän ominaisuuden täytyy yhdistää internetiin toimiakseen normaalisti. Ennen tämän ominaisuuden käyttämistä, sinun täytyy hyväksyä meidän &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%2$s\"&gt;Tietosuojakäytäntö&lt;/a&gt;. Hyväksytkö?</Data></string>
+  <string name="dialog_legal_off_day_desc">Kellolle ei ole sallittu internetyhteyttä, jotta se voisi päivittää juhlapyhien tietoja. Juhlapyhien hälytykset soi Lauantaina ja Sunnuntaina.</string>
+  <string name="dialog_legal_workday"><Data>Näyttää siltä, että käytät arkipäivien hälytyksiä. Tämän ominaisuuden täytyy yhdistää internetiin toimiakseen normaalisti. Ennen tämän ominaisuuden käyttämistä, sinun täytyy hyväksyä meidän &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%2$s\"&gt;Tietosuojakäytäntö&lt;/a&gt;. Hyväksytkö?</Data></string>
+  <string name="dialog_legal_workday_and_off_day"><Data>Näyttää siltä, että käytät arkipäivien ja juhlapyhien hälytyksiä. Tämän ominaisuuden täytyy yhdistää internetiin toimiakseen normaalisti. Ennen tämän ominaisuuden käyttämistä, sinun täytyy hyväksyä meidän &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%2$s\"&gt;Tietosuojakäytäntö&lt;/a&gt;. Hyväksytkö?</Data></string>
+  <string name="dialog_legal_workday_and_off_day_desc">Kellolle ei ole sallittu internetyhteyttä, jotta se voisi päivittää juhlapyhien tietoja. Arkipäivien hälytykset soivat Maanantaista Perjantaihin. Juhlapyhien hälytykset soivat Lauantaina ja Sunnuntaina.</string>
+  <string name="dialog_legal_workday_desc">Kellolle ei ole sallittu internetyhteyttä, jotta se voisi päivittää työpäivien tietoja. Arkipäivien hälytykset soivat Maanantaista Perjantaihin.</string>
+  <string name="dialog_net_permission_in_repeat_type"><Data>Tämän ominaisuuden täytyy yhdistää internetiin toimiakseen normaalisti. Ennen tämän ominaisuuden käyttämistä, sinun täytyy hyväksyä meidän &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%2$s\"&gt;Tietosuojakäytäntö&lt;/a&gt;. Hyväksytkö?</Data></string>
   <string name="alarm_clock_more_setting">Lisäasetukset</string>
   <string name="channel_name_alarm">Hälytys</string>
   <string name="channel_name_timer">Ajastin</string>
@@ -64,8 +73,8 @@
   <string name="timer_continue_timer">Jatka ajastinta</string>
   <string name="timer_created">Ajastin lisättiin onnistuneesti</string>
   <string name="timer_end_time">Ajastin pysähtyy klo %s</string>
-  <string name="timer_end_time_format">"d. MMMM'ta' HH:mm"</string>
-  <string name="timer_end_time_format_today">HH:mm</string>
+  <string name="timer_end_time_format">"d. MMMM'ta' H.mm"</string>
+  <string name="timer_end_time_format_today">H.mm</string>
   <string name="timer_pause_timer">Pysäytä ajastin</string>
   <string name="timer_running">Ajastin on käynnissä</string>
   <string name="timer_start_timer">Käynnistä ajastin</string>

@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-  <!-- miui 10 valmis -->
-
+  <string name="permission_accounts">Sisäänkirjautumiseen, järjestelmän tilin hallintaan ja kohteiden yhdistämiseen siihen</string>
+  <string name="permission_contacts">Yhteystietojen syntymäpäivien synkronointiin ja muistutusten lähettämiseen</string>
+  <string name="permission_main_purpose">Kalenteritapahtumien tarkasteluun ja hallintaan, matkojen suunnitteluun, muistutusten vastaanottamiseen ja palveluiden tilaamiseen</string>
+  <string name="permission_storage">Muistutusten ja soittoäänien tallentamiseksi</string>
   <string name="anniversary_secondary_tag">Vuosipäivä</string>
   <string name="birthday_born">Synnyinpäivä</string>
-  <!-- Net mock ??? -->
   <string name="clear_net_mock_success">Net mock tyhjentäminen onnistui</string>
-  <!-- Net mock ??? -->
   <string name="countdown_secondary_tag">Lähtölaskenta</string>
   <string name="date_calculate_hint">Selvitä mikä päivämäärä on tietyn päivän jälkeen</string>
   <string name="date_jump_hint">Siirry suoraan tiettyyn päivään</string>
@@ -16,15 +15,11 @@
   <string name="guide_card_primary_text">Tuo ystäviesi syntymäpäivät</string>
   <string name="guide_card_second_text">Älä koskaan unohda tärkeitä päivämääriä</string>
   <string name="guide_card_title">Tuo syntymäpäiviä</string>
-  <!-- Net mock ??? -->
   <string name="receive_net_mock_success">Net mock vastaanottaminen onnistui</string>
-  <!-- Net mock ??? -->
   <string name="tab_title_agenda">Tapahtumat</string>
   <string name="tab_title_day">Päivä</string>
   <string name="tab_title_month">Kuukausi</string>
   <string name="tab_title_week">Viikko</string>
-
-  <!-- miui 10 valmis -->
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää</string>
@@ -398,7 +393,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="refresh">Päivitä</string>
   <string name="refreshing_hint">Odota hetki…</string>
   <string name="reminder_later">Muistuta myöhemmin</string>
-  <string name="reminder_later_notification_time_format">HH:mm</string>
+  <string name="reminder_later_notification_time_format">H.mm</string>
   <string name="reminder_overdue">Vanhentunut</string>
   <string name="repeat_activity_label">Toisto</string>
   <string name="repeat_alarm_changed_credit_event">Muistuta aina luottokorttilaskuista</string>
@@ -533,7 +528,7 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="train_event_station_header_name">Asema</string>
   <string name="train_event_station_header_stay_time">Pysähtymisaika</string>
   <string name="train_event_station_stay_time">%1$s min</string>
-  <string name="train_event_station_time_format">HH:mm</string>
+  <string name="train_event_station_time_format">H.mm</string>
   <string name="travel_airport">Lentokenttä</string>
   <string name="travel_carriage_number_text">Auto</string>
   <string name="travel_ets_advice">Aja kohteeseen %2$s ennen %1$s.</string>

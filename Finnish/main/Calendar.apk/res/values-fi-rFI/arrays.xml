@@ -287,7 +287,7 @@
         <item>Härkä</item>
         <item>20.4. - 20.5.</item>
     </string-array>
-    <string-array name="timezone_labels">
+    <string-array name="timezone_labels_v3">
         <item>Marshallsaaret</item>
         <item>Midway Island</item>
         <item>Havaiji</item>
@@ -317,16 +317,19 @@
         <item>Azorit</item>
         <item>Kap Verden saaret</item>
         <item>Casablanca</item>
-        <item>Lontoo, Dublin</item>
-        <item>Amsterdam, Berliini</item>
+        <item>Lontoo</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berliini</item>
         <item>Belgrad</item>
         <item>Bryssel</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
         <item>Länsi-Afrikan Aika</item>
-        <item>Amman, Jordania</item>
-        <item>Ateena, Istanbul</item>
-        <item>Beirut, Libanon</item>
+        <item>Amman</item>
+        <item>Ateena</item>
+        <item>Istanbul</item>
+        <item>Beirut</item>
         <item>Kairo</item>
         <item>Helsinki</item>
         <item>Jerusalem</item>
@@ -342,7 +345,7 @@
         <item>Jerevan</item>
         <item>Dubai</item>
         <item>Kabul</item>
-        <item>Islamabad, Karachi</item>
+        <item>Karachi</item>
         <item>Uralsk</item>
         <item>Jekaterinburg</item>
         <item>Kolkata</item>
@@ -353,19 +356,23 @@
         <item>Krasnojarsk</item>
         <item>Bangkok</item>
         <item>Peking</item>
+        <item>Chongqing</item>
         <item>Hong Kong</item>
+        <item>Macau</item>
+        <item>Singapore</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
         <item>Soul</item>
-        <item>Tokio, Osaka</item>
+        <item>Tokio</item>
         <item>Jakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney, Canberra</item>
+        <item>Sydney</item>
+        <item>Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>

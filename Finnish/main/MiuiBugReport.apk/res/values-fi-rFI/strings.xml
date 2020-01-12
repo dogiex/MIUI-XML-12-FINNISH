@@ -1,17 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-  <!-- miui 10 valmis -->
-
+  <string name="feedback_detail_copy_toast">Kopioitiin leikepöydälle</string>
+  <string name="feedback_detail_feedback_attach">Liitteet</string>
+  <string name="feedback_detail_feedback_attach_upload_failed">Lähettäminen epäonnistui</string>
+  <string name="feedback_detail_feedback_attach_uploading">Lähetetään…</string>
+  <string name="feedback_detail_feedback_category">Kategoria</string>
+  <string name="feedback_detail_feedback_id">Ilmoituksen ID: %d</string>
+  <string name="feedback_detail_feedback_reply_hint">Vastaa</string>
+  <string name="feedback_detail_feedback_summary">Palaute</string>
+  <string name="feedback_detail_need_content">Syötä ensin sisältö</string>
+  <string name="feedback_detail_title">Yksityiskohdat</string>
+  <string name="feedback_detail_upload_generate_log">Luo lokitiedot</string>
+  <string name="feedback_detail_upload_image">Lähetä kuvia/videoita</string>
+  <string name="feedback_detail_upload_local_log">Lähetä tiedosto</string>
+  <string name="feedback_detail_upload_log">Lähetä lokitiedot</string>
+  <string name="feedback_detail_waiting">Luodaan…</string>
+  <string name="kr_authorization_function">Palautteen lähettämiseen, lokitietojen luomiseen, usein kysyttyjen kysymyksien katselemiseen</string>
+  <string name="mi_service_dialog_cancel">Poistu</string>
+  <string name="mi_service_dialog_confirm">Avaa</string>
+  <string name="mi_service_dialog_content">Kaikki palauteominaisuudet siirrettiin uuteen \"Palvelut &amp; palaute\" sovellukseen. Palautesovellus poistetaan Aloitusnäytöltäsi. Napauta \"Avaa\" kokeillaaksesi \"Palvelut &amp; palaute\" ominaisuutta.</string>
+  <string name="mi_service_dialog_title">Esittelyssä \"Palvelut &amp; palaute\"</string>
   <string name="feedback_status_collect_log_failed">Lokitietoja ei voitu noutaa</string>
   <string name="feedback_status_get_and_save_bbs_info_failed">Liitetiedoston URL-osoitetta ei voitu noutaa</string>
   <string name="feedback_status_save_log_info_failed">Liitetiedoston URL-osoitetta ei voitu muuttaa</string>
   <string name="feedback_status_submit_bbs_failed">Palautteen sisältöä ei voitu lähettää</string>
   <string name="feedback_status_submit_feedback_failed">Palautetta ei voitu lähettää</string>
   <string name="feedback_status_upload_log_failed">Liitetiedostoja ei voitu lähettää</string>
-
-  <!-- miui 10 valmis -->
-
   <string name="action_cancel">Peruuta</string>
   <string name="action_submit">Lähetä</string>
   <string name="announcement">Huomio</string>

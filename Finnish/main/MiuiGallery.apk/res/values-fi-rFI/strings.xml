@@ -1,7 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- 8.9.17 -->
-  <string name="added_to_favorites_desc">Added to favorites</string>
+  <string name="app_summary">Laitteesi ja Xiaomi Pilven kuvien ja videoiden hallinnointiin ja muokkaamiseen</string>
+  <string name="btn_cancel">Peruuta</string>
+  <string name="btn_sure">OK</string>
+  <string name="cloud_privacy_with_ai_album">Automaattisten varmuuskopioiden ja kuvankäsittelyiden tietosuojalausunto</string>
+  <string name="cloud_privacy_with_face">Automaattisten varmuuskopioiden ja kasvojentunnistuksen tietosuojalausunto</string>
+  <string name="confirm_cancel_task_files">Peruutetaanko tiedostojen lähettäminen kohteeseen %1$s?</string>
+  <string name="confirm_cancel_task_images">Peruutetaanko kuvien lähettäminen kohteeseen %1$s?</string>
+  <string name="default_device_name">Tuntematon laite</string>
+  <string name="device_offline">Toinen laite on offline-tilassa. Aloita alusta.</string>
+  <string name="device_type_pc">Tietokone</string>
+  <string name="double_tap_for_hr_preview_108m">Tuplanapauta uudelleen vaihtaaksesi 108MP esikatseluun</string>
+  <string name="enable_midrop">Ota käyttöön</string>
+  <string name="file_cannot_print">Tätä kohdetta ei voi tulostaa.</string>
+  <string name="file_cannot_screen_throw">Tätä kohdetta ei voi suoratoistaa.</string>
+  <string name="file_sending">Siirretään tiedostoja…</string>
+  <string name="functions_are_being_developed">Tämä ominaisuus on pian käytettävissä. Pysy kuulolla!</string>
+  <string name="hr_preview_108m">Vaihdettiin 108MP esikatseluun</string>
+  <string name="mi_drop">Mi Share</string>
+  <string name="pc_device_model_name">Tietokone</string>
+  <string name="permission_contacts_desc">Yhteystietojen osoittamiseen valokuvien henkilöille</string>
+  <string name="permission_contacts_name">Yhteystiedot</string>
+  <string name="scanning_device_tips">Haetaan lähellä olevia laitteita… Varmista, että toinen laite on löydettävissä.</string>
+  <string name="send_files_to">Lähetä tiedostoja kohteeseen</string>
+  <string name="throwing_print">Tulosta</string>
+  <string name="throwing_screen">Suoratoista</string>
+  <string name="tips_prompt_enable_midrop">Jaa tiedostoja lähellä olevien laitteiden kanssa</string>
+  <string name="unrecognized_manufacture">Tuntematon</string>
+  <string name="unrecognized_model">Tuntematon laite</string>
+  <string name="added_to_favorites_desc">Lisättiin suosikkeihin</string>
   <string name="card_delete_description">Tätä muistoa ei enää näytetä. Poistetaanko siitä huolimatta?</string>
   <string name="card_delete_negative_text">Peruuta</string>
   <string name="card_delete_positive_text">Poista</string>
@@ -43,8 +70,6 @@
   <string name="story_remove_confirm_title">Poistetaan kuvia</string>
   <string name="story_rename_invalid_char">\"%s\" ei voi käyttää muiston otsikkona. Käytä kirjaimia, numeroita tai Kiinalaisia kirjaimia.</string>
   <string name="story_rename_invalid_prefix">Muistojen otsikoita ei voi aloittaa \".\" tai \"_\" symboleilla</string>
-  <!-- // 8.9.17 // -->
-  <!-- miui 10 valmis -->
   <string name="ai_album_open_switch_button_title">Aloita kuvien analysointi</string>
   <string name="ai_album_requesting_title">AI-algoritmi käsittelee vielä kuviasi. Tule takaisin hetken kuluttua.</string>
   <string name="ai_album_setting_key_word">Hae kuvia</string>
@@ -90,7 +115,6 @@
   <string name="wednesday">Keskiviikko</string>
   <string name="wednesday_short">Ke</string>
   <string name="wednesday_shortest">K</string>
-  <!-- miui 10 valmis -->
   <string name="accept">Hyväksy</string>
   <string name="accept_or_deny">%1$s jakoi albumin %2$s kanssasi.</string>
   <string name="actionbar_overflow_item_desc">Lisävalinnat</string>

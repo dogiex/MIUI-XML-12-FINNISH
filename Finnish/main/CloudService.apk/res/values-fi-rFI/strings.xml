@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="storage_manage_title">Muuta pilven tallennustilan suunnitelma</string>
   <string name="access_denied">Pääsy kielletty</string>
   <string name="account_related">Laitteesi on linkitettynä jo olemassa olevaan Mi Tiliin(%s). Yhdistä verkkoon ja todenna laitteesi.</string>
   <string name="activate_find_device_success">Etsi laite on aktivoitu.</string>

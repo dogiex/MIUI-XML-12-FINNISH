@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="permission_camera_desc">Käyttääkseen vesivaakaa</string>
+  <string name="permission_location_desc">Näyttääkseen koordinaatteja ja ilmanpaineita</string>
   <string name="allow">Salli</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>

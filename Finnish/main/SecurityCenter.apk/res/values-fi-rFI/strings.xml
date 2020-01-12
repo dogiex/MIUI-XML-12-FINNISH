@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="permgroupdesc_calendar">käyttää kalenteria</string>
+  <string name="permgroupdesc_calllog">lukea puhelulokia ja kirjoittaa siihen</string>
+  <string name="permgroupdesc_camera">ottaa kuvia ja videoita</string>
+  <string name="permgroupdesc_contacts">käyttää yhteystietoja</string>
+  <string name="permgroupdesc_location">käyttää laitteen sijaintia</string>
+  <string name="permgroupdesc_microphone">tallentaa ääntä</string>
+  <string name="permgroupdesc_phone">soittaa ja hallinnoida puheluita</string>
+  <string name="permgroupdesc_recognition">käyttää terveys ja toimintaa koskevia tietoja</string>
+  <string name="permgroupdesc_sensors">käyttää anturitietoja elintoiminnoistasi</string>
+  <string name="permgroupdesc_sms">lähettää ja tarkastella tekstiviestejä</string>
+  <string name="permgroupdesc_storage">käyttää laitteellesi tallennettuja valokuvia, mediatiedostoja ja muita tiedostoja</string>
+  <string name="superpower_notification_new_title">Alle %d%% akkua jäljellä</string>
   <string name="card_main_deepclean_whatsapp_title">WhatsApp puhdistaja</string>
   <string name="card_main_hwtest_title">Laitteistotesti</string>
   <string name="device_manager_apply_step_1">Aktivoidaanko laitteen järjestelmänvalvoja tälle sovellukselle?</string>

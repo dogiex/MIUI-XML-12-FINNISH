@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- miui 10 valmis -->
+  <string name="flip_screen_camera_tip">Käännä laite ympäri käyttääksesi kameraa</string>
   <string name="miui_forbid_poweroff_when_device_locked">Ei voi sammuttaa, laite on lukittu.</string>
   <string name="super_resolution_maintain_tips">Super-resoluutio ei ole käytettävissä vielä.</string>
-  <!-- miui 10 valmis -->
   <string name="activity_package_delete_confirm_title">Huomio</string>
   <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
   <string name="all_call_livetalk_enable">Käytetään top-up pakettia kotimaan- ja ulkomaanpuheluihin</string>
@@ -187,7 +186,7 @@
   <string name="security_permission_xiaomi_account_missed_text">Syötä Mi Tilisi ID</string>
   <string name="select">Valitse</string>
   <string name="select_all">Valitse kaikki</string>
-  <string name="send_files_to">Lähetä tiedostot kohteeseen</string>
+  <string name="send_files_to">Lähetä tiedostoja kohteeseen</string>
   <string name="service_not_subscribed">EI TILAUSTA PALVELUUN -33-</string>
   <string name="set_password_action">Aseta salasana</string>
   <string name="set_password_message">Aseta salasana, jotta voit käyttää tätä toimintoa.</string>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="China_Mobile">China Mobile</string>
+     <string name="face_data_apply_for_category_title">Avaa lukitus käyttäen kasvojen tietoja</string>
+     <string name="face_data_apply_for_keyguard_title">Lukitusnäyttö</string>
+     <string name="face_unlock_category_title">Lukitusnäytön vaihtoehdot</string>
+     <string name="China_Mobile">China Mobile</string>
      <string name="China_Mobile_HD">China Mobile (HD)</string>
      <string name="China_Telecom">China Telecom</string>
      <string name="China_Unicom">China Unicom</string>
@@ -1467,7 +1470,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="hdcp_checking_title">HDCP-tarkistus</string>
   <string name="help_feedback_label">Ohje ja palaute</string>
   <string name="home">Aloitusnäytön asetukset</string>
-  <string name="hour_minute_time_format">HH:mm</string>
+  <string name="hour_minute_time_format">H.mm</string>
   <string name="how_to_back_home">Siirry Aloitusnäytölle</string>
   <string name="how_to_switch_recents">Avaa Viimeaikaiset sovellukset</string>
   <string name="how_to_use_drawer">Kuinka avataan pyyhkäisyvalikko</string>

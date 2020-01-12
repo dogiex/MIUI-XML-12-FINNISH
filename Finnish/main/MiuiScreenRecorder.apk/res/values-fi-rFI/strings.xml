@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="permission_microphone_desc">Mikrofonia käytetään äänilähteenä näytön nauhoituksissa</string>
+  <string name="settings_other">Muu</string>
+  <string name="settings_privacy">Tietosuojakäytäntö</string>
   <string name="app_name">Näytön Nauhoittaja</string>
   <string name="app_notification_info">Näytön Nauhoittaja työskentelee taustalla</string>
   <string name="app_notification_title">Näytön Nauhoittaja</string>
