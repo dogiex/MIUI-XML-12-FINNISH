@@ -2046,7 +2046,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dndm_special_call_setting_group">Poikkeukset</string>
   <string name="dndm_summary">Puhelut ja ilmoitukset mykistyvät, jotka saapuvat Älä Häiritse-toiminnon ollessa käytössä.</string>
   <string name="dndm_summary_for_pad">Ilmoitukset, jotka saapuvat, kun Älä Häiritse on päällä mykistetään.</string>
-  <string name="dndm_twelve_hour_time_format">h:mm a</string>
+  <string name="dndm_twelve_hour_time_format">h.mm a</string>
   <string name="dndm_twenty_four_hour_time_format">H.mm</string>
   <string name="dndm_vip_call_button_title">Salli puhelut poikkeuksilta</string>
   <string name="dndm_vip_call_setting_detal">Salli aina puhelut poikkeuksilta</string>
@@ -2498,7 +2498,7 @@ Kaupungissa ei näkynyt hevosia tai muita eläimiä: tavaroita kuljetettiin pien
   <string name="forget_password_button_text"><u>Unohdin salasanani</u></string>
   <string name="forget_password_dialog_button_text">Takaisin</string>
   <string name="forget_password_dialog_content_four">2. Valitse [Poista tiedot], ja odota kunnes laitteesi käynnistyy uudelleen.</string>
-  <string name="forget_password_dialog_content_one"><Data>"Jos unohdat salasanasi, et voi enää palauttaa sitä. Voit kuitenkin nollata salasanasi, &amp;lt;font color=#ec2700&amp;gt;kun olet poistanut laitteeltasi kaikki tiedot&amp;lt;/font&amp;gt; (mukaan lukien kuvat, yhteystiedot, jne.). Varmuuskopioi kaikki tärkeät tiedot ennen toimenpidettä."</Data></string>
+  <string name="forget_password_dialog_content_one"><Data>"Jos unohdat salasanasi, et voi enää palauttaa sitä. Voit kuitenkin nollata salasanasi, &lt;font color=#ec2700&gt;kun olet poistanut laitteeltasi kaikki tiedot&lt;/font&gt; (mukaan lukien kuvat, yhteystiedot, jne.). Varmuuskopioi kaikki tärkeät tiedot ennen toimenpidettä."</Data></string>
   <string name="forget_password_dialog_content_three">1. Sammuta laitteesi. Paina [Virta] ja [Äänenvoimakkuus+] -painikkeita yhtä aikaa ja pidä ne pohjassa, kunnes näet kuvakkeen.</string>
   <string name="forget_password_dialog_content_two">Seuraa näitä vaiheita tietojen poistamiseen:</string>
   <string name="forget_password_dialog_title">Nollaa tiedot</string>
@@ -4396,7 +4396,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Xiaomi Pilvipalveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
   <string name="privacy_authorize_dialog_agree">Hyväksyn</string>
   <string name="privacy_authorize_dialog_exit">Poistu</string>
-  <string name="privacy_authorize_dialog_message"><Data>"Käyttääksesi tämän palvelun perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme saadaksesi lisätietoja, kuinka keräämme ja käsittelemme henkilötietoja. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="privacy_authorize_dialog_message"><Data>"Käyttääksesi tämän palvelun perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme saadaksesi lisätietoja, kuinka keräämme ja käsittelemme henkilötietoja. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Tietosuojakäytännön&lt;/a&gt; ja &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Käyttöehdot&lt;/a&gt;."</Data></string>
   <string name="privacy_authorize_network_error">Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="privacy_authorize_privacy_policy">Tietosuojakäytäntö</string>
   <string name="privacy_authorize_revoke">Peruuta</string>

@@ -672,6 +672,7 @@ Katso muita videoita!"</string>
     <string name="slide_save_message">Luodaan videota…</string>
     <string name="sns_sign_in">Muita tapoja kirjautua</string>
     <string name="source">"Lähde: "</string>
+    <string name="srl_header_update">Edellinen päivitys d.M. H.mm</string>
     <string name="storage_external_sdcard">SD-kortti</string>
     <string name="storage_internal_sdcard">Sisäinen tallennustila</string>
     <string name="storage_permission_denied">Tallennustilan käyttö estettiin</string>

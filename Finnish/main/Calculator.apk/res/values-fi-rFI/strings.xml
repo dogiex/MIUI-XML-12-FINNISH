@@ -68,7 +68,7 @@
   <string name="description_content">Perus ominaisuuksien lisäksi, Laskin toimii myös monimuuntimena, lainojen laskemiseen ja verolaskurina. Varmista, että voi elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="description_title">Tietoja Laskimesta</string>
   <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
-  <string name="dialog_privacy_content">Perustoimintojen lisäksi, Mi Laskimella voit muuntaa valuuttoja ja mittayksiköitä, laskea lainojen takaisinmaksuja ja paljon muuta. Jotkut toiminnot vaativat internetyhteyden toimiakseen normaalisti. <Data>Ennen tämän sovelluksen käyttämistä, lue ja hyväksy meidän &amp;lt;a href=%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%2$s&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;.</Data></string>
+  <string name="dialog_privacy_content">Perustoimintojen lisäksi, Mi Laskimella voit muuntaa valuuttoja ja mittayksiköitä, laskea lainojen takaisinmaksuja ja paljon muuta. Jotkut toiminnot vaativat internetyhteyden toimiakseen normaalisti. <Data>Ennen tämän sovelluksen käyttämistä, lue ja hyväksy meidän &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%2$s&gt;Tietosuojakäytäntö&lt;/a&gt;.</Data></string>
   <string name="dialog_privacy_title">Käyttöehdot</string>
   <string name="dialog_rating_desc_ask">Mitä mieltä olet Laskimesta?</string>
   <string name="dialog_rating_desc_less">Voisitko antaa meille myös palautetta?</string>

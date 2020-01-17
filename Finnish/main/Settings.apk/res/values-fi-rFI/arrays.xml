@@ -1155,8 +1155,8 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Erikseen</item>
     </string-array>
     <string-array name="time_format_entries">
-        <item>12-tuntinen 1:00 PM</item>
-        <item>24-tuntinen 13:00</item>
+        <item>12-tuntinen 1.00 PM</item>
+        <item>24-tuntinen 13.00</item>
         <item>Automaattinen (järjestelmän kielen mukaan)</item>
     </string-array>
     <string-array name="timezone_filters">

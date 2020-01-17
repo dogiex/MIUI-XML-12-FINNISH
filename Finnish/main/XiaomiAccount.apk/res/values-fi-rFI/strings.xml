@@ -452,7 +452,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_use_generated_pwd_message">Varmista, että muistat salasanasi. Voit käyttää sitä muiden Mi palveluiden kirjautumiseen.</string>
   <string name="passport_use_generated_pwd_title">Muista salasanasi!</string>
   <string name="passport_user_agreement">Käyttäjäsopimus</string>
-  <string name="passport_user_agreement_link"><Data>"Olen lukenut ja hyväksyn Xiaomin &amp;lt;a href=%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%2$s&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt;."</Data></string>
+  <string name="passport_user_agreement_link"><Data>"Olen lukenut ja hyväksyn Xiaomin &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%2$s&gt;Tietosuojakäytännön&lt;/a&gt;."</Data></string>
   <string name="passport_user_agreement_required">Käyttöehdot (pakollinen)</string>
   <string name="passport_user_id_notice">Mi Tilisi ID on %s.</string>
   <string name="passport_user_reg_region">Maa/Alue</string>

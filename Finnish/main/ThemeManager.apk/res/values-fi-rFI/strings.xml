@@ -544,7 +544,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_trial_end_purchase">Osta</string>
   <string name="resource_trial_end_restore">Lopeta kokeilu</string>
   <string name="resource_trial_end_time">(kokeilu %1$s asti)</string>
-  <string name="resource_trial_end_time_format">h.mm d.M.</string>
+  <string name="resource_trial_end_time_format">h.mm a d.M.</string>
   <string name="resource_trial_end_title">Kokeiluaika vanhentunut</string>
   <string name="resource_trial_fail_cancel">OK</string>
   <string name="resource_trial_fail_go_settings">Asetukset</string>

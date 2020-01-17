@@ -1589,6 +1589,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="request_sms_url_title">Vinkki</string>
   <string name="retry_to_create_album">Yritä uudelleen</string>
   <string name="retry_to_request_qr_code">Yritä uudelleen</string>
+  <string name="risk_control_deleted_time">H.mm</string>
   <string name="runtime_permission_ungranted">Galleria suljettiin, vaadittuja käyttöoikeuksia ei ole</string>
   <string name="same_name_album_exist_and_toast">"Saman niminen albumi on jo olemassa. Luotiin '%s' sen sijaan."</string>
   <string name="saturday">Lauantai</string>

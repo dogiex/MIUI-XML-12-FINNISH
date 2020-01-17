@@ -44,6 +44,7 @@
   <string name="aod_mode_time_title">Ajasta</string>
   <string name="aod_mode_title">Aina päällä -tila</string>
   <string name="aod_show_style_title">Näytettävät kohteet</string>
+  <string name="aod_signature_12">h.mm aa</string>
   <string name="aod_to_close">Poista käytöstä</string>
   <string name="apply">Aseta</string>
   <string name="background_icon">Tausta</string>

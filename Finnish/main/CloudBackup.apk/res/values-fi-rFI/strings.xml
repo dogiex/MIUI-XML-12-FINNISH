@@ -91,7 +91,7 @@ Huomio: Asennettujen sovellusten datatietoja ei varmuuskopioida Xiaomi Pilveen. 
   <string name="confirm_restore">Palauta</string>
   <string name="confirm_restore_summary">Aloitusnäyttösi käynnistetään uudelleen. Varmuuskopioidut sovellukset ladataan automaattisesti.</string>
   <string name="confirm_restore_title">Palauta</string>
-  <string name="customization">Kustomoi</string>
+  <string name="customization">&lt;u&gt;Mukauta&lt;/u&gt;</string>
   <string name="date_format">H.mm.ss d.M.yyyy</string>
   <string name="deskclock_backup">Herätyskello</string>
   <string name="desktop_downloading">Ladataan</string>

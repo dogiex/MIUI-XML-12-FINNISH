@@ -246,8 +246,8 @@ Salli Muistion lukea puhelimen tila ja henkilöllisyys."</string>
 Salli Muistion nauhoittaa ääntä."</string>
   <string name="todo_alert_title_delete">Poista valmiit tehtävät</string>
   <string name="todo_audio_default_content">"[Äänitehtävä] "</string>
-  <string name="todo_custom_remind_tag_pattern_with_md">d.M. HH.mm</string>
-  <string name="todo_custom_remind_tag_pattern_with_ymd">d.M.yyyy HH.mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_md">d.M. H.mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_ymd">d.M.yyyy H.mm</string>
   <string name="todo_edit_audio_hint">Puhu tehtäväsi</string>
   <string name="todo_edit_btn_cancel_remind">Peruuta muistutus</string>
   <string name="todo_edit_btn_custom">Aseta muistutus</string>
@@ -280,13 +280,13 @@ Salli Muistion nauhoittaa ääntä."</string>
   <string name="todo_notify_alarm_title">Tehtävän muistutus</string>
   <string name="todo_schedule_time_expired">" (Vanhentunut)"</string>
   <string name="todo_schedule_time_for_picker_hm">H.mm</string>
-  <string name="todo_schedule_time_hm">HH.mm</string>
+  <string name="todo_schedule_time_hm">H.mm</string>
   <string name="todo_schedule_time_md">d.M.</string>
-  <string name="todo_schedule_time_mdhm">d.M. HH.mm</string>
+  <string name="todo_schedule_time_mdhm">d.M. H.mm</string>
   <string name="todo_schedule_time_today">Tänään</string>
   <string name="todo_schedule_time_tomorrow">Huomenna</string>
   <string name="todo_schedule_time_yesterday">Eilen</string>
-  <string name="todo_schedule_time_ymdhm">d.M.yyyy HH.mm</string>
+  <string name="todo_schedule_time_ymdhm">d.M.yyyy H.mm</string>
   <string name="todo_search_hint">Hae tehtäviä</string>
   <string name="todo_time_picker_title">Aseta muistutus</string>
   <string name="todo_user_guide_fw_pop">Lisää Aloitusnäytön pikakuvake</string>
