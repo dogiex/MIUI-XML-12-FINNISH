@@ -316,8 +316,6 @@ Mi Health will only notify you about important items."</string>
   <string name="mtrl_badge_numberless_content_description">New notification</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-  <string name="mtrl_picker_cancel">@android:string/cancel</string>
-  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Select a Date</string>
