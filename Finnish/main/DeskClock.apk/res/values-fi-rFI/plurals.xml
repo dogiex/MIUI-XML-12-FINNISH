@@ -53,8 +53,8 @@
         <item quantity="one">Hälytys soi %2$s kerran (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Torkutettu %d minuutiksi</item>
-        <item quantity="one">Torkutettu %d minuutiksi</item>
+        <item quantity="other">Torkuta %d minuutiksi</item>
+        <item quantity="one">Torkuta %d minuutiksi</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d tuntia "</item>
