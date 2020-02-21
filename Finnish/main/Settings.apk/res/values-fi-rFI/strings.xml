@@ -1077,7 +1077,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bluetooth_pairing_will_share_phonebook">Laiteparin muodostaminen mahdollistaa yhteystietojen ja soittohistorian käyttämisen yhteyden aikana.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Paikallinen internetyhteys jaetaan laitteen kanssa</string>
   <string name="bluetooth_pan_profile_summary_use_for">Käytä internetyhteyteen</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Yhdistetty laitteen internetyhteyteen</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Yhdistetty laitteeseen</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s haluaa käyttää yhteystietoja ja soittohistoriaa. Sallitaanko sille laitteen %2$s käyttö?</string>
   <string name="bluetooth_pb_remember_choice">Älä kysy uudestaan</string>
   <string name="bluetooth_phonebook_request">PBAP-pyyntö</string>

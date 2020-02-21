@@ -104,10 +104,10 @@
   <string name="bluetooth_pairing_will_share_phonebook">Laiteparin muodostaminen mahdollistaa yhteystietojen ja soittohistorian käyttämisen yhteyden aikana.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Paikallinen internetyhteys jaetaan laitteen kanssa</string>
   <string name="bluetooth_pan_profile_summary_use_for">Käytä internetyhteyteen</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Yhdistetty laitteen internetyhteyteen</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Yhdistetty laitteeseen</string>
   <string name="bluetooth_profile_a2dp">Median ääni</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Käytä HD-ääntä: %1$s</string>
-  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Käytä HD-ääntä</string>
+  <string name="bluetooth_profile_a2dp_high_quality">HD-ääni: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD-ääni</string>
   <string name="bluetooth_profile_dun">Puhelinverkkoyhteyden käyttäminen</string>
   <string name="bluetooth_profile_headset">Puhelimen ääni</string>
   <string name="bluetooth_profile_hearing_aid">Kuulolaitteet</string>
