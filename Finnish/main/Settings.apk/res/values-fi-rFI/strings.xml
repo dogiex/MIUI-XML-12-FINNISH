@@ -1107,7 +1107,7 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bluetooth_profile_pan_nap">Internetyhteyden jakaminen</string>
   <string name="bluetooth_profile_pbap">Yhteystietojen jakaminen</string>
   <string name="bluetooth_profile_pbap_summary">Käytä yhteystietojen jakamiseen</string>
-  <string name="bluetooth_profile_sap">Käytetään SIM-kortin käyttämiseen</string>
+  <string name="bluetooth_profile_sap">SIM-kortin käyttö</string>
   <string name="bluetooth_quick_toggle_summary">Ota Bluetooth-yhteys käyttöön</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Älä kysy uudestaan</string>
