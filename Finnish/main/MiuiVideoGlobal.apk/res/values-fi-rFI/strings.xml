@@ -444,7 +444,6 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="notify_apk_installed">Ladattiin onnistuneesti</string>
     <string name="off">[pois käytöstä]</string>
     <string name="ok">OK</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Viimeksi tilatut</string>
     <string name="order_recently_updated">Viimeksi päivitetty</string>
     <string name="ovp_alert_dialog_download_install_task">Ladataan HD-liitännäistä…</string>
