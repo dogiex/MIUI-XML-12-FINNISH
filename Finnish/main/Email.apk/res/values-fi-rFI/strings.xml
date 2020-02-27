@@ -189,6 +189,7 @@
   <string name="add_pre_message_attachments_no">Älä lisää</string>
   <string name="add_pre_message_attachments_yes">Lisää</string>
   <string name="add_star">Tähti</string>
+  <string name="all_purpose">Tervetuloa Sähköpostiin! Tämän sähköpostiohjelman on Kingsoft luonut Xiaomille. Voit käyttää tätä sovellusta lähettämään ja vastaanottamaan sähköposteja.</string>
   <string name="allread">Lue kaikki</string>
   <string name="always_bcc_myself">Lähetä piilokopio itselleni</string>
   <string name="always_show_images">Näytä kuvat aina tältä lähettäjältä</string>
@@ -300,6 +301,7 @@
   <string name="config_cancel">Peruuta</string>
   <string name="config_retry">Yritä uudelleen</string>
   <string name="confirm">OK</string>
+  <string name="confirm_age">Vahvista ikä</string>
   <string name="confirm_before_delete">Vahvista ennen poistamista</string>
   <string name="confirm_before_delete_keywords">vahvista ennen poistamista;poista vahvista</string>
   <string name="confirm_before_send">Vahvista ennen lähettämistä</string>
@@ -562,6 +564,7 @@
   <string name="header_category_other">Palaute</string>
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
+  <string name="help_email_title">MI Mail</string>
   <string name="help_me_get_qq_auth">Hanki QQ-koodi</string>
   <string name="help_weixin_title">"Jos sinulla on kysyttävää, lähetä meille viestiä virallisessa WeChat-tilillemme: "</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
@@ -813,7 +816,9 @@ Kokeile toista postilaatikkoa."</string>
   <string name="output_db_summary">Aiotaan viedä tietokantasi</string>
   <string name="output_db_title">Vie tietokanta</string>
   <string name="output_to_disk">Tallenna lokit tiedostoon</string>
+  <string name="over_16_content">Vahvista olevasi yli 16?</string>
   <string name="over_due">Myöhässä</string>
+  <string name="over_sixteen">Olen yli 16.</string>
   <string name="overlays_fail_tip">Olemme pahoillamme, että postilaatikkosi ei määrittynyt onnistuneesti, avaa kelluvan Ikkunan käyttöoikeudet ja yritä uudelleen</string>
   <string name="overlays_ok">Avaa käyttöoikeudet</string>
   <string name="overlays_tip">Puhelinasetukset - Sovellukset - Sovellustiedot - avaa kelluvan ikkunan käyttöoikeudet käyttöoikeuden hallinnasta ja nauti heti 139 postilaatikon automaattisesta määrityksestä.</string>
@@ -847,12 +852,21 @@ Kokeile toista postilaatikkoa."</string>
   <string name="perference_setup_send_tag">Lähtevän sähköpostin palvelin</string>
   <string name="permission_access_provider_desc">Antaa sovelluksen käyttää sähköpostitietokantaasi, mukaan lukien vastaanotetut viestit, lähetetyt viestit, käyttäjänimet ja salasanat.</string>
   <string name="permission_access_provider_label">Käytä sähköpostintarjoajan tietoja</string>
+  <string name="permission_des_calendar">Käytetään kalenterin viestien synkronointiin</string>
+  <string name="permission_des_contact">Käytetään yhteystiedon sähköpostiosoitteen lukemiseen, jotta se voidaan täyttää nopeasti sähköpostin yhteystietoon</string>
+  <string name="permission_des_detail">Jos et hyväksy tai salli kyseisiä käyttöoikeuksia tai jaa ja lähetä henkilötietojasi, et voi käyttää tätä sovellusta. Voit näissä tapauksissa valita sovelluksen poistamisen, uloskirjautumisen tai rajoittaa käyttöoikeuksia Asetuksissa.</string>
+  <string name="permission_des_external_storage">Käytetään sähköpostin kirjoittamiseen ja laitteen tiedostojen lukemiseen, jotta liitteitä voidaan lisätä ja tallentaa</string>
+  <string name="permission_des_phone_status">Käytetään IMEI:n hankkimiseen erilaisten laitteiden erottamiseksi</string>
+  <string name="permission_des_storage">Uusien sähköpostien luomiseen mukaan lukien liitteiden tallentamiseen ja lisäämiseen</string>
   <string name="permission_read_attachment_desc">Antaa sovelluksen lukea sähköpostiliitteitä.</string>
   <string name="permission_read_attachment_label">Lue sähköpostiliitteitä</string>
   <string name="permission_tip">Määritys epäonnistui, salli määrityksessä puheluiden ja tekstiviestien käyttöoikeudet</string>
+  <string name="personal_data_collection_summary">Kun valintakytkin on otettu käyttöön, hyväksyt, että voimme kerätä henkilötietojasi. Voit poistaa valinnan käytöstä, peruuttaa valtuutuksesi ja poistaa tietosi palvelimiltamme milloin tahansa.</string>
+  <string name="personal_data_collection_title">Henkilötietojen kerääminen</string>
   <string name="phone">puhelin</string>
   <string name="photo_load_failed">Kuvan lataus epäonnistui</string>
   <string name="photo_view_count">%1$d/%2$d</string>
+  <string name="pl_select_age">Valitse ikä.</string>
   <string name="please_fill_in_your_mailbox_information2">Syötä sähköpostisi tiedot</string>
   <string name="pls_parse_bill_discribe">"Analysoi laskut ja matkatiedot sähköpostistasi
 vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
@@ -860,7 +874,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_app_whitelist">Salli vain määritellyt sovellukset</string>
   <string name="policy_bluetooth_restricted">Rajoita Bluetoothin käyttöä</string>
   <string name="policy_calendar_age">Rajoita kalenteritapahtumien määrää synkronoinnissa</string>
-  <string name="policy_dont_allow_attachments">Älä salli liitetiedostoja</string>
+  <string name="policy_dont_allow_attachments">Älä salli liitteitä</string>
   <string name="policy_dont_allow_browser">Älä salli selaimia</string>
   <string name="policy_dont_allow_camera">Estä käyttämästä tämän laitteen kameraa</string>
   <string name="policy_dont_allow_consumer_email">Älä salli kuluttajien sähköposteja</string>
@@ -899,6 +913,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="print_scheduler_title">Tulosta kaikki aikataulut</string>
   <string name="privacy_des">Lokitiedot sisältävät vianhakutiedot sähköpostisovelluksestasi ja laitteesi tiedoista. Näitä tietoja käytetään ongelmien nopeampaan paikantamiseen. Napauttamalla alla olevaa \"%1$s\", hyväksyt meidän \"%2$s\".</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="privacy_setting_agree">Hyväksyn</string>
   <string name="prompt_title">Ilmoitus</string>
   <string name="protocol_eas">eas</string>
   <string name="protocol_imap">imap</string>
@@ -1091,6 +1106,8 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="service_protocol_discribe">Olen lukenut ja hyväksyn WPS Sähköpostin Palvelusopimuksen</string>
   <string name="service_protocol_title">Palvelusopimus</string>
   <string name="set_network">Aseta verkko</string>
+  <string name="setting_kids_subtitle">Vahvista käyttäjän ikä</string>
+  <string name="setting_kids_title">Yli 16-vuotias.</string>
   <string name="settings_activity_title">Asetukset</string>
   <string name="share_choose">Valitse jaettava tiedosto</string>
   <string name="sharing">Jaa</string>
@@ -1184,6 +1201,8 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="turn_auto_sync_on_dialog_title">Otetaanko automaattinen synkronointi käyttöön?</string>
   <string name="unbind_dialog_text">"Sähköpostisovellus ei enää analysoi sähköpostejasi sen jälkeen.
 Poistetaanko tili?"</string>
+  <string name="under_16_content">Vahvistetaanko alle 16?</string>
+  <string name="under_sixteen">Olen alle 16.</string>
   <string name="undo">Kumoa</string>
   <string name="unknow">Tuntematon</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
@@ -1201,6 +1220,8 @@ Poistetaanko tili?"</string>
   <string name="upload_logs">Lähetä lokitiedostot</string>
   <string name="upload_logs_keywords">lähetä lokit</string>
   <string name="uploading_logs">Odota hetki…</string>
+  <string name="user_privacy_settings">Tietosuoja-asetukset</string>
+  <string name="user_privacy_settings_agreement_authorization">(Napauttamalla \"Valtuuta\" annat WPS Sähköpostille kaikki tarvittavat käyttöoikeudet)</string>
   <string name="validation_failed_prompt">Tiliä ei voitu todentaa, tarkasta %s palvelimen asetukset</string>
   <string name="verify_code">Vahvistuskoodi</string>
   <string name="version_string">Versio: %s</string>
