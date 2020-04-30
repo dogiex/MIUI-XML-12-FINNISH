@@ -1899,10 +1899,10 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">China Telecom VoLTE-palvelut on käytössä vain alueilla, jossa on LTE-verkon kuuluvuus.</string>
   <string name="vowifi_emergency_notification_channel">Wi-Fi-puhelun hätävaroitus</string>
-  <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat mahdollisia matkapuhelinverkon kantavuusalueilla.</string>
+  <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat mahdollisia vain matkapuhelinverkon kantavuusalueilla</string>
   <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi-puhelu</string>
-  <string name="vowifi_emergency_warning_check">Älä näytä uudelleen</string>
-  <string name="vowifi_emergency_warning_message">"Wi-Fi-puhelua ei voi käyttää hätäpuheluihin.
+  <string name="vowifi_emergency_warning_check">Älä näytä uudelleen.</string>
+  <string name="vowifi_emergency_warning_message">"Hätäpuhelut ei ole mahdollisia Wi-Fi-soitolla.
 
 Laitteesi vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) soittaakseen hätäpuhelun.
 

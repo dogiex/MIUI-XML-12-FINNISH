@@ -312,6 +312,9 @@ Muotokuvatilassa"</string>
   <string name="live_sticker_network_error_hint">Verkkovirhe</string>
   <string name="live_sticker_tab_name">TikTok Magic -tarra</string>
   <string name="live_sticker_updating">Päivitetään…</string>
+  <string name="location_permission_des">Muista kuvien ja videoiden sijainti</string>
+  <string name="location_permission_not_ask_again">Salli Kameran käyttää sijaintiasi Asetuksissa.</string>
+  <string name="location_permission_not_ask_again_go_to_settings">Salli</string>
   <string name="lying_direct_hint">Nykyinen suunta</string>
   <string name="macro_mode">Makro</string>
   <string name="macro_mode_tip">Linssin ja kohteen etäisyys toisistaan ei pitäisi ylittää 10 cm</string>
@@ -391,6 +394,16 @@ näyttävät kuvissa suuremmilta"</string>
   <string name="module_name_square">Neliö</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">Kamera ei toimi jaetulla näytöllä</string>
+  <string name="network_access_user_notice_agree">Hyväksyn</string>
+  <string name="network_access_user_notice_message_live_video">"Kameran täytyy yhdistää internetiin tarjotakseen tehosteita, musiikkia ja muita ominaisuuksia lyhyille videoille.
+
+Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Tietosuojakäytännön&lt;/a&gt; ja sallit Kameran yhdistää internetiin.</string>
+  <string name="network_access_user_notice_message_sticker">"Kameran täytyy yhdistää internetiin tarjotakseen tarroja tätä toimintoa varten.
+
+Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Tietosuojakäytännön&lt;/a&gt; ja sallit Kameran yhdistää internetiin.</string>
+  <string name="network_access_user_notice_message_voice_caption">"Kameran täytyy yhdistää internetiin tarjotakseen puheesta-tekstiksi -toiminnon.
+
+Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Tietosuojakäytännön&lt;/a&gt; ja sallit Kameran yhdistää internetiin.</string>
   <string name="network_access_user_notice_title">Yhdistetään internetiin</string>
   <string name="no_storage">Kameran tallennustila ei ole käytettävissä järjestelmävirheen vuoksi.</string>
   <string name="not_enough_space">Sisäinen tallennustila on täynnä</string>
