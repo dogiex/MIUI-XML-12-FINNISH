@@ -1,6 +1,6 @@
-[![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)](https://xiaomi.eu/)
+[![MIUI12 logo](https://i.imgur.com/qLcFcYE.png)](https://xiaomi.eu/)
 
-# MIUI 11 Finnish translation strings for Xiaomi.eu ROM
+# MIUI 12 Finnish translation strings for Xiaomi.eu ROM
 
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
@@ -14,11 +14,11 @@ For more info visit:
 
 ## Esittely
 
-Tämä repo sisältää suomenkielisen käännöksen [xiaomi.eu](https://xiaomi.eu) MIUI 11 ROM-versioon.
+Tämä repo sisältää suomenkielisen käännöksen [xiaomi.eu](https://xiaomi.eu) MIUI 12 ROM-versioon.
 
 ## Ilmoita virheistä
 
-Käytä [Githubin Issues sivua](https://github.com/dogiex/MIUI-XML-11-FINNISH/issues) ilmoittaaksesi bugit, käännösvirheet ja parannusehdotukset.
+Käytä [Githubin Issues sivua](https://github.com/dogiex/MIUI-XML-12-FINNISH/issues) ilmoittaaksesi bugit, käännösvirheet ja parannusehdotukset.
 
 ## Auta kääntämään
 Jos tahdot auttaa kääntämään tätä projektia se tapahtuu pull requesteilla:
@@ -27,8 +27,8 @@ Jos tahdot auttaa kääntämään tätä projektia se tapahtuu pull requesteilla
 - Tee pull request tekemiisi muokkauksiin alkuperäiseen projektiin
 
 [Lisätietoja forkkauksesta löydät täältä](https://guides.github.com/activities/forking)  
-[Käännöksen tarkistus scriptin löydät täältä](https://translators.xiaomi.eu/XML_MIUI11-Finnish-fi.html)  
-[Alkuperäiset käännösmuutokset jota seurataan](https://github.com/ingbrzy/Xiaomi.eu-MIUIv11-XML-Compare/commits/master/cepheus)  
+[Käännöksen tarkistus scriptin löydät täältä](https://translators.xiaomi.eu/XML_MIUI12-Finnish-fi.html)  
+[Alkuperäiset käännösmuutokset jota seurataan](https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare/commits/master/cepheus)  
 
 ##### Credits:
 - Dogiex
