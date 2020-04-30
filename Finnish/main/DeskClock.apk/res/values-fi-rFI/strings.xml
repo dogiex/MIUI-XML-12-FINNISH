@@ -44,13 +44,13 @@
   <string name="module_weather_ringtone_introduce_global">Säähälytys valitsee eri soittoääniä nykyisen sään mukaan.</string>
   <string name="module_weather_ringtone_update_data">Säähälytys tulee nyt taustamusiikilla ja paremmilla ääni-ilmoituksilla. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
   <string name="module_weather_ringtone_update_success">Säähälytys tulee nyt taustamusiikilla ja paremmilla ääni-ilmoituksilla. Voit kokeilla tätä ominaisuutta luomalla uuden hälytyksen.</string>
-  <string name="module_week_ringtone_download_data">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
-  <string name="module_week_ringtone_download_data_privacy">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy yhdistää internetiin ladatakseen noin 30 Mt edestä ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
-  <string name="module_week_ringtone_download_wifi">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy ladata ääniä toimiakseen. Ladataanko nyt?</string>
-  <string name="module_week_ringtone_download_wifi_privacy">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy yhdistää internetiin ladatakseen ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Hyväksytkö?</string>
-  <string name="module_week_ringtone_introduce">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä.</string>
-  <string name="module_week_ringtone_update_data">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
-  <string name="module_week_ringtone_update_success">Viikottainen hälytys toistaa luonnon eri ääniä jokaisena viikonpäivänä. Voit kokeilla tätä ominaisuutta luomalla uuden hälytyksen.</string>
+  <string name="module_week_ringtone_download_data">Luontohälytys toistaa eri ääniä riippuen päivämäärästä. Kellon täytyy ladata noin 30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Luontohälytys toistaa eri ääniä riippuen päivämäärästä. Kellon täytyy yhdistää internetiin ladatakseen &amp;#8776;30 Mt edestä ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän &amp;lt;a href= %1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"%2$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;. Hyväksytkö?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_wifi">Luontohälytys toistaa eri ääniä riippuen päivämäärästä. Kellon täytyy ladata ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Luontohälytys toistaa eri ääniä riippuen päivämäärästä. Kellon täytyy yhdistää internetiin ladatakseen ääniä. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän &amp;lt;a href= %1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"%2$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;. Hyväksytkö?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_introduce">Luontohälytys toistaa eri ääniä riippuen päivämäärästä.</string>
+  <string name="module_week_ringtone_update_data">Luontohälytys toistaa eri ääniä riippuen päivämäärästä. Kellon täytyy ladata &amp;#8776;30 Mt edestä ääniä toimiakseen. Ladataanko nyt?</string>
+  <string name="module_week_ringtone_update_success">Luontohälytys toistaa eri ääniä riippuen päivämäärästä. Voit kokeilla tätä ominaisuutta luomalla uuden hälytyksen.</string>
   <string name="module_white_noise_download_data">Kellon täytyy ladata äänitiedostoja ajastimien taustaääniä varten. Lataukseen vaaditaan noin 30 Mt mobiilidatastasi. Ladataanko nyt?</string>
   <string name="module_white_noise_download_data_privacy">Ladatakseen äänitiedostoja ajastimien taustaääniä (n. 30 Mt) varten ja tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Käytät tällä hetkellä mobiilidataa. Hyväksytkö?</string>
   <string name="module_white_noise_download_wifi">Kellon täytyy ladata äänitiedostoja ajastimien taustaääniä varten. Ladataanko nyt?</string>
@@ -249,7 +249,7 @@
   <string name="ringtone_firefly">Tulikärpäset</string>
   <string name="ringtone_other">Lisää soittoääniä</string>
   <string name="ringtone_weather">Säähälytys</string>
-  <string name="ringtone_week">Viikottainen hälytys</string>
+  <string name="ringtone_week">Luontohälytys</string>
   <string name="search_alarm_clock_keywords">Herätys;herätyskello;Herätys;Hälytys</string>
   <string name="search_menu_title">Haku</string>
   <string name="search_stopwatch_keywords">Sekuntikello</string>

@@ -302,6 +302,7 @@ Käynnistä GPS koskettamalla näyttöä…"</string>
   <string name="cit_leds_check_title">Ilmoitusvalo (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC-arvon pitäisi näkyä alla</string>
   <string name="cit_light_sensor_check_title">Valoanturi</string>
+  <string name="cit_macro_camera_check_title">Makrokameran tarkistus</string>
   <string name="cit_magnetic_sensor_check_summary">X, Y ja Z-koordinaattien arvot pitäisi ilmestyä alle</string>
   <string name="cit_magnetic_sensor_check_title">Magneettianturi</string>
   <string name="cit_main_camera_check_summary">"Testiohjeet:
@@ -634,6 +635,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_touch_calib_summary">Seuraavaksi suoritetaan kosketusnäytön kalibrointi, paina vahvista-painiketta ja älä koske näyttöön sen jälkeen, odota kalibrointi onnistui tekstiä</string>
   <string name="cit_touch_calib_title">Kosketuksen kalibrointi</string>
   <string name="cit_touch_panel_test_title">Kosketusanturi</string>
+  <string name="cit_ultra_camera_check_title">Ultrakameran tarkistus</string>
   <string name="cit_tpdump_check_summary">kosketa painiketta ottaaksesi käyttöön tai poistaaksesi käytöstä kosketuksen dump toiminnon</string>
   <string name="cit_tpdump_close">poista dump käytöstä</string>
   <string name="cit_tpdump_open">ota dump käyttöön</string>

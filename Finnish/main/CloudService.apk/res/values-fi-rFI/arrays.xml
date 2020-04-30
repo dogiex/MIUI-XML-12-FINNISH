@@ -108,6 +108,18 @@
         <item>Varmuuskopioi Aloitusnäytön ulkoasu, luettelo asennetuista sovelluksista ja järjestelmäasetukset</item>
         <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Pilvipalvelut;Xiaomi Pilvi;Xiaomi Cloud;Aloitusnäyttö;Ulkoasu;Sovellukset;Asetukset;Varmuuskopion tiheys;Hallitse varmuuskopioita;Palauta</item>
     </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Laitteesi tunnistamiseen</item>
+        <item>Laitteesi paikantamiseen ja hävinnyt-tilan välillä vaihtamiseen</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Tapahtumien synkronointiin</item>
+        <item>Viestien synkronointiin</item>
+        <item>Viestien synkronointiin</item>
+        <item>Yhteystietojen synkronointiin</item>
+        <item>Yhteystietojen synkronointiin</item>
+        <item>Kohteiden tallentamiseen laitteellesi (esim. valokuvat, videot, kappaleet)</item>
+    </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Varmuuskopiot</item>
         <item>Varmuuskopioidut kohteet</item>

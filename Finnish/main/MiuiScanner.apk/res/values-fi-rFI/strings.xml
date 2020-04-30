@@ -24,7 +24,11 @@
   <string name="accessibility_shutter_button">Sulkija</string>
   <string name="action_search">Haku</string>
   <string name="address">Osoite:</string>
+  <string name="agree_app_use">QR-koodien lukemiseen ja niiden tunnistamiseen toisista kuvista</string>
   <string name="agree_btn">Hyväksy</string>
+  <string name="agree_camera_permission">Kuvien ottamiseen ja videon nauhoittamiseen</string>
+  <string name="agree_storage_permission">Laitteellesi tallennettujen tiedostojen ja kuvien käyttö</string>
+  <string name="always">Aina</string>
   <string name="amazon_assistant_shopping_title">Etsi Amazonista</string>
   <string name="app_description_content">Lukijalla voit skannata QR-koodeja, asiakirjoja, käyntikortteja ja muuta. Varmista, että et tarvitse näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="app_description_title">Tietoja Lukijasta</string>
@@ -46,6 +50,7 @@
   <string name="camera_error_title">Kamera virhe</string>
   <string name="cancel">Peruuta</string>
   <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
+  <string name="choose_open_code_app">Valitse sovellus</string>
   <string name="choose_pay_title">Valitse maksutapa</string>
   <string name="choose_picture">Valitse QR-koodin kuva</string>
   <string name="common_retake_picture">Ota uudelleen</string>
@@ -143,6 +148,7 @@
   <string name="not_insert_contact">Yhteystietoa ei voi lisätä</string>
   <string name="not_recommend_access_web_url">Mene silti</string>
   <string name="note">Huomautus:</string>
+  <string name="once">Vain kerran</string>
   <string name="open_url">Avaa URL-osoite</string>
   <string name="password_toggle_content_description">Näytä salasana</string>
   <string name="pay_no_tip">Älä näytä uudelleen</string>
@@ -190,7 +196,9 @@
   <string name="switch_open">Ota käyttöön</string>
   <string name="tel">Puhelin</string>
   <string name="title">Otsikko:</string>
+  <string name="to_install_title">Tämä QR-koodi uudelleenohjaa sinut poistettuun sovellukseen. Ladataanko tämä sovellus nyt?</string>
   <string name="to_pay">Suorita maksu</string>
+  <string name="toinstall">Lataa</string>
   <string name="translate_auto_lock">Lukitse käännös</string>
   <string name="translate_auto_unlock">Avaa käännös</string>
   <string name="translate_copy_success">Kopioitiin onnistuneesti</string>
