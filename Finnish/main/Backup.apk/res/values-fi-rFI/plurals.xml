@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d sovellusdatan tiedostoa</item>
+        <item quantity="one">%d sovellusdatan tiedosto</item>
+    </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d järjestelmätietojen tidostoa</item>
         <item quantity="one">%d järjestelmätiedon tidosto</item>
     </plurals>
-    <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d sovellustietojen tiedostoa</item>
-        <item quantity="one">%d sovellustiedon tiedosto</item>
+    <plurals name="custom_progress">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d kohdetta</item>
+        <item quantity="one">%1$d/%2$d kohde</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s varmuuskopiota (%2$s)</item>
+        <item quantity="one">%1$s varmuuskopio (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Varmuuskopioitiin onnistuneesti. Varmuuskopiointi epäonnistui %d kohteelle.</item>
+        <item quantity="one">Varmuuskopioitiin onnistuneesti. Varmuuskopiointi epäonnistui %d kohteelle.</item>
     </plurals>
     <plurals name="total_num">
         <item quantity="other">%d kohdetta,</item>
