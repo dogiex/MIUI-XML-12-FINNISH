@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="app_label">Asetuksien Haku</string>
-  <string name="application_desc">Sovellus</string>
-  <string name="search_label">Asetukset</string>
-  <string name="settings_description">Asetukset</string>
-</resources>
