@@ -761,11 +761,8 @@ napauta \"Olen lähettäjä\" ja valitse yhdistettävä Hotspot.
 Älä sulje sivua, ennen kuin yhteys on muodostettu."</string>
 	<string name="waiting">Odota hetki…</string>
 	<string name="wifi_title">Wi-Fi asetukset</string>
-  <string name="xiaomi_bytes_unit">%1$s t</string>
 	<string name="xiaomi_connect_download_manager_fail">Lataamista ei voitu aloittaa. Varmista, että Download Manager toimii normaalisti.</string>
 	<string name="xiaomi_external_storage_unavailable">Taltio ei ole käytettävissä, tarkista SD-kortti.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
-  <string name="xiaomi_megabytes_unit">%1$s Mt</string>
 	<string name="xiaomi_router">Mi Reititin</string>
 	<string name="xiaomi_router_location">Mi Reititin %s</string>
 	<string name="xiaomi_update_dialog_message">"Esittelyssä versio %1$s
