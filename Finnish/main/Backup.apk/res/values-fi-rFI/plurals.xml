@@ -32,10 +32,6 @@
         <item quantity="other">%d kohdetta,</item>
         <item quantity="one">%d kohde,</item>
     </plurals>
-    <plurals name="custom_progress">
-        <item quantity="other">%d kohdetta</item>
-        <item quantity="one">%d kohde</item>
-    </plurals>
     <plurals name="trans_failed_summary">
         <item quantity="other">%d kohteen siirtäminen epäonnistui. Näytä tiedot napauttamalla.</item>
         <item quantity="one">%d kohteen siirtäminen epäonnistui. Näytä tiedot napauttamalla.</item>
