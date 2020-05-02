@@ -65,10 +65,10 @@
   <string name="degDesc">Kulma</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">poista</string>
-  <string name="description_content">Perus ominaisuuksien lisäksi, Laskin toimii myös monimuuntimena, lainojen laskemiseen ja verolaskurina. Varmista, että voi elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="description_content">Perustoimintojen lisäksi Laskin toimii myös monikäyttöisenä muuntimena, laina- sekä verolaskurina. Varmista, että voit elää ilman näitä toimintoja, ennen kuin poistat sovelluksen.</string>
   <string name="description_title">Tietoja Laskimesta</string>
   <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
-  <string name="dialog_privacy_content">Perustoimintojen lisäksi, Mi Laskimella voit muuntaa valuuttoja ja mittayksiköitä, laskea lainojen takaisinmaksuja ja paljon muuta. Jotkut toiminnot vaativat internetyhteyden toimiakseen normaalisti. <Data>Ennen tämän sovelluksen käyttämistä, lue ja hyväksy meidän &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%2$s&gt;Tietosuojakäytäntö&lt;/a&gt;.</Data></string>
+  <string name="dialog_privacy_content">Laskimen perustoimintojen lisäksi sovelluksemme sisältää tieteellisen laskimen ja monikäyttöisen muuntimen. Jotkut toiminnot tarvitsevat internetyhteyden toimiakseen normaalisti. Sinun täytyy lukea ja hyväksyä meidän %1$s ja %2$s ennen Laskimen käyttämistä.</string>
   <string name="dialog_privacy_title">Käyttöehdot</string>
   <string name="dialog_rating_desc_ask">Mitä mieltä olet Laskimesta?</string>
   <string name="dialog_rating_desc_less">Voisitko antaa meille myös palautetta?</string>
