@@ -4401,7 +4401,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_authorize_revoke_title">Valtuutus &amp; peruuttaminen</string>
   <string name="privacy_authorize_revoking">Peruutetaan valtuutus…</string>
   <string name="privacy_authorize_success">Hyväksyttiin valtuutus onnistuneesti</string>
-  <string name="privacy_authorize_title">Hyväksytään valtuutus</string>
+  <string name="privacy_authorize_title">Valtuutuksen hyväksyminen</string>
   <string name="privacy_close_dlg_button_ok">Poista käytöstä</string>
   <string name="privacy_close_dlg_msg">Kun Yksityisyydensuojan salasana ei ole käytössä, käyttämäsi kohteet ei ole enää suojattuna.</string>
   <string name="privacy_close_dlg_title">Huomio</string>
