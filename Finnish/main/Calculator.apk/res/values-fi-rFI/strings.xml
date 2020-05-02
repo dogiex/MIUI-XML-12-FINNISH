@@ -749,11 +749,8 @@ Yhden ja viiden vuoden LPR: t noteerataan kunkin kuukauden 20. päivänä (viiv�
   <string name="weight_prompt">Paino</string>
   <string name="wf_word_figure">Taloudelliset merkit</string>
   <string name="word_figure_guide_text">Paina ja pidä tekstiä pohjassa muuntaaksesi sen tapausten välillä.</string>
-  <string name="xiaomi_bytes_unit">%1$s t</string>
   <string name="xiaomi_connect_download_manager_fail">Latauksiin ei saatu yhteyttä. Tarkista, että tällä sovelluksella on kaikki vaaditut käyttöoikeudet asetuksista Asetukset &gt; Asennetut sovellukset.</string>
   <string name="xiaomi_external_storage_unavailable">Tallennustila ei ole käytettävissä. Tarkista SD-korttisi.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
-  <string name="xiaomi_megabytes_unit">%1$s Mt</string>
   <string name="xiaomi_update_dialog_message">"Saatavilla versio %1$s
 Koko: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Saatavilla versio %1$s
