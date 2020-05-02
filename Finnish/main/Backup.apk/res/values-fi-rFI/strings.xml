@@ -348,7 +348,7 @@ http://www.miliao.com
 	<string name="new_pc_restore_content1">%d. Yhdistä mobiililaitteesi tietokoneeseen USB-kaapelilla.</string>
 	<string name="new_pc_restore_content2">%d. Kopioi varmuuskopio tietokoneeltasi kansioon MIUI-Backup-AllBackup.</string>
 	<string name="new_pc_restore_content3">%1$d. Avaa \"%2$s\" ja valitse palautettavat kohteet.</string>
-	<string name="new_pc_title">Kopioi varmuuskopioita</string>
+	<string name="new_pc_title">Kopioi varmuuskopiot</string>
 	<string name="new_select_file">Äänet, videot ja tiedostot</string>
 	<string name="new_select_message">Tekstiviestit, yhteystiedot ja puheluhistoria</string>
 	<string name="new_select_pic">Kuvat</string>
