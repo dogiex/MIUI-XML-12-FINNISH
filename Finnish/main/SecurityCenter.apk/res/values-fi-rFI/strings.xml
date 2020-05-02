@@ -2476,10 +2476,8 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="system_permission_declare_no_say_no">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi normaalisti.</string>
   <string name="system_permission_declare_no_say_no_analytics">Jos et halua sallia näitä käyttöoikeuksia, voit poistaa rekisteröinnin asetuksissa Asetukset &gt; Lisäasetukset &gt; Yksityisyys &gt; Käyttäjäkokemusohjelma.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi osittain.</string>
-  <string name="system_permission_declare_privacy_declare">"Kunnioitamme ja suojelemme yksityisyyttäsi.
-Huomioi, että %1s kerää tietojasi ja vaatii seuraavia käyttöoikeuksia toimiakseen normaalisti:"</string>
-<string name="system_permission_declare_privacy_no_permission">"Huomioi, että %1s kerää tietojasi toimiakseen normaalisti.
-Kunnioitamme ja suojaamme tietosuojaasi."</string>
+  <string name="system_permission_declare_privacy_declare">Tämän sovelluksen täytyy yhdistää internetiin ja se vaatii seuraavia käyttöoikeuksia toimiakseen normaalisti:</string>
+<string name="system_permission_declare_privacy_no_permission">Tämän sovelluksen täytyy yhdistää internetiin ja kerätä tarvittavat henkilötiedot toimiakseen normaalisti.</string>
   <string name="system_permission_declare_privacy_policy">Lue ja hyväksy meidän Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä.</string>
   <string name="system_permission_declare_revoke_system">Voit poistua tästä sovelluksesta.</string>
   <string name="system_permission_declare_revoke_uninstallable">Voit kirjautua ulos, poistaa tämän sovelluksen tai peruuttaa valtuutuksen menemällä Tietoturva &gt; Hallitse sovelluksia &gt; Käyttöoikeudet &gt; Käyttöoikeudet.</string>
