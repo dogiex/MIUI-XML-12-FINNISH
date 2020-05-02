@@ -84,6 +84,14 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
+    <plurals name="n_weeks">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d tapahtumaa lisää</item>
+        <item quantity="one">%d tapahtuma lisää</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" päivää"</item>
         <item quantity="one">" päivä"</item>
@@ -126,13 +134,5 @@
     <plurals name="work_days">
         <item quantity="other">%d työpäivää</item>
         <item quantity="one">%d työpäivä</item>
-    </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
-    </plurals>
-    <plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
     </plurals>
 </resources>

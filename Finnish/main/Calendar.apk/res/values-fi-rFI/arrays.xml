@@ -268,6 +268,12 @@
         <item>Ehkä</item>
         <item>Ei</item>
     </string-array>
+    <string-array name="response_labels2">
+        <item>Älä vastaa</item>
+        <item>Hyväksy</item>
+        <item>Päätä myöhemmin</item>
+        <item>Hylkää</item>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>jousimies</item>
         <item>Jousimies</item>
@@ -277,10 +283,6 @@
         <item>skorpioni</item>
         <item>Skorpioni</item>
         <item>24.10. - 22.11.</item>
-    </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>Serie A</item>
     </string-array>
     <string-array name="taurus_info">
         <item>härkä</item>
