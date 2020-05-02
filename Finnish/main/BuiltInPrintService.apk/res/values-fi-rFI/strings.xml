@@ -2,7 +2,8 @@
 <resources>
   <string name="accept">Hyväksy</string>
   <string name="add">Lisää</string>
-  <string name="add_manual_printer">Lisää manuaalinen tulostin</string>
+  <string name="add_named">Lisää %1$s</string>
+  <string name="add_printer_by_ip">Lisää tulostin käyttäen IP-osoitetta</string>
   <string name="app_name">Järjestelmän tulostuspalvelu</string>
   <string name="certificate_update_request">Tämä tulostin tarjosi uutta tietoturvavarmennetta, tai toinen laite esiintyy siksi. Hyväksytäänkö uusi varmenne?</string>
   <string name="connect_hint_text">Saatat joutua hyväksymään tämän yhteyden tulostimesi etupaneelista</string>
