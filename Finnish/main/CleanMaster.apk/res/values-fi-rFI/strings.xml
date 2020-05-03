@@ -109,10 +109,6 @@
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Tyhjennä %s edestä WeChatin välimuistia vapauttaaksesi tallennustilaa</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">Älä unohda tyhjentää välimuistia</string>
   <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Muistuta WeChatin välimuistin tyhjentämisestä</string>
-  <string name="appcleaner_wechat_pref_size_100_MB">100 Mt</string>
-  <string name="appcleaner_wechat_pref_size_1_GB">1 Gt</string>
-  <string name="appcleaner_wechat_pref_size_300_MB">300 Mt</string>
-  <string name="appcleaner_wechat_pref_size_500_MB">500 Mt</string>
   <string name="appcleaner_wechat_pref_time_every_day">Joka päivä</string>
   <string name="appcleaner_wechat_pref_time_fifteen_day">15 päivän välein</string>
   <string name="appcleaner_wechat_pref_time_seven_day">7 päivän välein</string>
