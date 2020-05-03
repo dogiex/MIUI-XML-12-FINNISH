@@ -2,7 +2,7 @@
 <resources>
     <string-array name="alert_reminder_interval_entries">
         <item>Kerran</item>
-        <item>Kahden minuutin välein</item>
+        <item>2 minuutin välein</item>
         <item>5 minuutin välein</item>
         <item>15 minuutin välein</item>
         <item>Pois käytöstä</item>
