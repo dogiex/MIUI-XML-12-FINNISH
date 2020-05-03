@@ -8,6 +8,7 @@
   <string name="cert_not_saved">Varmennetta ei ole asennettu.</string>
   <string name="cert_read_error">Asennus epäonnistui, koska varmennetiedostoa ei voitu lukea.</string>
   <string name="cert_too_large_error">Asennus epäonnistui, koska varmenne on liian suuri.</string>
+  <string name="certificate_capabilities_warning">Huomaa: Tämän sertifikaatin myöntäjä voi tarkistaa kaiken liikenteen laitteelle ja laitteesta.</string>
   <string name="credential_info">Paketti sisältää:</string>
   <string name="credential_name">Varmenteen nimi:</string>
   <string name="credential_password">Hae varmenteet kirjoittamalla salasana.</string>
