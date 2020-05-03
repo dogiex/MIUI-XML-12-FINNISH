@@ -1,137 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <!-- miui 10 valmis -->
-
-    <plurals name="hour">
-        <item quantity="other">%1$d tuntia</item>
-        <item quantity="one">%1$d tunti</item>
+    <plurals name="app_usage_day">
+        <item quantity="other">Ei ole käytetty %d päivään</item>
+        <item quantity="one">Ei ole käytetty %d päivään</item>
      </plurals>
-     <plurals name="minute">
-        <item quantity="other">%1$d minuuttia</item>
-        <item quantity="one">%1$d minuutti</item>
+     <plurals name="app_usage_month">
+        <item quantity="other">Ei ole käytetty %d kuukauteen</item>
+        <item quantity="one">Ei ole käytetty %d kuukauteen</item>
      </plurals>
-     <plurals name="second">
-        <item quantity="other">%1$d sekuntia</item>
-        <item quantity="one">%1$d sekunti</item>
+     <plurals name="app_usage_year">
+        <item quantity="other">Ei ole käytetty %d vuoteen</item>
+        <item quantity="one">Ei ole käytetty %d vuoteen</item>
      </plurals>
-
-     <!-- miui 10 valmis -->
-     
-    <plurals name="mins_ago">
-        <item quantity="other">%1$d minuuttia sitten</item>
-        <item quantity="zero">%1$d minuuttia sitten</item>
-        <item quantity="one">%1$d minuutti sitten</item>
-        <item quantity="two">%1$d minuuttia sitten</item>
-        <item quantity="few">%1$d minuuttia sitten</item>
-        <item quantity="many">%1$d minuuttia sitten</item>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Puhdistetaan %1$d tiedostoa (%2$d%%)
+"</item>
+        <item quantity="one">"Puhdistetaan %1$d tiedosto (%2$d%%)
+"</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d tuntia sitten</item>
-        <item quantity="zero">%1$d tuntia sitten</item>
-        <item quantity="one">%1$d tunti sitten</item>
-        <item quantity="two">%1$d tuntia sitten</item>
-        <item quantity="few">%1$d tuntia sitten</item>
-        <item quantity="many">%1$d tuntia sitten</item>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d kohdetta sekunnissa | Jäljellä oleva aika: %2$s</item>
+        <item quantity="one">%1$d kohde sekunnissa | Jäljellä oleva aika: %2$s</item>
     </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d päivää sitten</item>
-        <item quantity="zero">%1$d päivää sitten</item>
-        <item quantity="one">%1$d päivää sitten</item>
-        <item quantity="two">%1$d päivää sitten</item>
-        <item quantity="few">%1$d päivää sitten</item>
-        <item quantity="many">%1$d päivää sitten</item>
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">Suorita %1$d vaihetta vapauttaaksesi %2$s</item>
+        <item quantity="one">Suorita %1$d vaihe vapauttaaksesi %2$s</item>
     </plurals>
-    <plurals name="people">
-        <item quantity="other">%1$d henkilöä ladannut</item>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> asennuspakettia&lt;/Data></item>
+        <item quantity="one">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> asennuspaketin&lt;/Data></item>
     </plurals>
-    <plurals name="people_million">
-        <item quantity="other">%1$d henkilöä ladannut</item>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">&lt;Data>Voit tyhjentää &lt;font color=#0097FF>%d&lt;/font> sovelluksen tiedot&lt;/Data></item>
+        <item quantity="one">&lt;Data>Voit tyhjentää &lt;font color=#0097FF>%d&lt;/font> sovelluksen tiedot&lt;/Data></item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">%1$d henkilöä ladannut</item>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> tarpeetonta kuvaa&lt;/Data></item>
+        <item quantity="one">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> tarpeettoman kuvan&lt;/Data></item>
     </plurals>
-    <plurals name="view_num">
-        <item quantity="other">%1$s näyttökertaa</item>
-        <item quantity="one">%1$s näyttökertaa</item>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> suurta tiedostoa&lt;/Data></item>
+        <item quantity="one">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> suuren tiedoston&lt;/Data></item>
     </plurals>
-    <plurals name="hint_similar_image_header_left">
-        <item quantity="other">%d ryhmää</item>
-        <item quantity="one">%d ryhmä</item>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> harvoinkäytettyä sovellusta&lt;/Data></item>
+        <item quantity="one">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> harvoinkäytetyn sovelluksen&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> videota&lt;/Data></item>
+        <item quantity="one">&lt;Data>Voit poistaa &lt;font color=#0097FF>%d&lt;/font> videon&lt;/Data></item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Löytyi %d sovelluspakettia, voit poistaa turhat.</item>
+        <item quantity="one">Löytyi %d sovelluspaketti, voit poistaa tämän.</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d asennettua sovellusta, voit poistaa harvoit käytetyt sovellukset</item>
+        <item quantity="one">%d asennettu sovellus, voit poistaa tämän</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Voit tyhjentää %d sovelluksen merkityksettömät tiedot</item>
+        <item quantity="one">Voit tyhjentää %d sovelluksen merkityksettömät tiedot</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d sovellusta asennettu</item>
+        <item quantity="one">%d sovellus asennettu</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Löytyi %d suurta tiedostoa, voit poistaa turhat kohteet</item>
+        <item quantity="one">Löytyi %d suuri tiedosto, voit poistaa tämän kohteen</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Löytyi %d kuvaa, voit poistaa kuvien kaksoiskappaleet tai turhat kuvat</item>
+        <item quantity="one">Löytyi %d kuva, voit poistaa kuvien kaksoiskappaleet tai turhat kuvat</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Löytyi %d videota, voit poistaa turhat.</item>
+        <item quantity="one">Löytyi %d video, voit poistaa tämän.</item>
     </plurals>
     <plurals name="dialog_content_delete_image_confirm">
         <item quantity="other">Poistetaanko %d kuvaa?</item>
         <item quantity="one">Poistetaanko %d kuva?</item>
     </plurals>
     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
-        <item quantity="other">Poistetaanko %1$s kuvat kaikista laitteista?</item>
+        <item quantity="other">Poistetaanko %1$s kuvaa kaikista laitteista?</item>
         <item quantity="one">Poistetaanko %1$s kuva kaikista laitteista?</item>
     </plurals>
-    <plurals name="deepclean_cache_summary">
-        <item quantity="other">Voit tyhjentää tarpeettomat tiedot %d sovelluksesta</item>
-        <item quantity="one">Voit tyhjentää tarpeettomat tiedot %d sovelluksesta</item>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data>Vapautettiin &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (tarpeeksi &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> kappaleelle)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vapautettiin &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (tarpeeksi &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> kappaleelle)&lt;/Data></item>
     </plurals>
-    <plurals name="deepclean_app_summary">
-        <item quantity="other">%d sovellusta asennettu, voit poistaa harvoin käytetyt sovellukset</item>
-        <item quantity="one">%d sovellus asennettu, voit poistaa tämän</item>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data>Vapautettiin &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (tarpeeksi &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> kuvalle)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Vapautettiin &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (tarpeeksi &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> kuvalle)&lt;/Data></item>
     </plurals>
-    <plurals name="deepclean_large_summary">
-        <item quantity="other">Löydettiin %d suurta tiedostoa, voit poistaa tarpeettomat tiedostot</item>
-        <item quantity="one">Löydettiin %d suuri tiedosto, voit poistaa tämän</item>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d kohdetta</item>
+        <item quantity="one">%1$d kohde</item>
     </plurals>
-    <plurals name="deepclean_similar_summary">
-        <item quantity="other">Löydettiin %d kuvaa, voit poistaa samankaltaiset tai tarpeettomat kuvat</item>
-        <item quantity="one">Löydettiin %d kuva, voit poistaa samankaltaiset tai tarpeettomat kuvat</item>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d kohdetta</item>
+        <item quantity="one">%1$d kohde</item>
     </plurals>
-    <plurals name="deepclean_apk_summary">
-        <item quantity="other">Löydettiin %d APK:ta, voit poistaa tarpeettomat.</item>
-        <item quantity="one">Löydettiin %d APK, voit poistaa tämän.</item>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data>Löytyi &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> ääniviestiä&lt;/Data></item>
+        <item quantity="one">&lt;Data>Löytyi &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> ääniviesti&lt;/Data></item>
     </plurals>
-    <plurals name="deepclean_video_summary">
-        <item quantity="other">Löydettiin %d videota, voit poistaa tarpeettomat.​</item>
-        <item quantity="one">Löydettiin %d video, voit poistaa tämän.</item>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d ryhmää</item>
+        <item quantity="one">%d ryhmä</item>
     </plurals>
-    <plurals name="deepclean_install_info_desc1">
-        <item quantity="other">%d sovellusta asennettu</item>
-        <item quantity="one">%d sovellus asennettu</item>
+    <plurals name="hour">
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">%1$d tunti</item>
     </plurals>
-	<plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">%d videon tuonti epäonnistui. Vapauta tallennustilaa ja yritä uudelleen.</item>
-        <item quantity="one">%d viden tuonti epäonnistui. Vapauta tallennustilaa ja yritä uudelleen.</item>
+	<plurals name="minute">
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d henkilöä ladannut</item>
+        <item quantity="one">%1$d henkilö ladannut</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d henkilöä ladannut</item>
+        <item quantity="one">%1$d henkilö ladannut</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> sovellusta ei ole käytetty pitkään aikaan, katso."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> sovellusta ei ole käytetty pitkään aikaan, katso."&lt;/Data></item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">%1$d sekunti</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$s katselua</item>
+        <item quantity="one">%1$s katselu</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">%d videota ei voitu viedä. Vapauta tilaa ja yritä uudelleen.</item>
+        <item quantity="one">%d videota ei voitu viedä. Vapauta tilaa ja yritä uudelleen.</item>
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d tyhjää tiedostoa)</item>
         <item quantity="one">(%1$d tyhjä tiedosto)</item>
     </plurals>
-    <plurals name="app_usage_day">
-        <item quantity="other">Ei ole käytetty %d päivään</item>
-        <item quantity="one">Ei ole käytetty %d päivään</item>
-    </plurals>
-    <plurals name="app_usage_month">
-        <item quantity="other">Ei ole käytetty %d kuukauteen</item>
-        <item quantity="one">Ei ole käytetty %d kuukauteen</item>
-    </plurals>
-    <plurals name="app_usage_year">
-        <item quantity="other">Ei ole käytetty %d vuoteen</item>
-        <item quantity="one">Ei ole käytetty %d vuoteen</item>
-    </plurals>
-    <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">%d sovellusta ei ole käytetty pitkään aikaan, katso sovellukset.</item>
-        <item quantity="one">%d sovellusta ei ole käytetty pitkään aikaan, katso sovellukset.</item>
-    </plurals>
-    <plurals name="clean_long_msg_p1">
-        <item quantity="other">Puhdistetaan %1$d tiedostoa, (%2$d%%)</item>
-        <item quantity="one">Puhdistetaan %1$d tiedosto, (%2$d%%)</item>
-    </plurals>
-    <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d kohdetta sekunnissa | Aikaa jäljellä: %2$s</item>
-        <item quantity="one">%1$d kohde sekunnissa | Aikaa jäljellä: %2$s</item>
-    </plurals>
     <plurals name="wechat_video_time_p1">
         <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
     </plurals>
     <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Poistetaanko %1$d kohdetta?</item>
