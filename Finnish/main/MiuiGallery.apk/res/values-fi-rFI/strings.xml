@@ -224,7 +224,7 @@
   <string name="application_icon">Sovelluskuvake</string>
   <string name="assistant_page_label">Muistot</string>
   <string name="associate_face_album">Valitse albumi</string>
-  <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
+  <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi-tili vaaditaan)</string>
   <string name="auto_download_media_title">Lataa kuvat Xiaomi Pilvestä automaattisesti</string>
   <string name="auto_update_face">Lisää kuvat automaattisesti</string>
   <string name="auto_update_face_summary">Sovita ja lisää kuvat automaattisesti Vauva albumiin</string>
@@ -945,7 +945,7 @@
   <string name="error_external_sdcard_write_action">Vaihda tallennustila</string>
   <string name="error_external_sdcard_write_msg">Mene Asetukset &gt; Tallennustila, vaihda tallennustila siellä ja yritä uudelleen.</string>
   <string name="error_external_sdcard_write_tip">Kohteita ei voi tallentaa SD-kortille.</string>
-  <string name="error_forbidden">Synkronointi on poistettu käytöstä Mi Tilissäsi ilmeentyvien ongelmien takia.</string>
+  <string name="error_forbidden">Synkronointi on poistettu käytöstä Mi-tilissäsi ilmeentyvien ongelmien takia.</string>
   <string name="error_install_connect_fail">Liitännäistä ei voitu ladata. Tarkista verkkoyhteytesi.</string>
   <string name="error_install_sdcard_not_available">Liitännäistä ei voitu ladata SD-kortin virheen vuoksi.</string>
   <string name="error_install_storage_not_enough">Vapauta laitteesi tallennustilaa ladataksesi liitännäisen.</string>
@@ -956,8 +956,8 @@
   <string name="error_network_restrict_msg">Salli Gallerian yhdistää verkkoon.</string>
   <string name="error_network_restrict_tip">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="error_no_account_action">Kirjaudu sisään</string>
-  <string name="error_no_account_msg">Kirjaudu sisään Mi Tiliisi ja yritä uudelleen.</string>
-  <string name="error_no_account_tip">Kirjaudu sisään Mi Tiliisi</string>
+  <string name="error_no_account_msg">Kirjaudu sisään Mi-tiliisi ja yritä uudelleen.</string>
+  <string name="error_no_account_tip">Kirjaudu sisään Mi-tiliisi</string>
   <string name="error_no_cta_permission_action">Salli</string>
   <string name="error_no_cta_permission_msg">Verkon käyttö on rajattu.</string>
   <string name="error_no_cta_permission_tip">Verkon käyttö on rajattu</string>
@@ -1216,7 +1216,7 @@ on käytettävissä"</string>
   <string name="loading_video_fail_sync_without_network">Lataa metadata yhdistämällä verkkoon</string>
   <string name="loading_video_fail_syncing">Odota, kunnes metadata on täysin ladattu ja yritä uudelleen</string>
   <string name="loading_video_thumbnail">Ladataan videon kansikuvaa…</string>
-  <string name="login_and_enable_service">Kirjaudu sisään Mi Tilillä</string>
+  <string name="login_and_enable_service">Kirjaudu sisään Mi-tilillä</string>
   <string name="long_press_to_refocus">Paina &amp; pidä pohjassa uudelleentarkentaaksesi</string>
   <string name="main_discard_confirm_message">Sinulla on tallentamattomia muutoksia</string>
   <string name="main_discard_negative_btn">Hylkää</string>
@@ -1239,7 +1239,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="merge_album">Yhdistä</string>
   <string name="merge_album_title">Yhdistä henkilön kanssa</string>
   <string name="messagelist_sender_self">Minä</string>
-  <string name="micloud_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
+  <string name="micloud_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi-tili vaaditaan)</string>
   <string name="month_view_tip_button_text">Selvä</string>
   <string name="month_view_tip_sub_title">Nipistä näyttöä vaihtaaksesi kuukausinäkymään</string>
   <string name="month_view_tip_title">Kuukausinäkymä</string>
@@ -1633,8 +1633,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="search_image_result_title">Hakutulokset</string>
   <string name="search_login_now">Kirjaudu sisään</string>
   <string name="search_login_sub_title">Löydä lisää kuvia kirjautumalla sisään</string>
-  <string name="search_login_title">Mi Tili</string>
-  <string name="search_login_title_full_screen">Kirjaudu sisään Mi Tililläsi löytääksesi lisää kohteita ja henkilöitä</string>
+  <string name="search_login_title">Mi-tili</string>
+  <string name="search_login_title_full_screen">Kirjaudu sisään Mi-tililläsi löytääksesi lisää kohteita ja henkilöitä</string>
   <string name="search_mark_feedback_false_negative_title">OK</string>
   <string name="search_mark_feedback_false_positive_title">Korjaa</string>
   <string name="search_net_error">Tapahtui verkkovirhe. Yhdistä toiseen verkkoon ja yritä uudelleen.</string>
@@ -1931,7 +1931,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="welcome_to_slim">Optimoi paikallinen tallennustila</string>
   <string name="where_is_barcode">Missä on QR-koodi?</string>
   <string name="who_is_this">Kuka hän on?</string>
-  <string name="xiaomi_account_not_exists_toast">Mi Tilia ei ole olemassa</string>
+  <string name="xiaomi_account_not_exists_toast">Mi-tilia ei ole olemassa</string>
   <string name="yes">Kyllä</string>
   <string name="yesterday">Eilen</string>
   <string name="you_are">Olet vauvan</string>

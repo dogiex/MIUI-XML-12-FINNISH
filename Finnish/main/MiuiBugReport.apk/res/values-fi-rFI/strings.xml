@@ -131,7 +131,7 @@
   <string name="feedback_detail_tile">Edistyminen</string>
   <string name="feedback_empty_report_list">Ei raportteja vielä</string>
   <string name="feedback_guess">Arvauksemme</string>
-  <string name="feedback_history_remind_login_desc">Kirjaudu Mi Tiliisi nähdäksesi lisätietoja ja virheilmoituksesi edistymistä</string>
+  <string name="feedback_history_remind_login_desc">Kirjaudu Mi-tiliisi nähdäksesi lisätietoja ja virheilmoituksesi edistymistä</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Avain: %s</string>
   <string name="feedback_jira_key_place_holder">Luodaa Jiraa…</string>
@@ -139,7 +139,7 @@
   <string name="feedback_phone_model_label">Puhelimen malli</string>
   <string name="feedback_probability_label">Todennäköisyys</string>
   <string name="feedback_remind_login_btn">Kirjaudu</string>
-  <string name="feedback_report_remind_login_desc">Kirjaudu Mi Tiliisi, jotta meidän insinöörit voivat olla sinuun yhteydessä. Voit myös katsella raporttisi edistymistä täältä \"Minun raportit\"."</string>
+  <string name="feedback_report_remind_login_desc">Kirjaudu Mi-tiliisi, jotta meidän insinöörit voivat olla sinuun yhteydessä. Voit myös katsella raporttisi edistymistä täältä \"Minun raportit\"."</string>
   <string name="feedback_report_remind_login_desc2">Voit myös nähdä raporttisi etenemistä menemällä \"Raporttini\".</string>
   <string name="feedback_reproductivity_everytime">Aina</string>
   <string name="feedback_reproductivity_occasionally">Silloin tällöin</string>
@@ -201,7 +201,7 @@
   <string name="issue_search">Haku</string>
   <string name="kr_authorization_agree">Hyväksy</string>
   <string name="kr_authorization_contact">Tilit</string>
-  <string name="kr_authorization_contact_desc">Noutaakseen Mi Tilin tiedot ja vahvistaakseen tilisi</string>
+  <string name="kr_authorization_contact_desc">Noutaakseen Mi-tilin tiedot ja vahvistaakseen tilisi</string>
   <string name="kr_authorization_exit">Poistu</string>
   <string name="kr_authorization_log_protocol">Lokiprotokolla (valinnainen)</string>
   <string name="kr_authorization_log_protocol_desc">Jotta voimme parantaa sinulle tarjoamia palveluitamme, lähetämme käyttötiedot ja järjestelmän lokitiedot palvelimillemme. Nämä kohteet voivat sisältää henkilötietoja sekä tietoja laitteestasi ja verkostasi. Käytämme lähetettyjä kohteita analysoidaksemme ja paikallistaksemme järjestelmän ongelmia.</string>

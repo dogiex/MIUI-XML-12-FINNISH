@@ -90,7 +90,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="adb_install_open_error">Ei voitu sallia, tarkasta verkkoyhteytesi</string>
   <string name="adb_install_reject_notiy">%s ei sallittu asentaa USB:n kautta</string>
   <string name="adb_install_reject_notiy_desc">Voit sallia USB:ltä asentamisen Kehittäjäasetuksissa</string>
-  <string name="adb_login_xiaomi_account">Kirjaudu ensin Mi Tilillesi</string>
+  <string name="adb_login_xiaomi_account">Kirjaudu ensin Mi-tilillesi</string>
   <string name="add_done">Lisättiin onnistuneesti</string>
   <string name="add_game">Lisää peli</string>
   <string name="add_game_notification_summary">Käynnistä &amp; nopeuta suorituskykyä napauttamalla</string>
@@ -308,7 +308,7 @@ Et menetä sovellustietoja."</string>
   <string name="application_item_already_permission">Sallittu</string>
   <string name="application_item_disable">Rajoitettu</string>
   <string name="applock_add_account">Lisää</string>
-  <string name="applock_add_account_info">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, mikäli unohdat sen.</string>
+  <string name="applock_add_account_info">Lisää Mi-tilisi, jotta voit palauttaa salasanasi, mikäli unohdat sen.</string>
   <string name="applock_add_account_setting">Tili &amp; yksityisyys</string>
   <string name="applock_bind_account_title">Unohdin salasanani</string>
   <string name="applock_close_dialog_summary">Kaikki piilotetut sovellukset tulee näkyville, niiden Aloitusnäytön pikakuvakkeet palautetaan ja Sovelluslukon salasanasi poistetaan. Poistetaanko Sovelluslukko käytöstä?</string>
@@ -473,10 +473,10 @@ Et menetä sovellustietoja."</string>
   <string name="bg_network_exception_title">Rajoitettiin taustayhteys</string>
   <string name="bind_xiaomi_account_cancel">Peruuta</string>
   <string name="bind_xiaomi_account_confirm">Lisää</string>
-  <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen. Tili poistetaan automaattisesti jos kirjaudut ulos.</string>
-  <string name="bind_xiaomi_account_success">Mi Tili lisättiin onnistuneesti</string>
-  <string name="bind_xiaomi_account_summary">Käytä Mi Tiliä palauttaaksesi salasanasi</string>
-  <string name="bind_xiaomi_account_title">Lisää Mi Tili</string>
+  <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi-tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen. Tili poistetaan automaattisesti jos kirjaudut ulos.</string>
+  <string name="bind_xiaomi_account_success">Mi-tili lisättiin onnistuneesti</string>
+  <string name="bind_xiaomi_account_summary">Käytä Mi-tiliä palauttaaksesi salasanasi</string>
+  <string name="bind_xiaomi_account_title">Lisää Mi-tili</string>
   <string name="birthday">Syntymäpäivä</string>
   <string name="bl_no_blacklist">Ei estettyjä numeroita.</string>
   <string name="bl_no_block_call">Ei estettyjä puheluita.</string>
@@ -607,7 +607,7 @@ Et menetä sovellustietoja."</string>
   <string name="cmcc_app_check_dialog_positive">Käynnistä uudelleen nyt</string>
   <string name="cmcc_app_check_dialog_title">Järjestelmä korjattu</string>
   <string name="confirmSecondSpacePassword">Vahvista Toisen tilan salasana</string>
-  <string name="confirm_bind_xiaomi_account_dialog_title">Lisätään Mi Tili</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Lisätään Mi-tili</string>
   <string name="confirm_fingerprint_msg">Vahvista sormenjälkesi</string>
   <string name="confirm_prompt_all_permission">Kysytäänkö käyttöoikeuksia kaikille sovelluksille?</string>
   <string name="confirm_reject_all_permission">Estä kaikkia sovelluksia käyttämästä tätä toimintoa?</string>
@@ -1747,9 +1747,9 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="password_forget_pattern_message_none">Sovelluksia ei ole lukittu. Voit palauttaa salasanasi.</string>
   <string name="password_forget_pattern_reset">Palauta</string>
   <string name="password_forget_pattern_title">Huomio</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Lisää Mi-tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
   <string name="password_promotion_postbutton_text">Lisää</string>
-  <string name="password_promotion_title">Lisää Mi Tili</string>
+  <string name="password_promotion_title">Lisää Mi-tili</string>
   <string name="password_type">Vaihda salasana</string>
   <string name="password_type_underline">Vaihda salasana</string>
   <string name="password_xspace_forget_pattern_message">Vaihtaaksesi Toisen tilan salasanasi, sinun täytyy poistaa nykyinen Toinen tila ja luoda uusi.</string>
@@ -2049,7 +2049,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="privacy_dialog_message">Kun yhdistät internetiin, tämä viesti salataan ja lähetetään operaattorisi tietojen kanssa Mi:n palvelimille auttamaan meitä tilastoimaan datan käyttöä.</string>
   <string name="privacy_mode_dialog_title">Vieras tila</string>
   <string name="privacy_prompt_tc_sms_report_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta datan käytön tiedot voidaan päivittää.</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Kalibroinnin käynnistämisen jälkeen, MIUI yhdistää verkkoon, enkoodaa operaattorisi tiedot, puhelinnumerosi, IMEI-koodisi, ja Mi Tilisi ja lähettää ne Mi:n palvelimille. Tämä tehdään, jotta saadaan operaattorin kalibrointimalli ja opitaan, onko sijainnissasi mahdollista ostaa dataa.
+  <string name="privacy_prompt_traffic_adjust_message">"Kalibroinnin käynnistämisen jälkeen, MIUI yhdistää verkkoon, enkoodaa operaattorisi tiedot, puhelinnumerosi, IMEI-koodisi, ja Mi-tilisi ja lähettää ne Mi:n palvelimille. Tämä tehdään, jotta saadaan operaattorin kalibrointimalli ja opitaan, onko sijainnissasi mahdollista ostaa dataa.
 
 Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen kalibrointimallin."</string>
   <string name="privacy_prompt_upload">Lähetä</string>
@@ -2102,7 +2102,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="report_success">Viesti ilmoitettu</string>
   <string name="report_warning">Ilmoitetaanko %1$s tekstiviesti Mi:lle? Nämä viestit ja puhelinnumerot, josta ne lähetettiin, lähetetään Mi:n palvelimille tarkistettavaksi. Kaikki viestien henkilökohtaiset tiedot pidetään aina anonyyminä.</string>
   <string name="report_warning_title">Huomio</string>
-  <string name="reset_data_dialog_message">Tämä laite ei ole liitettynä Mi Tiliisi. Laitetta ei voi palauttaa tai salasanaa nollata. Varmuuskopioi kaikki tärkeät tiedot ja suorita tehdasasetuksien palauttaminen. Kaikki tietosi poistetaan pysyvästi ja SD-korttisi alustetaan tehdasasetuksien palauttamisen aikana.</string>
+  <string name="reset_data_dialog_message">Tämä laite ei ole liitettynä Mi-tiliisi. Laitetta ei voi palauttaa tai salasanaa nollata. Varmuuskopioi kaikki tärkeät tiedot ja suorita tehdasasetuksien palauttaminen. Kaikki tietosi poistetaan pysyvästi ja SD-korttisi alustetaan tehdasasetuksien palauttamisen aikana.</string>
   <string name="reset_data_dialog_ok">Tehdasasetuksien palautus</string>
   <string name="reset_data_title">Salasanaa ei voi palauttaa</string>
   <string name="result_autoscan_header">Maksujen seuranta</string>
@@ -2614,7 +2614,7 @@ Tässä ohjeet:
   <string name="title_block_calls_from_strangers">Missaatko tärkeitä puheluita?</string>
   <string name="title_chain_start">Rajoita ketjukäynnistystä</string>
   <string name="title_cleaner_cloudscan">Pilven roskien skannaus</string>
-  <string name="title_cloud_account">Mi Tili</string>
+  <string name="title_cloud_account">Mi-tili</string>
   <string name="title_cloud_service">Xiaomi Pilvi</string>
   <string name="title_cloud_space_almost_full">Pilven tallennustila on lähes täynnä, kohteita ei välttämättä synkronoida</string>
   <string name="title_cloud_space_full">Pilvi on täynnä</string>

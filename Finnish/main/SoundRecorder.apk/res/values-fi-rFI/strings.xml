@@ -93,9 +93,9 @@
   <string name="mark_point_list_title">Merkkauslista</string>
   <string name="menu">Valikko</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
-  <string name="mi_account_msg">Kirjaudu sisään Mi Tilillesi kirjoittaaksesi tiedostoja ja saadaksesi ensimmäiset 60 minuuttia veloituksetta.</string>
+  <string name="mi_account_msg">Kirjaudu sisään Mi-tilillesi kirjoittaaksesi tiedostoja ja saadaksesi ensimmäiset 60 minuuttia veloituksetta.</string>
   <string name="mi_account_ok">Kirjaudu sisään</string>
-  <string name="mi_account_title">Kirjaudu Mi Tilillä</string>
+  <string name="mi_account_title">Kirjaudu Mi-tilillä</string>
   <string name="network_tip_dialog_cancel">Älä hyväksy</string>
   <string name="network_tip_dialog_content">Ääninauhuri tarvitsee internetyhteyden toimiakseen normaalisti. Hyväksytäänkö?</string>
   <string name="network_tip_dialog_ok">Hyväksyn</string>

@@ -183,7 +183,7 @@
   <string name="security_permission_open_wifi_settings">Avaa Wi-Fi-asetukset</string>
   <string name="security_permission_validate_warning">Kiitos, että autat tekemään MIUI:sta paremman!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi ja mobiilidata otettu käyttöön</string>
-  <string name="security_permission_xiaomi_account_missed_text">Syötä Mi Tilisi ID</string>
+  <string name="security_permission_xiaomi_account_missed_text">Syötä Mi-tilisi ID</string>
   <string name="select">Valitse</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="send_files_to">Lähetä tiedostoja kohteeseen</string>
@@ -208,7 +208,7 @@
   <string name="standard_description">Mykistää saapuvien puheluiden ja ilmoituksien soittoäänet</string>
   <string name="standard_title">Äänetön</string>
   <string name="start_dump_log">Aloita hakemaan ongelmaan liittyvät lokit</string>
-  <string name="start_security_permission_verify_text">Varmenna käyttöoikeudet Mi Tiliä käyttäen</string>
+  <string name="start_security_permission_verify_text">Varmenna käyttöoikeudet Mi-tiliä käyttäen</string>
   <string name="status_bar_toggle_auto_brightness">Kirkkaus</string>
   <string name="status_bar_toggle_battery_saver">Virransäästö</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>

@@ -581,7 +581,7 @@
      <string name="lockscreen_access_pattern_start">Kuvio aloitettu</string>
      <string name="lockscreen_charging_msg">Ladataan</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %d kertaa. %d epäonnistuneen yrityksen jälkeen puhelin nollataan tehdasasetuksille ja kaikki käyttäjätiedot menetetään.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Olet antanut salasanasi virheellisesti %d kertaa. %d epäonnistuneen yrityksen jälkeen sinua pyydetään poistamaan puhelimen lukitus käyttäen Mi Tiliäsi.
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Olet antanut salasanasi virheellisesti %d kertaa. %d epäonnistuneen yrityksen jälkeen sinua pyydetään poistamaan puhelimen lukitus käyttäen Mi-tiliäsi.
 
      Yritä uudelleen %d sekunnin kuluttua."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %d kertaa. Puhelin nollataan nyt tehdasasetuksille.</string>

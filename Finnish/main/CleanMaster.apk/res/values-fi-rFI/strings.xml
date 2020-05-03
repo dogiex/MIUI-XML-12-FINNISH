@@ -553,7 +553,7 @@
   <string name="tips_low_storage_dialog_title">Tallennustila vähissä</string>
   <string name="tips_of_app_manage">Poista harvoin käytetyt sovellukset säästääksesi tallennustilaa</string>
   <string name="tips_of_auto_launch_manage">Estä harvoin käytettyjen sovelluksien automaattinen käynnistys</string>
-  <string name="tips_of_cloud_service">Kirjaudu sisään Mi Tililläsi käyttääksesi lisää Mi-palveluita</string>
+  <string name="tips_of_cloud_service">Kirjaudu sisään Mi-tililläsi käyttääksesi lisää Mi-palveluita</string>
   <string name="tips_of_connect">Yhdistä internetiin, jotta kaikki Turvallisuusominaisuudet voidaan ottaa käyttöön</string>
   <string name="tips_of_garbage_cloud_scan">Etsi piilotetut roskat pilviskannauksella</string>
   <string name="tips_of_garbage_data_set">Päivitä Puhdistajan tietokanta löytääksesi paremmin roskia laitteestasi</string>

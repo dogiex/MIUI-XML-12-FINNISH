@@ -259,7 +259,7 @@
     <string name="id_namespace">hungama</string>
     <string name="init_channels">Palauta oletukset</string>
     <string name="input_size_tips">Voit syöttää enintään 1000 merkkiä</string>
-    <string name="isornot_your_mi_account">Onko tämä Mi Tilisi?</string>
+    <string name="isornot_your_mi_account">Onko tämä Mi-tilisi?</string>
     <string name="issue">Ongelma</string>
     <string name="language_later_setting_tips">Voit vaihtaa kieliasetuksesi Profiili &gt; Kieli.</string>
     <string name="language_select_tips">"Valitse haluamasi kieli
@@ -568,7 +568,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="permission_storage">Tallennustila</string>
     <string name="permission_storage_desc">Käyttääkseen kohteita, tallentaakseen tiedostoja, näyttääkseen ja toistaakseen laitteella olevia videoita</string>
     <string name="permission_title">Käyttöoikeuksia vaaditaan</string>
-    <string name="phone_bind_too_many">Tämä puhelin on ollut käytössä usealla Mi Tilillä lyhyessä ajassa. Kokeile käyttää toista puhelinnumeroa.</string>
+    <string name="phone_bind_too_many">Tämä puhelin on ollut käytössä usealla Mi-tilillä lyhyessä ajassa. Kokeile käyttää toista puhelinnumeroa.</string>
     <string name="phone_hint">Puhelinnumero</string>
     <string name="phone_number">Puhelinnumero</string>
     <string name="ping_platform">SOVELLUS</string>

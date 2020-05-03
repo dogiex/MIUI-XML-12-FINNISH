@@ -276,7 +276,7 @@
   <string name="preferences_title">Asetukset</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="privacy_tip_cancel">Peruuta</string>
-  <string name="privacy_tip_content">Käytetäänkö Xunlei Kiihdyttäjää nopeuttaaksesi latauksia? Latauksen URL-osoite lähetetään Xunlein palvelimille. Mi Tilisi tiedot lähetetään myös ja tarkistetaan onko sinulla palvelussa aktiivisia tilauksia.</string>
+  <string name="privacy_tip_content">Käytetäänkö Xunlei Kiihdyttäjää nopeuttaaksesi latauksia? Latauksen URL-osoite lähetetään Xunlein palvelimille. Mi-tilisi tiedot lähetetään myös ja tarkistetaan onko sinulla palvelussa aktiivisia tilauksia.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Käytetäänkö Xunlei Kiihdyttäjää?</string>
   <string name="quit_btn">Poistu</string>
@@ -472,7 +472,7 @@
   <string name="vip_speedup">Nopeuden kiihdytys:</string>
   <string name="web_dialog_cancel">Peruuta</string>
   <string name="web_dialog_confirm">OK</string>
-  <string name="xiaomi_account_not_exist_message">Tämä Mi Tili ei ole olemassa</string>
+  <string name="xiaomi_account_not_exist_message">Tämä Mi-tili ei ole olemassa</string>
   <string name="xl_annual_vip_open">Vuosittainen jäsenyys (%1$s Mi Krediittiä tai %2$s kuukausittain)</string>
   <string name="xl_annual_vip_renew">Uusi yhdeksi vuodeksi (%1$s Mi Krediittiä tai %2$s kuukausittain)</string>
   <string name="xl_bind_account">Lisää olemassaoleva Xunlei Tili </string>

@@ -144,7 +144,7 @@
   <string name="usage_focus_title_level3">Nosta arkipäivän yläpuolelle</string>
   <string name="usage_focus_title_level4">Löydä iloa johdonmukaisuudesta</string>
   <string name="usage_focus_title_level5">Jatka olemalla keskittynyt</string>
-  <string name="usage_home_permission_account_summary">Kirjautumiseen Mi Tilille ja synkronoidakseen Ruutuajan tilastot</string>
+  <string name="usage_home_permission_account_summary">Kirjautumiseen Mi-tilille ja synkronoidakseen Ruutuajan tilastot</string>
   <string name="usage_home_permission_account_title">Tilitietojen käyttö</string>
   <string name="usage_home_permission_phone_summary">Tunnistaakseen tilisi käyttäen VAID</string>
   <string name="usage_home_permission_phone_title">Laitetietojen käyttö</string>

@@ -176,7 +176,7 @@
   <string name="gift_owned">Ostettu</string>
   <string name="gift_present">Anna lahja</string>
   <string name="gift_present_dlg_anonymous">Anonyymi lahja</string>
-  <string name="gift_present_dlg_input_hint">Mi Tilin ID/Puhelin</string>
+  <string name="gift_present_dlg_input_hint">Mi-tilin ID/Puhelin</string>
   <string name="gift_present_dlg_no_fee">Operaattorisi ei veloita sinua lahjojen lähettämisestä</string>
   <string name="gift_present_dlg_present_max_limit">Teemaa ei voi antaa lahjaksi, kuin enintään %1$s kertaa.</string>
   <string name="gift_present_dlg_share">Luo koodi ja lähetä lahja</string>
@@ -264,13 +264,13 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="lockstyle_personal_settings">Muokkaa</string>
   <string name="long_click_can_hide_resource">Paina ja pidä pohjassa piilottaaksesi kohteet</string>
   <string name="mi_wallpaper">MIUI taustakuva</string>
-  <string name="miuishare_account_activate_confirmation">Aktivoi Mi Tili</string>
+  <string name="miuishare_account_activate_confirmation">Aktivoi Mi-tili</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>
   <string name="miuishare_account_login_cancel">Peruuta</string>
-  <string name="miuishare_account_login_confirmation">Kirjaudu sisään Mi Tilille</string>
+  <string name="miuishare_account_login_confirmation">Kirjaudu sisään Mi-tilille</string>
   <string name="miuishare_account_login_ok">Kirjaudu sisään</string>
-  <string name="miuishare_account_need_activate">Weiboon jakaminen vaatii Weibo-tilin, joka on liitettynä Mi Tiliisi. Aktivoi Mi Tilisi jatkaaksesi.</string>
-  <string name="miuishare_account_need_login">Weiboon jakaminen vaatii Weibo-tilin, joka on liitettynä Mi Tiliisi. Kirjaudu sisään Mi Tiliisi jatkaaksesi.</string>
+  <string name="miuishare_account_need_activate">Weiboon jakaminen vaatii Weibo-tilin, joka on liitettynä Mi-tiliisi. Aktivoi Mi-tilisi jatkaaksesi.</string>
+  <string name="miuishare_account_need_login">Weiboon jakaminen vaatii Weibo-tilin, joka on liitettynä Mi-tiliisi. Kirjaudu sisään Mi-tiliisi jatkaaksesi.</string>
   <string name="miuishare_app_name">MIUI Jakaminen</string>
   <string name="miuishare_mini_program_title">Katso taustakuva, jonka löysin!</string>
   <string name="miuishare_no_network">Verkkoyhteyttä ei voitu muodostaa.</string>
@@ -348,7 +348,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_account_abnormal_state">Tilivirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="resource_account_fail_to_add">Tilin lisääminen epäonnistui</string>
   <string name="resource_account_login">Kirjaudu sisään</string>
-  <string name="resource_account_login_before_action">Kirjaudu Mi Tiliisi nyt</string>
+  <string name="resource_account_login_before_action">Kirjaudu Mi-tiliisi nyt</string>
   <string name="resource_account_login_title">Kirjaudu sisään</string>
   <string name="resource_account_switch">Vaihda</string>
   <string name="resource_alarm_default">Herätys</string>
@@ -680,7 +680,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="title_system_audio_notification_resource">Järjestelmän ilmoitukset</string>
   <string name="title_system_audio_resource">Järjestelmän soittoäänet</string>
   <string name="title_system_wallpaper_resource">Järjestelmän taustakuvat</string>
-  <string name="to_activate_the_account">Aktivoi Mi Tilisi nyt</string>
+  <string name="to_activate_the_account">Aktivoi Mi-tilisi nyt</string>
   <string name="transparency_pref_summary">Valitse kuinka läpinäkyvän haluat taustakuvasi olevan</string>
   <string name="transparency_pref_title">Läpinäkyvyyden taso</string>
   <string name="transparent_wallpaper">Läpinäkyvä taustakuva</string>

@@ -47,7 +47,7 @@
   <string name="at_least_one">Valitse ainakin yksi kategoria</string>
   <string name="auto_interval">Aina, kun laitteen lukitus avataan</string>
   <string name="back_icon_content_description">Takaisin</string>
-  <string name="bind_sign_in_title">Liitä Mi Tiliin</string>
+  <string name="bind_sign_in_title">Liitä Mi-tiliin</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_international">Peruuta</string>
   <string name="cancel_lockscreen">Peruuta</string>
@@ -169,7 +169,7 @@
   <string name="idbct_opt_high_def_desc_text">Lataa aina HD-kuvia</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
   <string name="idbct_title">Verkon tyypit</string>
-  <string name="isornot_your_mi_account">Onko tämä Mi Tilisi?</string>
+  <string name="isornot_your_mi_account">Onko tämä Mi-tilisi?</string>
   <string name="like">Lisää suosikkeihin</string>
   <string name="liked">Lisättiin suosikkeihin</string>
   <string name="lks_left_net_deny">Verkkoyhteys on rajoitettu</string>
@@ -315,7 +315,7 @@
   <string name="shortcut_created">Pikakuvake luotiin onnistuneesti</string>
   <string name="shortcut_exist">Pikakuvake on jo olemassa</string>
   <string name="shortcut_failed">Pikakuvaketta ei voitu luoda</string>
-  <string name="sign_in_title">Kirjaudu sisään käyttäen Mi Tiliäsi</string>
+  <string name="sign_in_title">Kirjaudu sisään käyttäen Mi-tiliäsi</string>
   <string name="sliding_on_unlock">Poista lukitus pyyhkäisemällä ylös</string>
   <string name="sns_sign_in">Muita tapoja kirjautua</string>
   <string name="sst_auto_recommand_desc">Tilaa suosikkikategoriasi vastaanottaaksesi tuoreita kuvia ja tarinoita laitteesi Lukitusnäytölle päivittäin.</string>

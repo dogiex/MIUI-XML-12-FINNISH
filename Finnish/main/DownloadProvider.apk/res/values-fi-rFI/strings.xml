@@ -68,7 +68,7 @@
   <string name="privacy_notif_content">Näytä tiedot napauttamalla.</string>
   <string name="privacy_notif_title">Xunlei Latauksen Kiihdyttäjä on käytössä</string>
   <string name="privacy_tip_cancel">Peruuta</string>
-  <string name="privacy_tip_content">Käytetäänkö latausten nopeuttamiseksi Xunlei Kiihdyttäjää? Latauksen URL-osoite lähetetään Xunlei:n palvelimille. Mi Tilisi tiedot lähetetään myös Xunlei palvelimille, jotta voidaan tarkistaa palvelusi jäsenyys.</string>
+  <string name="privacy_tip_content">Käytetäänkö latausten nopeuttamiseksi Xunlei Kiihdyttäjää? Latauksen URL-osoite lähetetään Xunlei:n palvelimille. Mi-tilisi tiedot lähetetään myös Xunlei palvelimille, jotta voidaan tarkistaa palvelusi jäsenyys.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Käytetäänkö Xunlei Latauksen Kiihdyttäjää?</string>
   <string name="recommended_file_size_download_in_mobile">Käytetäänkö %s mobiilidataa tämän tiedoston lataamiseen?</string>

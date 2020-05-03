@@ -78,7 +78,7 @@
   <string name="app_permission_require">Pakolliset käyttöoikeudet</string>
   <string name="app_permission_use_desc">Käyttöoikeudet</string>
   <string name="app_permission_use_group_account">Tilit</string>
-  <string name="app_permission_use_group_account_desc">Hakeakseen Mi Tilin tietoja</string>
+  <string name="app_permission_use_group_account_desc">Hakeakseen Mi-tilin tietoja</string>
   <string name="app_permission_use_group_phone">Puhelin</string>
   <string name="app_permission_use_group_phone_desc">Google Push-palveluita varten</string>
   <string name="app_permission_use_group_storage">Tallennustila</string>
@@ -345,7 +345,7 @@
   <string name="fail_to_play">Kappaletta ei voi soittaa</string>
   <string name="failed_not_access_sd_card">Sälli ensin SD-kortin käyttö</string>
   <string name="failed_obtain_permissions">Käyttöoikeuksia ei saatu</string>
-  <string name="fav_login_msg">Kirjaudu sisään Mi Tililläsi ladataksesi kappaleita</string>
+  <string name="fav_login_msg">Kirjaudu sisään Mi-tililläsi ladataksesi kappaleita</string>
   <string name="favorite_canceled">Poistettiin suosikeista</string>
   <string name="favorite_playlist">Suosikit</string>
   <string name="favorite_singer">Suosikkiartistit</string>
@@ -511,7 +511,7 @@
   <string name="music_settings">Musiikki</string>
   <string name="mv_metered_play_summary">Älä näytä tiedonsiirtovaroitusta</string>
   <string name="mv_metered_play_title">Toista online-videot käyttäen mobiilidataa</string>
-  <string name="my_account">Mi Tili</string>
+  <string name="my_account">Mi-tili</string>
   <string name="my_music_empty">Soittolista on tyhjä.</string>
   <string name="my_music_empty_goto_online">Kappaleita ei löytynyt</string>
   <string name="my_playlist_add_song">Lisää kappaleita</string>
@@ -810,7 +810,7 @@ Ole onnellinen"</string>
   <string name="title_search_history">Hakuhistoria</string>
   <string name="title_search_hot">Suosittu</string>
   <string name="toast_download_error_by_count_limit">Olet käyttänyt tämän kuukauden latauksien määrän.</string>
-  <string name="toast_download_error_by_not_login">Kirjaudu Mi Tilille ja yritä uudelleen.</string>
+  <string name="toast_download_error_by_not_login">Kirjaudu Mi-tilille ja yritä uudelleen.</string>
   <string name="toast_download_error_by_vip_required">Hanki Premium-tason Kappalepaketti ladataksesi tämän kappaleen.</string>
   <string name="toast_download_in_process">Lataus kesken</string>
   <string name="toast_is_pro">Olet jo PRO-jäsen.</string>

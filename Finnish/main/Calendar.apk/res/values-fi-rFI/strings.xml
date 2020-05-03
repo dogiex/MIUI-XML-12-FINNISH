@@ -245,13 +245,13 @@
   <string name="menu_reminder_preferences">Muistutukset</string>
   <string name="missing_name">(Ei nimeä)</string>
   <string name="missing_required_permission">Olet rajoittanut vaadittavia käyttöoikeuksia.</string>
-  <string name="miuishare_account_activate_confirmation">Aktivoi Mi Tili</string>
+  <string name="miuishare_account_activate_confirmation">Aktivoi Mi-tili</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>
   <string name="miuishare_account_login_cancel">Peruuta</string>
-  <string name="miuishare_account_login_confirmation">Kirjaudu Mi Tilille</string>
+  <string name="miuishare_account_login_confirmation">Kirjaudu Mi-tilille</string>
   <string name="miuishare_account_login_ok">Kirjaudu sisään</string>
-  <string name="miuishare_account_need_activate">Weiboon jakaminen vaatii Weibo-tilin, joka on linkitetty Mi Tiliisi. Jatka aktivoimalla Mi Tilisi.</string>
-  <string name="miuishare_account_need_login">Weiboon jakaminen vaatii Weibo-tilin, joka on linkitetty Mi Tiliisi. Jatka kirjautumalla sisään Mi Tiliisi.</string>
+  <string name="miuishare_account_need_activate">Weiboon jakaminen vaatii Weibo-tilin, joka on linkitetty Mi-tiliisi. Jatka aktivoimalla Mi-tilisi.</string>
+  <string name="miuishare_account_need_login">Weiboon jakaminen vaatii Weibo-tilin, joka on linkitetty Mi-tiliisi. Jatka kirjautumalla sisään Mi-tiliisi.</string>
   <string name="miuishare_app_name">MIUI Jakaminen</string>
   <string name="miuishare_no_network">Verkkoyhteyttä ei voitu muodostaa.</string>
   <string name="miuishare_publish">Lähetä</string>
@@ -522,7 +522,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="widget_no_events">Ei tapahtumia</string>
   <string name="widget_select_style">Valitse tyyli</string>
   <string name="work_day_default_banner_title">Tuottavaa työpäivää!</string>
-  <string name="xiaomi_calendar_display_name">Mi Tilin Kalenteri</string>
+  <string name="xiaomi_calendar_display_name">Mi-tilin Kalenteri</string>
   <string name="yearly">Vuosittain (%s)</string>
   <string name="yearly_plain">Vuosittain</string>
 </resources>

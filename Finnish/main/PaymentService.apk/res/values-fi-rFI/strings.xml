@@ -108,7 +108,7 @@ Kirjaudu sisään uudelleen."</string>
   <string name="mibi_error_account_changed_title">Tili on muuttunut</string>
   <string name="mibi_error_account_throtting">"Tilisi ei ole turvallinen.
 Ota yhteyttä asiakaspalveluumme"</string>
-  <string name="mibi_error_auth_summary">Kirjaudu Mi Tilillesi uudelleen</string>
+  <string name="mibi_error_auth_summary">Kirjaudu Mi-tilillesi uudelleen</string>
   <string name="mibi_error_cert_date_summary">"Varmenteen päiväysvirhe.
 Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_error_common_summary">Järjestelmävirhe. Yritä myöhemmin uudelleen.</string>
@@ -229,13 +229,13 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_password_error">Virheellinen salasana.</string>
   <string name="mibi_password_forget">unohtuiko?</string>
   <string name="mibi_password_hint">Syötä tilin salasana</string>
-  <string name="mibi_password_prompt">Turvataksesi ostoksesi, vahvista Mi Tilisi</string>
+  <string name="mibi_password_prompt">Turvataksesi ostoksesi, vahvista Mi-tilisi</string>
   <string name="mibi_pay_grid_error_denomination">Summan täytyy olla %1$s ja %2$s Mi Kolikon välillä.</string>
   <string name="mibi_pay_success_summary">Maksoit %1$s Mi Kolikkoa</string>
   <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Kolikkoa ladattu，%2$s Mi Kolikkoa maksettu</string>
   <string name="mibi_payment_recharge_group_title">Valitse top-up method</string>
   <string name="mibi_payment_success_title">Maksu vastaanotettu</string>
-  <string name="mibi_payment_with_login_title">Vahvista Mi Tili</string>
+  <string name="mibi_payment_with_login_title">Vahvista Mi-tili</string>
   <string name="mibi_paytool_alipay">Alipay</string>
   <string name="mibi_paytool_app_not_installed">Et ole asentanut %1$s. Ladataanko ja asennetaanko se nyt?</string>
   <string name="mibi_paytool_error_install">%1$s mobiilitietoturvalisäosan asennus epäonnistui</string>
@@ -350,9 +350,9 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_web_sso_login_fail">Sinun täytyy kirjutua sisään uudelleen</string>
   <string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
-  <string name="passport_account_hint_text">Sähköpostiosoite, puhelinnumero tai Mi Tilin ID</string>
+  <string name="passport_account_hint_text">Sähköpostiosoite, puhelinnumero tai Mi-tilin ID</string>
   <string name="passport_account_identity_title">Todenna henkilöllisyytesi</string>
-  <string name="passport_account_label">Mi Tili</string>
+  <string name="passport_account_label">Mi-tili</string>
   <string name="passport_account_name">Tili: %1$s</string>
   <string name="passport_account_not_activated">Tiliä ei ole aktivoitu</string>
   <string name="passport_account_not_actived">Tiliäsi ei ole aktivoitu</string>
@@ -385,7 +385,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_delete_account">Kirjaudu ulos</string>
   <string name="passport_downlink_reg">Luo tili käyttämällä puhelinnumeroa</string>
   <string name="passport_email">Sähköpostiosoite</string>
-  <string name="passport_email_or_id_hint_text">Sähköpostiosoite tai Mi Tilin ID</string>
+  <string name="passport_email_or_id_hint_text">Sähköpostiosoite tai Mi-tilin ID</string>
   <string name="passport_email_reg_success_summary">%1$s on liitetty tiliisi. Voit käyttää sitä kirjautuaksesi tai palauttaaksesi salasanasi.</string>
   <string name="passport_error_auth_fail">Istunto vanhentui, kirjaudu sisään myöhemmin uudelleen</string>
   <string name="passport_error_device_id">Laitteen ID-numeroa ei saatu</string>
@@ -421,7 +421,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_getting_verify_code">Noudetaan</string>
   <string name="passport_i_know">Selvä</string>
   <string name="passport_identification_expired">Vahvistuskoodi vanhentunut, aloita alusta</string>
-  <string name="passport_imei_permission_denied_message">Pyydetään käyttöoikeutta käyttää laitteesi IMEI-koodia. Mi Tili käyttää IMEI-koodia tunnistaakseen laitteen, jolla kirjaudut tai teet tilin auttaakseen sinua pitämään Mi Tilin turvallisena.</string>
+  <string name="passport_imei_permission_denied_message">Pyydetään käyttöoikeutta käyttää laitteesi IMEI-koodia. Mi-tili käyttää IMEI-koodia tunnistaakseen laitteen, jolla kirjaudut tai teet tilin auttaakseen sinua pitämään Mi-tilin turvallisena.</string>
   <string name="passport_imei_permission_denied_title">IMEI-koodin Käyttöoikeuden Pyyntö</string>
   <string name="passport_input_captcha_hint">Syötä koodi</string>
   <string name="passport_input_password_for_login">Tämä numero on liitettynä jo olemassa olevaan tiliin, syötä salasanasi</string>
@@ -435,16 +435,16 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_login_instead_reg">Käytä tätä numeroa</string>
   <string name="passport_login_instead_reg_with_email">Käytä tätä sähköpostia</string>
   <string name="passport_login_other_account">Toinen tili</string>
-  <string name="passport_login_prompt">Yksi Mi Tili. Kaikki Mi palvelut.</string>
+  <string name="passport_login_prompt">Yksi Mi-tili. Kaikki Mi palvelut.</string>
   <string name="passport_login_recycle_account_no">Ei</string>
   <string name="passport_login_recycle_account_yes">Kyllä</string>
-  <string name="passport_login_title">Kirjaudu Mi Tilillesi</string>
+  <string name="passport_login_title">Kirjaudu Mi-tilillesi</string>
   <string name="passport_login_using_other_ways">Muita tapoja kirjautua</string>
   <string name="passport_message_dialog_title">Tekstiviesti vahvistuskoodeilla</string>
   <string name="passport_next">Seuraava</string>
   <string name="passport_no">Ei</string>
   <string name="passport_notification_title">Kirjautumisvirhe %1$s</string>
-  <string name="passport_password_phone_login">Kirjaudu sisään käyttäen Mi Tiliä</string>
+  <string name="passport_password_phone_login">Kirjaudu sisään käyttäen Mi-tiliä</string>
   <string name="passport_password_req_notice">Salasana täytyy olla 8-16 merkkiä pitkä ja sisältää sekä numeroita, että kirjaimia (merkin koolla väliä).</string>
   <string name="passport_phone_num_hint_text">Puhelinnumero</string>
   <string name="passport_phone_ticket_login">Kirjaudu sisään tekstiviestillä</string>
@@ -459,15 +459,15 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_quick_login_step2_title">2-vaihe tunnistus</string>
   <string name="passport_quick_login_title">Syötä salasanasi</string>
   <string name="passport_quick_register">Rekisteröidy</string>
-  <string name="passport_quick_register_notice">Eikö sinulla ole Mi Tiliä? Luo sellainen.</string>
+  <string name="passport_quick_register_notice">Eikö sinulla ole Mi-tiliä? Luo sellainen.</string>
   <string name="passport_re_get_verify_code">Hae koodi uudelleen</string>
   <string name="passport_re_register">Rekisteröidy uudelleen</string>
-  <string name="passport_recycle_account_prompt">Onko tämä Mi Tilisi?</string>
+  <string name="passport_recycle_account_prompt">Onko tämä Mi-tilisi?</string>
   <string name="passport_recycle_login_other_account">Ei ole minun. Käytän toista.</string>
   <string name="passport_reg_btn_using_other_phone">Käytä toista puhelinnumeroa</string>
   <string name="passport_reg_failed">Tiliä ei voi rekisteröidä</string>
   <string name="passport_reg_new_account">Luo tili</string>
-  <string name="passport_reg_prompt">Eikö sinulla ole Mi Tiliä? Luo sellainen ilmaiseksi.</string>
+  <string name="passport_reg_prompt">Eikö sinulla ole Mi-tiliä? Luo sellainen ilmaiseksi.</string>
   <string name="passport_reg_recycle_account_no">Ei</string>
   <string name="passport_reg_recycle_account_yes">Kyllä</string>
   <string name="passport_reg_success">Tili luotu</string>
@@ -498,7 +498,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_reset_password_title">Palauta salasana</string>
   <string name="passport_restart">Aloita alusta</string>
   <string name="passport_restart_register_prompt">Tilisi luomista varten saatetaan tarvita toinen vahvistusviesti.</string>
-  <string name="passport_restart_register_title">Luo Mi Tili</string>
+  <string name="passport_restart_register_title">Luo Mi-tili</string>
   <string name="passport_retry">Yritä uudelleen</string>
   <string name="passport_select_reg_ways_title">Muita tapoja rekisteröityä</string>
   <string name="passport_select_the_login_account">Valitse tili, jolla kirjaudutaan</string>
@@ -512,11 +512,11 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_setting">Asetetaan…</string>
   <string name="passport_skip_login">Ohita</string>
   <string name="passport_skip_register">Ohita rekisteröinti</string>
-  <string name="passport_skip_setup_account_msg">Voit asettaa Mi Tilin myöhemmin Asetuksissa.</string>
+  <string name="passport_skip_setup_account_msg">Voit asettaa Mi-tilin myöhemmin Asetuksissa.</string>
   <string name="passport_skip_setup_account_title">Ohita määritys</string>
   <string name="passport_sms_send_success">Lähetetty</string>
   <string name="passport_sync_account_data">Synkronoidaan tilitietoja…</string>
-  <string name="passport_sync_account_data_failed_warning">Tilitietojasi synkronoidaan tällä hetkellä. Voit kirjautua sisään käyttäen Mi Tilisi ID:tä. Jos haluat kirjautua sisään käyttäen puhelinnumeroasi tai sähköpostiosoitettasi, odota kunnes tiedot on kokonaan synkronoitu.</string>
+  <string name="passport_sync_account_data_failed_warning">Tilitietojasi synkronoidaan tällä hetkellä. Voit kirjautua sisään käyttäen Mi-tilisi ID:tä. Jos haluat kirjautua sisään käyttäen puhelinnumeroasi tai sähköpostiosoitettasi, odota kunnes tiedot on kokonaan synkronoitu.</string>
   <string name="passport_title_reg">Luo tili</string>
   <string name="passport_trust_device">Lisää tämä laite luotettuihin laitteisiin</string>
   <string name="passport_trying_read_verify_code_sms">Haetaan vahvistuskoodia…</string>
@@ -530,7 +530,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_user_agreement_p2">Käyttöehdot</string>
   <string name="passport_user_agreement_p3"> ja </string>
   <string name="passport_user_agreement_p4">Tietosuojakäytännön</string>
-  <string name="passport_user_id_notice">Mi Tilisi ID on %s.</string>
+  <string name="passport_user_id_notice">Mi-tilisi ID on %s.</string>
   <string name="passport_user_reg_region">Maa/Alue</string>
   <string name="passport_user_reg_region_warning">Et voi vaihtaa maatasi/aluettasi tilisi luonnin jälkeen."</string>
   <string name="passport_vcode_notification_title">Kirjautumisesi vahvistus on kesken</string>

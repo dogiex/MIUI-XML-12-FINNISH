@@ -125,7 +125,7 @@
   <string name="access_control_no_back_footer">Napauta [icon] poistuaksesi</string>
   <string name="access_control_password_title">Salasana</string>
   <string name="access_control_recording_intro_header">Piirrä kuvio avataksesi:</string>
-  <string name="access_control_reset_by_account">Kirjaudu Mi Tilillesi palauttaaksesi salasanasi</string>
+  <string name="access_control_reset_by_account">Kirjaudu Mi-tilillesi palauttaaksesi salasanasi</string>
   <string name="access_point_names">Tukiasemien nimet</string>
   <string name="accessibility_autoclick_delay_preference_title">Viive ennen klikkausta</string>
   <string name="accessibility_autoclick_preference_title">Klikkaa, kun osoitin ei enää liiku</string>
@@ -904,8 +904,8 @@ Sovellukset:
   <string name="billing_cycle_fragment_summary">Kuukausi, alkaa päivänä %1$s</string>
   <string name="billing_cycle_summary">Kuukauden jakso alkaa joka kuukauden %1$s päivänä.</string>
   <string name="bind_xiaomi_account_confirm">Lisää</string>
-  <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi Tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
-  <string name="bind_xiaomi_account_success">Mi Tili lisätty onnistuneesti</string>
+  <string name="bind_xiaomi_account_dialog_summery">Olet lisäämässä Mi-tiliä %s. Jos unohdat salasanasi, voit käyttää tätä tiliä palauttaaksesi sen.</string>
+  <string name="bind_xiaomi_account_success">Mi-tili lisätty onnistuneesti</string>
   <string name="biometric_weak_improve_matching_title">Paranna kasvojentunnistusta</string>
   <string name="biometric_weak_liveliness_summary">Vaatii silmien räpyttelyn lukituksen poistamisessa</string>
   <string name="biometric_weak_liveliness_title">Oikean henkilön tarkistus</string>
@@ -1191,11 +1191,11 @@ Siirtonopeus"</string>
   <string name="bootloader_apply_step_4">Se saattaa johtaa tiedostojen katoamiseen tai laitteiston hajoamiseen.</string>
   <string name="bootloader_apply_step_5">Varmista, että tiedät miten Fastboot-tilaa käytetään, ennen kuin otat sen käyttöön.</string>
   <string name="bootloader_apply_title">Tärkeä varoitus</string>
-  <string name="bootloader_device_bind_already">Lisättiin onnistuneesti. Mi Tili on nyt liitettynä tämän laitteen kanssa.</string>
+  <string name="bootloader_device_bind_already">Lisättiin onnistuneesti. Mi-tili on nyt liitettynä tämän laitteen kanssa.</string>
   <string name="bootloader_device_bind_exceed_sim_limit">Tälle SIM-kortille ei voi lisätä enempää tilejä.</string>
   <string name="bootloader_device_bind_fail">Vahvistaminen epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="bootloader_device_bind_msg">Valmistellaan lisäämään tiliä ja laitetta…</string>
-  <string name="bootloader_device_bind_no_account">Kirjaudu Mi Tilillesi ensin</string>
+  <string name="bootloader_device_bind_no_account">Kirjaudu Mi-tilillesi ensin</string>
   <string name="bootloader_device_bind_no_network">Yhdistä verkkoon ja yritä uudelleen</string>
   <string name="bootloader_device_bind_no_sim">Aseta SIM-kortti ja yritä uudelleen.</string>
   <string name="bootloader_device_bind_server_code">Ei voitu lisätä. Virhekoodi:</string>
@@ -1204,9 +1204,9 @@ Siirtonopeus"</string>
   <string name="bootloader_locked_answer_1_warning">Muista: Et voi käyttää \"Etsi laite\" ominaisuutta puhelimen lukituksen avaamisen jälkeen.</string>
   <string name="bootloader_locked_answer_2">"1. Varmista, että olet asettanut jo SIM-kortin laitteeseesi.
 2. Poista Wi-Fi käytöstä ja ota mobiilidata käyttöön. Varmista, että laitteesi voi yhdistää internetiin käyttäen mobiilidataa.
-3. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
+3. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi-tilisi laitteen kanssa.
 4. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
-  <string name="bootloader_locked_answer_2_no_sim">"1. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
+  <string name="bootloader_locked_answer_2_no_sim">"1. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi-tilisi laitteen kanssa.
 2. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
   <string name="bootloader_locked_check_status">Lisää tili ja laite</string>
   <string name="bootloader_locked_question_1">Miksi laitteiden täytyy olla lukittu?</string>
@@ -1215,7 +1215,7 @@ Siirtonopeus"</string>
   <string name="bootloader_status_locked">Lukittu</string>
   <string name="bootloader_status_locked_info">Tämä laite on lukittu</string>
   <string name="bootloader_status_locked_summary">Puhelin on turvassa</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlockin tulee saada Mi Tilisi, CPU ID:si, IMEI:si, IMSI:si käyttöoikeus toimiakseen oikein. Keräämme, käytämme ja käsittelemme tietojasi %s mukaisesti. Hyväksytkö?</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlockin tulee saada Mi-tilisi, CPU ID:si, IMEI:si, IMSI:si käyttöoikeus toimiakseen oikein. Keräämme, käytämme ja käsittelemme tietojasi %s mukaisesti. Hyväksytkö?</string>
   <string name="bootloader_status_privacy_dialog_no">Peruuta</string>
   <string name="bootloader_status_privacy_dialog_title">Käyttöoikeuksia vaaditaan</string>
   <string name="bootloader_status_privacy_dialog_url_text">Tietosuojakäytäntö</string>
@@ -1226,9 +1226,9 @@ Siirtonopeus"</string>
   <string name="bootloader_summary">Asenna laitteesi USB:n kautta</string>
   <string name="bootloader_tips">"%s
 
-Jos olet jo tehnyt jonkun yllä mainituista asioista, lisää Mi Tilisi uudelleen; muussa tapauksessa et voi avata laitettasi."</string>
+Jos olet jo tehnyt jonkun yllä mainituista asioista, lisää Mi-tilisi uudelleen; muussa tapauksessa et voi avata laitettasi."</string>
   <string name="bootloader_tips_ok">Selvä</string>
-  <string name="bootloader_tips_warning">Älä katkaise verkkoyhteyttä, kirjaudu ulos Mi Tililtäsi, suorita tehdasasetuksien palautusta tai poista järjestelmätietoja.</string>
+  <string name="bootloader_tips_warning">Älä katkaise verkkoyhteyttä, kirjaudu ulos Mi-tililtäsi, suorita tehdasasetuksien palautusta tai poista järjestelmätietoja.</string>
   <string name="breathing_light_color_menu_title">Valon väri</string>
   <string name="breathing_light_color_summary">Valon väri, kun saat uuden ilmoituksen</string>
   <string name="breathing_light_freq_summary">Vilkuta valoa, kun saat uusia ilmoituksia</string>
@@ -1942,7 +1942,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dial_application_title">Soita</string>
   <string name="dial_pad_tones_title">Näppäimistön näppäinäänet</string>
   <string name="dialog_chose_item">Valitse näytettävä kohde</string>
-  <string name="dialog_content_login">Päivitetäänkö kirjautumalla Mi Tilillesi?</string>
+  <string name="dialog_content_login">Päivitetäänkö kirjautumalla Mi-tilillesi?</string>
   <string name="dialog_no">Ei</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobiilidatayhteys rajoitetaan kaikille sovelluksille tämän jälkeen.</string>
   <string name="dialog_restrict_all_mobile_title">Rajoita %s mobiilidatayhteys</string>
@@ -1952,7 +1952,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dialog_restrict_positive">Peruuta</string>
   <string name="dialog_title_color_calibration">Värinkorjauksen esiasetus</string>
   <string name="dialog_title_hdmi_color_calibration">Värinkorjauksen esiasetus</string>
-  <string name="dialog_title_login">Kirjaudu Mi Tiliisi</string>
+  <string name="dialog_title_login">Kirjaudu Mi-tiliisi</string>
   <string name="dialog_yes">Kyllä</string>
   <string name="direct_boot_unaware_dialog_message">Huom: Uudelleenkäynnistyksen jälkeen tämä sovellus ei toimi, ennen kuin poistat puhelimesi lukituksen.</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -2496,8 +2496,8 @@ Kaupungissa ei näkynyt hevosia tai muita eläimiä: tavaroita kuljetettiin pien
   <string name="forget_password_dialog_content_two">Seuraa näitä vaiheita tietojen poistamiseen:</string>
   <string name="forget_password_dialog_title">Nollaa tiedot</string>
   <string name="forget_pattern"><u>Unohtuiko kuvio?</u></string>
-  <string name="forget_privacy_password_setting">Lisää Mi Tili</string>
-  <string name="forget_privacy_password_summary">Käytä Mi Tiliäsi salasanan palauttamiseen</string>
+  <string name="forget_privacy_password_setting">Lisää Mi-tili</string>
+  <string name="forget_privacy_password_summary">Käytä Mi-tiliäsi salasanan palauttamiseen</string>
   <string name="forget_wifi_message">Laitteesi ei enää yhdistä automaattisesti tähän verkkoon.</string>
   <string name="found_new_version">Päivitys saatavilla</string>
   <string name="fourhours">2 tuntia</string>
@@ -3217,8 +3217,8 @@ PIN-koodi"</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="lockscreen_settings_title">Lukitusnäytön asetukset</string>
-  <string name="login_account_dialog_message">Kirjaudu sisään Mi Tililläsi ja ota pilven synkronointi käyttöön.</string>
-  <string name="login_account_dialog_title">Kirjaudu sisään Mi Tilillä</string>
+  <string name="login_account_dialog_message">Kirjaudu sisään Mi-tililläsi ja ota pilven synkronointi käyttöön.</string>
+  <string name="login_account_dialog_title">Kirjaudu sisään Mi-tilillä</string>
   <string name="login_account_summary">Hallinnoi tilejä, pilvipalveluita, maksuja ja paljon muuta</string>
   <string name="login_action">Kirjaudu sisään</string>
   <string name="long_press_back_key">Paina Takaisin-painiketta pitkään</string>
@@ -4424,9 +4424,9 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_notes">Muistiot</string>
   <string name="privacy_password">Yksityisyydensuojan salasana</string>
   <string name="privacy_password_add_account">Lisää</string>
-  <string name="privacy_password_add_account_info">Lisää Mi Tili siltä varalta, että unohdat sen ja joudut palauttamaan salasanasi</string>
+  <string name="privacy_password_add_account_info">Lisää Mi-tili siltä varalta, että unohdat sen ja joudut palauttamaan salasanasi</string>
   <string name="privacy_password_add_account_setting">Tili &amp; yksityisyys</string>
-  <string name="privacy_password_bind_account">Lisää Mi Tili</string>
+  <string name="privacy_password_bind_account">Lisää Mi-tili</string>
   <string name="privacy_password_bind_account_immediate">Lisää</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Vahvista Toisen tilan salasana</string>
   <string name="privacy_password_confirm_use_finger">Avaa lukitus sormenjäljellä</string>
@@ -4441,8 +4441,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_password_never_remind">Älä kysy uudelleen</string>
   <string name="privacy_password_not_add_account">Ei nyt</string>
   <string name="privacy_password_not_login_account">Et ole kirjautunut</string>
-  <string name="privacy_password_remind_bind_notlogin_account">Lisää Mi Tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
-  <string name="privacy_password_remind_bindaccount_title">Lisää Mi Tili</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Lisää Mi-tilisi, jotta voit palauttaa salasanasi, jos unohdat sen.</string>
+  <string name="privacy_password_remind_bindaccount_title">Lisää Mi-tili</string>
   <string name="privacy_password_settings">Käytä Yksityisyydensuojan salasanaa</string>
   <string name="privacy_password_settings_next">Seuraava</string>
   <string name="privacy_password_settings_summary">Yksityisyydensuojan salasanaa käytetään sovelluksissa, jotka saattavat sisältää arkaluontoisia tietoja</string>
@@ -4466,10 +4466,10 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_thumbnail_blur_title">Sumenna sovelluksien esikatselu</string>
   <string name="private_gallery_need_to_unlock">Salasana vaaditaan:</string>
   <string name="private_gallery_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
-  <string name="private_gallery_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>
+  <string name="private_gallery_reset_by_account">Sinun on kirjauduttava Mi-tilillesi, jotta voit palauttaa salasanasi</string>
   <string name="private_sms_need_to_unlock">Salasana vaaditaan:</string>
   <string name="private_sms_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
-  <string name="private_sms_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>
+  <string name="private_sms_reset_by_account">Sinun on kirjauduttava Mi-tilillesi, jotta voit palauttaa salasanasi</string>
   <string name="process_dex2oat_label">Sovellusoptimointi</string>
   <string name="process_mediaserver_label">Mediapalvelin</string>
   <string name="process_provider_in_use_description">Palveluntarjoaja %1$s on käytössä.</string>
@@ -4681,7 +4681,7 @@ Käynnistä laite uudelleen ja yritä sitten uudelleen."</string>
   <string name="reset_second_space_passwd">Nollaa Toisen tilan salasana</string>
   <string name="reset_second_space_passwd_cancel">Peruuta</string>
   <string name="reset_second_space_passwd_confirm">Jatka</string>
-  <string name="reset_second_space_passwd_detail">Syötä Ensimmäisen tilan Mi Tilin salasana</string>
+  <string name="reset_second_space_passwd_detail">Syötä Ensimmäisen tilan Mi-tilin salasana</string>
   <string name="reset_shortcut_manager_throttling">Nollaa ShortcutManagerin kutsurajoitus</string>
   <string name="reset_shortcut_manager_throttling_complete">ShortcutManagerin kutsurajoitus nollattiin.</string>
   <string name="resetting_second_space_passwd">Nollataan Toisen tilan salasanaa</string>
@@ -5114,7 +5114,7 @@ Näytön kiinnittäminen:
   <string name="search_trusted_credentials">Luotetut todennustiedot;Sovelluksen allekirjoitus;Sovelluksien allekirjoitukset;Todennustiedot;Allekirjoitus</string>
   <string name="search_tts_settings_title">Teksti puheeksi -toisto;Teksti puheeksi</string>
   <string name="search_turn_on_security_lock">Valitse näytön lukitus;Näytön lukitus;Lisää näytön lukitus;näytönlukitus</string>
-  <string name="search_unlogin_account_title">Mi Tili;Mi Tilin ID;Tili;Tilin ID;Xiaomi Tili;Tilin suojaus;Suojaa tili;Tilin tietoturva;Tilini</string>
+  <string name="search_unlogin_account_title">Mi-tili;Mi-tilin ID;Tili;Tilin ID;Xiaomi Tili;Tilin suojaus;Suojaa tili;Tilin tietoturva;Tilini</string>
   <string name="search_usb_tethering_button_text">USB jakaminen;jakaminen;USB</string>
   <string name="search_user_agreement">Palveluehdot</string>
   <string name="search_user_dict_settings_title">Henkilökohtainen sanakirja;Sanakirja</string>
@@ -5144,7 +5144,7 @@ Näytön kiinnittäminen:
   <string name="search_wifi_wapi_cert_install">Asenna WAPI varmenne;WAPI varmenteet;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Poista WAPI varmenne;WAPI varmenteet;WAPI</string>
   <string name="search_wps_connect_title">WPS painike;Yhdistä WPS;WPS</string>
-  <string name="search_xiaomi_account">Mi Tili;Mi Tilin ID;Tili;Tilin ID;Mi-tili;Xiaomi tili;Tili suojaus;Suojaa tili;Tilin turvallisuus;Tilini</string>
+  <string name="search_xiaomi_account">Mi-tili;Mi-tilin ID;Tili;Tilin ID;Mi-tili;Xiaomi tili;Tili suojaus;Suojaa tili;Tilin turvallisuus;Tilini</string>
   <string name="search_xspace">Kaksoissovellus;Kaksoissovellukset;Kaksi sovellusta;Kloonaa sovellus;Kloonaa sovelluksia;Sovelluksen klooni;Sovelluksen kloonit;Kaksi tiliä;2 tiliä</string>
   <string name="second_space">Toinen tila</string>
   <string name="secondspace_category">Toinen tila</string>
@@ -5997,7 +5997,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_of_auto_launch_manage">Automaattinen käynnistys</string>
   <string name="to_close">Poista käytöstä</string>
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>
-  <string name="toast_need_login">Kirjaudu sisään Mi Tilillesi</string>
+  <string name="toast_need_login">Kirjaudu sisään Mi-tilillesi</string>
   <string name="toast_sta_ap_works_wifi_display_disable">Ei voi suoratoistaa, kun Wi-Fi-yhteys on muodostettu ja hotspot on käytössä.</string>
   <string name="toggle_auto_speaker_preference_summary">Laite vaihtaa kaiuttimelle, kun siirrät sitä kauemmaksi korvaltasi puhelun aikana. Tämä ominaisuus toimii vain, kun TalkBack on käytössä.</string>
   <string name="toggle_auto_speaker_preference_title">Vaihda kaiuttimelle automaattisesti</string>
@@ -6179,8 +6179,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>
-  <string name="unlogin_account_summary">Kaikki Mi-palvelut. Yksi Mi Tili.</string>
-  <string name="unlogin_account_title">Kirjaudu sisään Mi Tiliin</string>
+  <string name="unlogin_account_summary">Kaikki Mi-palvelut. Yksi Mi-tili.</string>
+  <string name="unlogin_account_title">Kirjaudu sisään Mi-tiliin</string>
   <string name="unmount_inform_text">USB-tallennustila poistetaan käytöstä</string>
   <string name="unmute_sound_title">Poista mykistys</string>
   <string name="unrestrict_max_aspect_ratio_title">Nämä sovellukset ovat optimoitu kokonäyttötilaa varten</string>
@@ -7014,7 +7014,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "<b>Takaisin</b>.</string>
   <string name="wifi_share">Jaa Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Lopeta verkkojen jakaminen</string>
   <string name="wifi_share_action_turn_on">Jaa Wi-Fi</string>
-  <string name="wifi_share_action_turn_on_summary">Jakaaksesi, kirjaudu sisään Mi Tilillesi</string>
+  <string name="wifi_share_action_turn_on_summary">Jakaaksesi, kirjaudu sisään Mi-tilillesi</string>
   <string name="wifi_share_add">Jaa julkiset verkkoni</string>
   <string name="wifi_share_add_summary">Kun jaat julkiset verkkosi, voi käyttää muiden käyttäjien jakamia verkkoja myös.</string>
   <string name="wifi_share_connect">Yhdistä</string>
@@ -7161,7 +7161,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "<b>Takaisin</b>.</string>
   <string name="write_settings_title">Voi muokata järjestelmäasetuksia</string>
   <string name="write_system_settings">Muokkaa järjestelmäasetuksia</string>
   <string name="wrong_pin_code_pukked">Virheellinen SIM-kortin PIN-koodi. Sinun on nyt otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</string>
-  <string name="xiaomi_account">Mi Tili</string>
+  <string name="xiaomi_account">Mi-tili</string>
   <string name="xiaomi_cloud_service">Xiaomi Pilvi</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Pilvi synkronoi kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>

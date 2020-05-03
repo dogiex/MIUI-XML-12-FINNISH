@@ -68,7 +68,7 @@ Huomio: Asennettujen sovellusten datatietoja ei varmuuskopioida Xiaomi Pilveen. 
   <string name="cloud_back_up_opening">Odota hetki…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Päivitä</string>
   <string name="cloud_back_up_subscribe_vip_discription">Hanki lisää tallennustilaa, päivittäiset varmuuskopioinnit ja paljon muuta.</string> 
-  <string name="cloud_back_up_subscribe_vip_title">Päivitä Mi Tili</string>
+  <string name="cloud_back_up_subscribe_vip_title">Päivitä Mi-tili</string>
   <string name="cloud_back_up_task">Varmuuskopioidaan…</string>
   <string name="cloud_backup">Pilven varmuuskopiot</string>
   <string name="cloud_backup_derail_size_summary">Koko: %s</string>
@@ -145,7 +145,7 @@ Huomio: Asennettujen sovellusten datatietoja ei varmuuskopioida Xiaomi Pilveen. 
   <string name="msg_restore_with_metered_network_hint">Jos jatkat näiden kohteiden palauttamista, lataamiseen käytetään mobiilidataa.</string>
   <string name="msg_restore_with_metered_network_pattern">%s edestä tiedostoja ladataan.</string>
   <string name="network_error">Yhdistä verkkoon</string>
-  <string name="no_account">Et ole kirjautuneena Mi Tiliin.</string>
+  <string name="no_account">Et ole kirjautuneena Mi-tiliin.</string>
   <string name="no_backup">Ei varmuuskopioita Xiaomi Pilvessä.</string>
   <string name="notification_channel_remind">Muistutus</string>
   <string name="notification_channel_service">Palvelu</string>

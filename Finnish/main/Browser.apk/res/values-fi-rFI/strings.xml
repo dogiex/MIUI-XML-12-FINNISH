@@ -343,7 +343,7 @@ tukeaksesi työtämme"</string>
     <string name="empty_app_name">Muu sovellus</string>
     <string name="empty_bookmark">Tyhjä</string>
     <string name="empty_cloud_tab_login_hint">Ei pilvivälilehtiä</string>
-    <string name="empty_cloud_tab_logout_hint">"Kirjaudu Mi Tilillesi
+    <string name="empty_cloud_tab_logout_hint">"Kirjaudu Mi-tilillesi
 katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="empty_history_hint">Historia on tyhjä</string>
     <string name="empty_snapshot_hint">Tyhjä</string>
@@ -353,10 +353,10 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="enter_the_group_name">Anna ryhmän nimi</string>
     <string name="enter_the_password">Anna salasana</string>
     <string name="enter_the_user_name">Anna käyttäjänimi</string>
-    <string name="error_forbidden">Synkronointi on otettu pois käytöstä, koska Mi Tililläsi ilmeni ongelmia.</string>
+    <string name="error_forbidden">Synkronointi on otettu pois käytöstä, koska Mi-tililläsi ilmeni ongelmia.</string>
     <string name="error_not_acceptable">Synkronointi on pois käytöstä.</string>
     <string name="error_title">Synkronointi epäonnistui</string>
-    <string name="error_unauthorized">Synkronointi Mi Tililläsi on otettu pois käytöstä liian monen kirjautumisyrityksen takia.</string>
+    <string name="error_unauthorized">Synkronointi Mi-tililläsi on otettu pois käytöstä liian monen kirjautumisyrityksen takia.</string>
     <string name="exit">Poistu</string>
     <string name="exit_browser_confirmation">Paina uudelleen palataksesi takaisin työpöydälle</string>
     <string name="exit_browser_warning">Poistutaanko Selaimesta nyt?</string>
@@ -437,7 +437,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="menu_title_resume_all">Aloita kaikki</string>
     <string name="message_notice_push">Koe henkilökohtaisia tietojani</string>
     <string name="miui_autologin_bar_error">Kirjautuminen epäonnistui</string>
-    <string name="miui_autologin_bar_title">Kirjaudu sisään Mi Tilillä</string>
+    <string name="miui_autologin_bar_title">Kirjaudu sisään Mi-tilillä</string>
     <string name="miui_bookmark_action_bar_new_group_title">Uusi ryhmä</string>
     <string name="miui_startpage">Kotisivu</string>
     <string name="miuishare_account_activate_confirmation">Aktivointi vaaditaan</string>
@@ -445,8 +445,8 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="miuishare_account_login_cancel">Peruuta</string>
     <string name="miuishare_account_login_confirmation">Kirjaudu sisään ensin</string>
     <string name="miuishare_account_login_ok">Kirjaudu sisään</string>
-    <string name="miuishare_account_need_activate">Weibo tili pitää linkittää sinun Mi Tilin kanssa. Kirjaudutaanko sisään Mi Tilillesi?</string>
-    <string name="miuishare_account_need_login">Weibo tili pitää linkittää nykyisen Mi Tilin kanssa. Kirjaudutaanko sisään nyt?</string>
+    <string name="miuishare_account_need_activate">Weibo tili pitää linkittää sinun Mi-tilin kanssa. Kirjaudutaanko sisään Mi-tilillesi?</string>
+    <string name="miuishare_account_need_login">Weibo tili pitää linkittää nykyisen Mi-tilin kanssa. Kirjaudutaanko sisään nyt?</string>
     <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_dialog_cancel">Peruuta</string>
     <string name="miuishare_no_network">Verkkoon yhdistäminen epäonnistui</string>

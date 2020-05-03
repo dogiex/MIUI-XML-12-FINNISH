@@ -41,7 +41,7 @@
   <string name="action_settings_description">Asetukset</string>
   <string name="actionbar_close_description">Sulje</string>
   <string name="actionbar_home_description">Takaisin</string>
-  <string name="add_account_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa?</string>
+  <string name="add_account_desc">Synkronoidaanko muistiosi Mi-tilisi kanssa?</string>
   <string name="alarm_bar_title">Muistutus</string>
   <string name="alert_action_edit_anyway">Jatka muokkaamista</string>
   <string name="alert_message_delete">Poistetaanko %1$s?</string>
@@ -99,7 +99,7 @@
   <string name="done">Valmis</string>
   <string name="edit_header_done_description">Valmis</string>
   <string name="enable_sync">Synkronoi</string>
-  <string name="enable_sync_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa (%1$s)?</string>
+  <string name="enable_sync_desc">Synkronoidaanko muistiosi Mi-tilisi kanssa (%1$s)?</string>
   <string name="error_contact_not_exist">Yhteystietoa ei ole olemassa</string>
   <string name="error_hide_empty_note">Tyhjää muistiota ei voi piilottaa</string>
   <string name="error_note_empty_for_clock">Muistutusaikaa ei voi asettaa tyhjälle muistiolle</string>

@@ -39,8 +39,8 @@
   <string name="add_organization">Lisää organisaatio</string>
   <string name="add_to_my_contacts">Lisää yhteystietoihin</string>
   <string name="add_wait">Lisää viive</string>
-  <string name="add_xiaomi_account_dialog_btn">Käytä Mi Tiliä</string>
-  <string name="add_xiaomi_account_dialog_msg">Parhaaseen käyttökokemukseen pääset käyttäen Mi Tiliä yhteystietojen synkronointiin ja varmuuskopiointiin sekä käsittelemään yhteystietoja tietokoneella.</string>
+  <string name="add_xiaomi_account_dialog_btn">Käytä Mi-tiliä</string>
+  <string name="add_xiaomi_account_dialog_msg">Parhaaseen käyttökokemukseen pääset käyttäen Mi-tiliä yhteystietojen synkronointiin ja varmuuskopiointiin sekä käsittelemään yhteystietoja tietokoneella.</string>
   <string name="add_xiaomi_account_dialog_title">Valitse tili</string>
   <string name="aggregation_suggestion_edit_dialog_message">Haluatko muokata valittuja yhteystietoja? Antamasi tiedot kopioidaan.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Sama nimi</string>
@@ -231,7 +231,7 @@
   <string name="contact_detail_miprofile_accept_fail_toast">Yhteystietokortteja ei voitu vaihtaa</string>
   <string name="contact_detail_miprofile_accept_success_toast">Yhteystietokortit vaihdettu</string>
   <string name="contact_detail_miprofile_binded_label">Verified</string>
-  <string name="contact_detail_miprofile_exchange_closed">Tähän Mi Tiliin ei ole liitettynä puhelinnumeroa
+  <string name="contact_detail_miprofile_exchange_closed">Tähän Mi-tiliin ei ole liitettynä puhelinnumeroa
 Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_detail_miprofile_privacy_settings">Vaadi käyttölupaa katsoessa</string>
   <string name="contact_detail_miprofile_request">Vaihda yhteystietokortteja</string>
@@ -566,11 +566,11 @@ Syy: %s"</string>
   <string name="import_sim_contacts_hint_title">Tuo SIM-kortin yhteytietoja</string>
   <string name="import_sim_entries_finish">SIM-kortin yhteystietojen tuonti onnistui</string>
   <string name="import_sim_entry_miui">Tuo</string>
-  <string name="import_to_xiaomi_account_confirm">Tuo Mi Tilille</string>
+  <string name="import_to_xiaomi_account_confirm">Tuo Mi-tilille</string>
   <string name="import_to_xiaomi_account_progress_finish">Tuonti onnistui!</string>
   <string name="import_to_xiaomi_account_progress_message">Tuodaan…</string>
-  <string name="import_to_xiaomi_account_progress_title">Tuo yhteystiedot Mi Tilille</string>
-  <string name="import_to_xiaomi_account_title">Tuo Mi Tilille</string>
+  <string name="import_to_xiaomi_account_progress_title">Tuo yhteystiedot Mi-tilille</string>
+  <string name="import_to_xiaomi_account_title">Tuo Mi-tilille</string>
   <string name="import_vcard_description">Tuo yhteystiedot laitteesi tallennustilasta</string>
   <string name="import_vcard_dialog_message">Tuo vCard?</string>
   <string name="importing_sim_contacts_miui">Tuodaan yhteystiedot SIM-kortilta…</string>
@@ -685,7 +685,7 @@ Odota…"</string>
   <string name="miprofile_alertdialog_edit">Syötä nimi</string>
   <string name="miprofile_alertdialog_message">Näytä tämä nimi yhteystiedoille, kun pyydät vaihtamaan käyntikortteja.</string>
   <string name="miprofile_alertdialog_title">Syötä nimi</string>
-  <string name="miprofile_bind_account_alertdialog_message">Sinun täytyy syöttää tämän laitteen puhelinnumero Mi Tilillesi, jotta voit käyttää tätä toimintoa.</string>
+  <string name="miprofile_bind_account_alertdialog_message">Sinun täytyy syöttää tämän laitteen puhelinnumero Mi-tilillesi, jotta voit käyttää tätä toimintoa.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Lisää numero</string>
   <string name="miprofile_bind_account_alertdialog_title">Lisää puhelinnumero</string>
   <string name="miprofile_contact_add">Lisää</string>
@@ -695,7 +695,7 @@ Odota…"</string>
   <string name="miprofile_contact_verifying">Todennetaan</string>
   <string name="miprofile_edit_title">Muokkaa profiilia</string>
   <string name="miprofile_error_accept_self">Sinun käyntikorttiasi ei voida vaihtaa</string>
-  <string name="miprofile_error_no_miaccount">Kirjaudu sisään Mi Tilillesi</string>
+  <string name="miprofile_error_no_miaccount">Kirjaudu sisään Mi-tilillesi</string>
   <string name="miprofile_error_not_opened">Poista käyntikortit käytöstä</string>
   <string name="miprofile_error_not_set">Sinun käyntikorttia ei ole synkronoitu palvelimelle</string>
   <string name="miprofile_error_unknown">Tuntematon virhe</string>
@@ -768,7 +768,7 @@ Odota…"</string>
   <string name="nickname_picker_nickname_column">Otsikko</string>
   <string name="noAccounts">Tarvitset tilin ryhmien luomiseen.</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Palauta yhteystiedot Mi Tililtä</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Palauta yhteystiedot Mi-tililtä</string>
   <string name="noContacts">Ei kontakteja</string>
   <string name="noContactsWithPhoneNumbers">Ei yhteystietoja puhelinnumerolla</string>
   <string name="noFavoritesHelpText">"Sinulla ei ole yhtään suosikkeja.
@@ -889,9 +889,9 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="pref_key_sim_manage">SIM-kortit</string>
   <string name="pref_key_sim_manage1">Määritä SIM-kortti 1</string>
   <string name="pref_key_sim_manage2">Määritä SIM-kortti 2</string>
-  <string name="pref_summary_import_from_account">Tuo yhteystiedot Google- ja Exchange-tileiltä Mi Tilille</string>
+  <string name="pref_summary_import_from_account">Tuo yhteystiedot Google- ja Exchange-tileiltä Mi-tilille</string>
   <string name="pref_title_account_import">Tuo yhteystietoja</string>
-  <string name="pref_title_import_from_account">Tuo Mi Tililtä</string>
+  <string name="pref_title_import_from_account">Tuo Mi-tililtä</string>
   <string name="preference_auto_ip_summary_disable">Pois päältä</string>
   <string name="preference_auto_ip_summary_on">Operaattorin IP-etuliite: %s</string>
   <string name="preference_auto_ip_title">Automaattinen IP-etuliite</string>
