@@ -474,7 +474,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_sim_state_ready">SIM-kortti valmis</string>
   <string name="cit_sim_state_unkown">Tuntematon</string>
   <string name="cit_slider_hall_miui_test_summary">"Suorita koko puhelimen ylös- ja alasliu'untaoperaatio."</string>
-  <string name="cit_slider_hall_test_summary">Suorita koko puhelimen ylös- ja alasliu'untaoperaatio."</string>
+  <string name="cit_slider_hall_test_summary">"Suorita koko puhelimen ylös- ja alasliu'untaoperaatio."</string>
   <string name="cit_slider_hall_test_title">Liukusäädin</string>
   <string name="cit_soft_torch">Etu pehmeä salamaled</string>
   <string name="cit_soft_torch_off">Poista pehmeä salamavalo käytöstä</string>
