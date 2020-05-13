@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- 8.9.17 -->
-    <plurals name="foundTooManyContacts_plurals">
-        <item quantity="other">Löydettiin enemmän kuin %d yhteystietoa.</item>
-        <item quantity="one">Löydettiin enemmän kuin %d yhteystieto.</item>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Tunti sitten</item>
     </plurals>
-    <plurals name="label_duplicate_count_plurals">
-        <item quantity="other">(%1$d)</item>
-        <item quantity="one">(%1$d)</item>
-    </plurals>
-    <plurals name="merge_contact_message_plurals">
-        <item quantity="other">%1$d yhteystietoa, joilla osittain identtiset tiedot</item>
-        <item quantity="one">%1$d yhteystieto, jolla osittain identtiset tiedot</item>
-    </plurals>
-    <plurals name="select_all_exceed_plurals">
-        <item quantity="other">Valitse enintään %1$d, et voi valita kaikkia</item>
-        <item quantity="one">Valitse enintään %1$d, et voi valita kaikkia</item>
-    </plurals>
-    <plurals name="select_exceed_plurals">
-        <item quantity="other">Valitse enintään %1$d</item>
-        <item quantity="one">Valitse enintään %1$d</item>
-    </plurals>
-    <!-- // 8.9.17 // -->
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Tunti sitten</item>
     </plurals>
@@ -38,15 +19,15 @@
         <item quantity="other">Heti</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%1$d minuutin kuluttua</item>
-        <item quantity="one">%1$d minuutin kuluttua</item>
+        <item quantity="other">$d minuutin kuluttua</item>
+        <item quantity="one">$d minuutin kuluttua</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Juuri nyt</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%1$d minuuttia sitten</item>
-        <item quantity="one">%1$d minuutti sitten</item>
+        <item quantity="other">$d minuuttia sitten</item>
+        <item quantity="one">Minuutti sitten</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Poistetaanko %1$d yhteystietoa?</item>
@@ -92,6 +73,10 @@
         <item quantity="other">SIM-kortti voi varastoida %1$d yhteystietoa.</item>
         <item quantity="one">SIM-kortti voi varastoida %1$d yhteystiedon.</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Löydettiin enemmän kuin %d yhteystietoa.</item>
+        <item quantity="one">Löydettiin enemmän kuin %d yhteystieto.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d yhteystietoa lisätty</item>
         <item quantity="one">%1$d yhteystieto lisätty</item>
@@ -103,6 +88,9 @@
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d numeroa</item>
         <item quantity="one">%1$d numero</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Puoli tuntia sitten</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">Löytyi %1$d kohdetta</item>
@@ -120,25 +108,37 @@
         <item quantity="other">%1$d numeroa</item>
         <item quantity="one">%1$d numero</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d löytyi</item>
-        <item quantity="one">1 löytyi</item>
+    <plurals name="in_a_hour">
+        <item quantity="other">Tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Puolen tunnin kuluttua</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Heti</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">Minuutin kuluttua</item>
+    </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Juuri nyt</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d yhteystietoa</item>
-        <item quantity="one">1 yhteystieto</item>
+        <item quantity="one">%d yhteystieto</item>
     </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d yhteystietoa puhelinnumerolla</item>
-        <item quantity="one">1 yhteystieto puhelinnumerolla</item>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d yhteystietoa osittain identtisillä tiedoilla</item>
+        <item quantity="one">%1$d yhteystieto osittain identtisillä tiedoilla</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">yhdistetty %0$d lähteestä</item>
-        <item quantity="one">ei yhdistetty</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d ääniviestiä</item>
-        <item quantity="one">Ääniviesti</item>
+        <item quantity="other">Yhdistetty %0$d lähteestä</item>
+        <item quantity="one">Ei yhdistetty</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d valittua</item>
@@ -150,8 +150,12 @@
         <item quantity="one">%1$d henkilö kohteesta %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d ryhmää</item>
-        <item quantity="one">1 ryhmä</item>
+        <item quantity="other">%d ryhmää</item>
+        <item quantity="one">%d ryhmä</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">Minuutti sitten</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d kohdetta jäljellä</item>
@@ -179,8 +183,17 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d löytyi</item>
-        <item quantity="one">1 löytyi</item>
-    </plurals><plurals name="smart_group_member_count">
+        <item quantity="one">%d löytyi</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Valitse enintään %1$d, et voi valita kaikkia</item>
+        <item quantity="one">Valitse enintään %1$d, et voi valita kaikkia</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Valitse enintään %1$d</item>
+        <item quantity="one">Valitse enintään %1$d</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
         <item quantity="other">%1$d henkilöä</item>
         <item quantity="one">%1$d henkilö</item>
     </plurals>

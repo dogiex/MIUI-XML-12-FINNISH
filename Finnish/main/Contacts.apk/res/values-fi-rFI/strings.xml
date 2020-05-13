@@ -1,12 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="callrecordview_menu_identify_numbers">Tunnista puhelinnumerot</string>
-  <string name="contact_detail_calllog_correct_yellow_page">Oikein tai ilmoita</string>
-  <string name="contact_detail_more_calllog">Näytä lisää</string>
-  <string name="yellowpage_address_tag">Osoite</string>
-  <string name="yellowpage_provider_label">Tiedot tarjoaa</string>
-  <string name="conference_call_disable_tip">Puheluita ei voi soittaa. Varmista, että laitteesi on yhdistettynä 4G-verkkoon, joka tukee VoLTE:a.</string>
-  <string name="contact_detail_entry_pay_request">Pyydä rahaa</string>
+	<string name="abc_action_bar_home_description">Siirry etusivulle</string>
+	<string name="abc_action_bar_up_description">Siirry ylös</string>
+	<string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+	<string name="abc_action_mode_done">Valmis</string>
+	<string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+	<string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+	<string name="abc_capital_off">POIS PÄÄLTÄ</string>
+	<string name="abc_capital_on">PÄÄLLÄ</string>
+	<string name="abc_menu_alt_shortcut_label">Alt+</string>
+	<string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+	<string name="abc_menu_delete_shortcut_label">delete</string>
+	<string name="abc_menu_enter_shortcut_label">enter</string>
+	<string name="abc_menu_function_shortcut_label">Fn+</string>
+	<string name="abc_menu_meta_shortcut_label">Meta+</string>
+	<string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+	<string name="abc_menu_space_shortcut_label">välilyönti</string>
+	<string name="abc_menu_sym_shortcut_label">Sym+</string>
+	<string name="abc_prepend_shortcut_label">Valikko+</string>
+	<string name="abc_search_hint">Haku…</string>
+	<string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+	<string name="abc_searchview_description_query">Hakukysely</string>
+	<string name="abc_searchview_description_search">Haku</string>
+	<string name="abc_searchview_description_submit">Lähetä kysely</string>
+	<string name="abc_searchview_description_voice">Puhehaku</string>
+	<string name="abc_shareactionprovider_share_with">Jaa…</string>
+	<string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+	<string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="accessibility_calllog_detail">Puheluhistorian tiedot</string>
   <string name="accessibility_contact_detail">Yhteystiedon tiedot</string>
   <string name="account_container_title">Tuotu</string>
@@ -19,6 +39,7 @@
   <string name="account_type_format">%1$s-osoite</string>
   <string name="actionIncomingCall">Saapuvat puhelut</string>
   <string name="action_menu_overflow_description">Lisää asetuksia</string>
+  <string name="actionbar_button_up_description">Takaisin</string>
   <string name="activity_title_confirm_add_detail">Lisää yhteystietoon</string>
   <string name="activity_title_contacts_filter">Näytettävät yhteystiedot</string>
   <string name="activity_title_settings">Asetukset</string>
@@ -42,12 +63,15 @@
   <string name="add_xiaomi_account_dialog_btn">Käytä Mi-tiliä</string>
   <string name="add_xiaomi_account_dialog_msg">Parhaaseen käyttökokemukseen pääset käyttäen Mi-tiliä yhteystietojen synkronointiin ja varmuuskopiointiin sekä käsittelemään yhteystietoja tietokoneella.</string>
   <string name="add_xiaomi_account_dialog_title">Valitse tili</string>
+  <string name="afternoon">Iltapäivä</string>
   <string name="aggregation_suggestion_edit_dialog_message">Haluatko muokata valittuja yhteystietoja? Antamasi tiedot kopioidaan.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Sama nimi</string>
   <string name="aggregation_suggestion_join_dialog_message">Yhdistetäänkö valittu kontakti nykyiseen kontaktiin?</string>
+  <string name="ai_calllog_call_record_menu">AI-puhelun nauhoitus</string>
   <string name="all_list_empty">Ei yhteystietoja</string>
   <string name="antispam_mark_my_contribution">Näytä muille käyttäjille, että olen ilmoittanut tämän numeron.</string>
   <string name="antispam_provider_format">%s on ilmoittanut tämän spämmiksi</string>
+  <string name="app_name">Asetus</string>
   <string name="attach_photo_dialog_title">Yhteyshenkilön valokuva</string>
   <string name="audio_chat">Äänikeskustelu</string>
   <string name="auto_nickname">Auto</string>
@@ -55,6 +79,11 @@
   <string name="back_description">Takaisin</string>
   <string name="back_view_description">Siirry takaisin</string>
   <string name="batch_delete">Yhteystietojen poisto</string>
+  <string name="bind_simcard_default">Oletus SIM puheluille</string>
+  <string name="bind_simcard_menu">Aseta oletus SIM puheluille</string>
+  <string name="bind_simcard_no_dual">Dual SIM-korttia ei löytynyt</string>
+  <string name="bind_simcard_not_set">Ei asetettu</string>
+  <string name="bind_simcard_title">Oletus SIM puheluille</string>
   <string name="blacklist">Estä</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth-yhteys keskeytyi</string>
   <string name="blurbJoinContactDataWith">Valitse kontakti, jonka haluat yhdistää kontaktiin %s:</string>
@@ -69,7 +98,7 @@
   <string name="callAgain">Soita uudelleen</string>
   <string name="callBack">Soita takaisin</string>
   <string name="callDetailTitle">Puhelun tiedot</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
+  <string name="callDetailsDurationFormat">%s min %s s</string>
   <string name="callShortcutActivityTitle">Valitse vastaanottajan numero</string>
   <string name="call_assistant">Soita: %s</string>
   <string name="call_callback">Soita takaisinsoittonumeroon</string>
@@ -127,6 +156,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Lähtevä: "</string>
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Lisää puhelumuistio</string>
+  <string name="callrecordview_menu_aiphone">AI-puhelut</string>
   <string name="callrecordview_menu_batch_delete">Poista valitut</string>
   <string name="callrecordview_menu_blocklist">Estolista</string>
   <string name="callrecordview_menu_conference">Konferenssipuhelu</string>
@@ -141,6 +171,7 @@
   <string name="callrecordview_menu_delete_sim">Poista puheluhistoriat (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Poista tuntemattomat numerot</string>
   <string name="callrecordview_menu_edit_call_note">Muokkaa puhelumuistiota</string>
+  <string name="callrecordview_menu_identify_numbers">Tunnista puhelinnumerot</string>
   <string name="callrecordview_menu_ip">Auto IP-soittaminen</string>
   <string name="callrecordview_menu_livetalk">Top-up paketti</string>
   <string name="callrecordview_menu_misim">Mi SIM-kortti</string>
@@ -184,10 +215,11 @@
   <string name="clear_copy_number_description">Tyhjennä kopioitu numero</string>
   <string name="clear_default">Poista oletus</string>
   <string name="clear_digits">Poista puhelinnumero</string>
+  <string name="clearable_edittext_clear_description">Tyhjennä</string>
   <string name="click_close">Sulje koskettamalla</string>
   <string name="clip_dialog_title">Soitetaanko kopioituun numeroon?</string>
-  <string name="close_dial_pad">Sulje numeronsyöttö</string>
-  <string name="cloud_antispam_mark">Raportoi</string>
+  <string name="close_dial_pad_description">Sulje numeronäppäimistö</string>
+  <string name="cloud_antispam_mark">Merkitse</string>
   <string name="cloud_antispam_marked">Merkattu</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
   <string name="cloud_recommend_msg">Synkronoi yhteystiedot pilveen koskettamalla.</string>
@@ -195,15 +227,17 @@
   <string name="cloud_state_loading">Ladataan…</string>
   <string name="cloud_state_sync_finished">Synkronoitu pilven kanssa</string>
   <string name="cloud_state_syncing">Synkronoidaan pilven kanssa</string>
+  <string name="cloud_upgrade_recommend">Yhteystietoja ei voi synkronoida riittämättömän pilven tallennustilan vuoksi. Päivitä pilven tallennustilan sunnitelma.</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Tietokannan tietojen hakeminen epäonnistui.</string>
   <string name="composer_has_no_exportable_contact">Vietäviä yhteystietoja ei ole. Jos laitteessasi on yhteystietoja, tietojen tarjoaja on saattanut estää niiden viemisen laitteen ulkopuolelle.</string>
   <string name="composer_not_initialized">vCard-luonti ei käynnistynyt oikein.</string>
-  <string name="config_export_file_extension">vcf</string>
+  <string name="conference_call_disable_tip">Puheluja ei voi soittaa. Varmista, että laitteesi on yhdistettynä 4G-verkkoon ja että siinä on VoLTE-tuki.</string>
   <string name="confirm_call_log_dial_summary">Kysy vahvistusta ennen puheluiden soittamista puheluhistoriassa, estääkseen vahinkopuhelut.</string>
   <string name="confirm_call_log_dial_title">Vahvista soitot puheluhistoriasta</string>
+  <string name="confirm_delete_cloud_all_call_logs">Poistetaanko yhteystiedon %s kaikki puheluhistoria sekä pilvestä, että tältä laitteelta?</string>
   <string name="confirm_delete_contact_all_call_logs">Poistetaanko kaikki puheluhistoriat?</string>
   <string name="confirm_delete_selected_all_call_logs">Poistetaanko kaikki puheluhistoria?</string>
   <string name="confirm_delete_sim_entry_miui_title">Poista</string>
@@ -223,9 +257,11 @@
   <string name="contact_detail_action_item_nocalllog">Ei Puhelulokia</string>
   <string name="contact_detail_calllog_call_note_tips">Muistio</string>
   <string name="contact_detail_calllog_call_record_tips">Nauhoitettu puhelu</string>
+  <string name="contact_detail_calllog_correct_yellow_page">Korjaa tai ilmoita</string>
   <string name="contact_detail_calllog_empty">Ei historiaa</string>
   <string name="contact_detail_entry_pay">Maksa</string>
   <string name="contact_detail_entry_pay_dialog_title">Valitse puhelinnumero</string>
+  <string name="contact_detail_entry_pay_request">Pyydä rahaa</string>
   <string name="contact_detail_menu_delete_miprofile">Poista kortti</string>
   <string name="contact_detail_miprofile_accept">Vaihda yhteystietokortteja</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Yhteystietokortteja ei voitu vaihtaa</string>
@@ -243,6 +279,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_detail_miprofile_save_success_toast">Yhteystietokortti vastaanotettu</string>
   <string name="contact_detail_miprofile_settings_header">Lisäasetukset</string>
   <string name="contact_detail_miprofile_subtitle">Kortit on jo vaihdettu</string>
+  <string name="contact_detail_more_calllog">Näytä lisää</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="contact_detail_profile_switch_fail_toast">Jotain meni palvelimien kanssa pieleen</string>
   <string name="contact_detail_profile_switch_off">Poista yhteystietokortit käytöstä</string>
@@ -286,6 +323,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contacts_unavailable_import_from_old_device">Tuo vanhemmasta laitteesta</string>
   <string name="contacts_unavailable_import_sim_contacts">Tuo SIM-kortin yhteystietoja</string>
   <string name="convenient_service">Palvelut</string>
+  <string name="copy">Kopioi</string>
   <string name="copy_number">Kopioi</string>
   <string name="copy_text">Kopioi leikepöydälle</string>
   <string name="createContactShortcutSuccessful">%s lisättiin aloitusnäytölle.</string>
@@ -300,20 +338,24 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="data_left">Dataa jäljellä</string>
   <string name="data_unit_gb">Gt</string>
   <string name="data_unit_mb">Mt</string>
+  <string name="date_picker_lunar">Perinteinen Kiinalainen kalenteri</string>
   <string name="date_time_set">Käytä</string>
   <string name="date_year_toggle">Näytä vuosi</string>
   <string name="default_ringtone">Oletus soittoääni</string>
+  <string name="deleteCloudConfirmationDetail">Poistetaanko yhteystiedon %s tiedot sekä pilvestä, että tältä laitteelta?</string>
   <string name="deleteConfirmation">Tämä yhteystieto poistetaan.</string>
   <string name="deleteConfirmationDetail">Poistetaanko \"%s\"?</string>
   <string name="deleteConfirmation_title">Poistetaanko tämä yhteystieto?</string>
   <string name="delete_call_log_message">Poistetaanko puheluhistoria?</string>
   <string name="delete_call_log_selected_title">Poistetaanko valitsemasi puheluhistoriat?</string>
   <string name="delete_call_log_title">Poista puheluhistoria</string>
+  <string name="delete_conference_call_log_message">Poistetaanko tämän yhteystiedon kaikki konferenssipuheluhistoriatiedot nyt?</string>
+  <string name="delete_conference_call_log_title">Poista konferenssipuhelutiedot</string>
   <string name="delete_contact_calllog_title">Poistetaanko puheluhistoria?</string>
   <string name="delete_dial_input">Poista</string>
   <string name="delete_duplicate">Yhdistä</string>
   <string name="delete_duplicate_message">Yhdistetään yhteystietoja… </string>
-  <string name="delete_group_dialog_message">Poistetaanko ryhmä %1$s? (Ryhmään kuuluvia yhteystietoja ei poisteta.)</string>
+  <string name="delete_group_dialog_message">"Poistetaanko \"1$s\"? Itse yhteystietoja ei poisteta."</string>
   <string name="delete_group_dialog_title">Poista ryhmä</string>
   <string name="delete_selected_sim_entry_miui">Poista valitut yhteystiedot</string>
   <string name="delete_sim_entries_finish">SIM-kortin yhteystiedot poistettu</string>
@@ -386,18 +428,18 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_paired_dialog_title">Noudetaan yhteystietoja…</string>
   <string name="device_pairing_dialog_message">Muodostetaan laitepariyhteyttä…</string>
   <string name="device_pairing_dialog_title">Muodosta laitepariyhteys</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Ota toisessa laitteessa Bluetooth käyttöön.
+  <string name="device_transfer_by_bluetooth_message">"%1$d. Ota toisessa laitteessa Bluetooth käyttöön.
 
 - Bluetooth löytyy verkkoasetuksista Android-laitteissa.
 - iOS-laitteissa, Bluetooth löytyy Asetuksista.
 
-2. Tunnistettavuus on myös otettava käyttöön Android-laitteissa..
+%2$d. Tunnistettavuus on myös otettava käyttöön Android-laitteissa..
 
-3. Napauta \"Seuraava\", ja anna Yhteystiedolle tarvittavat käyttöoikeudet."</string>
-  <string name="device_transfer_by_sim_message">"1. Tallenna toisen laitteesi yhteystiedot SIM-kortille;
+%3$d. Napauta \"Seuraava\", ja anna Yhteystiedolle tarvittavat käyttöoikeudet."</string>
+  <string name="device_transfer_by_sim_message">"%1$d. Tallenna toisen laitteesi yhteystiedot SIM-kortille;
 
 
-2. Avaa asetukset Yhteystiedot-sovelluksessa ja mene sen jälkeen \"Tuo/Vie yhteystietoja\" -- \"Tuo SIM-kortilta\", paina pitkään mitä tahansa SIM-kortin yhteystietoa valitaksesi sen, valitse haluamasi yhteystiedot, ja sen jälkeen napauta \"Tuo\" valintaa."</string>
+%2$d. Avaa asetukset Yhteystiedot-sovelluksessa ja mene sen jälkeen \"Tuo/Vie yhteystietoja\" -- \"Tuo SIM-kortilta\", paina pitkään mitä tahansa SIM-kortin yhteystietoa valitaksesi sen, valitse haluamasi yhteystiedot, ja sen jälkeen napauta \"Tuo\" valintaa."</string>
   <string name="device_version_header_bluetooth">Tuo käyttäen Bluetoothia</string>
   <string name="device_version_header_no_bluetooth">Tuo käyttäen SIM-korttia</string>
   <string name="dial">Soita</string>
@@ -439,32 +481,34 @@ Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päiväss�
   <string name="display_options_view_names_as">Nimen muoto</string>
   <string name="display_sim_contacts">Näytä SIM-kortin yhteystiedot</string>
   <string name="display_ungrouped">Kaikki muut yhteystiedot</string>
-  <string name="display_warn_remove_ungrouped">Ryhmän %s poistaminen synkronoinnista lopettaa myös ryhmittelemättömien yhteystietojen synkronoinnin.</string>
+  <string name="display_warn_remove_ungrouped">Ryhmän \"%s\" poistaminen synkronoinnista lopettaa myös ryhmittelemättömien yhteystietojen synkronoinnin.</string>
   <string name="duplicate_group_name">Tämän niminen ryhmä on jo olemassa</string>
   <string name="editContactDescription">Muokkaa yhteystietoa</string>
-  <string name="editContactNameExpandCloseDescription">Kutista nimi</string>
+  <string name="editContactNameExpandCloseDescription">Tiivistä nimi</string>
   <string name="editContactNameExpandOpenDescription">Laajenna nimi</string>
   <string name="editGroupDescription">Muokkaa ryhmää</string>
   <string name="edit_contact">Muokkaa yhteystietoa</string>
   <string name="edit_contact_card_title">Valitse jaettavat kohteet</string>
   <string name="edit_contact_photo">Muokkaa yhteystiedon kuvaa</string>
-  <string name="email">Lähetä sähköpostia</string>
-  <string name="emailLabelsGroup">Lähetä sähköpostia</string>
-  <string name="email_custom">Lähetä sähköpostia osoitteeseen %s</string>
-  <string name="email_home">Lähetä sähköpostia kotiosoitteeseen</string>
-  <string name="email_mobile">Lähetä sähköpostia mobiiliosoitteeseen</string>
-  <string name="email_other">Lähetä sähköpostia</string>
-  <string name="email_work">Lähetä sähköpostia työosoitteeseen</string>
+  <string name="email">Sähköposti</string>
+  <string name="emailLabelsGroup">Sähköposti</string>
+  <string name="email_custom">Sähköposti %s</string>
+  <string name="email_home">Sähköposti koti</string>
+  <string name="email_mobile">Sähköposti matkapuhelin</string>
+  <string name="email_other">Sähköposti</string>
+  <string name="email_work">Sähköposti työ</string>
   <string name="emergency_number_label">Hätänumero</string>
   <string name="emptyGroup">Tässä ryhmässä ei ole ihmisiä.</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">Kirjoita henkilön nimi</string>
+  <string name="evening">Iltapäivä</string>
   <string name="eventLabelsGroup">Erityispäivämäärä</string>
   <string name="eventTypeCustom">Oma valinta</string>
   <string name="event_edit_field_hint_text">Päivämäärä</string>
   <string name="expandCloseViewDescription">Kutista</string>
   <string name="expandOpenViewDescription">Laajenna</string>
-  <string name="export_sim_contact_finish">SIM-kortin yhteystiedot viety</string>
+  <string name="expand_button_title">Lisäasetukset</string>
+  <string name="export_sim_contact_finish">Yhteystiedot viety</string>
   <string name="export_sim_contact_finish_msg">%1$d siirretty | %2$d monistettu | %3$d jäljellä</string>
   <string name="export_to_sdcard">Vie tallennustilaan</string>
   <string name="export_to_sim">Vie SIM-kortille</string>
@@ -477,13 +521,13 @@ Välttääksemme useita pyyntöjä, päivitämme saldon tiedot kerran päiväss�
 Syy: %s"</string>
   <string name="exporting_contact_failed_title">Vieminen epäonnistui</string>
   <string name="exporting_contact_list_message">Viedään kohteeseen %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s / %s yhteystietoa</string>
+  <string name="exporting_contact_list_progress">%1$s/%2$s yhteystietoa</string>
   <string name="exporting_contact_list_title">Viedään yhteystietoja</string>
   <string name="exporting_vcard_canceled_title">Kohteen %s vienti peruutettiin.</string>
   <string name="exporting_vcard_finished_title">Kohde %s on viety.</string>
   <string name="external_profile_title">Oma %1$s-profiili</string>
   <string name="fail_reason_could_not_initialize_exporter">Vientiohjelman käynnistys epäonnistui: %s</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">Tiedostoa %s ei voi avata: %s.</string>
+  <string name="fail_reason_could_not_open_file">\"%1$s\" ei voitu avata: %2$s.</string>
   <string name="fail_reason_error_occurred_during_export">Virhe viennin aikana: %s.</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Annettujen vCard-tiedostojen sisällönkuvaustietojen noutaminen epäonnistui.</string>
   <string name="fail_reason_failed_to_read_files">Ainakin yhden tiedoston tuominen epäonnistui (%s).</string>
@@ -502,6 +546,9 @@ Syy: %s"</string>
   <string name="force_touch_miprofile">Yhteyskortti</string>
   <string name="force_touch_new_contact">Uusi yhteystieto</string>
   <string name="frequentList">Usein käytetyt</string>
+  <string name="friday">Perjantai</string>
+  <string name="friday_short">Pe</string>
+  <string name="friday_shortest">Pe</string>
   <string name="full_name">Nimi</string>
   <string name="gallery">Galleria</string>
   <string name="generic_no_account_prompt">Pidä kontaktisi turvassa, vaikka puhelimesi katoaisi: synkronoi ne verkkopalvelun avulla.</string>
@@ -681,6 +728,7 @@ Odota…"</string>
   <string name="menu_sync_remove">Poista synkronointiryhmä</string>
   <string name="menu_viewContact">Näytä yhteystieto</string>
   <string name="messageShortcutActivityTitle">Valitse vastaanottajan numero</string>
+  <string name="midnight">Yö</string>
   <string name="miprofile_account_type">Käyntikortit</string>
   <string name="miprofile_alertdialog_edit">Syötä nimi</string>
   <string name="miprofile_alertdialog_message">Näytä tämä nimi yhteystiedoille, kun pyydät vaihtamaan käyntikortteja.</string>
@@ -738,14 +786,67 @@ Odota…"</string>
   <string name="miprofile_switch_on_alertdialog_title">Profiilikuva päivitetty</string>
   <string name="missing_name">(Ei nimeä)</string>
   <string name="missing_required_permission">Olet poistanut käytöstä tarvittavan käyttöoikeuden.</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Pilven synkronointi on pois käytöstä</string>
+  <string name="miuix_appcompat_cloud_state_finished">Synkronoitiin pilveen onnistuneesti</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Synkronoidaan pilveen…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Päivitä vetämällä alas</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Päivitettiin onnistuneesti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Päivitetään…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Päivitä vapauttamalla</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Siinä kaikki tältä erää</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Siinä kaikki tältä erää</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Odota hetki…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kohteita ei voitu ladata</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
-  <string name="more_call_logs">Kuuntele kaikkia puhelunauhoituksiasi osoitteessa i.mi.com</string>
+  <string name="monday">Maanantai</string>
+  <string name="monday_short">Ma</string>
+  <string name="monday_shortest">Ma</string>
+  <string name="month_april">Huhtikuu</string>
+  <string name="month_april_short">Huhti</string>
+  <string name="month_april_shortest">Huhti</string>
+  <string name="month_august">Elokuu</string>
+  <string name="month_august_short">Elo</string>
+  <string name="month_august_shortest">Elo</string>
+  <string name="month_december">Joulukuu</string>
+  <string name="month_december_short">Joulu</string>
+  <string name="month_december_shortest">Joulu</string>
+  <string name="month_february">Helmikuu</string>
+  <string name="month_february_short">Helmi</string>
+  <string name="month_february_shortest">Helmi</string>
+  <string name="month_january">Tammikuu</string>
+  <string name="month_january_short">Tammi</string>
+  <string name="month_january_shortest">Tammi</string>
+  <string name="month_july">Heinäkuu</string>
+  <string name="month_july_short">Heinä</string>
+  <string name="month_july_shortest">Heinä</string>
+  <string name="month_june">Kesäkuu</string>
+  <string name="month_june_short">Kesä</string>
+  <string name="month_june_shortest">Kesä</string>
+  <string name="month_march">Maaliskuu</string>
+  <string name="month_march_short">Maalis</string>
+  <string name="month_march_shortest">Maalis</string>
+  <string name="month_may">Toukokuu</string>
+  <string name="month_may_short">Touko</string>
+  <string name="month_may_shortest">Touko</string>
+  <string name="month_november">Marraskuu</string>
+  <string name="month_november_short">Marras</string>
+  <string name="month_november_shortest">Marras</string>
+  <string name="month_october">Lokakuu</string>
+  <string name="month_october_short">Loka</string>
+  <string name="month_october_shortest">Loka</string>
+  <string name="month_september">Syyskuu</string>
+  <string name="month_september_short">Syys</string>
+  <string name="month_september_shortest">Syys</string>
+  <string name="more">Lisää</string>
+  <string name="more_call_logs">Kuuntele kaikkia puhelunauhoituksiasi osoitteessa &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
+  <string name="morning">Aamu</string>
   <string name="move_and_resize">Siirrä ja skaalaa</string>
   <string name="multi_number_menu_call">Puhelu</string>
   <string name="multi_number_menu_delete">Poista</string>
   <string name="multi_number_menu_group">Uusi ryhmä</string>
   <string name="multi_number_menu_message">Viesti</string>
   <string name="multi_number_title">Konferenssipuhelu</string>
+  <string name="multi_select">Valitse</string>
   <string name="multipleContactDeleteConfirmation">Jos poistat tämän yhteystiedon, tietoja poistetaan useilta tileiltä.</string>
   <string name="my_phone_not_provider_bluetooth">Ei</string>
   <string name="my_phone_provider_bluetooth">Kyllä</string>
@@ -766,6 +867,7 @@ Odota…"</string>
   <string name="nickname_editor_title">Muokkaa lempinimeä</string>
   <string name="nickname_picker_name_column">Yhteystiedon nimi</string>
   <string name="nickname_picker_nickname_column">Otsikko</string>
+  <string name="night">Ilta</string>
   <string name="noAccounts">Tarvitset tilin ryhmien luomiseen.</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Palauta yhteystiedot Mi-tililtä</string>
@@ -775,12 +877,13 @@ Odota…"</string>
 
 Lisätäksesi yhteystietoja suosikkeihisi:
 
-Kosketa Yhteystiedot välilehteä
-
-Kosketa yhteystietoa, jonka haluat lisätä suosikkeihisi
-
-Kosketa tähteä yhteystiedon nimen vieressä
-"</string>
+        "&lt;li&gt;Kosketa &lt;b&gt;Yhteystiedot&lt;/b&gt;" välilehteä
+"&lt;/li&gt;" 
+"&lt;li&gt;"Kosketa yhteystietoa, jonka haluat lisätä suosikkeihisi
+"&lt;/li&gt;" 
+"&lt;li&gt;"Kosketa tähteä yhteystiedon nimen vieressä
+"&lt;/li&gt;"
+    "</string>
   <string name="noGroups">Ei ryhmiä.</string>
   <string name="noMatchingContacts">Vastaavia yhteystietoja ei löytynyt.</string>
   <string name="noRecentContacts">Ei viimeaikaisia yhteystietoja</string>
@@ -793,13 +896,16 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="no_contacts_dialog_message">Yhteystiedot saattaa olla SIM-kortilla. Yritä tuoda yhteystiedot SIM-kortilta laitteen sisäiseen tallennustilaan ja yritä uudelleen.</string>
   <string name="no_contacts_dialog_title">Yhteystietoja ei löydy</string>
   <string name="no_contacts_selected">Yhteystietoja ei ole valittuna.</string>
+  <string name="no_phone_no_shortcut">Yhteystiedoista ei voi luoda pikakuvakkeita, joilla ei ole puhelinnumeroa</string>
   <string name="no_sdcard_message">SD-korttia ei löydy.</string>
   <string name="no_setting_menu">Valikkovaihtoehtoja ei saatavilla</string>
   <string name="non_phone_add_to_contacts">Lisää yhteystietoihin</string>
   <string name="non_phone_caption">Puhelinnumero</string>
   <string name="non_phone_close">Sulje</string>
   <string name="none_paired">Laitepariyhteyttä ei ole muodostettu</string>
+  <string name="noon">Keskipäivä</string>
   <string name="not_applied">Ei tueta</string>
+  <string name="not_set">Ei asetettu</string>
   <string name="notification_action_voicemail_play">Toista</string>
   <string name="notification_new_voicemail_ticker">Uusi ääniviesti %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
@@ -900,6 +1006,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_contacts_filter">Määritä yhteystietoluettelo</string>
   <string name="preference_contacts_more">Järjestele yhteystietoja</string>
   <string name="preference_contacts_moresetting">Lisää</string>
+  <string name="preference_copied">\"%1$s\" kopioitiin leikepöydälle.</string>
   <string name="preference_dial_pad_touch_tone_default">Oletus</string>
   <string name="preference_dial_pad_touch_tone_human">Ihmisääni</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianon ääni</string>
@@ -990,13 +1097,22 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="remove_blacklist">Poista estolistalta</string>
   <string name="remove_blacklist_dialog_message">Poistetaanko yhteystieto estolistalta?</string>
   <string name="remove_blacklist_dialog_title">Poista yhteystieto estolistalta</string>
-  <string name="remove_duplicate">MIUI auttaa etsimään ja yhdistämään yhteystietojen kaksoiskappaleet. Aloittaaksesi, napauta Yhdistä-ikonia ruudun alareunassa.</string>
-  <string name="report_inquiry_mms">Lähetä tekstiviesti</string>
+  <string name="remove_duplicate">"MIUI auttaa etsimään ja yhdistämään yhteystietojen kaksoiskappaleet.
+  
+ Aloittaaksesi, napauta Yhdistä-kuvaketta ruudun alareunassa."</string>
+  <string name="report_inquiry_mms">Ilmoita tekstiviesti</string>
   <string name="restore_nickname">Palauta</string>
   <string name="ret_sign">"
 "</string>
   <string name="returnCall">Soita takaisin</string>
+  <string name="return_call">Palaa takaisin puheluun napauttamalla</string>
+  <string name="return_call_calling">Puhelu kesken</string>
+  <string name="return_call_dialing">Soitetaan</string>
+  <string name="return_call_incoming">Saapuva puhelu</string>
   <string name="ringLabelsGroup">Soittoääni</string>
+  <string name="saturday">Lauantai</string>
+  <string name="saturday_short">La</string>
+  <string name="saturday_shortest">La</string>
   <string name="save_photo_progress">Tallennetaan kuvaa…</string>
   <string name="savingContact">Tallennetaan yhteystietoa…</string>
   <string name="savingDisplayGroups">Tallennetaan näyttövalintoja…</string>
@@ -1007,7 +1123,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="scan_merge">Etsitään yhteystietojen kaksoiskappaleita…</string>
   <string name="scan_not_installed">Asenna Lukija ensin</string>
   <string name="scan_qrcode_card_hint1">Skannaa ylläoleva QR-koodi</string>
-  <string name="scanning_sdcard_failed_message">Tallennustilaa ei voi lukea. (Syy: %s)</string>
+  <string name="scanning_sdcard_failed_message">Syy: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Muistia ei voida skannata</string>
   <string name="sdnContacts_empty">Ei SDN</string>
   <string name="sdnContacts_emptyLoading">Ladataan SDN…</string>
@@ -1029,6 +1145,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="search_key_photo_word">Määritä;yhteystieto;kuvat;Yhteystiedot</string>
   <string name="search_key_rebuild_t9_index_title">Järjestä;Yhteystiedot;t9</string>
   <string name="search_key_sim_manage">Järjestä;Yhteystiedot</string>
+  <string name="search_menu_title">Haku</string>
   <string name="search_preference_contacts_filter">Yhteystiedot;Näyttäminen</string>
   <string name="search_quick_dial_setting">Puhelin</string>
   <string name="search_remove_duplicate">Järjestä;Yhteystiedot</string>
@@ -1045,6 +1162,9 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="select_none">Kohteita ei valittu</string>
   <string name="select_show_contacts">Yhteystietoluettelo</string>
   <string name="select_vcard_title">Valitse vCard-tiedosto</string>
+  <string name="send_contact_shortcut_todesktop_duplicate">Tämä pikakuvake on jo olemassa</string>
+  <string name="send_contact_shortcut_todesktop_failed">Pikakuvaketta ei voitu asettaa Aloitusnäytölle</string>
+  <string name="send_contact_shortcut_todesktop_overflow">Aloitusnäytölle ei voi asettaa enempää pikakuvakkeita</string>
   <string name="send_contact_shortcut_todesktop_success">Lisätty Aloitusnäytölle</string>
   <string name="send_to_voicemail_checkbox">Ohjaa puheluja suoraan vastaajaan</string>
   <string name="separatorJoinAggregateAll">Kaikki yhteystiedot</string>
@@ -1074,7 +1194,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="simContacts_title">SIM-kortin yhteystiedot</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Näytä SIM-kortin kapasiteetti</string>
-  <string name="sim_capacity_content" formatted="false">%d yhteensä | %d käytetty</string>
+  <string name="sim_capacity_content">%d yhteensä | %d käytetty</string>
   <string name="sim_card_no_free_space_message">Tilaa ei ole tarpeeksi</string>
   <string name="sim_card_no_free_space_title">SIM-kortti on täynnä</string>
   <string name="sim_contact_existing">Yhteystieto on jo olemassa</string>
@@ -1100,12 +1220,12 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="smart_group_company_label">Yrityksittäin</string>
   <string name="smart_group_company_unavailable">Ei yrityksiä</string>
   <string name="smart_group_frequency_1">Kuukauden sisään</string>
-  <string name="smart_group_frequency_2">3 kuukauden sisään</string>
-  <string name="smart_group_frequency_3">6 kuukauden sisään</string>
-  <string name="smart_group_frequency_4">Yli 6 kuukautta sitten</string>
+  <string name="smart_group_frequency_2">%1$d - %2$d kuukauden sisään</string>
+  <string name="smart_group_frequency_3">%1$d - %2$d kuukauden sisään</string>
+  <string name="smart_group_frequency_4">Yli %d kuukautta sitten</string>
   <string name="smart_group_frequency_label">Viimeisimmät</string>
   <string name="smart_group_label">Älykkäät ryhmät</string>
-  <string name="smart_group_loading">Ladataan ryhmiä…</string>
+  <string name="smart_group_loading">Odota hetki…</string>
   <string name="smart_group_location_label">Sijainnit</string>
   <string name="smart_group_location_unavailable">Ei sijaintitietoa</string>
   <string name="sms">Tekstiviesti</string>
@@ -1145,17 +1265,24 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="strequentList">Suosikit</string>
   <string name="success_message_import_from_account">Yhteystieto tuotu</string>
   <string name="summary_kind_title">Yhteenveto</string>
+  <string name="sunday">Sunnuntai</string>
+  <string name="sunday_short">Su</string>
+  <string name="sunday_shortest">Su</string>
   <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Uusi yhteystieto</string>
   <string name="t9_search_empty_edit_contact">Lisää yhteystietoihin</string>
   <string name="t9_search_empty_send_sms">Lähetä viesti</string>
   <string name="t9_search_empty_video_call">Videopuhelu</string>
   <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_pinyin_title2">Syötä 9 ja 4 etsiäksesi henkilön Xavier Henry</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon &lt;font fgcolor=""&gt;E&lt;/font&gt;ero &lt;font fgcolor=""&gt;R&lt;/font&gt;akas</string>
   <string name="t9_search_guide_zhuyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_zhuyin_title2">Syötä 5 ja 6 etsiäksesi henkilön Jeff Max</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon &lt;font fgcolor=""&gt;J&lt;/font&gt;aska &lt;font fgcolor=""&gt;M&lt;/font&gt;äkinen</string>
   <string name="take_new_photo">Ota uusi kuva</string>
   <string name="take_photo">Ota valokuva</string>
+  <string name="thursday">Torstai</string>
+  <string name="thursday_short">To</string>
+  <string name="thursday_shortest">To</string>
+  <string name="time_picker_dialog_title">Aseta aika</string>
   <string name="titleJoinContactDataWith">Yhdistä kontaktit</string>
   <string name="title_other_devices">Muut käytettävät laitteet</string>
   <string name="title_paired_devices">Yhdistetyt laiteparit</string>
@@ -1176,6 +1303,10 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="today">Tänään</string>
   <string name="tomorrow">Huomenna</string>
   <string name="transfer_accounts">Siirrä tilejä</string>
+  <string name="tuesday">Tiistai</string>
+  <string name="tuesday_short">Ti</string>
+  <string name="tuesday_shortest">Ti</string>
+  <string name="two_letter">ABC</string>
   <string name="type_incoming">Saapuva puhelu</string>
   <string name="type_missed">Vastaamatta jäänyt puhelu</string>
   <string name="type_mx_msg">Mi Viesti</string>
@@ -1202,6 +1333,8 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="use_photo_as_primary2">Käytä %1$s yhteystiedon kuvaa</string>
   <string name="useful_numbers">Hyödylliset Numerot</string>
   <string name="user_profile_contacts_list_header">Minä</string>
+  <string name="v7_preference_off">POIS KÄYTÖSTÄ</string>
+  <string name="v7_preference_on">KÄYTÖSSÄ</string>
   <string name="vcard_export_request_rejected_message">vCard-vientipyyntö hylättiin. Yritä myöhemmin uudelleen.</string>
   <string name="vcard_export_will_start_message">%s viedään pian.</string>
   <string name="vcard_import_failed">vCard-tietojen tuominen epäonnistui.</string>
@@ -1233,9 +1366,14 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="voip_audio_description">VoIP-puhelu</string>
   <string name="voip_video_description">VoIP-videopuhelu</string>
   <string name="websiteLabelsGroup">Sivusto</string>
+  <string name="wednesday">Keskiviikko</string>
+  <string name="wednesday_short">Ke</string>
+  <string name="wednesday_shortest">Ke</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Tyhjennä tiedot</string>
   <string name="yellowPageNavigationIconLabel">Hakemisto</string>
   <string name="yellowPageNavigationLabel">Hakemisto</string>
+  <string name="yellowpage_address_tag">Osoite</string>
   <string name="yellowpage_fc_toast">Tätä toimintoa ei voida käyttää, koska hakemisto on kaatunut.</string>
   <string name="yellowpage_mi_family">Mi Perhe</string>
   <string name="yellowpage_navigation_ad_hint">Mainos</string>
@@ -1257,6 +1395,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Ladataan…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Aloitusnäytölle</string>
+  <string name="yellowpage_provider_label">Tiedot tarjoaa</string>
   <string name="yellowpage_search_the_yellowpage">Etsi Hakemistosta</string>
   <string name="yellowpage_user_profile">Profiili</string>
   <string name="yesterday">Eilen</string>
