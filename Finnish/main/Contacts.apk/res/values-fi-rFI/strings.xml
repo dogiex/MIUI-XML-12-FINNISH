@@ -98,7 +98,7 @@
   <string name="callAgain">Soita uudelleen</string>
   <string name="callBack">Soita takaisin</string>
   <string name="callDetailTitle">Puhelun tiedot</string>
-  <string name="callDetailsDurationFormat">%s min %s s</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s sec</string>
   <string name="callShortcutActivityTitle">Valitse vastaanottajan numero</string>
   <string name="call_assistant">Soita: %s</string>
   <string name="call_callback">Soita takaisinsoittonumeroon</string>
@@ -1194,7 +1194,7 @@ Lisätäksesi yhteystietoja suosikkeihisi:
   <string name="simContacts_title">SIM-kortin yhteystiedot</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Näytä SIM-kortin kapasiteetti</string>
-  <string name="sim_capacity_content">%d yhteensä | %d käytetty</string>
+  <string name="sim_capacity_content">%1$d yhteensä | %2$d käytetty</string>
   <string name="sim_card_no_free_space_message">Tilaa ei ole tarpeeksi</string>
   <string name="sim_card_no_free_space_title">SIM-kortti on täynnä</string>
   <string name="sim_contact_existing">Yhteystieto on jo olemassa</string>
