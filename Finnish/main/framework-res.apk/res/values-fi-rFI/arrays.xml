@@ -55,19 +55,19 @@
         <item>Yritä uudelleen</item>
         <item></item>
         <item></item>
-        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
         <item></item>
-        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
-        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
-        <item></item>
-        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
+        <item>Pyyhi sormenjälkitunnistin puhtaaksi ja yritä uudelleen</item>
         <item></item>
         <item></item>
-        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
-        <item>Peitä sormenjälkitunnistin kokonaan ja lisää painetta</item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
         <item>Liian nopeasti! Sormenjälkeä ei tunnistettu</item>
-        <item>Siirrä sormeasi hieman ja yritä uudelleen</item>
-        <item>Nosta sormeasi ja laita se takaisin tunnistimelle</item>
+        <item>Liikuta sormeasi hieman ja yritä uudelleen</item>
+        <item>Nosta sormeasi ja laita se takaisin tunnistimelle uudelleen</item>
         <item>Pidä sormeasi tunnistimella hieman pidempään</item>
         <item></item>
         <item></item>
@@ -77,7 +77,7 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>Siirrä sormeasi hieman</item>
+        <item>Liikuta sormeasi hieman</item>
         <item>Tämä sormenjälki on lisätty, käytä toista sormea</item>
     </string-array>
     <string-array name="imAddressTypes">
@@ -92,5 +92,11 @@
         <item>Bluetooth</item>
         <item>Ethernet</item>
         <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Soittaaksesi puheluita ja lähettääksesi viestejä Wi-Fi-verkon yli, pyydä ensin operaattoriasi ottamaan tämä palvelu käyttöön. Sen jälkeen ota Wi-Fi-puhelut uudelleen käyttöön Asetuksista. (Virhekoodi: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Ongelma Wi-Fi-puheluiden rekisteröinnissä operaattorisi kanssa: %1$s</item>
     </string-array>
 </resources>
