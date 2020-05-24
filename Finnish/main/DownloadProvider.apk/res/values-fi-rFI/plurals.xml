@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="notification_download_failed_more">
-        <item quantity="other">%1$d kohdetta ei voitu ladata</item>
-        <item quantity="one">%1$d kohdetta ei voitu ladata</item>
-    </plurals>
-    <plurals name="notif_summary_active">
+	<plurals name="notif_summary_active">
         <item quantity="other">Ladataan %d tiedostoa</item>
         <item quantity="one">Ladataan %d tiedostoa</item>
     </plurals>
@@ -12,4 +8,8 @@
         <item quantity="other">%d tiedostoa odottaa</item>
         <item quantity="one">%d tiedosto odottaa</item>
     </plurals>
+	<plurals name="notification_download_failed_more">
+        <item quantity="other">%1$d kohdetta ei voitu ladata</item>
+        <item quantity="one">%1$d kohdetta ei voitu ladata</item>
+    </plurals>    
 </resources>

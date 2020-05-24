@@ -36,7 +36,13 @@
   <string name="download_queued">Jonossa</string>
   <string name="download_remaining">%s jäljellä</string>
   <string name="download_running">Kesken</string>
-  <string name="download_unknown_title">Nimetön</string>
+  <string name="download_running_percent">Käynnissä, %d%%</string>
+  <string name="download_unknown_title">&lt;Nimetön&gt;</string>
+  <string name="enter_garbage_clean">Puhdista sisäinen tallennustila.</string>
+  <string name="insufficient_space">Laitteen sisäisellä tallennustilalla ei ole tarpeeksi tilaa</string>
+  <string name="mobile_recommended_title">Mobiilidatan käyttö</string>
+  <string name="notif_text_engine_off">Xunlei kiihdyttäjä on pois käytöstä.</string>
+  <string name="notif_text_engine_on">Kiihdytetään…</string>
   <string name="notif_title_file_size">%1$d yhteensä</string>
   <string name="notif_title_multiple_downloading">Ladataan %1$d tiedostoa</string>
   <string name="notif_title_single_downloading">Ladataan %1$s</string>
@@ -45,7 +51,7 @@
   <string name="notification_download_success_more">%1$d ladattu</string>
   <string name="notification_need_wifi_for_size">Lataa Wi-Fi-yhteydellä</string>
   <string name="notification_paused_in_background">Keskeytetty taustalla.</string>
-  <string name="notify_disabled_net_by_app">Internet-yhteys on rajoitettu Tietoturva-sovelluksen toimesta</string>
+  <string name="notify_disabled_net_by_app">Internetyhteys on rajoitettu Tietoturvan toimesta</string>
   <string name="notify_install_guide_forward_text">Avaa</string>
   <string name="notify_install_guide_msg">Asennettiin onnistuneesti</string>
   <string name="notify_install_guide_title">Asennettiin %s onnistuneesti</string>
@@ -86,7 +92,7 @@ Napauta %s aloittaaksesi tämän lataamisen seuraavalla kerralla, kun olet yhtey
   <string name="wifi_required_body" formatted="false">"Yhdistä Wi-Fi-verkkoon ladataksesi tämän %s latauksen loppuun.
 
 Aloita lataus seuraavan kerran, kun yhdistät Wi-Fi-verkkoon, napauttamalla %s."</string>
-  <string name="wifi_required_title">Tiedosto on liian suuri ladattavaksi käyttäen mobiilidataa</string>
+  <string name="wifi_required_title">Tiedosto on liian suuri ladattavaksi mobiilidatalla</string>
   <string name="xl_speedup_experience_notify_context">Latausnopeus nopeutuu jokaiseen lataukseen, kun olet Xunlei-jäsen</string>
   <string name="xl_speedup_experience_notify_title">Xunlei jäsenyys</string>
   <string name="xl_speedup_notify_button_experience">Kokeile ilmaiseksi</string>
