@@ -36,7 +36,6 @@
   <string name="download_queued">Jonossa</string>
   <string name="download_remaining">%s jäljellä</string>
   <string name="download_running">Kesken</string>
-  <string name="download_running_percent">Käynnissä, %d%%</string>
   <string name="download_unknown_title">&lt;Nimetön&gt;</string>
   <string name="enter_garbage_clean">Puhdista sisäinen tallennustila.</string>
   <string name="insufficient_space">Laitteen sisäisellä tallennustilalla ei ole tarpeeksi tilaa</string>
