@@ -1533,7 +1533,6 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="ssl_ca_cert_noti_managed">Valvoja on %s.</string>
   <string name="ssl_certificate">Suojausvarmenne</string>
   <string name="ssl_certificate_is_valid">Varmenne on voimassa.</string>
-  <string name="stk_cc_ss_to_dial">SS-pyyntö vaihdettu tavalliseksi puheluksi</string>
   <string name="status_communication_speaker_summary">Hands-free puhelu on käynnissä. Ääni toistetaan silti kaiuttimen kautta, vaikka kuulokkeet yhdistetään.</string>
   <string name="status_communication_summary">Puhelu on käynnissä. Voit säätää vain puhelun äänenvoimakkuutta tällä hetkellä.</string>
   <string name="stk_cc_ss_to_dial">SS-pyyntö vaihdettu tavalliseksi puheluksi</string>
