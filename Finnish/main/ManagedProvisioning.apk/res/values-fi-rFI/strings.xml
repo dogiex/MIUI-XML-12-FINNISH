@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakukysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jaa…</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="accept_and_continue">Hyväksy ja jatka</string>
   <string name="access_links">Näytä linkit</string>
   <string name="access_list_of_links">Näytä linkkiluettelo</string>
@@ -18,6 +45,7 @@
   <string name="cancel_setup_and_factory_reset_dialog_ok">Palauta laitteen tehdasasetukset</string>
   <string name="cancel_setup_and_factory_reset_dialog_title">Lopeta asennus ja palauta tehdasasetukset?</string>
   <string name="cant_add_work_profile">Työprofiilin lisääminen epäonnistui</string>
+  <string name="cant_replace_or_remove_work_profile">Työprofiilia ei voi korvata tai poistaa</string>
   <string name="cant_set_up_device">Laitteen määritys epäonnistui</string>
   <string name="cant_set_up_profile">Profiilin määritys epäonnistui</string>
   <string name="change_device_launcher">Vaihda laitteen käynnistysohjelma</string>
@@ -50,8 +78,8 @@
   <string name="device_has_reset_protection_contact_admin">Palauttamisen esto on käytössä laitteella. Pyydä apua IT-järjestelmänvalvojalta.</string>
   <string name="device_owner_cancel_cancel">Peruuta</string>
   <string name="device_owner_cancel_message">Haluatko lopettaa määrittämisen ja tyhjentää laitteen tiedot?</string>
+  <string name="device_owner_description">Organisaatiosi vastaa laitteen turvallisuudesta ja hallinnoi sitä.</string>
   <string name="device_owner_error_ok">OK</string>
-  <string name="device_owner_exists">Työprofiilien asetuksia ei voi määrittää hallinnoidulla laitteella.</string>
   <string name="device_owner_info">%1$s hallinnoi tätä laitetta ja pitää sen suojattuna. Käyttöehtoja sovelletaan. %2$s</string>
   <string name="device_owner_info_with_terms_headers">%1$s hallinnoi tätä laitetta ja pitää sen suojattuna. Seuraavia käyttöehtoja sovelletaan: %2$s. %3$s</string>
   <string name="device_provisioning_finished">Laite on valmiina käyttöön.</string>
@@ -123,6 +151,7 @@
   <string name="profile_owner_info_comp">Työsovelluksillesi luodaan uusi profiili. Organisaatiosi hallinnoi ja valvoo tätä profiilia ja muuta laitteen käyttöä. Käyttöehtoja sovelletaan.</string>
   <string name="profile_owner_info_with_terms_headers">Olet luomassa uutta työprofiilia, jota organisaatiosi hallinnoi ja valvoo. Seuraavia käyttöehtoja sovelletaan: %1$s.</string>
   <string name="profile_owner_info_with_terms_headers_comp">Sinulle luodaan uusi työprofiili. Organisaatiosi hallinnoi ja valvoo tätä profiilia ja muuta laitteen käyttöä. Seuraavia käyttöehtoja sovelletaan: %1$s.</string>
+  <string name="progress_connect_to_mobile_network">Yhdistetään mobiiliverkkoon…</string>
   <string name="progress_connect_to_wifi">Muodostetaan Wi-Fi-yhteyttä…</string>
   <string name="progress_data_process">Käsitellään määritystietoja…</string>
   <string name="progress_delete_non_required_apps">Poistetaan valinnaisia järjestelmäsovelluksia…</string>
@@ -138,6 +167,7 @@
   <string name="reset">Palauta</string>
   <string name="scroll_bar_page_down_button">Vieritä alas</string>
   <string name="scroll_bar_page_up_button">Vieritä ylös</string>
+  <string name="search_menu_title">Haku</string>
   <string name="section_content">Osion %1$s sisältö: %2$s</string>
   <string name="section_heading">Osion %1$s otsikko</string>
   <string name="set_up_everything_else">Määritä kaikki muu</string>
@@ -160,15 +190,13 @@
   <string name="sud_more_button_label">Lisää</string>
   <string name="sud_next_button_label">Seuraava</string>
   <string name="sure_you_want_to_delete_profile">Jos jatkat, kaikki tämän profiilin sovellukset ja tiedot poistetaan.</string>
+  <string name="take_a_few_minutes">Tämä voi kestää muutaman minuutin.</string>
   <string name="terms">Käyttöehdot</string>
   <string name="the_following_is_your_mdm">Seuraava sovellus tarvitsee käyttöoikeuden profiiliin:</string>
   <string name="the_following_is_your_mdm_for_device">Laitettasi hallinnoi seuraava sovellus:</string>
   <string name="theft_protection_disabled_warning">Jotta voit käyttää varkaudenesto-ominaisuuksia, laitteesi täytyy käyttää salasanasuojattua näytön lukitusta.</string>
   <string name="this_will_reset_take_back_first_screen">Tämä palauttaa laitteesi tehdasasetukset ja vie sinut asennuksen alkuun.</string>
-  <string name="too_many_users_on_device_remove_user_try_again">Tällä laitteella saattaa olla liian monta käyttäjää. Poista käyttäjä ja yritä uudelleen.</string>
   <string name="url_error">Tätä linkkiä ei voi näyttää.</string>
-  <string name="user_cannot_have_work_profiles_contact_admin">Tälle käyttäjälle ei voi luoda työprofiilia. Ota yhteyttä järjestelmänvalvojaasi.</string>
-  <string name="user_cant_have_work_profile_contact_admin">Tälle käyttäjälle ei voi luoda työprofiilia. Pyydä apua järjestelmänvalvojalta.</string>
   <string name="user_consent_msg">Suostun</string>
   <string name="user_setup_incomplete">Määritys ei ole valmis</string>
   <string name="v7_preference_off">POIS KÄYTÖSTÄ</string>
