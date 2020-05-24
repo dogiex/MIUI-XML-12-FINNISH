@@ -4,7 +4,6 @@
   <string name="SMTP_password_text">Salasana</string>
   <string name="SMTP_username_text">Käyttäjänimi</string>
   <string name="account_add_title">Valitse sähköpostipalvelu</string>
-  <string name="account_cache_provider">Tilin välimuistin tarjoaja</string>
   <string name="account_duplicate_dlg_message_fmt">Käytät jo tätä käyttäjätunnusta tilille \"%s\".</string>
   <string name="account_duplicate_dlg_title">Tili on jo olemassa.</string>
   <string name="account_failure">Istunto aikakatkaistiin</string>
@@ -354,7 +353,6 @@
   <string name="conversation_cert_info_tips">Tämä sähköposti allekirjoitettiin luotetulla varmenteella</string>
   <string name="conversation_cert_info_title">Allekirjoitettu</string>
   <string name="conversation_cert_trust">Luota</string>
-  <string name="conversation_content_provider">Keskustelun sisällön tarjoaja</string>
   <string name="conversation_detail_hide">Piilota</string>
   <string name="conversation_detail_show">Tiedot</string>
   <string name="conversation_folder_moved">Siirretty kansioon %1$s</string>
@@ -640,14 +638,6 @@
   <string name="mailbox_name_display_starred">Tähdelliset</string>
   <string name="mailbox_name_display_trash">Roskakori</string>
   <string name="mailbox_name_display_unread">Lukemattomat</string>
-  <string name="mailbox_name_server_all_unread">Lukematon</string>
-  <string name="mailbox_name_server_drafts">Luonnokset</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Roskaposti</string>
-  <string name="mailbox_name_server_outbox">Lähtevät</string>
-  <string name="mailbox_name_server_sent">Lähetetyt</string>
-  <string name="mailbox_name_server_starred">Tähdelliset</string>
-  <string name="mailbox_name_server_trash">Roskakori</string>
   <string name="mailbox_settings_activity_title">Synkronointiasetukset</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synkronointiasetukset (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synkronoitavat päivät</string>
@@ -926,7 +916,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava näyttö</string>
   <string name="policy_text_truncation">Rajoita sähköpostin tekstin kokoa</string>
   <string name="pop3_name">Omat (POP3)</string>
-  <string name="prefDefault_autoAdvance">luettelo</string>
   <string name="preference_eas_tips">Napauta “Aktivoi“ asettaaksesi sähköpostipalvelimen.</string>
   <string name="preference_pop_tips">POP3:ssa, liitetiedostot ladataan automaattisesti sähköpostin mukana. Tämä saattaa nostaa mobiilidatan käyttöä.</string>
   <string name="preference_sender_image_description">Näytä postilaatikossa profiilikuvat lähettäjän nimen vieressä</string>
