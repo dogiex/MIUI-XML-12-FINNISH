@@ -130,7 +130,6 @@
   <string name="change_time">Vaihda tauskakuvia</string>
   <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="chip_text">Chip text</string>
   <string name="choose_to_signin">Kyllä</string>
   <string name="choose_to_signup">Ei, luon tilin</string>
@@ -393,8 +392,6 @@ mm"</string>
   <string name="mtrl_picker_a11y_next_month">Change to next month</string>
   <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
   <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
-  <string name="mtrl_picker_cancel">@android:string/cancel</string>
-  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Select a Date</string>
   <string name="mtrl_picker_date_header_unselected">Selected date</string>
