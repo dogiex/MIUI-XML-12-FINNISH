@@ -2,7 +2,6 @@
 <resources>
   <string name="app_name">MiCloudSync</string>
   <string name="error_data_in_transfer">Synkronointi on valmis %s tunnin kuluttua.</string>
-  <string name="error_data_in_transfer_title">Mi Pilvi ei käytettävissä</string>
   <string name="error_forbidden">Mi-tilisi ongelmien takia synkronointi on poistettu käytöstä.</string>
   <string name="error_not_acceptable">Synkronointi on poistettu käytöstä.</string>
   <string name="error_title">Synkronointi epäonnistui</string>
