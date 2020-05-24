@@ -1274,9 +1274,9 @@ Lisätäksesi yhteystietoja suosikkeihisi:
   <string name="t9_search_empty_send_sms">Lähetä viesti</string>
   <string name="t9_search_empty_video_call">Videopuhelu</string>
   <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon &lt;font fgcolor=""&gt;E&lt;/font&gt;ero &lt;font fgcolor=""&gt;R&lt;/font&gt;akas</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon <font fgcolor="">E</font>ero <font fgcolor="">R</font>akas</string>
   <string name="t9_search_guide_zhuyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon &lt;font fgcolor=""&gt;J&lt;/font&gt;aska &lt;font fgcolor=""&gt;M&lt;/font&gt;äkinen</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon <font fgcolor="">J</font>aska <font fgcolor="">M</font>äkinen</string>
   <string name="take_new_photo">Ota uusi kuva</string>
   <string name="take_photo">Ota valokuva</string>
   <string name="thursday">Torstai</string>
