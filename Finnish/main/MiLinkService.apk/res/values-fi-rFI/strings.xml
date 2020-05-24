@@ -14,6 +14,7 @@
   <string name="dialog_connect_verify_perssion_fail">Valtuuttaminen epäonnistui. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="dialog_connected">Yhdistetty</string>
   <string name="dialog_connecting">Yhdistetään…</string>
+  <string name="dialog_nfc_cast_wifi_off">Ota Wi-Fi käyttöön suoratoistaaksesi käyttäen NFC:tä. Otetaanko käyttöön nyt?</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_only_suport_content">Striimaa kuvia, videoita tai musiikkia</string>
   <string name="dialog_open_wifi_bt">Ota käyttöön</string>
@@ -38,6 +39,12 @@ Katso ohjeita, jos yhteyden muodostamisessa on ongelmia."</string>
   <string name="help_page_text_05">Vaihe 1: Tarkista laitteesi ja verkkoympäristösi</string>
   <string name="help_page_text_06">"1. Sinun ei tarvitse yhdistää internetiin, jos haluat suoratoistaa jotain Mi-puhelimestasi Mi-televisioon.
 2. Jos et voi muodostaa yhteyttä näiden kahden laitteen välillä, yritä yhdistää molemmat laitteet samaan Wi-Fi-verkkoon."</string>
+  <string name="help_page_text_06_global">"1. Mi TV:t, Mi Boxit ja Mi Projektorit:
+Yhdistä sekä puhelimesi että ulkoinen näyttö samaan Wi-Fi-verkkoon parhaan mahdollisen tuloksen saamiseksi. Jos ne ovat eri verkoissa, ulkoisen näytön löytäminen ja yhdistäminen saattaa kestää kauemmin.
+Huomio: Vanhemmat Mi TV:t eivät välttämättä tue suoratoistamista toisten verkkojen läpi.
+
+2. Jos käytät muiden merkkien televisioita, digisovittimia tai projektoria, kytke puhelin ja ulkoinen näyttö samaan Wi-Fi-verkkoon.
+Jos molempia laitteita ei voi yhdistää samaan verkkoon, ota ulkoisesta näytöstäsi Miracast käyttöön. Miracast -toiminnon nimeäminen saattaa vaihdella."</string>
   <string name="help_page_text_08">Vaihe 2: Ota suoratoisto käyttöön</string>
   <string name="help_page_text_09">Napauta \"Suoratoista\" painiketta puhelimesi Ilmoitusalueella. Ota sekä Wi-Fi että Bluetooth käyttöön, jotta yhteys on vakaampi.</string>
   <string name="help_page_text_10">Jos haluat suoratoistaa kohteita suoraan Galleria tai Mi Video -sovelluksista, voit käyttää niiden sisäänrakennettuja suoratoisto-ominaisuuksia.</string>
@@ -100,6 +107,7 @@ Jos sinun täytyy ottaa Miracasti käyttöön, paina [MENU] painiketta ja valits
   <string name="help_page_text_55_global">"Jos et voi muodostaa yhteyttä verkkoon, varmista että ulkoinen näyttösi tukee Miracast-ominaisuutta ja että se on otettu käyttöön. Joillakin malleilla tätä ominaisuutta kutsutaan Langattomaksi Näytöksi, Näytön Peilaamiseksi tai Useaksi näytöksi.
 4. Jos törmäät ongelmiin, voit ilmoittaa niistä käyttämällä meidän \"Palvelut &amp; palaute\" sovellusta."</string>
   <string name="help_page_text_end">Jos laitteesi merkki ei ole tässä luettelossa, ota yhteyttä valmistajaan oppiaksesi lisää suoratoisto-ominaisuuksista."</string>
+  <string name="nfc_connect_failed_toast">Ei voitu suoratoistaa. Yritä uudelleen.</string>
   <string name="notification_rc_title">XiaoMi TV Avustaja</string>
   <string name="notification_show_more">Näytä lisää ominaisuuksia napauttamalla</string>
   <string name="privacy_agree">Hyväksyn</string>
@@ -118,6 +126,7 @@ Lue ja hyväksy meidän Käyttöehdot ja Tietosuojakäytäntö ennen tämän omi
   <string name="san_wait_msg_3">Ulkoiset laitteet löytyvät helpommin, kun ne ovat yhdistettynä samaan verkkoon puhelimesi kanssa</string>
   <string name="san_wait_msg_4">Katso \"Apua\" jos et löydä laitteita</string>
   <string name="small_window">Pienennä ikkuna</string>
+  <string name="small_window_not_supported">Tätä sovellusta ei voi pienentää, kun sitä suoratoistetaan</string>
   <string name="status_bar_in_casting">Suoratoistetaan…</string>
   <string name="status_bar_in_casting_long">Näytä lisää suoratoisto-ominaisuuksia napauttamalla</string>
   <string name="tile_label">Suoratoisto</string>
@@ -125,5 +134,7 @@ Lue ja hyväksy meidän Käyttöehdot ja Tietosuojakäytäntö ennen tämän omi
   <string name="toast_guide_title">Tutustu meidän uusiin ominaisuuksiin täällä</string>
   <string name="toast_msg_for_multi_window">Tätä ominaisuutta ei voi käyttää Jaetussa näytössä</string>
   <string name="toast_msg_for_small_window">Voit pienentää ikkunan, jota suoratoistetaan käyttääksesi muita puhelimesi ominaisuuksia keskeyttämättä suoratoistoa.</string>
+  <string name="toast_nfc_dont_move">Älä siirrä puhelintasi pois</string>
   <string name="toast_title_for_small_window">Valitse \"Pienennä ikkuna\" sovelluksessa</string>
+  <string name="toast_turn_off_hotspot_before_cast">Poista kannettava hotspot käytöstä ennen suoratoistamista</string>
 </resources>
