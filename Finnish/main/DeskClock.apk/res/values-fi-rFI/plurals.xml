@@ -28,9 +28,29 @@
         <item quantity="other">%d minuuttia</item>
         <item quantity="one">%d minuutti</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" minuuttia"</item>
+        <item quantity="one">" minuutti"</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d sekuntia</item>
         <item quantity="one">%d sekunti</item>
+    </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s tuntia</item>
+        <item quantity="one">%1$s tunti</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s tuntia</item>
+        <item quantity="one">%1$s tunti</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minuuttia</item>
+        <item quantity="one">%1$s minuutti</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s minuuttia</item>
+        <item quantity="one">%1$s minuutti</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Muutettiin torkutuksen aikaväli %d minuuttiin</item>
@@ -67,5 +87,13 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d sekuntia</item>
         <item quantity="one">%1$d sekunti</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s tuntia edellä</item>
+        <item quantity="one">%s tunti edellä</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s tuntia jäljessä</item>
+        <item quantity="one">%s tunti jäljessä</item>
     </plurals>
 </resources>

@@ -52,6 +52,17 @@
         <item>25 minuuttia</item>
         <item>30 minuuttia</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Maanantaista Perjantaihin</item>
+        <item>Joka päivä</item>
+        <item>Työpäivinä</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Joka päivä</item>
+        <item>Maanantaista Perjantaihin</item>
+        <item>Työpäivinä</item>
+        <item>Mukautettu</item>
+    </string-array>
     <string-array name="clock_bg_setting_entries">
         <item>Valkoinen</item>
         <item>Musta</item>
@@ -187,7 +198,6 @@
         <item>Kiina</item>
         <item>Iran</item>
         <item>Israel</item>
-		<item>Intia</item>
         <item>Japani</item>
         <item>Mongolia</item>
         <item>Bermuda</item>
@@ -304,6 +314,7 @@
         <item>Kiina</item>
         <item>Intia</item>
         <item>Intia</item>
+        <item>Intia</item>
         <item>Japani</item>
         <item>Pakistan</item>
         <item>Intia</item>
@@ -345,6 +356,22 @@
         <item>Suriname</item>
         <item>Ecuador</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>Su</item>
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>Asetettuna aikana</item>
+        <item>15 minuuttia etuajassa</item>
+        <item>30 minuuttia etuajassa</item>
+        <item>1 tunnin etuajassa</item>
+        <item>Ei mitään</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuutti</item>
         <item>5 minuuttia</item>
@@ -376,10 +403,5 @@
         <item>Älä tee mitään</item>
         <item>Torkuta</item>
         <item>Ohita</item>
-    </string-array>
-    <string-array name="stat_volume_button_behaviors">
-        <item>Ei mitään</item>
-        <item>Torkku</item>
-        <item>Sulje</item>
     </string-array>
 </resources>
