@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- miui 10 valmis -->
-  <string name="find_device_notice">Siirry osoitteeseen i.mi.com paikantaaksesi, lukitaksesi tai palauttaaksesi laitteesi tehdasasetuksille.</string>
-  <!-- miui 10 valmis -->
   <string name="activate_xiaomi_account">Aktivoi tämä laite</string>
   <string name="adding_or_updating_account">Päivitetään tiliä…</string>
   <string name="app_name">Etsi laite</string>
@@ -30,8 +27,7 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="find_device_error_server">Palvelinvirhe (%s).</string>
   <string name="find_device_error_unknown">Tuntematon virhe (%s).</string>
   <string name="find_device_noise_title">Etsi laite hälytys</string>
-  <string name="find_device_notice_p1">Mene</string>
-  <string name="find_device_notice_p3">paikantaaksesi, lukitaksesi tai palauttaaksesi laite tehdasasetuksille.</string>
+  <string name="find_device_notice">Siirry osoitteeseen &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; paikantaaksesi, lukitaksesi tai palauttaaksesi laitteesi tehdasasetuksille.</string>
   <string name="find_device_notice_sms_alert">Jos vaihdat SIM-kortteja, uusi tekstiviesti saatetaan lähettää automaattisesti tämän ominaisuuden uudelleenaktivoimiseksi.</string>
   <string name="find_device_stop_noise">Hiljentääksesi napauta OK</string>
   <string name="find_device_storage_corrupted">Laitteen tallennustila on korruptoitunut. Laitteesi ei ole nyt turvassa.</string>
@@ -85,6 +81,7 @@ Mene id.mi.com palauttaaksesi salasanasi.
 Muut syyt
 Kirjaudu sisään osoitteessa i.mi.com ja yritä avata laitteesi lukitus sieltä."</string>
   <string name="unlock_help_title">Apua avaamiseen:</string>
+  <string name="unlock_number">Lukituksenpoistokoodi: %s</string>
   <string name="unlock_wrong_captcha">Koodi, jonka syötit on väärin</string>
   <string name="unlocking">Aktivoidaan…</string>
   <string name="verifing_account">Varmennetaan salasanaa…</string>
