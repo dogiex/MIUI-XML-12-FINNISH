@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Yritä uudelleen</item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
+        <item>Pyyhi sormenjälkitunnistin puhtaaksi ja yritä uudelleen</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
+        <item>Peitä sormenjälkitunnistin kokonaan ja paina</item>
+        <item>Liian nopeasti! Sormenjälkeä ei tunnistettu</item>
+        <item>Liikuta sormeasi hieman ja yritä uudelleen</item>
+        <item>Nosta sormeasi ja laita se takaisin tunnistimelle uudelleen</item>
+        <item>Pidä sormeasi tunnistimella hieman pidempään</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Liikuta sormeasi hieman</item>
+        <item>Tämä sormenjälki on lisätty, käytä toista sormea</item>
+    </string-array>
+</resources>
