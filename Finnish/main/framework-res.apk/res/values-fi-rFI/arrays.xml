@@ -41,12 +41,6 @@
         <item>Yritetään ottaa Wi-Fi käyttöön</item>
         <item>Yritetään ottaa BT käyttöön</item>
     </string-array>
-    <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Soittaaksesi ja lähettääksesi viestejä käyttäen Wi-Fi-yhteyttä, pyydä ensin operaattoriasi asettamaan tämä palvelu käyttöön. Sen jälkeen ota uudelleen Wi-Fi-puhelut käyttöön Asetuksissa.</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Rekisteröi operaattorisi kanssa</item>
-    </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>
         <item>%s Wi-Fi-puhelu</item>
