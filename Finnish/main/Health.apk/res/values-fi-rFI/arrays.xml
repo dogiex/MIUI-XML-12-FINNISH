@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="arr_prompt_label">
-        <item>Reasonable</item>
-        <item>Long</item>
-        <item>Too long</item>
+        <item>Kohtuullinen</item>
+        <item>Pitkä</item>
+        <item>Liian pitkä</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Time to move!</item>
-        <item>Learn more</item>
-        <item>Drink some water and take a walk.</item>
-        <item>Learn more</item>
-        <item>Climb a flight of stairs</item>
-        <item>Learn more</item>
-        <item>"Don't sit for too long"</item>
-        <item>Learn more</item>
+        <item>Aika liikkua!</item>
+        <item>Lisätietoja</item>
+        <item>Juo hieman vettä ja mene kävelylle.</item>
+        <item>Lisätietoja</item>
+        <item>Kiipeä portaat</item>
+        <item>Lisätietoja</item>
+        <item>Älä istu liian kauan</item>
+        <item>Lisätietoja</item>
     </string-array>
     <string-array name="arr_time_label">
-        <item>1 hour</item>
-        <item>2 hours</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
@@ -29,62 +29,49 @@
         <item>" km"</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
+        <item>Päivä</item>
+        <item>Viikko</item>
+        <item>Kuukausi</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>No restrictions</item>
-        <item>Limit background activity</item>
-        <item>Stop after 10 minutes</item>
-        <item>Never</item>
+        <item>Ei rajoituksia</item>
+        <item>Rajoita taustatyöskentelyä</item>
+        <item>Lopeta 10 minuutin jälkeen</item>
+        <item>Ei koskaan</item>
     </string-array>
     <string-array name="speed_unit">
         <item>" km/h"</item>
         <item>" m/s"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>"Sitting down doesn't benefit your health. Even if you can't reduce the time you spend sitting, standing up every once in a while is a good idea."</item>
-        <item>This feature will remind you to spend at least 1 minute of every hour standing up. 12 hours with stand-up breaks every day will help you avoid the risks of sedentary lifestyle.</item>
-        <item>Tap \"Continue\" to learn more and turn this feature on.</item>
+        <item>Istuminen ei auta terveyteesi. Vaikka et voisi vähentää istumiseen käytettyä aikaa, nouseminen ylös seisomaan vähän väliä on hyvä idea.</item>
+        <item>Tämä toiminto muistuttaa sinua nousemaan seisomaan kerran tunnissa yhden minuutin ajaksi. 12 tuntia jalottelutauoilla joka päivä auttaa sinua välttämään riskiä istumisen elämäntyyliin.</item>
+        <item>Napauta \"Jatka\" lisätietojen saamiseksi ja tämän toiminnon käyttöönottamiseksi.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>"Xiaomi Health learns whether you stood up based on how you used your device. If no movement is detected during an hour, you'll be reminded to stand up or add the record manually."</item>
-        <item>This feature will track your movement and send reminders.</item>
+        <item>Xiaomi Health oppii laitteesi käytön mukaan nousitko seisomaan. Jos liikettä ei havaita yhteen tuntiin, sinua muistutetaan seisomaan ylös tai kirjaamaan seisomisen tiedot manuaalisesti.</item>
+        <item>Tämä toiminto seuraa liikettäsi ja lähettää muistutuksia.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+        <item>Tiistai</item>
+        <item>Keskiviikko</item>
+        <item>Torstai</item>
+        <item>Perjantai</item>
+        <item>Lauantai</item>
     </string-array>
     <string-array name="week_label">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-    </string-array>
-    <integer-array name="weight_line_chart_default_y">
-        <item>42</item>
-        <item>45</item>
-        <item>48</item>
-    </integer-array>
-    <string-array name="weight_unit">
-        <item>" g"</item>
-        <item>" kg"</item>
-        <item>" t"</item>
-        <item>" liang"</item>
-        <item>" jin"</item>
-        <item>" lb"</item>
+        <item>Su</item>
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
     </string-array>
 </resources>
