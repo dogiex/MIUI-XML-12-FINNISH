@@ -59,7 +59,6 @@ MM/dd"</string>
   <string name="aod_style">Theme</string>
   <string name="aod_to_close">Poista käytöstä</string>
   <string name="app_name">Preference</string>
-  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply">Aseta</string>
   <string name="apply_succeed">Applied successfully</string>
   <string name="background_icon">Tausta</string>
@@ -87,11 +86,8 @@ MM/dd"</string>
   <string name="error_icon_content_description">Error</string>
   <string name="expand_button_title">Advanced</string>
   <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
-  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="font_thickness">Bold font</string>
   <string name="gradient_vectorpath">gradient_vector_path</string>
-  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="icon_content_description">Dialog Icon</string>
   <string name="large_time">Suuri kello</string>
   <string name="letter_space">Letter-spacing</string>
