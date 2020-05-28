@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d tiedostoa</item>
-        <item quantity="one">%1$d tiedosto</item>
-     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">tunti sitten</item>
     </plurals>
@@ -77,6 +73,14 @@
         <item quantity="other">(%d kohdetta)</item>
         <item quantity="one">(%d kohde)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s people can view this album</item>
+        <item quantity="one">%s person can view this album</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d kohdetta</item>
         <item quantity="one">%1$d kohde</item>
@@ -100,6 +104,10 @@
     <plurals name="backup_pause_desc">
         <item quantity="other">%d kuvaa ja videota | Pysäytetty</item>
         <item quantity="one">%d kuva tai video | Pysäytetty</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Pause syncing photos, videos, contacts, notes, and other items with the cloud for %d minutes.</item>
+        <item quantity="one">Pause syncing photos, videos, contacts, notes, and other items with the cloud for %d minute.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d kuvaa ja videota | %2$s</item>
@@ -133,13 +141,13 @@
         <item quantity="other">%d videota</item>
         <item quantity="one">%d video</item>
     </plurals>
-    <plurals name="creation_max_image">
-        <item quantity="other">Valitse enintään %d kuvaa</item>
-        <item quantity="one">Valitse enintään %d kuva</item>
-    </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Kollaasit voivat sisältää 1-%d kuvaa</item>
-        <item quantity="one">Kollaasit voivat sisältää 1-%d kuvan</item>
+        <item quantity="other">Collages can contain 1-%d photos</item>
+        <item quantity="one">Collages can contain 1-%d photo</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Select up to %d photos</item>
+        <item quantity="one">Select up to %d photo</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d kohdetta valittu</item>
@@ -221,9 +229,9 @@
         <item quantity="other">Ohitettiin %1$d kuvaa, joita ei voitu renderöidä.</item>
         <item quantity="one">Ohitettiin kuva, jota ei voitu renderöidä.</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">Yhteensä %1$d kohdetta</item>
-        <item quantity="one">Yhteensä %1$d kohde</item>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d files</item>
+        <item quantity="one">%1$d file</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Puoli tuntia sitten</item>
@@ -284,6 +292,14 @@
         <item quantity="other">Yhteensä %1$d kohdetta</item>
         <item quantity="one">Yhteensä %1$d kohde</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Valitut kuvat ei ole laitteella. Ladataanko ne käyttämällä mobiilidataa?</item>
         <item quantity="one">Valittu kuva ei ole laitteella. Ladataanko se käyttämällä mobiilidataa?</item>
@@ -300,6 +316,10 @@
         <item quantity="other">Peruutetaanko jäljellä olevien %d kuvan lataaminen?</item>
         <item quantity="one">Peruutetaanko jäljellä olevan kuvan lataaminen?</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Downloading %d remaining files</item>
+        <item quantity="one">Downloading %d remaining file</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
         <item quantity="one">Kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
@@ -307,6 +327,10 @@
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui (%2$d Mt), yhdistä verkkoon ja yritä uudelleen</item>
         <item quantity="one">Kuvan lataaminen epäonnistui (%2$d Mt), yhdistä verkkoon ja yritä uudelleen</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d files (%2$dMB) aren't downloaded yet. Download using mobile data?"</item>
+        <item quantity="one">"%1$d file (%2$dMB) isn't downloaded yet. Download using mobile data?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui, yritetäänkö uudelleen?</item>
@@ -379,6 +403,26 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
+        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
+        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"You won't be able to restore %d selected items if you delete them. Delete anyway?"</item>
+        <item quantity="one">"You won't be able to restore %d selected item if you delete it. Delete anyway?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Items can be stored here for up to %1$d days (%2$s)</item>
+        <item quantity="one">Items can be stored here for %1$d day (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Items can be stored here for up to %1$d days. Upgrade your plan to extend this period.</item>
+        <item quantity="one">Items can be stored here for %1$d day. Upgrade your plan to extend this period.</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d tiedostoa</item>
