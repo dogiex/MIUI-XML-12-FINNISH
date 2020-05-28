@@ -325,6 +325,7 @@
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
+  <string name="date_picker_lunar">Perinteinen kiinalainen kalenteri</string>
   <string name="date_time_done">Valmis</string>
   <string name="date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>
   <string name="delete_description">Poista</string>
