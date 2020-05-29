@@ -4,12 +4,4 @@
         <item quantity="other">Paina ja pidä laatikon painiketta pohjassa %1$d sekunnin ajan</item>
         <item quantity="one">Paina ja pidä laatikon painiketta pohjassa %1$d sekunnin ajan</item>
     </plurals>
-    <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Press and hold any touch sensitive area on the earphones for %1$d seconds</item>
-        <item quantity="one">Press and hold any touch sensitive area on the earphones for %1$d second</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d devices connected</item>
-        <item quantity="one">%1$d device connected</item>
-    </plurals>
 </resources>
