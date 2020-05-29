@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="auth_fingerprint_content_message_error">Sormenjälkeä ei voitu lukea, yritä uudelleen</string>
   <string name="app_name">Application Extension Service</string>
   <string name="auth_activity_label">Vahvistuskoodit</string>
   <string name="auth_fingerprint_content">Vahvista sormenjälkesi käyttääksesi tallennettuja salasanoja</string>
   <string name="auth_fingerprint_content_message">Sormenjälkeä ei voitu vahvistaa, yritä uudelleen</string>
-  <string name="auth_fingerprint_content_message_error">"Couldn't scan fingerprint, try again"</string>
   <string name="auth_fingerprint_title">Vahvista sormenjälkesi</string>
   <string name="autofill_description">MIUI voi salata ja taltioida salasanasi, jotta voit syöttää ne automaattisesti aina tarvittaessa. Xiaomi ei voi lukea salattuja salasanojasi.</string>
   <string name="autofill_hint_email_address">Sähköposti</string>
