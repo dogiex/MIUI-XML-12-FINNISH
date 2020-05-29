@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- miui 10 valmis -->
+    <plurals name="announce_for_unread">
+        <item quantity="other">%2$s lukematonta sovelluksesta %1$s</item>
+     </plurals>
+     <!-- miui 10 valmis -->
     <plurals name="announce_for_drag">
         <item quantity="other">Raahataan %1$d kohdetta</item>
         <item quantity="one">Raahataan %1$d kohdetta</item>
-    </plurals>
-    <plurals name="announce_for_unread">
-        <item quantity="other">%2$s lukematonta sovelluksesta %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Poistetaanko %1$d taustakuvaa?</item>
