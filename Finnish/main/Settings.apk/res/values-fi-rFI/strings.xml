@@ -4148,6 +4148,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="passpoint_content">Kohteen %1$s kirjautumistiedot</string>
   <string name="passpoint_label">Tallennettu seuraavan kautta:</string>
   <string name="passwordIncorrect">Syöttämäsi salasana on väärä</string>
+  <string name="password_and_security">Salasanat &amp; tietoturva</string>
   <string name="password_entrance_title">Aseta näytön lukitus</string>
   <string name="password_guard">Salasana</string>
   <string name="password_security_settings_title">Salasanat &amp; tietoturva</string>
@@ -4457,7 +4458,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_password_use_finger_dialog_title">Sormenjäljellä avaaminen</string>
   <string name="privacy_password_use_finger_success">Otettu käyttöön</string>
   <string name="privacy_password_visible_pattern">Näytä kuvio</string>
-  <string name="privacy_protect_title">Yksityisyyden suojaaminen</string>
+  <string name="privacy_protect_title">Yksityisyydensuoja</string>
+  <string name="privacy_protection">Yksityisyydensuoja</string>
   <string name="privacy_protection_title">Yksityisyys</string>
   <string name="privacy_relative">Yksityisyys</string>
   <string name="privacy_settings">Varmuuskopiointi &amp; nollaus</string>
