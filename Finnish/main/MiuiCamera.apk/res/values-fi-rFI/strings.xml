@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="confirm_reset_manually_parameter_message">Palautetaanko kaikki parametrit oletusarvoihinsa?</string>
-  <string name="reset_manually_parameter_confirmed">OK</string>
-  <string name="reset_manually_parameter_hint">Palauta</string>
   <string name="fps960_toast">Hidastettu tallennus aloitetaan, kun ajastin saavuttaa valkoisen pisteen</string>
   <string name="module_name_new_slow_motion">Hidastus</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Kokeile Muotokuvatilaa.

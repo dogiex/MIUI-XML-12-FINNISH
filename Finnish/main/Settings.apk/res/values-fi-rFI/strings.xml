@@ -29,8 +29,6 @@
   <string name="bootloader_device_bind_server_token_expired_2">Ei voitu vahvistaa. Kirjaudu tiliisi uudelleen ja aloita alusta.</string>
   <string name="credentials_title_verification">Vahvistaminen</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
-  <string name="miui_lab_drive_mode_desc">Käytä ääniohjausta &amp; kuuntele WeChat viestejä</string>
-  <string name="miui_lab_drive_mode_title">Autotila</string>
   <string name="miui_lab_super_resolution_desc">Tee kuvista terävempiä</string>
   <string name="miui_lab_super_resolution_title">Super-resoluutio</string>
   <string name="navigation_guide_appswitch_summary">Pyyhkäise näytön reunalta vasemmalle tai oikealla ja pidä hetken ajan painettuna</string>
