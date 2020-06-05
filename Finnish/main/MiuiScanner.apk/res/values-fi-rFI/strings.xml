@@ -27,7 +27,7 @@
   <string name="agree_app_use">QR-koodien lukemiseen ja niiden tunnistamiseen toisista kuvista</string>
   <string name="agree_btn">Hyväksy</string>
   <string name="agree_camera_permission">Kuvien ottamiseen ja videon nauhoittamiseen</string>
-  <string name="agree_storage_permission">Laitteellesi tallennettujen tiedostojen ja kuvien käyttö</string>
+  <string name="agree_storage_permission">Pääsy laitteellesi tallennettuihin tiedostoihin ja kuviin</string>
   <string name="always">Aina</string>
   <string name="amazon_assistant_shopping_title">Etsi Amazonista</string>
   <string name="app_description_content">Lukijalla voit skannata QR-koodeja, asiakirjoja, käyntikortteja ja muuta. Varmista, että et tarvitse näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>

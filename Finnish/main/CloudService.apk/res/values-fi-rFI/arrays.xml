@@ -20,6 +20,18 @@
         <item>Varmuuskopioi tärkeät asetukset, mukaan lukien Wi-Fi ja näytön asetukset</item>
         <item>Lukitse laitteesi etäältä jos se katoaa</item>
     </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Laitteesi tunnistamiseen</item>
+        <item>Laitteesi paikantamiseen ja hävinnyt tilan vaihtamiseen</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Tapahtumien synkronointiin</item>
+        <item>Viestien synkronointiin</item>
+        <item>Viestien synkronointiin</item>
+        <item>Yhteystietojen synkronointiin</item>
+        <item>Yhteystietojen synkronointiin</item>
+        <item>Kohteiden tallentamiseen laitteellesi (esim. kuvat, videot ja kappaleet)</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Synkronoi sovellustiedot</item>
         <item>Varmuuskopioi Aloitusnäytön ulkoasu</item>
