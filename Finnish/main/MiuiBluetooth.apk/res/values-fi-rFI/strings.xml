@@ -45,6 +45,8 @@
   <string name="copy">Kopioi</string>
   <string name="device_picker">Bluetooth laitteen asetukset</string>
   <string name="disconnect">Katkaise yhteys</string>
+  <string name="expand_button_title">Lisäasetukset</string>
+  <string name="fast_connect_device_battery">Akku</string>
   <string name="fast_connect_device_box">Laatikko</string>
   <string name="fast_connect_device_box_name">%1$s Laatikko</string>
   <string name="fast_connect_device_connect_cancel">Peruuta</string>
@@ -52,7 +54,6 @@
   <string name="fast_connect_device_connect_retry">Yritä uudelleen</string>
   <string name="fast_connect_device_connect_setup">Asetukset</string>
   <string name="fast_connect_device_connect_success">Valmis</string>
-  <string name="fast_connect_device_headset">Akku</string>
   <string name="fast_connect_device_headset_l">Vasen</string>
   <string name="fast_connect_device_headset_r">Oikea</string>
   <string name="fast_connect_device_headset_reset">Paina pohjassa laatikon painiketta</string>

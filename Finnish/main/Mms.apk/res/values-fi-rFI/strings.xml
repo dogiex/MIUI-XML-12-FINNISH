@@ -130,6 +130,7 @@ Huomaa, että %1s täytyy kerätä tietojasi ja se vaatii seuraavat käyttöoike
   <string name="click_to_update">Tarkista päivitykset napauttamalla</string>
   <string name="click_to_view">Näytä napauttamalla</string>
   <string name="close">Sulje</string>
+  <string name="cloud_recommend_view_tip">Ota pilven synkronointi käyttöön palauttaaksesi tärkeitä viestejä milloin tahansa</string>
   <string name="cloud_state_disabled">Ota pilven synkronointi käyttöön synkronoidaksesi viestit</string>
   <string name="cloud_state_sync_finished">Synkronoitu Xiaomi Pilveen</string>
   <string name="cloud_state_syncing">Synkronoidaan Xiaomi Pilveen…</string>
