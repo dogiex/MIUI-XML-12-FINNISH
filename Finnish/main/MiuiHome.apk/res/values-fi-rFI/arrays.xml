@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
+    <string-array name="cell_icon_size_entries">
+        <item>Pikkuruinen</item>
+        <item>Pieni</item>
+        <item>Keskikokoinen</item>
+        <item>Suuri</item>
+        <item>Valtava</item>
     </string-array>
     <string-array name="editing_mode_entries">
         <item>Taustakuva</item>
@@ -39,6 +42,11 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>Oletus</item>
         <item>Klassinen</item>
+    </string-array>
+        <string-array name="minus_screen_entries">
+        <item>Ei mitään</item>
+        <item>Sovellusholvi</item>
+        <item>Google</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>Liuku</item>

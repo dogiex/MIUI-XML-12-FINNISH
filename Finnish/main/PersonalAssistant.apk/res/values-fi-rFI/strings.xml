@@ -774,6 +774,9 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="midrop_parent">Mi Drop</string>
   <string name="midrop_send">Lähetä</string>
   <string name="mifare_card">Kortin emulaattori</string>
+  <string name="migu_game">Minipelit</string>
+  <string name="migu_parent">Migu</string>
+  <string name="migu_video">Videot</string>
   <string name="mini_cancel">Peruuta</string>
   <string name="miuishare_account_activate_confirmation">Aktivointi vaaditaan</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>

@@ -4825,6 +4825,8 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_dark_mode_smart_dark_title">Globaali tummatila</string>
   <string name="screen_dark_mode_time_title">Ajastus</string>
   <string name="screen_effect">Kontrasti &amp; värit</string>
+  <string name="screen_fps_summary">Korkea virkistystaajuus tekee kuvasta sulavamman, kun taas alhainen virkistystaajuus säästää virtaa</string>
+  <string name="screen_fps_title">Virkistystaajuus</string>
   <string name="screen_key_long_press">Navigointipainikkeiden pitkä painallus</string>
   <string name="screen_key_long_press_action">Käynnistettävä toiminto</string>
   <string name="screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
