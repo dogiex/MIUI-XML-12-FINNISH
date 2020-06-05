@@ -1062,12 +1062,12 @@ Huomautus: Vain Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>Optimoi näytön kontrastia valoisuuden mukaan</item>
         <item>Nosta näytön kontrastia</item>
-        <item>Kontrasti pysyy muuttumattomana</item>
+        <item>Palauta näytön sisällön vakioväri värikalibroinnilla</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Automaattinen kontrasti</item>
         <item>Lisätty kontrasti</item>
-        <item>Normaali</item>
+        <item>Alkuperäinen väri</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Loistava</item>
@@ -1342,7 +1342,7 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Käytä satunnaista MAC-osoitetta (oletus)</item>
+        <item>Käytä satunnaista MAC-osoitetta</item>
         <item>Käytä laitteen MAC-osoitetta</item>
     </string-array>
     <string-array name="wifi_proxy_settings">

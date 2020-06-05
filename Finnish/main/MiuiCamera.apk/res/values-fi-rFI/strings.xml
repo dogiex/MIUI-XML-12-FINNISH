@@ -40,6 +40,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_filter_open_panel">Avattiin suodattimen valikko</string>
   <string name="accessibility_filter_pad_close">Suodattimen valikko on piilotettu</string>
   <string name="accessibility_flash_auto">Automaattinen salama on käytössä</string>
+  <string name="accessibility_flash_back_soft_light">Salama toimii pehmeävalo -tilassa</string>
   <string name="accessibility_flash_mode_button">Salaman painike</string>
   <string name="accessibility_flash_off">Salama pois käytöstä</string>
   <string name="accessibility_flash_on">Salama käytössä</string>
@@ -183,6 +184,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="dialog_google_lens_option_0">Google Lens (Suositeltu)</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_ok_time">OK (%d s)</string>
+  <string name="dirty_tip_toast">Linssi on likainen. Puhdista se.</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>
   <string name="dual_camera_lens_covered_toast">Linssi on peitetty.</string>
   <string name="dual_camera_lowlight_toast">Näyttää siltä, että on liian pimeää.</string>
@@ -395,15 +397,15 @@ näyttävät kuvissa suuremmilta"</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">Kamera ei toimi jaetulla näytöllä</string>
   <string name="network_access_user_notice_agree">Hyväksyn</string>
-  <string name="network_access_user_notice_message_live_video">"Kameran täytyy yhdistää internetiin tarjotakseen tehosteita, musiikkia ja muita toimintoja lyhyille videoille.
+  <string name="network_access_user_notice_message_live_video"><Data>"Kameran täytyy yhdistää internetiin tarjotakseen tehosteita, musiikkia ja muita toimintoja lyhyille videoille.
 
-Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=fi_FI"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=fi_FI"&gt;Tietosuojakäytännön&lt;/a&gt; ja sallit Kameran yhdistää internetiin.</string>
-  <string name="network_access_user_notice_message_sticker">"Kameran täytyy yhdistää internetiin tarjotakseen tarroja tätä toimintoa varten.
+Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän &amp;lt;a href =%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href =%2$s&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja sallit Kameran yhdistää internetiin."</Data></string>
+  <string name="network_access_user_notice_message_sticker"><Data>"Kameran täytyy yhdistää internetiin tarjotakseen tarroja tätä toimintoa varten.
 
-Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=fi_FI"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=fi_FI"&gt;Tietosuojakäytännön&lt;/a&gt; ja sallit Kameran yhdistää internetiin.</string>
-  <string name="network_access_user_notice_message_voice_caption">"Kameran täytyy yhdistää internetiin tarjotakseen puheesta-tekstiksi -toiminnon.
+Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän &amp;lt;a href =%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href =%2$s&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja sallit Kameran yhdistää internetiin."</Data></string>
+  <string name="network_access_user_notice_message_voice_caption"><Data>"Kameran täytyy yhdistää internetiin tarjotakseen puheesta-tekstiksi -toiminnon.
 
-Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=fi_FI"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=fi_FI"&gt;Tietosuojakäytännön&lt;/a&gt; ja sallit Kameran yhdistää internetiin.</string>
+Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän &amp;lt;a href =%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href =%2$s&amp;gt;Tietosuojakäytännön&amp;lt;/a&amp;gt; ja sallit Kameran yhdistää internetiin."</Data></string>
   <string name="network_access_user_notice_title">Yhdistetään internetiin</string>
   <string name="no_storage">Kameran tallennustila ei ole käytettävissä järjestelmävirheen vuoksi.</string>
   <string name="not_enough_space">Sisäinen tallennustila on täynnä</string>
@@ -415,6 +417,7 @@ Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän "&lt;a hre
   <string name="pano_how_to_use_prompt_start">Napauta nuolta vaihtaaksesi suuntaa ja aloita panoroimaan hitaasti.</string>
   <string name="pano_how_to_use_prompt_to_move">Aloita panoroimaan hitaasti</string>
   <string name="path_settings">Järjestelmäsovellukset/Kamera/Asetukset</string>
+  <string name="photo_assistance_tips_title">Live-vinkkejä</string>
   <string name="popup_tip_3d_beauty_intro_text">3D-Kauneus</string>
   <string name="portait_effect_entry_blackwhite">M&amp;V</string>
   <string name="portait_effect_entry_cool">Minttu</string>
@@ -442,6 +445,7 @@ kuvasi taustan"</string>
   <string name="portrait_mode_too_far_hint">Aseta kohde alle 2 metrin etäisyydelle</string>
   <string name="portrait_mode_use_hint">"Muotokuvatila sumentamaan taustan
 ja tuo henkilöt esiin."</string>
+  <string name="pref_960_watermark_title">960FPS vesileima</string>
   <string name="pref_advance_settings">Lisäasetukset</string>
   <string name="pref_ai_detect">AI tunnistus</string>
   <string name="pref_audio_focus_entry_front">Etu</string>
@@ -660,7 +664,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
   <string name="pref_camera_zoom_mode_entry_standard">TAVALLINEN</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRALAAJA</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>
@@ -678,8 +683,12 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_google_lens_summary">Osoita kameraasi yhteystietoihin, URL-osoitteisiin ja QR-koodeihin nähdäksesi käytettävissä olevat vaihtoehdot</string>
   <string name="pref_google_lens_title">Lens ehdotukset</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat</string>
+  <string name="pref_lens_dirty_detect_summary">Vastaanota ilmoitus, kun linssi on likainen</string>
+  <string name="pref_lens_dirty_detect_title">Ilmoita likaisesta linssistä</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="pref_photo_assistance_tips_off">Pois käytöstä</string>
+  <string name="pref_photo_assistance_tips_on">Käytössä</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">F</string>
   <string name="pref_retain_camera_mode_summary">Vaihda kamera edelliseen käytettyyn tilaan, kun avaat sovelluksen.</string>
@@ -727,8 +736,13 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_watermark_on">Käytössä</string>
   <string name="pref_watermark_title">Vesileima</string>
   <string name="preparing_sd">Tarkistetaan sisäistä tallennustilaa…</string>
-  <string name="recommend_soft_light_tip">Käytä salamaa pehmeän valon tilassa</string>
+  <string name="recommend_macro_mode">Kokeile Makro-tilaa</string>
+  <string name="recommend_portrait">Kokeile Muotokuva-tilaa</string>
+  <string name="recommend_soft_light_tip">Ota salama käyttöön</string>
+  <string name="recommend_super_night">Kokeile Yö-tilaa</string>
   <string name="record_back_pressed_hint">Lopeta nauhoittaminen napauttamalla uudelleen</string>
+  <string name="reset_manually_parameter_confirmed">OK</string>
+  <string name="reset_manually_parameter_hint">Nollaa</string>
   <string name="screen_on_proximity_sensor_hint">Poistaaksesi tämän ominaisuuden käytöstä, paina Äänenvoimakkuus ylös ja Takaisin -painikkeita samanaikaisesti.</string>
   <string name="screen_on_proximity_sensor_summary">Älä peitä kuulokealuetta</string>
   <string name="search_settings">Kamera Asetukset;Laatu;Kuvanlaatu;Kuvan Sijainti;Valokuvan sijainti;Kasvontunnistus;Kameran Ääni</string>
@@ -759,6 +773,9 @@ ja tuo henkilöt esiin."</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Söpö</string>
   <string name="sticker_tab2">Hauska</string>
+  <string name="super_eis">Supervakautus</string>
+  <string name="super_eis_disabled_hint">Supervakautus on pois käytöstä</string>
+  <string name="super_night_hint">Optimoidaan kuvaa… Pidä laitteesi vakaana.</string>
   <string name="super_night_toast">Pidä puhelimesi vakaana kuvan ottamisen aikana</string>
   <string name="tap_to_exposure">Säädä valotus manuaalisesti napauttamalla</string>
   <string name="tap_to_focus">Tarkenna napauttamalla</string>
@@ -771,13 +788,13 @@ ja tuo henkilöt esiin."</string>
   <string name="toast_start_audio_capture">Ota kuva ääntelemällä</string>
   <string name="ubi_focus_capture_fail">Kuvan ottaminen epäonnistui</string>
   <string name="ubifocus_capture_warning_message">Parhaan tuloksen saavuttamiseksi, kuvassasi täytyy kohteiden olla sekä lähellä (alle 1 metrin päässä linssistä) että kaukana</string>
-  <string name="ultra_pixel_32mp">32MP</string>
-  <string name="ultra_pixel_48mp">48MP</string>
-  <string name="ultra_pixel_64mp">64MP</string>
-  <string name="ultra_pixel_device">64MP</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD pois käytöstä</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD käytössä</string>
+  <string name="ultra_pixel_portrait_hint">HD-muotokuva</string>
   <string name="ultra_pixel_zoom_no_support_tip">Zoomaus ei toimi %s Ultra HD -tilassa</string>
+  <string name="ultra_tele_use_hint_text_body">"Käytä 50X zoomausta kaapataksesi kaukana olevia kohteita
+yksityiskohtaisemmin"</string>
+  <string name="ultra_tele_use_hint_text_title">50X zoomaus</string>
   <string name="ultra_wide_bokeh_close_tip">Kokovartalontila pois käytöstä</string>
   <string name="ultra_wide_bokeh_open_tip">Kokovartalontila</string>
   <string name="ultra_wide_close_tip">Ultralaajakulmatila pois käytöstä</string>
@@ -789,7 +806,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="ultra_wide_open_tip">Ultralaajakulmatila</string>
   <string name="ultra_wide_open_tip_sat">0.6X ultralaajakulma</string>
   <string name="ultra_wide_recommend_tip_hint">Kokeile Ultralaajakulmatilaa</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Kokeile 0.6X ultralaajakulmatilaa</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Vaihda 0.6X ultralaajakulmaan</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_define_watermark_cancel">Peruuta</string>
   <string name="user_define_watermark_save">Tallenna</string>
@@ -808,6 +825,13 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
+  <string name="vv_duartion_hint">%1$s | Osa %2$d | %3$s s</string>
+  <string name="vv_hint">Voit kuvata vlogeja vain vaakatilassa</string>
+  <string name="vv_stability_hint">Pidä laitteesi vakaana</string>
+  <string name="vv_start">Kuvaa vlogi</string>
+  <string name="vv_use_hint_text_body">"Vlog-tila sallii sinun
+nauhoittaa ja muokata videoita tien päällä"</string>
+  <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Odota hetki…</string>
   <string name="wideselfie_press_shoot_key_to_start">Napauta sulkijapainiketta</string>
   <string name="wideselfie_result_image_lossless">Panoramakuvaa ei voitu luoda</string>

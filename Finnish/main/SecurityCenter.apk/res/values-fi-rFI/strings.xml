@@ -431,7 +431,7 @@ Et menetä sovellustietoja."</string>
   <string name="battery_charge_estimating">Lasketaan</string>
   <string name="battery_charge_full">Ladattu</string>
   <string name="battery_charging_prompt">Ladataan</string>
-  <string name="battery_desc_ambient_display">Ambient-näytön kuluttama virta</string>
+  <string name="battery_desc_ambient_display">Himmennetyn näytön kuluttama virta</string>
   <string name="battery_desc_apps">Sovelluksen kuluttama virta</string>
   <string name="battery_desc_bluetooth">Bluetoothin kuluttama virta</string>
   <string name="battery_desc_display">Näytön ja taustavalon kuluttama virta</string>
@@ -1832,13 +1832,18 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pm_root_success_notification_infomation">Varmista, että ymmärrät root-oikeuden riskit</string>
   <string name="pm_root_success_notification_title">Sallittiin root-oikeus</string>
   <string name="power_20s_shutdown">Laite sammuu %d sekunnin kuluttua</string>
-  <string name="power_ambient_display">Ambient-näyttö</string>
+  <string name="power_ambient_display">Himmennetty näyttö</string>
   <string name="power_analysis_consume_title">Akun käyttö</string>
   <string name="power_analysis_suggestion_need_optimize">Akun käyttöongelmia havaittu.</string>
   <string name="power_autorun_apps_empty">Ei automaattisesti käynnistyviä sovelluksia</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analysoi akun käyttö</string>
   <string name="power_cell">Solu lepotilassa</string>
+  <string name="power_center_5g_save_close_detail">5G-virransäästö pidentää akun käyttöikää vaikuttamatta 5G-yhteyteen. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="power_center_5g_save_close_later">Älä poista käytöstä</string>
+  <string name="power_center_5g_save_close_title">Poistetaan 5G-virransäästö käytöstä</string>
+  <string name="power_center_5g_save_summary_text">Tee 5G-yhteydestä vähemmän virtaa kuluttava tietyissä tilanteissa</string>
+  <string name="power_center_5g_save_title_text">5G-virransäästö</string>
   <string name="power_center_auto_shutdown">Ajasta käynnistäminen/sammuttaminen</string>
   <string name="power_center_back">Takaisin</string>
   <string name="power_center_battery_last">%s jäljellä</string>
@@ -2054,6 +2059,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
 Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen kalibrointimallin."</string>
   <string name="privacy_prompt_upload">Lähetä</string>
   <string name="process_mediaserver_label">Media palvelin</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Mainos</string>
   <string name="prompt_all">Kysy kaikille</string>
   <string name="prompt_input_time_illegal">Tätä kellonaikaa ei voi asettaa, muuta se ja yritä uudelleen</string>
@@ -2451,7 +2457,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="superpower_progress_turnoff_process">Rajoitetaan taustatyöskentelyjä</string>
   <string name="superpower_savemode_limit1">Tumma teema</string>
   <string name="superpower_savemode_limit2">Rajoita taustatyöskentelyä</string>
-  <string name="superpower_savemode_limit3">Rajoita virtaa kuluttavia toimintoja (synkronointi, GPS, värinä, Ambient-näyttö jne.)</string>
+  <string name="superpower_savemode_limit3">Rajoita virtaa kuluttavia toimintoja (synkronointi, GPS, värinä, Himmennetty näyttö jne.)</string>
   <string name="superpower_savemode_limit4">Salli valittujen sovellusten toimia normaalisti</string>
   <string name="superpower_settings">Äärimmäinen virransäästö</string>
   <string name="superpower_settins_autoenter_summary">Ota Äärimmäinen virransäästö käyttöön automaattisesti, kun akkua on jäljellä 10%</string>

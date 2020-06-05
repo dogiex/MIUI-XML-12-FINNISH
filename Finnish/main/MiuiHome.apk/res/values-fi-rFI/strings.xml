@@ -221,6 +221,7 @@
     <string name="invalid_contact_shortcut">Yhteystieto ei kelpaa</string>
     <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
     <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
+    <string name="launcher_minus_screen_title">Miinus yksi näyttö</string>
     <string name="launcher_not_exist">Tapahtui virhe. Mene takaisin Aloitusnäytölle ja yritä uudelleen.</string>
     <string name="launcher_pull_down_title">Pyyhkäise alaspäin Aloitusnäytöllä</string>
     <string name="launcher_slide_up_title">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
@@ -261,6 +262,8 @@
     <string name="menu_workspace_preview">Esikatsele Aloitusnäyttö</string>
     <string name="mi_wallpaper">MIUI Teemat</string>
     <string name="minus_one_screen">Sovellusholvi</string>
+    <string name="minus_one_screen_google">Google</string>
+    <string name="minus_one_screen_none">Ei mitään</string>
     <string name="miui_screen_config_title">Aloitusnäytön asetukset</string>
     <string name="mtzgadget_missing_text">Widgetti ei ole saatavilla</string>
     <string name="multi_selecting_tips">Valitaksesi sovelluksen, raahaa sen kuvaketta ja tiputa tänne.</string>
