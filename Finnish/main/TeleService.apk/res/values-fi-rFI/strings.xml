@@ -1902,7 +1902,7 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat mahdollisia vain matkapuhelinverkon kantavuusalueilla</string>
   <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi-puhelu</string>
   <string name="vowifi_emergency_warning_check">Älä näytä uudelleen.</string>
-  <string name="vowifi_emergency_warning_message">"Hätäpuhelut ei ole mahdollisia Wi-Fi-soitolla.
+  <string name="vowifi_emergency_warning_message">"Hätäpuhelut evät ole mahdollisia Wi-Fi-puheluilla.
 
 Laitteesi vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) soittaakseen hätäpuhelun.
 
