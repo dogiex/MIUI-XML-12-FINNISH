@@ -173,6 +173,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Poista käyttäen eleitä</string>
   <string name="pref_title_todo_float_mode">Käytä tehtävien työkaluja</string>
   <string name="pref_title_todo_shorcut">Työkalut</string>
+  <string name="privacy_note_content_empty">Täällä ei ole vielä kohteita.</string>
   <string name="recover_notes_hint">Tapahtui virhe, mene i.mi.com palauttaaksesi muistiot.</string>
   <string name="redo">Tee uudelleen</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Odota, kunnes muistio on ladannut ja yritä uudelleen.</string>

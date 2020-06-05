@@ -5,8 +5,8 @@
         <item quantity="one">%d artikkeli</item>
     </plurals>
 	<plurals name="feed_article_entrance_title">
-        <item quantity="other">%s artikkelia tästä aiheesta</item>
-        <item quantity="one">%s artikkeli tästä aiheesta</item>
+        <item quantity="other">Näytä %s artikkelia tästä aiheesta</item>
+        <item quantity="one">Näytä %s artikkeli tästä aiheesta</item>
     </plurals>
     <plurals name="llks_tools_remote_control_data">
         <item quantity="other">%s kohdetta</item>

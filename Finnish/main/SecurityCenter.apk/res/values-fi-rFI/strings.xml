@@ -625,11 +625,15 @@ Et menetä sovellustietoja."</string>
   <string name="create_gamebooster_destop">Luotiin Aloitusnäytön pikakuvake onnistuneesti</string>
   <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien nopeuttajasta</string>
   <string name="cta_HIPS_Perm_Location_Desc">saada tarkka sijainti (GPS- ja verkkopohjainen)</string>
+  <string name="cta_close_dialog_cancel">Peruuta</string>
+  <string name="cta_close_dialog_content">Jos rajoitat Tietoturva -sovelluksen internetin ja sijaintitietojen käyttöä, et saa enään maanjäristysvaroituksia, virustunnisteiden päivityksiä etkä estolistan tietoja. Laitteestasi tulee turvattomampi. Rajoitetaanko siitä huolimatta?</string>
+  <string name="cta_close_dialog_ok">Rajoita</string>
+  <string name="cta_close_dialog_title">Käytön rajoittaminen</string>
   <string name="cta_dialog_negative">Poistu</string>
   <string name="cta_dialog_positive">Hyväksyn</string>
   <string name="cta_dialog_title">Internetyhteys</string>
   <string name="cta_main_purpose">Tervetuloa Tietoturvaan! Voit käyttää tätä sovellusta tyhjentääksesi laitteessasi olevia roskia, etsiäksesi ja neutralisoidaksesi viruksia, optimoidaksesi laitteen suorituskykyä pelejä varten, säästääksesi virtaa, hallinnoidaksesi sovelluksia ja paljon muuta.</string>
-  <string name="cta_settings">Salli internetyhteys</string>
+  <string name="cta_settings">Salli internetyhteyden ja sijaintitietojen käyttö</string>
   <string name="current_network_state_not_need_diagnose">Internetyhteys on normaali.</string>
   <string name="customize_limit_pkg">%s (mukautettu)</string>
   <string name="customizer_mode_user_define_name">Sääntöni</string>
@@ -1539,7 +1543,7 @@ vastausta"</string>
   <string name="mixed_password_confirmed_header_confirm">Asetettiin onnistuneesti. Vahvista napauttamalla.</string>
   <string name="mixed_password_confirmed_header_continue">Asetettiin onnistuneesti. Napauta \"Seuraava\".</string>
   <string name="mixed_pattern_entered_header">Asetettiin salasana onnistuneesti</string>
-  <string name="mixed_recording_intro_header">Anna vähintään 4 merkkiä</string>
+  <string name="mixed_recording_intro_header">Anna %1$s-%2$s merkkiä</string>
   <string name="mixed_retry_button_text">Peruuta</string>
   <string name="mixed_settings_help_how_to_record">Kuinka salasana asetetaan</string>
   <string name="modify_password_mode">Vaihda salasanan tyyppiä</string>
