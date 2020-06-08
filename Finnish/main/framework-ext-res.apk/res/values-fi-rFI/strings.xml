@@ -95,7 +95,6 @@
   <string name="help">Etkö löydä laitteita?</string>
   <string name="help_content">Jos et löydä tarvitsemiasi laitteita, pyydä toista henkilöä ottamaan Mi Share käyttöön.</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Aseta sormesi Koti-painikkeelle</string>
-  <string name="input_method_clipboard_tips">Kopioidut asiat poistetaan leikepöydältä 48 tunnin jälkeen</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Lisää usein käytetty lause</string>
   <string name="input_method_clipboard_check_more_copy">Kopioi</string>
   <string name="input_method_clipboard_check_more_delete">Poista</string>
