@@ -330,7 +330,7 @@ Send this code to the supervisor."</string>
   <string name="lockscreen_magazine_summary">Valitse kategoriat</string>
   <string name="lockscreen_magazine_system_title">Oletus</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
-  <string name="logout_account">Sign out</string>
+  <string name="logout_account">Kirjaudu ulos</string>
   <string name="look_str">Suosittu</string>
   <string name="main_fragment_title_discover">Löydä</string>
   <string name="main_fragment_title_home">Suositukset</string>
@@ -353,9 +353,9 @@ d. MMMM'ta'"</string>
 d.M."</string>
   <string name="miui_lock_screen_large_date_12">"EEEE
 d.M."</string>
-  <string name="miui_vertical_time_format_12">"hh
+  <string name="miui_vertical_time_format_12">"h
 mm"</string>
-  <string name="miui_vertical_time_format_24">"HH
+  <string name="miui_vertical_time_format_24">"H
 mm"</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Päivitä vetämällä alas</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Päivitettiin onnistuneesti</string>

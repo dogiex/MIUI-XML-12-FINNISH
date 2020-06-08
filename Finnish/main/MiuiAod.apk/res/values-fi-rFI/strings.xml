@@ -74,6 +74,8 @@
   <string name="summary">"Vähentääksesi virrankulutusta, kohteita ei näytetä seuraavissa tilanteissa:
 1. Kun laitteesi on pitkään pimeässä.
 2. Kun Älä häiritse -tila on käytössä."</string>
+  <string name="super_wallpaper_date">"EEEE
+d.M."</string>
   <string name="temporary_style">10 sekuntiin napauttamisen jälkeen</string>
   <string name="text_color">Tekstin väri</string>
 </resources>

@@ -95,7 +95,24 @@
   <string name="mi">Mi</string>
   <string name="miglass">Mi (Lasi)</string>
   <string name="miremix">Mi (Remix)</string>
+  <string name="miui_clock_city_name_local">Paikallinen</string>
+  <string name="miui_clock_city_name_second">Toinen kello</string>
+  <string name="miui_clock_fancy_colon"></string>
   <string name="miui_device_name">Android</string>
+  <string name="miui_lock_screen_date">EEEE d.M.</string>
+  <string name="miui_lock_screen_date_12">EEEE d.M.</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+d.M."</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d.M."</string>
+  <string name="miui_lock_screen_large_date">"EEEE
+d.M."</string>
+  <string name="miui_lock_screen_large_date_12">"EEEE
+d.M."</string>
+  <string name="miui_vertical_time_format_12">"h
+mm"</string>
+  <string name="miui_vertical_time_format_24">"H
+mm"</string>
   <string name="mix">MIX</string>
   <string name="mixylophone">Mi (Ksylofoni)</string>
   <string name="moment">Hetki</string>
