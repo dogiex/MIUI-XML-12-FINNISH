@@ -1848,7 +1848,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="unsupport_video">%s ei toimi videoiden kanssa</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
-  <string name="user_agreement4">Tietosuojakäytännön</string>
+  <string name="user_agreement4">Tietosuojakäytäntö</string>
   <string name="user_alias_self">Itse</string>
   <string name="user_notice_identify_summary_format">Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s.</string>
   <string name="user_notice_title">Käyttöehdot</string>
