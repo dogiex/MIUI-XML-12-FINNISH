@@ -338,9 +338,6 @@ Yhden ja viiden vuoden LPR: t noteerataan kunkin kuukauden 20. päivänä (viiv�
   <string name="preference_settings">Asetukset</string>
   <string name="preference_use_degress_summary">Korvaa radiaanit kulmilla trigonometrisissä funktioissa</string>
   <string name="preference_use_degress_title">Käytä kulmia</string>
-  <string name="preference_use_voice_summary">Ota käyttöön käyttääksesi puheeksi-toimintoa laskutoimituksien aikana</string>
-  <string name="preference_use_voice_title">Puheeksi-toiminto</string>
-  <string name="preference_user_feedback_title">Palaute</string>
   <string name="preference_use_voice">Äänentoisto</string>
   <string name="preference_use_voice_summary">Ota käyttöön käyttääksesi äänentoistamista laskujen aikana</string>
   <string name="preference_use_voice_title">Puheentoisto</string>

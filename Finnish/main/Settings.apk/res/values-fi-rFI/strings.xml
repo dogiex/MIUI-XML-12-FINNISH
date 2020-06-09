@@ -20,9 +20,6 @@
   <string name="system_haptic_feedback">Haptinen palaute</string>
   <string name="temporary_style">10 sekuntia näytön napauttamisen jälkeen</string>
   <string name="title_layout_current2_weight">Tekstin koko ja fontin lihavuus</string>
-  <string name="weight_heavy">Lihavoitu</string>
-  <string name="weight_light">Kevyt</string>
-  <string name="weight_setting_toast">Voit vaihtaa fontin lihavuutta vain järjestelmän oletusfontille</string>
   <string name="accessibility_summary_source">Tarjoaja %s</string>
   <string name="bootloader_device_bind_no_data_network">Poista Wi-Fi käytöstä ja lisää tilisi ja laitteesi käyttäen mobiilidataa.</string>
   <string name="bootloader_device_bind_server_token_expired_1">Ei voitu vahvistaa. Yritä lisätä tilisi ja laitteesi uudelleen.</string>
@@ -6708,7 +6705,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="wechat">WeChat</string>
   <string name="weight_heavy">Lihavoitu</string>
   <string name="weight_light">Kevyt</string>
-  <string name="weight_setting_toast">Voit vaihtaa fontin painoa vain järjestelmän oletusfontille</string>
+  <string name="weight_setting_toast">Voit vaihtaa fontin lihavuutta vain järjestelmän oletusfontille</string>
   <string name="welcome">Tervetuloa</string>
   <string name="wfc_disclaimer_agree_button_text">JATKA</string>
   <string name="wfc_disclaimer_disagree_text">EI KIITOS</string>
