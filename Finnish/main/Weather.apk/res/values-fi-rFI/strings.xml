@@ -184,6 +184,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
   <string name="international_details_wind_title">TUULI</string>
   <string name="it_is_going_to_rain">Alkaa sataa</string>
+  <string name="life_index_title">Sääindeksi</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="location_provider_btn_text">Ota sijaintipalvelut käyttöön</string>
@@ -246,6 +247,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="privacy_settings">Tietosuojakäytäntö</string>
   <string name="pull_fresh_updated">Päivitettiin onnistuneesti</string>
   <string name="pull_fresh_updating">Päivitetään…</string>
+  <string name="q_version_location_provider_btn_text">Ota sijaintipalvelut käyttöön ja paranna sijainnin tarkkuutta</string>
   <string name="radar_cloud_image_title">Tutkakartta</string>
   <string name="radar_cloud_update_time">Ennen %1$s</string>
   <string name="rainfall_settings_summary">Sademäärän hälytykset</string>
@@ -257,6 +259,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Tuuli</string>
   <string name="receive_net_mock_success">Net mock vastaanottaminen onnistui</string>
+  <string name="refresh_empty_data">Tietoja ei voitu ladata. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="refresh_fail">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Sään hälytys</string>
   <string name="retry">Yritä uudelleen</string>
@@ -310,6 +313,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="updating">Päivitetään…</string>
   <string name="user_agreement">Käyttöehdot</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
+  <string name="view_indexes_item_day_after_tommorrow">Kahden päivän kuluttua</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
   <string name="warning_weather_day_and_night_settings_summary">Vastaanota päivittäin yhteenvetoja, jotka sisältävät säätiedot kello 7.00 ja 19.00</string>

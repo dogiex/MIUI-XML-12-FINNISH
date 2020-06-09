@@ -153,6 +153,7 @@
   <string name="current_album">Nykyinen albumin kansikuva</string>
   <string name="current_lyric">Nykyinen sanoitus</string>
   <string name="current_version">Nykyinen versio</string>
+  <string name="dark_mode">Tummatila</string>
   <string name="data_usage_warning">Datan käyttö</string>
   <string name="data_usage_warning_summary">Käyttämällä mobiilidatayhteyttä korkealaatuisen musiikin suoratoistoon saattaa nostaa datan käyttömaksuja.</string>
   <string name="data_use_desc">Lailliset asiakirjat</string>
@@ -404,6 +405,7 @@
   <string name="hungama_category_playlist">Soittolistat</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Videot</string>
+  <string name="hungama_category_vip">Vip</string>
   <string name="hungama_free_download_out_summary">Et voi ladata enempää ilmaisia kappaleita. Hankitaanko PRO-jäsenyys ladataksesi rajattoman määrän kappaleita?</string>
   <string name="hungama_playlist_category">Soittolistakategoria</string>
   <string name="hungama_privacy_desc">Hungaman Tietosuojakäytäntö (valinnainen)</string>
@@ -858,4 +860,5 @@ Koko: %2$s"</string>
 Delta päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s päivitys!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Tallennustila ei käytettävissä, tarkista SD-kortti.</string>
+  <string name="you_can_switch_mode_in_settings">Voit vaihtaa tilojen välillä Asetuksissa</string>
 </resources>

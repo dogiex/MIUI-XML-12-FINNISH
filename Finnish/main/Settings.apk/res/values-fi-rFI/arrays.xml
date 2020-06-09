@@ -1060,14 +1060,14 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Näytä valikko</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimoi näytön kontrastia valoisuuden mukaan</item>
-        <item>Nosta näytön kontrastia</item>
-        <item>Palauta näytön sisällön vakioväri värikalibroinnilla</item>
+        <item>Säädä värejä valoisuuden mukaan</item>
+        <item>Paranna värejä aina</item>
+        <item>Kontrasti pysyy vakiona</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Automaattinen kontrasti</item>
-        <item>Lisätty kontrasti</item>
-        <item>Alkuperäinen väri</item>
+        <item>Automaattinen kontrasti (suositeltu)</item>
+        <item>Kylläinen</item>
+        <item>Normaali</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Loistava</item>

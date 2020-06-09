@@ -59,8 +59,8 @@
   <string name="fast_connect_device_headset_reset">Paina pohjassa laatikon painiketta</string>
   <string name="fast_connect_device_title_connect_fail">Laitetta %1$s ei voitu yhdistää</string>
   <string name="fast_connect_device_title_connecting">Yhdistetään…</string>
-  <string name="fast_connect_device_title_find_headset">Etsi laite %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Etsi laite %1$s muut</string>
+  <string name="fast_connect_device_title_find_headset">Etsi kuuloke %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Etsi kuuloke %1$s muut</string>
   <string name="goto_package">Avaa %1$s</string>
   <string name="install_package">Asenna %1$s lisätoimintoja varten</string>
   <string name="mi_band_vibrate_alarm">Värise kun hälytys soi</string>

@@ -2196,6 +2196,8 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="shield_keyboard_detail">Tuplanapauta painikkeita ottaaksesi ne takaisin käyttöön</string>
   <string name="shield_keyboard_summary">Rajoita painikkeita ja kokonäytön eleitä pelien aikana</string>
   <string name="shield_keyboard_title">Rajoita painikkeita ja eleitä</string>
+  <string name="shortcut_title_scan">Tarkista</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp puhdistaja</string>
   <string name="show_system_app">Näytä järjestelmäsovellukset</string>
   <string name="show_traffic_dialog_message">"Datan käytön tietosi näytetään ilmoitusalueella.
 Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa asetuksista Datan käyttö &gt; Asetukset"</string>
