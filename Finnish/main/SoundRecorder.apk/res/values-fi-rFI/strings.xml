@@ -132,6 +132,7 @@
   <string name="online_recognize_order_upload">Vahvista ja lähetä</string>
   <string name="online_recognize_order_uploading">Lähetetään %s…</string>
   <string name="online_recognize_other_order_upload">Odota, kunnes nykyiset lähetykset ovat valmiina ja yritä uudelleen.</string>
+  <string name="online_recognize_progress">Kirjoitetaan %s…</string>
   <string name="online_recognize_running">Kirjoitetaan…</string>
   <string name="online_recognize_service_unavailable">Palvelu ei ole käytettävissä juuri nyt. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="order_item_duration">Kesto: %s</string>
@@ -252,7 +253,9 @@
   <string name="retry">Yritä uudelleen</string>
   <string name="runtime_permission_ungranted">Ääninauhuria ei voi käyttää, koska sille ei ole annettu tarvittavia käyttöoikeuksia</string>
   <string name="search_app">Ääninauhuri</string>
-  <string name="search_enable_earpiece_title">Käytä vastaanottimen kaiutinta äänen toistamiseen</string>
+  <string name="search_empty">Tuloksia ei löytynyt</string>
+  <string name="search_enable_earpiece_title">Toista ääni vastaanottimen avulla</string>
+  <string name="search_hint">Haku</string>
   <string name="search_led_indicator">Lukitusnäytön ilmoitukset</string>
   <string name="search_led_indicator_prompt">Näytä ilmoituspalkissa ja vilkuta ilmoitusvaloa lukitusnäytöllä nauhoituksen aikana</string>
   <string name="search_quliaty_title">Nauhoituksen laatu</string>

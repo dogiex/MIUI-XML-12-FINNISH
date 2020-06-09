@@ -316,6 +316,7 @@ Vaihda palveluiden välillä pyyhkäisemällä ylös kahdella sormella ja kosket
   <string name="add_account_label">Lisää tili</string>
   <string name="add_auto_startup_application">Lisää automaattisesti käynnistyviä sovelluksia</string>
   <string name="add_back_fingerprint_instruction_msg">Aseta sormesi tunnistimelle</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Sormenjälkitunnistin sijaitsee laitteesi oikealla reunalla</string>
   <string name="add_device_admin">Aktivoi laitteenhallintasovellus</string>
   <string name="add_device_admin_msg">Aktivoidaanko laitteenhallintasovellus?</string>
   <string name="add_facerecoginition_text">Lisää kasvojen tiedot</string>
@@ -1017,15 +1018,17 @@ Varmista, että laite esittää tämän koodin:
   <string name="bluetooth_enter_passkey_msg">Kirjoita yhdistämiskoodi ja paina sitten Return tai Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Saatat joutua syöttämään tämän koodin myös toiseen laitteeseen.</string>
   <string name="bluetooth_enter_pin_other_device">Saatat joutua syöttämään tämän PIN-koodin myös toiseen laitteeseen.</string>
-  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Yhdistetty puhelimen ääneen</string>
   <string name="bluetooth_headset_profile_summary_use_for">Käytä puhelimen äänille</string>
   <string name="bluetooth_hid_profile_summary_connected">Yhdistetty syöttölaitteeseen</string>
   <string name="bluetooth_hid_profile_summary_use_for">Käytä syöttöön</string>
-  <string name="bluetooth_incoming_pairing_msg">"Laitteesta
-%1$s
-
-Muodostetaanko pari tämän laitteen kanssa?"</string>
+  <string name="bluetooth_incoming_pairing_msg">Laitteesta:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Muodostetaanko laitepari tämän laitteen kanssa?</string>
+  <string name="bluetooth_inform_messgae">"Yhteyttä ei voitu muodostaa laitteeseen %1$s.
+Mistä se saattoi johtua:
+1. Bluetooth on poistettu käytöstä tältä laitteelta tai se on kantoalueen ulkopuolella.
+2. Tämä laite ei ole löydettävissä-tilassa.
+3. Laite on yhdistetty toiseen laitteeseen. Katkaise yhteys ja yritä uudelleen."</string>
+  <string name="bluetooth_inform_messgae_title">Yhteyttä ei voitu muodostaa</string>
   <string name="bluetooth_is_disconnect_question">Katkaistaanko yhteys laitteeseen %1$s?</string>
   <string name="bluetooth_is_discoverable">Näkyy kaikille lähistöllä oleville Bluetooth-laitteille (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Näkyy kaikille lähistöllä oleville Bluetooth-laitteille</string>
@@ -3232,7 +3235,7 @@ PIN-koodi"</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="lockscreen_label">Lukitusnäyttö</string>
   <string name="lockscreen_magazine">Taustakuvan Karuselli</string>
-  <string name="lockscreen_magazine_summary">Korkean kuvanlaadun taustakuvan karuselli</string>
+  <string name="lockscreen_magazine_summary">Upeita kuvia ja jännittäviä tarinoita toimitetaan sinulle päivittäin</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="lockscreen_settings_title">Lukitusnäytön asetukset</string>
@@ -3749,6 +3752,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="need_reboot_now">Asenna päivitys käynnistämällä uudelleen.</string>
   <string name="netcheck_title">Verkkodiagnostiikat</string>
   <string name="network_4G">4G (suositus)</string>
+  <string name="network_alarm">Älä mykistä internet-puheluita</string>
+  <string name="network_alarm_summary">Huomautus: Jotkut sovellukset eivät ole yhteensopivia tämän toiminnon kanssa. %1$s.</string>
+  <string name="network_alarm_summary_reg">Näytä tuetut sovellukset</string>
+  <string name="network_alarm_support_apps">Tuetut sovellukset</string>
   <string name="network_assistant">Datan käyttö</string>
   <string name="network_changed_noti_summary">Käytetään mobiilidataa</string>
   <string name="network_changed_noti_title">Yhteys katkaistu Wi-Fi-verkosta</string>
@@ -6698,6 +6705,10 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="webview_disabled_for_user">(poistettu käytöstä: %s)</string>
   <string name="webview_license_title">WebView-järjestelmälisenssi</string>
   <string name="webview_uninstalled_for_user">(poistettu käyttäjältä %s)</string>
+  <string name="wechat">WeChat</string>
+  <string name="weight_heavy">Lihavoitu</string>
+  <string name="weight_light">Kevyt</string>
+  <string name="weight_setting_toast">Voit vaihtaa fontin painoa vain järjestelmän oletusfontille</string>
   <string name="welcome">Tervetuloa</string>
   <string name="wfc_disclaimer_agree_button_text">JATKA</string>
   <string name="wfc_disclaimer_disagree_text">EI KIITOS</string>

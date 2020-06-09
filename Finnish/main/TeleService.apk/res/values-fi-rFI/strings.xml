@@ -1,14 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="prompt_to_suggest_to_open_volte_from_operator">Puheluita ei voi soittaa. Ota yhteyttä China Telecomiin ottaaksesi VoLTE-palvelun käyttöön.</string>
-  <string name="wifi_call_accept">OK</string>
+  <string name="wifi_call_accept">Ohita</string>
   <string name="wifi_call_available_message">Voit soittaa puheluita nyt käyttäen Wi-Fiä. Jos olet yhteydessä Wi-Fi-verkkoon, voit puhua vaikka olisit alueella, jossa ei ole mobiiliverkon kuuluvuutta.</string>
   <string name="wifi_call_available_title">Otetaan Wi-Fi-puhelua käyttöön</string>
-  <string name="wifi_call_cancel">Peruuta</string>
+  <string name="wifi_call_cancel">Lisätietoja</string>
   <string name="wifi_call_help">Apua</string>
-  <string name="wifi_call_help_message">Jos valitset ensisijaisena mobiiliverkot, mobiiliverkkoja käytetään oletusarvoisesti puheluihin. Tapauksissa, jossa mobiiliverkon signaalia ei ole lainkaan tai se on todella heikko, käytetään Wi-Fi-verkkoa sen sijasta.</string>
+  <string name="wifi_call_help_message_1">"Wi-Fi-puhelut on Orangen tarjoama palvelu, jolla voit vastaanottaa ja soittaa puheluita käyttämällä Wi-Fiä. Tämä toimintoa voi käyttää alueilla, joissa on heikko matkapuhelinverkon kuuluvuus.
+
+Käyttääksesi Wi-Fi-puheluita, ota se käyttöön paikasta Asetukset &gt; Wi-Fi-puhelut.
+
+Aktivoidaksesi palvelun, Orange lähettää sinulle vahvistusviestin, kun palvelu on käytettävissä. Tämän jälkeen voit yhdistää Wi-Fi-verkkoon ja soittaa puheluita.
+
+Puhelut Wi-Fin kautta laskutetaan suunnitelmasi mukaisesti.
+
+Kun tämä toiminto on käytettävissä, seuraavanlainen kuvake ilmestyy näyttösi yläreunaan."</string>
+  <string name="wifi_call_help_message_2">"Jos suosit Wi-Fi-verkkoja, niitä käytetään oletuksena puheluille. Jos Wi-Fi-yhteyttä ei ole muodostettu tai yhteys on heikko, käytetään puheluihin matkapuhelinverkkoa.
+
+Jos suosit matkapuhelinverkkoja, niitä käytetään oletuksena puheluille. Jos matkapuhelinverkon kantoaluetta ei ole saatavilla tai signaali on heikko, käytetään puheluihin Wi-Fi-verkkoja."</string>
   <string name="wifi_call_help_title">Wi-Fi-puheluiden ohje</string>
   <string name="wifi_call_notification_message">Tämän palvelun tarjoaa Orange. Palvelun aktivoimiseen saattaa kestää useita tunteja. Saat tekstiviestivahvistuksen, kun se on käytettävissä.</string>
+  <string name="wifi_call_preferred_summary">Jos suosit matkapuhelinverkkoja, niitä käytetään oletuksena puheluille. Jos matkapuhelinverkon kantoaluetta ei ole saatavilla tai signaali on heikko, käytetään puheluihin Wi-Fi-verkkoja.</string>
   <string name="voice_service_cannot_call_notification_content">Saatat kohdata yhteysongelmia, jos yrität soittaa puheluita.</string>
    <string name="voice_service_cannot_call_notification_title">Et voi soittaa puheluita nykyisessä verkossa</string>
    <string name="voice_service_switch_summary">Ota käyttöön käyttääksesi VoLTE-puhelutoimintoa VoLTE-verkoissa</string>
@@ -1944,6 +1956,7 @@ Hätäpuhelut ovat mahdollisia vain matkapuhelinverkon kantavuusalueilla."</stri
   <string name="wifi_call_setting">Wi-Fi-puhelut</string>
   <string name="wifi_call_setting_vodafone_de">Wi-Fi-puhelu</string>
   <string name="wifi_call_setting_vodafone_uk">Wi-Fi-puhelu</string>
+  <string name="wifi_call_welcome_settings">Wi-Fi-puhelut</string>
   <string name="wifi_calling">Wi-Fi-puhelut</string>
   <string name="wifi_connected_no_internet">Yhdistetty, ei internetyhteyttä.</string>
   <string name="wifi_disabled_by_recommendation_provider">Ei yhteyttä – verkko huonolaatuinen</string>

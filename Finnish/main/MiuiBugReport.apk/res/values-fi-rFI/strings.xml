@@ -116,6 +116,7 @@
   <string name="feedback_choose_app_tag">Valitse ongelma</string>
   <string name="feedback_choose_module">Valitse kohde</string>
   <string name="feedback_choose_module_hint">Vaadittu</string>
+  <string name="feedback_choose_occurrence_time">Aika</string>
   <string name="feedback_choose_reproductivity">Toistuvuus</string>
   <string name="feedback_choose_third_app_name">Valitse sovelluksen nimi</string>
   <string name="feedback_collect_log_failed">Lokitietoja ei saatu</string>
@@ -131,6 +132,7 @@
   <string name="feedback_detail_tile">Edistyminen</string>
   <string name="feedback_empty_report_list">Ei raportteja vielä</string>
   <string name="feedback_guess">Arvauksemme</string>
+  <string name="feedback_hint_optional">Valitse</string>
   <string name="feedback_history_remind_login_desc">Kirjaudu Mi-tiliisi nähdäksesi lisätietoja ja virheilmoituksesi edistymistä</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Avain: %s</string>
@@ -189,6 +191,7 @@
   <string name="feedback_third_packagename_hint">Mikä kolmannen osapuolen sovellus aiheuttaa ongelmia?</string>
   <string name="feedback_title">Otsikko</string>
   <string name="feedback_title_hint">Kuvaile ongelma lyhyesti</string>
+  <string name="feedback_title_occurrence_time">Valitse aika</string>
   <string name="feedback_title_reproductivity">Valitse toistuvuus</string>
   <string name="feedback_tracking">Seuraa ongelmia</string>
   <string name="feedback_version_label">Versio</string>

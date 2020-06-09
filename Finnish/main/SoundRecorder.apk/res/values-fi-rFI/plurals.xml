@@ -20,6 +20,10 @@
         <item quantity="other">%d nauhoitusta ladattu</item>
         <item quantity="one">%d nauhoitus ladattu</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">Löytyi %d nauhoitusta</item>
+        <item quantity="one">Löytyi %d nauhoitus</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d synkronoimatonta</item>
         <item quantity="one">%d synronoimaton</item>

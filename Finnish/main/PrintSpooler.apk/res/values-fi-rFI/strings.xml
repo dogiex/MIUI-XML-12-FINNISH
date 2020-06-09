@@ -16,6 +16,8 @@
   <string name="collapse_handle">Tiivistyskahva</string>
   <string name="connectio_delay_content">Saatat joutua vahvistamaan yhteyden tulostimestasi.</string>
   <string name="connectio_help_title">Yhdistetään tulostimeen</string>
+  <string name="copies_decrease">Vähennä kopioita</string>
+  <string name="copies_increase">Lisää kopioita</string>
   <string name="could_not_create_file">Tiedoston luominen epäonnistui.</string>
   <string name="delete_saved_printer_content">Poistetaanko valitut tulostimet nyt?</string>
   <string name="destination_default_text">Valitse tulostin</string>

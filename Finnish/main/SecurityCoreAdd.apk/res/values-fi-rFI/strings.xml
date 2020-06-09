@@ -458,6 +458,8 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="xspace_description">"Kaksoissovellus on sovelluksen kopio, jossa voi käyttää eri tiliä.
 
 Jotkut kaksoissovellukset vaativat Google Services Frameworkin tuen. Näissä tapauksissa, kaksi Google Services Framework:iä luodaan."</string>
+  <string name="xspace_disable">Ei luotu</string>
+  <string name="xspace_enable">Luotu</string>
   <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_guide_des">Käytä kahta tiliä ilman, että vaihdat niiden välillä</string>
   <string name="xspace_guide_title">Luo kaksoissovellus</string>
@@ -470,9 +472,12 @@ Jotkut kaksoissovellukset vaativat Google Services Frameworkin tuen. Näissä ta
   <string name="xspace_introduce">Suositeltu</string>
   <string name="xspace_label">Kaksoissovellukset</string>
   <string name="xspace_loading_msg">Ladataan sovelluksia…</string>
+  <string name="xspace_notification">Kaksoissovellusten ilmoitukset</string>
+  <string name="xspace_notification_error">Kirjaudu sisään WeChatin kaksoissovellukseen ja yritä uudelleen</string>
   <string name="xspace_qq_title">QQ</string>
-  <string name="xspace_remove">Poista kaksoissovelluksien tilit</string>
-  <string name="xspace_setting_label">Kaksoissovelluksien asetukset</string>
+  <string name="xspace_remove">Poista kaksoissovellusten tilit</string>
+  <string name="xspace_setting_label">Kaksoissovellusten asetukset</string>
+  <string name="xspace_settins">Aseta</string>
   <string name="xspace_uninstall_completed">Kaksoissovellus poistettiin onnistuneesti</string>
   <string name="xspace_uninstall_dialog_content">Kaksoissovelluksen poistaminen poistaa myös kaikki sovellustiedot.</string>
   <string name="xspace_uninstall_dialog_title">Poista kaksoissovellus</string>

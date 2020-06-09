@@ -31,6 +31,7 @@
   <string name="download_fail_desc">MD5 tarkistenumero ei täsmää…</string>
   <string name="downloading">Ladataan:</string>
   <string name="downloading_desc">Lataaminen on käynnissä, tarkista tila ilmoitusalueella.</string>
+  <string name="fetching_data">Noudetaan latauslinkkiä, odota hetki…</string>
   <string name="install_desc">Laite käynnistyy uudelleen Recoverytilaan ja asentaa valitun tiedoston: %1$s"
 Tietoja ei poisteta."</string>
   <string name="install_title">Haluatko varmasti jatkaa?</string>

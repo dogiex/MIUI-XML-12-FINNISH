@@ -338,6 +338,9 @@ Yhden ja viiden vuoden LPR: t noteerataan kunkin kuukauden 20. päivänä (viiv�
   <string name="preference_settings">Asetukset</string>
   <string name="preference_use_degress_summary">Korvaa radiaanit kulmilla trigonometrisissä funktioissa</string>
   <string name="preference_use_degress_title">Käytä kulmia</string>
+  <string name="preference_use_voice_summary">Ota käyttöön käyttääksesi puheeksi-toimintoa laskutoimituksien aikana</string>
+  <string name="preference_use_voice_title">Puheeksi-toiminto</string>
+  <string name="preference_user_feedback_title">Palaute</string>
   <string name="preference_use_voice">Äänentoisto</string>
   <string name="preference_use_voice_summary">Ota käyttöön käyttääksesi äänentoistamista laskujen aikana</string>
   <string name="preference_use_voice_title">Puheentoisto</string>
@@ -741,7 +744,7 @@ Yhden ja viiden vuoden LPR: t noteerataan kunkin kuukauden 20. päivänä (viiv�
   <string name="user_agreement">Käyttöehdot</string>
   <string name="view_float_window_move">Siirrä minimoitua Laskinta</string>
   <string name="voiceDesc">Ääniohjaimet</string>
-  <string name="voice_guide_text">Voit ottaa äänentoiston käyttöön täällä</string>
+  <string name="voice_guide_text">Voit ottaa puheeksi-toiminnon käyttöön täällä</string>
   <string name="warn_locale_unsupport_for_voice">Äänentoisto ei ole tuettuna vielä tällä kielellä.</string>
   <string name="wednesday">Keskiviikko</string>
   <string name="wednesday_short">Ke</string>

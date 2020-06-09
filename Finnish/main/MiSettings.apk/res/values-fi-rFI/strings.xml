@@ -50,7 +50,7 @@
   <string name="hsv_space_color_hue">Värisävy</string>
   <string name="hsv_space_color_saturation">Saturaatio</string>
   <string name="hsv_space_color_value">Arvo</string>
-  <string name="intelligent_recognition_item_summary">Käytä määritettyä soittoääntä puheluihin toimitus- ja taksipalveluista. Tämä ominaisuus toimii, kun %s on asetettu oletussoittoääneksi.</string>
+  <string name="intelligent_recognition_item_summary">Käytä määritettyä soittoääntä toimitus- ja taksipalveluiden puheluihin. Tämä ominaisuus toimii, kun %s on asetettu oletussoittoääneksi.</string>
   <string name="intelligent_recognition_item_title">Tunnista palvelut</string>
   <string name="lock_summary">Suojaa henkilötietosi</string>
   <string name="mms">Viestit</string>
