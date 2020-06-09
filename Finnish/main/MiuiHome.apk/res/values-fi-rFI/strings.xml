@@ -4,6 +4,7 @@
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
     <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
     <string name="add_screen">Lisää näyttö</string>
+    <string name="additional_settings">Lisäasetukset</string>
     <string name="all_apps">Kaikki sovellukset</string>
     <string name="all_apps_no_search_results">Tuloksia ei löytynyt</string>
     <string name="all_apps_search_app">Hae sovelluksia</string>
@@ -14,6 +15,9 @@
     <string name="all_apps_setting_drawer_tips_desc">Sovelluslaatikko avataan Aloitusnäytöltä pyyhkäisemällä ylöspäin. Aloitusnäytön tilan muuttaminen Sovelluslaatikoksi poistaa Haku -toiminnon käytöstä. Vaihdetaanko siitä huolimatta?</string>
     <string name="all_apps_setting_drawer_tips_title">Sovelluslaatikon käyttäminen</string>
     <string name="all_apps_setting_drawer_title">Sovelluslaatikolla</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+    <string name="all_apps_setting_original_scrollbar">Alkuperäinen ulkoasu</string>
+    <string name="all_apps_setting_scroll_bar">Vierityspalkki</string>
     <string name="all_apps_setting_title">Aloitusnäyttö</string>
     <string name="all_apps_slide_up_tips">Ylöspäin pyyhkäiseminen on varattu Sovelluslaatikon avaamiselle. Vaihda tavalliseen Alotisnäytön tilaan ja yritä uudelleen.</string>
     <string name="all_apps_suggestions">Sovellusehdotukset</string>
@@ -75,6 +79,7 @@
     <string name="apply_as_lock_screen">Aseta Lukitusnäytöksi</string>
     <string name="apply_as_wallpaper">Aseta Aloitusnäytöksi</string>
     <string name="apply_both">Aseta molemmat</string>
+    <string name="apply_text">ASETA</string>
     <string name="aqi_quality_index_dangerous">Vaarallinen</string>
     <string name="aqi_quality_index_good">Hyvä</string>
     <string name="aqi_quality_index_hazardous">Haitallinen</string>
@@ -90,7 +95,6 @@
     <string name="cant_remove_folder">Kansiota ei voi poistaa</string>
     <string name="cant_remove_retained_app">Sovellusta ei voitu poistaa</string>
     <string name="cant_remove_system_app">Järjestelmäsovellusta ei voi poistaa</string>
-    <string name="cell_icon_size_title">Kuvakkeen koko</string>
     <string name="change_wallpaper">Vaihda</string>
     <string name="choose_wallpaper">Valitse taustakuva</string>
     <string name="chooser_wallpaper">Valitse uusi taustakuva</string>
@@ -125,6 +129,11 @@
     <string name="disable_wallpaper_scroll">Poista sivuttain-vieritys käytöstä</string>
     <string name="double_tap_to_lock_title">Lukitse näyttö tuplanapauttamalla</string>
     <string name="download_action">Lataa</string>
+    <string name="drawer_background">Taustat</string>
+    <string name="drawer_background_dark">Tumma</string>
+    <string name="drawer_background_light">Vaalea</string>
+    <string name="drawer_background_transparency">Sovelluslaatikon taustan läpinäkyvyys</string>
+    <string name="drawer_settings">Sovelluslaatikko</string>
     <string name="dual_app">Kaksoissovellukset</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -215,8 +224,10 @@
     <string name="home_gesture_notification_bar">Ilmoitukset</string>
     <string name="home_pull_down_action">Pyyhkäise alaspäin Aloitusnäytöllä</string>
     <string name="home_screen">Aloitusnäyttö</string>
+    <string name="home_screen_settings">Aloitusnäyttö</string>
     <string name="home_slide_up_action">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
     <string name="icon_reorganize_channel">Järjestä kuvakkeita</string>
+    <string name="icon_size">Kuvakkeen koko</string>
     <string name="image_too_small_message">Alkuperäinen kuva ei ole tarpeeksi suuri.</string>
     <string name="install">Asenna</string>
     <string name="invalid_contact_shortcut">Yhteystieto ei kelpaa</string>
@@ -232,6 +243,7 @@
     <string name="liked">Lisätty suosikkeihin</string>
     <string name="loading_desktop">Odota hetki…</string>
     <string name="loading_wallpaper">Odota hetki…</string>
+    <string name="local_apps">Paikalliset sovellukset</string>
     <string name="local_wallpaper">Ladattu</string>
     <string name="lock_screen">Lukitusnäyttö</string>
     <string name="lock_screen_cells_title">Lukitse Aloitusnäytön ulkoasu</string>
@@ -316,6 +328,7 @@
     <string name="recent_apps">Viimeaikainen</string>
     <string name="recents_config_title">Viimeaikaiset</string>
     <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
+    <string name="recommend_app">Sovellussuositukset</string>
     <string name="recommend_apps_default_title">Tyhjä</string>
     <string name="recommend_apps_no_data">Ei tietoa</string>
     <string name="recommend_apps_no_data_toast">Ei suosituksia juuri nyt.</string>
@@ -335,6 +348,8 @@
     <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
     <string name="screen_locked_toast">Aloitusnäytön ulkoasu on lukittu.</string>
     <string name="screen_number">%d näyttö</string>
+    <string name="search_in_apps_store">Hae kohdetta \"%1$s\" paikasta %2$s</string>
+    <string name="search_no_result">Tuloksia ei löytynyt</string>
     <string name="select_all">Valitse kaikki</string>
     <string name="select_frame">Kehys</string>
     <string name="select_photo">Kuva</string>
@@ -350,6 +365,7 @@
     <string name="shortcut_share_dialog_title">Vastuuvapauslauseke</string>
     <string name="show_all">Näytä kaikki</string>
     <string name="show_mem_info_title">Näytä muistin tila</string>
+    <string name="show_most_popular_apps_you_used">Näytä sovelluslaatikossa useimmin käytetyt sovellukset</string>
     <string name="show_recents_recommend_title">Näytä suosituksia</string>
     <string name="sort_by_abc">Lajittele nimen mukaan</string>
     <string name="sort_by_frequency">Lajittele käytön mukaan</string>
@@ -362,6 +378,7 @@
     <string name="status_paused">Pysäytetty</string>
     <string name="status_pending">Odotetaan</string>
     <string name="system_shortcuts_more_operation">Sovellustiedot</string>
+    <string name="system_text">Järjestelmä</string>
     <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
     <string name="title_select_live_folder">Valitse kansio</string>
     <string name="title_select_shortcut">Valitse pikakuvake</string>

@@ -100,6 +100,7 @@
   <string name="feed_search_fail">Ei tuloksia, yritä uudelleen</string>
   <string name="feedback_description_camera_access">Lukija ei saa yhteyttä Kameraan</string>
   <string name="feedback_description_save_photo">Kuvaa tai videota ei voitu tallentaa</string>
+  <string name="flight_mode_connecting_to_wifi">Ota Wi-Fi käyttöön manuaalisesti, kun Lentokonetila on käytössä</string>
   <string name="got_it">Selvä</string>
   <string name="gps">Navigoi</string>
   <string name="image_file_name_format">"'lukija'_yyyyMMdd_HHmmss"</string>
