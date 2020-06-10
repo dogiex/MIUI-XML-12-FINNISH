@@ -27,8 +27,10 @@
   <string name="abc_shareactionprovider_share_with">Jaa…</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
   <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="above_image">Ylös</string>
   <string name="accessibility_battery_level">Akku %d prosenttia.</string>
   <string name="accessibility_battery_level_charging">Akku latautuu, %d prosenttia.</string>
+  <string name="align_type">Linja</string>
   <string name="always_style">Aina</string>
   <string name="animation_clock_panel">Aaltovalitsin</string>
   <string name="aod_close_color_inversion">Tätä ominaisuutta ei voi yhdistää käänteisen väriominaisuuden kanssa. Poista käänteiset värit ensin käytöstä.</string>
@@ -42,12 +44,14 @@
   <string name="aod_mode_summary">Näytä kello, päivämäärä, ilmoitukset ja taustakuvat näytön ollessa sammutettuna</string>
   <string name="aod_mode_time_summary">Ajasta milloin Aina päällä -tila otetaan käyttöön ja poistetaan käytöstä</string>
   <string name="aod_mode_time_title">Ajasta</string>
-  <string name="aod_mode_title">Aina päällä -tila</string>
+  <string name="aod_mode_title">Himmennetty näyttö</string>
+  <string name="aod_show_date_and_time">Näytä päivämäärä ja aika</string>
   <string name="aod_show_style_title">Näytettävät kohteet</string>
-  <string name="aod_signature_12">h.mm aa</string>
+  <string name="aod_style">Teema</string>
   <string name="aod_to_close">Poista käytöstä</string>
   <string name="apply">Aseta</string>
   <string name="background_icon">Tausta</string>
+  <string name="below_image">Alas</string>
   <string name="black_white_clock_panel">Kello</string>
   <string name="cancel">Peruuta</string>
   <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
@@ -56,26 +60,51 @@
   <string name="clock_panel_icon">Kellotaulu</string>
   <string name="color_change_with_time_description">Muuta tekstin väriä automaattisesti ajan myötä</string>
   <string name="color_change_with_time_title">Muuta väriä automaattisesti</string>
+  <string name="custom_image">Mukautettu kuva</string>
   <string name="deep_space_planet">Ulkoavaruus</string>
   <string name="deep_space_planet_des">\"Ulkoavaruus\" heijastaa ympärilläsi päivän aikana tapahtuvia valomuutoksia. Auringonnousu ja auringonlasku tässä teemassa synkronoidaan sijaintisi kanssa.</string>
+  <string name="digital_clock">Digitaalinen</string>
+  <string name="font_thickness">Fontin paksuus</string>
   <string name="large_time">Suuri kello</string>
   <string name="mini_time">Pieni kello</string>
   <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
+  <string name="notification_anim_pulse">Pulssi</string>
+  <string name="notification_anim_rhythm">Rytmi</string>
+  <string name="notification_anim_star">Tähtivalo</string>
+  <string name="notification_nothing">Ei mitään</string>
+  <string name="notification_screen_on">Valaise näyttö</string>
   <string name="only_show_bg_description">Älä näytä aikaa, päivämäärää äläkä muita kohteita</string>
   <string name="only_show_bg_title">Näytä vain tausta</string>
+  <string name="panel_clock">Analoginen</string>
   <string name="paper_mode_end_time_title">Poista käytöstä</string>
   <string name="paper_mode_start_time_title">Ota käyttöön</string>
   <string name="password_toggle_content_description">Näytä salasana</string>
+  <string name="please_input_signature">Syötä allekirjoitus</string>
   <string name="scheduled_style">Ajastettu</string>
+  <string name="scope_icon">Kaleidoskooppityyli</string>
+  <string name="scope_time">Kaleidoskooppi</string>
   <string name="search_menu_title">Haku</string>
+  <string name="select_notification_animation_style">Valitse erikoistehoste</string>
+  <string name="select_notification_notify_style">Valitse ilmoituksen tehoste</string>
+  <string name="show_battery">Show battery status</string>
   <string name="show_battery_status">Näytä akun tila</string>
   <string name="show_notification">Näytä ilmoitukset</string>
+  <string name="show_notificaton">Näytä ilmoitukset</string>
+  <string name="shownone_arround_image">Ei mitään</string>
+  <string name="signature">Allekirjoitus</string>
+  <string name="signature_default_content">"Usko aina, että
+jotain ihanaa tulee tapahtumaan"</string>
   <string name="standard_style">Tavallinen</string>
   <string name="summary">"Vähentääksesi virrankulutusta, kohteita ei näytetä seuraavissa tilanteissa:
 1. Kun laitteesi on pitkään pimeässä.
 2. Kun Älä häiritse -tila on käytössä."</string>
   <string name="super_wallpaper_date">"EEEE
 d.M."</string>
-  <string name="temporary_style">10 sekuntiin napauttamisen jälkeen</string>
+  <string name="temporary_style">10 sekunnin ajan napauttamisen jälkeen</string>
   <string name="text_color">Tekstin väri</string>
+  <string name="text_length_exceed_limit_alert">*Syöttämäsi teksti on liian pitkä</string>
+  <string name="text_size">Tekstin koko</string>
+  <string name="time_location">Kellon sijainti</string>
+  <string name="time_style">Tyyli</string>
+  <string name="time_style_layout">Ulkoasu</string>
 </resources>

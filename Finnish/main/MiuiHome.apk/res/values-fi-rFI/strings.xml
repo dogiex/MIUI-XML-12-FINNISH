@@ -4,7 +4,6 @@
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
     <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
     <string name="add_screen">Lisää näyttö</string>
-    <string name="additional_settings">Lisäasetukset</string>
     <string name="all_apps">Kaikki sovellukset</string>
     <string name="all_apps_no_search_results">Tuloksia ei löytynyt</string>
     <string name="all_apps_search_app">Hae sovelluksia</string>
@@ -224,7 +223,6 @@
     <string name="home_gesture_notification_bar">Ilmoitukset</string>
     <string name="home_pull_down_action">Pyyhkäise alaspäin Aloitusnäytöllä</string>
     <string name="home_screen">Aloitusnäyttö</string>
-    <string name="home_screen_settings">Aloitusnäyttö</string>
     <string name="home_slide_up_action">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
     <string name="icon_reorganize_channel">Järjestä kuvakkeita</string>
     <string name="icon_size">Kuvakkeen koko</string>

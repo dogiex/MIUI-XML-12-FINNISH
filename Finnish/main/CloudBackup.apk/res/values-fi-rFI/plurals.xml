@@ -12,13 +12,13 @@
         <item quantity="other">%d sovellusta tällä laitteella</item>
         <item quantity="one">%d sovellus tällä laiteella</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">Normaali prioriteetti: %d kohdetta</item>
-        <item quantity="one">Normaali prioriteetti: %d kohde</item>
-    </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Korkea prioriteetti: %d kohdetta</item>
-        <item quantity="one">Korkea prioriteetti: %d kohde</item>
+        <item quantity="other">Korkea prioriteetti: %d sovellusta</item>
+        <item quantity="one">Korkea prioriteetti: %d sovellus</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Normaali prioriteetti: %d sovellusta</item>
+        <item quantity="one">Normaali prioriteetti: %d sovellus</item>
     </plurals>
     <plurals name="restoring_file_tile">
         <item quantity="other">Palautetaan %d tiedostoa</item>

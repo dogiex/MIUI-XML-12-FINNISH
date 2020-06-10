@@ -485,11 +485,6 @@
      <string name="keyguard_indication_charging_time_slowly">Ladataan hitaasti (%s kunnes täynnä)</string>
      <string name="keyguard_indication_trust_disabled">Laite pysyy lukittuna, kunnes manuaalisesti poistat laitteen lukituksen</string>
      <string name="keyguard_instructions_when_pattern_disabled">Paina Valikkopainiketta poistaaksesi lukituksen.</string>
-     <string name="keyguard_left_calculator">Laskin</string>
-     <string name="keyguard_left_calendar">Kalenteri</string>
-     <string name="keyguard_left_contacts">Yhteystiedot</string>
-     <string name="keyguard_left_music">Musiikki</string>
-     <string name="keyguard_left_notes">Muistiot</string>
      <string name="keyguard_left_remotecentral">Mi Kaukosäädin</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
      <string name="keyguard_left_torch">Taskulamppu</string>

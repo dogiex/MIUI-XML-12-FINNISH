@@ -243,8 +243,8 @@ Tarkista verkkoasetukset ja yritä uudelleen."</string>
   <string name="restore_task_unfinished">Ei voitu palautaa</string>
   <string name="restore_unfinished">Palautetaan, yritä myöhemmin uudelleen</string>
   <string name="restoring_data">Palautetaan tietoja…</string>
-  <string name="restoring_file_title_no_progress">Palautetaan tiedostoja…</string>
-  <string name="restoring_home_screen_apps">Palautetaan Xiaomi Pilvestä…</string>
+  <string name="restoring_file_title_no_progress">Palautetaan Xiaomi Cloudista…</string>
+  <string name="restoring_home_screen_apps">Palautetaan Xiaomi Cloudista…</string>
   <string name="restoring_settings">Palautetaan asetuksia…</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_menu_title">Haku</string>
