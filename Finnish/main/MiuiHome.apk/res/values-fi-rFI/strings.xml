@@ -231,10 +231,11 @@
     <string name="invalid_contact_shortcut">Yhteystieto ei kelpaa</string>
     <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
     <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
+    <string name="launcher_global_search_mode_title">Globaali haku</string>
+    <string name="launcher_global_search_provider_title">Globaalin haun tarjoaja</string>
     <string name="launcher_minus_screen_title">Miinus yksi näyttö</string>
     <string name="launcher_not_exist">Tapahtui virhe. Mene takaisin Aloitusnäytölle ja yritä uudelleen.</string>
     <string name="launcher_pull_down_title">Pyyhkäise alas Aloitusnäytöllä</string>
-    <string name="launcher_search_bar_title">Hakupalkki</string>
     <string name="launcher_slide_up_title">Pyyhkäise ylös Aloitusnäytöllä</string>
     <string name="launcher_sliding_up_gesture">Avaa hakutoiminto pyyhkäisemällä ylös Aloitusnäytöllä</string>
     <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
