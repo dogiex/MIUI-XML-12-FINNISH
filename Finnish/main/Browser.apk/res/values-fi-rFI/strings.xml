@@ -971,8 +971,8 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="storage_permission_request_toast">Lataukset tarvitsee pääsyn laitteesi tallennustilaan</string>
     <string name="storage_sd_card">SD-kortti</string>
     <string name="storage_usb">USB tallennustila</string>
-  <string name="sug_search_history_delete_text">Poista tämä tietue</string>
-  <string name="sug_search_history_empty_text">Tyhjennä kaikki</string>
+    <string name="sug_search_history_delete_text">Poista</string>
+    <string name="sug_search_history_empty_text">Tyhjennä</string>
     <string name="suggest_access_btn_install">Asenna</string>
     <string name="suggest_access_btn_open">Avaa</string>
     <string name="suggest_access_item_app_mark">SOVELLUS</string>

@@ -481,6 +481,7 @@ Aktivoi tilisi seuraamalla
   <string name="push_notification_title">Kirjauduit sisään Mi-tililläsi tuntemattomalle laitteelle</string>
   <string name="push_notify_dialog_message">Tuntemattomalla laitteella kirjauduttiin Mi-tilillesi. Syötä tämä vahvistuskoodi laitteelle. Jos se et ollut sinä, vaihda Mi-tilisi salasana välittömästi. Älä kerro vahvistuskoodia muille.</string>
   <string name="push_notify_dialog_title">Tilin vahvistaminen</string>
+  <string name="pwd_width_phone_number_or_mail_num">Salasana ei voi sisältää puhelinnumeroasi, sähköpostiasi tai Mi-tilisi ID:tä</string>
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Näyttää siltä, että puhelinnumerosi on kierrätetty. Napauta päivittääksesi.</string>
   <string name="recycle_phone_notification_title">Mi-tilin tietoturvariski</string>
@@ -493,7 +494,8 @@ Aktivoi tilisi seuraamalla
   <string name="restart_action">Aloita alusta</string>
   <string name="restart_phone_bind_message">Tekstiviestin saapumisessa saattaa kestää hetki. Aloitetaanko alusta tästä huolimatta?</string>
   <string name="restart_phone_bind_title">Vaihda palautuspuhelin</string>
-  <string name="same_new_and_old_pwd">Ei voi olla sama, kuin nykyinen salasana</string>
+  <string name="risky_pwd_not_allow">Uusi salasana ei ole turvallinen. Aseta eri salasana.</string>
+  <string name="same_new_and_old_pwd">Uuden salasanan on oltava erilainen, kuin vanhan</string>
   <string name="scan_barcode_title">Kirjaudu Mi-tilillesi skannaamalla QR-koodi</string>
   <string name="search_account_security">Tilin tietoturva</string>
   <string name="search_account_security_desc">Tilin Asetukset</string>

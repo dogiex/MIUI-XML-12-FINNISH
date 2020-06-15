@@ -604,8 +604,8 @@
   <string name="log_save_path">Lokin polku</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login139">Kirjaudu sisään China Mobilella</string>
-  <string name="login_err_message">Käytä valtuutettuja salasanoja kirjautuaksesi sisään tilille %1$s jos valitsit tämän vaihtoehdon aiemmin. Siirry osoitteeseen https://email.163.com/ palauttaaksesi salasanasi tai koodisi.</string>
-  <string name="login_err_sina_message">Käytä valtuutettuja salasanoja kirjautuaksesi sisään tilille %1$s jos valitsit tämän vaihtoehdon aiemmin. Siirry osoitteeseen https://mail.sina.com.cn/ palauttaaksesi salasanasi tai koodisi.</string>
+  <string name="login_err_message">%1$s Saatat tarvita myös vahvistuskoodin kirjautuaksesi sisään. Jos sinun täytyy palauttaa salasanasi, vieraile osoitteessa https://email.163.com/ nähdäksesi sinua varten olevat vaihtoehdot.</string>
+  <string name="login_err_sina_message">%1$s Saatat tarvita myös vahvistuskoodin kirjautuaksesi sisään. Jos sinun täytyy palauttaa salasanasi, vieraile osoitteessa https://mail.sina.com.cn/ nähdäksesi sinua varten olevat vaihtoehdot.</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_tip">Kirjautumisapupalautetta varten lisää WeChat julkinen numero:</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
@@ -1124,8 +1124,8 @@ Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</stri
   <string name="ser_resp_err_map_max_connections">Liian monta yhteyden yrityskertoja</string>
   <string name="ser_resp_err_map_nouser">Käyttäjää ei ole olemassa</string>
   <string name="ser_resp_err_map_or">%1$s tai %2$s</string>
-  <string name="ser_resp_err_map_pserr">Väärä käyttäjänimi tai salasana.</string>
-  <string name="ser_resp_err_map_serclosed">%s palvelin suljettu</string>
+  <string name="ser_resp_err_map_pserr">Väärä käyttäjänimi tai salasana</string>
+  <string name="ser_resp_err_map_serclosed">%s palvelin suljettu.</string>
   <string name="ser_resp_err_map_ssl">"Valitse 'SSL/TLS (Salli kaikki varmenteet)' paikassa 'Suojaustyyppi'"</string>
   <string name="service_protocol_discribe">Olen lukenut ja hyväksyn WPS Sähköpostin Palvelusopimuksen</string>
   <string name="service_protocol_title">Palvelusopimus</string>
