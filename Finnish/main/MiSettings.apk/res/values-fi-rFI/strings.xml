@@ -33,6 +33,7 @@
   <string name="back">Takaisin</string>
   <string name="calendar_sound">Tapahtumamuistutukset</string>
   <string name="calendar_tip">Tapahtumamuistutusten äänet toimivat kalenterimuistutuksille, muistioille ja tehtäville</string>
+  <string name="focus_time_exception_tip">Näyttää siltä, että järjestelmän aika muuttui. Poistettiin Keskittymistila käytöstä.</string>
   <string name="category_other">Muu</string>
   <string name="color_gamut">Väriavaruus</string>
   <string name="contrast_ratio">Kontrasti</string>
@@ -188,7 +189,7 @@ Tämä sovellus tarvitsee myös internetyhteyden ja vaatii seuraavia käyttöoik
   <string name="usage_state_device_limit_title">Laitteen ruutuajan rajoitukset</string>
   <string name="usage_state_device_noti_today_tip_title">Ilmoitukset %1$d:00 ja %2$d:00 välillä</string>
   <string name="usage_state_device_unlock_today_tip_title">Laite avattiin %1$d:00 ja %2$d:00 välillä</string>
-  <string name="usage_state_download">Tallennettiin Galleriaan</string>
+  <string name="usage_state_download">Tallenna Galleriaan</string>
   <string name="usage_state_duration_title">Tämä istunto</string>
   <string name="usage_state_focus_call">Hätäpuhelu</string>
   <string name="usage_state_focus_level1">Nouseva tähti</string>

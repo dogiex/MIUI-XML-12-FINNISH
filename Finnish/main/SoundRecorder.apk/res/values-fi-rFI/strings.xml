@@ -13,6 +13,7 @@
   <string name="call_record_list_group_all">Kaikki</string>
   <string name="call_record_list_group_connected">Yhdistetty</string>
   <string name="call_record_list_group_unconnected">Ei yhdistetty</string>
+  <string name="cancel_rename">Peruuta</string>
   <string name="clear_records">Poista synkronoidut nauhoitukset</string>
   <string name="cloud_record_open">Synkronoi nauhoitukset</string>
   <string name="cloud_record_tip">Synkronoi nauhoitukset Xiaomi Pilveen.</string>
@@ -84,6 +85,7 @@
   <string name="korea_permission_record_resc">Nauhoittaakseen ääntä</string>
   <string name="korea_permission_storage">Tallennustila</string>
   <string name="korea_permission_storage_desc">Tallentaakseen nauhoituksia</string>
+  <string name="loading_more">Odota hetki…</string>
   <string name="loading_order_list">Odota hetki…</string>
   <string name="loading_order_list_empty">Täällä ei ole tilauksia</string>
   <string name="low_battery_error">Alle 5% akkua jäljellä. Lopeta ja tallenna nauhoituksesi varmistaaksesi, ettei sitä menetetä.</string>

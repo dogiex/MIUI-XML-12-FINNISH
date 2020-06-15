@@ -168,6 +168,7 @@ Jos et suostu myöntämään tällaisia lupia tai jakamaan ja lähettämään he
   <string name="confirm_restore_title">Palauta viestejä</string>
   <string name="confirm_send_mms">Yksi vastaanottajista sisältää sähköpostiosoitteen. Tämä viesti lähetetään multimediaviestinä, joka saattaa aiheuttaa operaattorikohtaisia lisäkustannuksia.</string>
   <string name="confirm_upload_sms">Lähetä viestejä parantaaksesi estolistan toimintoja</string>
+  <string name="contact_card_unknown_contact">Tuntematon yhteystieto</string>
   <string name="contact_not_exists">Tämä henkilö ei ole yhteystiedoissasi.</string>
   <string name="context_menu_add_calendar">Lisää kalenteriin</string>
   <string name="context_menu_add_contact">Lisää yhteystietoihin</string>

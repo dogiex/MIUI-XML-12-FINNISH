@@ -225,14 +225,14 @@
   <string name="detail_toast_deny_favor">Ei voi lisätä suosikkeihin.</string>
   <string name="detail_toast_dislike_fail">Ei voitu poistaa</string>
   <string name="detail_toast_favor_permission">Salli Taustakuvan Karusellin käyttää tallennustilaa Tietoturva-sovelluksessa.</string>
-  <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
-  <string name="diagnosis_log_sent_format">"Sent logs successfully.
+  <string name="diagnosis_log_send_failed">Lokeja ei voitu lähettää. Yritä uudelleen.</string>
+  <string name="diagnosis_log_sent_format">"Lokit lähetettiin onnistuneesti.
 ID:%s
-Send this code to the supervisor."</string>
-  <string name="disable_dlg_cancel">Cancel</string>
-  <string name="disable_dlg_content">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
-  <string name="disable_dlg_ok">Turn off</string>
-  <string name="disable_dlg_title">Turn off Wallpaper Carousel?</string>
+Lähetä tämä koodi valvojalle."</string>
+  <string name="disable_dlg_cancel">Peruuta</string>
+  <string name="disable_dlg_content">Et saa tuoreita kuvia Aloitusnäytöllesi ja Lukitusnäytöllesi jos poistat Taustakuvakarusellin käytöstä. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="disable_dlg_ok">Poista käytöstä</string>
+  <string name="disable_dlg_title">Poistetaanko Taustakuvakaruselli käytöstä?</string>
   <string name="dislike">Poista</string>
   <string name="dlg_cancel">Peruuta</string>
   <string name="dot_and_space">• </string>
