@@ -39,7 +39,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="ac_enter_applock">Syötä Sovelluslukko</string>
   <string name="ac_firstUseApplock_subTitle">Käytä parempaa järjestelmätason tietoturvatyökaluja</string>
   <string name="ac_firstUseApplock_title">Aseta salasana sovellusten suojaamiseksi</string>
-  <string name="ac_mask_all_apps">Piilota kaikilta sovelluksilta</string>
+  <string name="ac_mask_all_apps">Piilota kaikilta</string>
   <string name="ac_notification_contentText">Ota käyttöön napauttamalla</string>
   <string name="ac_notification_contentTitle">Suojaa sovelluksia Sovelluslukolla</string>
   <string name="ac_post_notification_contentText">Hanki järjestelmätason suojaus</string>
@@ -48,7 +48,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="ac_pre_notification_contentTitle">Kokeile Sovelluslukkoa</string>
   <string name="ac_summaryOff">Ei käytössä, salasanaa ei vaadita sovelluksien avaamiseen</string>
   <string name="ac_summaryOn">Anna salasana avataksesi suojattuja sovelluksia</string>
-  <string name="ac_unmask_all_apps">Poista piilotus kaikilta sovelluksilta</string>
+  <string name="ac_unmask_all_apps">Näytä kaikille</string>
   <string name="access_control_app_is_launching">Sovellus käynnistyy</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Anna salasana ennen uudella sormenjäljellä avaamista</string>
   <string name="access_control_fingerprint_not_identified_msg">Sormenjälkeä ei voitu lukea.</string>
@@ -1635,8 +1635,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
   <string name="notification_mask_summary">Älä näytä suojattujen sovelluksien ilmoituksien sisältöä</string>
   <string name="notification_mask_title">Piilota ilmoituksien sisältö</string>
-  <string name="notification_masked_item">Piilota ilmoitukset</string>
-  <string name="notification_masked_subtitle">Piilota ilmoitukset Sovelluslukolla suojatuilta sovelluksilta</string>
+  <string name="notification_masked_item">Kuinka ilmoitussisältöä piilotetaan?</string>
+  <string name="notification_masked_subtitle">Käytä Sovelluslukkoa piilottaaksesi valittujen sovelluksien ilmoitussisällön</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
   <string name="notify_channel_mipush">Tietoturvan push-viestit</string>
   <string name="notify_channel_name_security">Järjestelmän tietoturva</string>
@@ -1869,6 +1869,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_power_save_summary_text">Nosta jäljellä olevaa aikaa jopa %1$d t %2$d min</string>
   <string name="power_center_power_save_title_text">Virransäästö</string>
   <string name="power_center_repeat">Toista</string>
+  <string name="power_center_scan_item_title_5g">5G-yhteys</string>
   <string name="power_center_scan_item_title_GPS">Säädä GPS:n tarkkuus</string>
   <string name="power_center_scan_item_title_abnormal">Akkuongelmia</string>
   <string name="power_center_scan_item_title_abnormal_apps">Virtaa kuluttavat sovellukset</string>
@@ -1899,6 +1900,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_dialog_cancel">Peruuta</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_super_save_msg">Äärimmäinen virransäästö rajoittaa paljon virtaa vieviä ominaisuuksia ja vähentää laitteen suorituskykyä, jotta laitteen perusominaisuudet (esim. puhelut, tekstiviestit ja verkkoon yhdistäminen) ovat käytettävissä mahdollisimman kauan. Otetaanko Äärimmäinen virransäästö käyttöön?</string>
+  <string name="power_dialog_super_save_msg_5g">Äärimmäinen virransäästö rajoittaa eniten virtaa kuluttavia toimintoja (esim. 5G-yhteys) pienentämällä laitteen suorituskykyä. Puheluihin, viesteihin ja verkkoyhteyteen tämä ei vaikuta. Otetaanko Äärimmäinen virransäästö käyttöön?</string>
   <string name="power_dialog_super_save_title">Äärimmäinen virransäästö</string>
   <string name="power_idle">Puhelin toimettomana</string>
   <string name="power_main_battery_last_day_hour">%1$s pv %2$s t jäljellä</string>
@@ -1910,6 +1912,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_optimize_btn_text_fixed">Optimoitu</string>
   <string name="power_optimize_catagory_fixed_title">Optimoitu</string>
   <string name="power_optimize_close_app">Sulje kohtuuttomasti akkua vievät sovellukset</string>
+  <string name="power_optimize_disable_5g">Rajoita 5G-yhteyttä</string>
   <string name="power_optimize_disable_app_autostart">Estä sovelluksia käynnistymästä automaattisesti</string>
   <string name="power_optimize_disable_gps">Sammuta GPS</string>
   <string name="power_optimize_disable_start_other_app">Estä sovelluksia avaamasta toisia sovelluksia</string>
@@ -1931,7 +1934,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_save_on_time_end_time_summary_na">Minne</string>
   <string name="power_save_on_time_start_time_summary_na">Mistä</string>
   <string name="power_save_ps_clean">Tyhjennä välimuisti kun laite lukitaan</string>
-  <string name="power_save_ps_close_setting">Poista taustapalvelut käytöstä (synkronointi, GPS) säästääksesi virtaa</string>
+  <string name="power_save_ps_close_setting">Poista taustapalvelut (synkronointi, GPS) käytöstä säästääksesi virtaa</string>
+  <string name="power_save_ps_close_setting_5g">Rajoita virtaa kuluttavia toimintoja (synkronointi, 5G-yhteys, GPS)</string>
   <string name="power_save_ps_freeze">Jäädytä taustalla olevat sovellukset</string>
   <string name="power_save_ps_limit">Rajoita järjestelmäsovellusten aktiviteettia</string>
   <string name="power_save_settings">Akun asetukset</string>
@@ -2071,6 +2075,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
 
 Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen kalibrointimallin."</string>
   <string name="privacy_prompt_upload">Lähetä</string>
+  <string name="privacyapp_number_masked_text">Ilmoituksen sisältö on piilotettu</string>
+  <string name="privacyapp_number_unmasked_text">Ilmoituksen sisältö voidaan piilottaa</string>
   <string name="process_mediaserver_label">Media palvelin</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Mainos</string>
@@ -2406,7 +2412,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="still_retain_btn">Säilytä</string>
   <string name="stop_milink_connect">Suoratoisto lopetettiin</string>
   <string name="suggest_app_tolock">Ehdotukset</string>
-  <string name="suggest_app_tolock_masked">Piilotettu</string>
+  <string name="suggest_app_tolock_masked">Sisältö piilotettu</string>
   <string name="suggest_app_tolock_unmasked">Näkyvät ilmoitukset</string>
   <string name="suggest_scan_again">Suorita tarkistus loppuun välttääksesi tietoturvariskejä.</string>
   <string name="summary_app_lock_disable">Suojaa tietosi Sovelluslukolla</string>
