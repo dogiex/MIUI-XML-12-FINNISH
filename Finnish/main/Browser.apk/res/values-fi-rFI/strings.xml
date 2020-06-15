@@ -102,7 +102,7 @@
     <string name="add_pwa_to_homescreen">Lisätäänkö Aloitusnäytön pikakuvake?</string>
     <string name="add_ql_bm_title">Tallenna</string>
     <string name="add_quicklinks">Lisää</string>
-    <string name="add_tag">Add Tag</string>
+    <string name="add_tag">Lisää tunniste</string>
     <string name="add_to_bookmark">Kirjanmerkit</string>
     <string name="add_to_desk">Lisää Aloitusnäytölle</string>
     <string name="add_to_desk_lite_mode_toast">Aloitusnäytölle lisääminen epäonnistui Lite-tilassa</string>
@@ -731,7 +731,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="pref_content_javascript">Ota käyttöön JavaScript</string>
     <string name="pref_content_search_engine">Aseta hakukone</string>
     <string name="pref_content_search_engine_summary">Valitse hakukone</string>
-  <string name="pref_content_simple_homepage">Simplified start page</string>
+  <string name="pref_content_simple_homepage">Yksinkertaistettu aloitussivu</string>
     <string name="pref_debug_mode">Vianetsintätila</string>
     <string name="pref_download_setting">Latausasetukset</string>
     <string name="pref_enable_adblock_notification">Näytä mainostenestäjän ilmoitukset</string>

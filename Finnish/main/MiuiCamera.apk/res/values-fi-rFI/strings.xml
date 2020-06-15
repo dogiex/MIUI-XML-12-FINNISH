@@ -833,6 +833,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
   <string name="vv_duartion_hint">%1$s | Osa %2$d | %3$s s</string>
   <string name="vv_hint">Voit kuvata vlogeja vain vaakatilassa</string>
+  <string name="vv_mode_menu_item_name">VLOG</string>
   <string name="vv_stability_hint">Pidä laitteesi vakaana</string>
   <string name="vv_start">Kuvaa vlogi</string>
   <string name="vv_use_hint_text_body">"Vlog-tila sallii sinun

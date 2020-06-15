@@ -30,6 +30,7 @@
   <string name="access_token_invalid_warning">Weibo Tili on väärin</string>
   <string name="account">Tili</string>
   <string name="account_bind_devices">Laitteet</string>
+  ,,,,
   <string name="account_bind_secure_email_title">Lisää sähköposti</string>
   <string name="account_bind_secure_phone_title">Lisää puhelinnumero</string>
   <string name="account_bind_settings">Tilit</string>
@@ -39,7 +40,7 @@
   <string name="account_error_invalid_user_name">Nimi ei voi sisältää &lt;, &gt;, /</string>
   <string name="account_error_longer_user_name">Nimi ei saa ylittää 20 merkkiä</string>
   <string name="account_error_shorter_user_name">Nimen pitää olla pidempi, kuin 2 merkkiä</string>
-  <string name="account_error_user_birthday">Syntymäpäivä, jonka syötit on väärin</string>
+  <string name="account_error_user_birthday">Syöttämäsi syntymäpäivä on virheellinen</string>
   <string name="account_error_user_name">Syöttämäsi nimi on virheellinen</string>
   <string name="account_global_region">Ulkomailla</string>
   <string name="account_has_been_set">Vaihda</string>

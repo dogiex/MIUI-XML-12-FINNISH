@@ -1191,6 +1191,16 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Animaatioasteikko 5-kertainen</item>
         <item>Animaatioasteikko 10-kertainen</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Säädä värejä valoisuuden mukaan</item>
+        <item>Paranna värejä aina</item>
+        <item>Palauta näytön sisällön vakioväri värikalibroinnilla</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Automaattinen (suositeltu)</item>
+        <item>Kylläinen</item>
+        <item>Alkuperäinen väri</item>
+    </string-array>
     <string-array name="tts_rate_entries">
         <item>Hyvin hidas</item>
         <item>Hidas</item>

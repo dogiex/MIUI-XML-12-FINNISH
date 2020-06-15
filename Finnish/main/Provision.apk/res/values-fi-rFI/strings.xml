@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ai_button_desc">Pääset välittömästi käyttämään älykästä ääniavustajaa</string>
+  <string name="accessibility_enabled">Esteettömyys käytössä.</string>
+  <string name="agree">Hyväksyn</string>
+  <string name="agree_and_next">Hyväksyn</string>
+  <string name="agree_terms">Olen lukenut ja hyväksyn Käyttöehdot ja Tietosuojakäytännön.</string>
+  <string name="agree_terms_input_method_facemoji">Olen lukenut ja hyväksyn Facemojin tietosuojakäytännön.</string>
+  <string name="agree_terms_input_method_kika">Olen lukenut ja hyväksyn Kikan tietosuojakäytännön.</string>
+  <string name="ai_button_desc">AI-painikkeen avulla voit käynnistää Mi AI:n ja käyttää Mi AI:n pikakuvakkeita.</string>
   <string name="ai_button_double_press">Tuplanapauta</string>
   <string name="ai_button_double_press_desc">Paina AI-painiketta kaksi kertaa suorittaaksesi mukautettuja tehtäviä</string>
   <string name="ai_button_long_press">Paina ja pidä pohjassa</string>
@@ -155,7 +161,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="require_authority_statement">Jotta voimme tarjota sinulle peruspalveluita, sinun täytyy sallia seuraavat käyttöoikeudet, jotta voimme kerätä henkilötietojasi:</string>
   <string name="require_network_authority_statement">Jotta voimme tarjota sinulle peruspalveluita, sinun täytyy yhdistää internetiin ja sallia seuraavat käyttöoikeudet, jotta voimme kerätä henkilötietojasi:</string>
   <string name="screen_recording_introduction">Tämän sovelluksen avulla voit nauhoittaa, mitä näytölläsi tapahtuu.</string>
-  <string name="security_introduction">Tämän sovelluksen avulla voit tyhjentää laitteellasi olevia roskia, etsiä ja neutralisoida virukset, optimoida suorituskyvyn pelejä varten, säästää virtaa, hallinnoida sovelluksia ja paljon muuta.</string>
+  <string name="security_introduction">Tämän sovelluksen avulla voit tyhjentää laitteellasi olevia roskia, etsiä ja neutralisoida virukset, optimoida suorituskyvyn pelejä varten, säästää virtaa, hallita sovelluksia, käyttöoikeuksia ja paljon muuta.</string>
   <string name="security_mobile_account_introduction">Järjestelmätilien kirjautumiseen ja hallinnointia varten</string>
   <string name="service_agreement">Olen lukenut ja hyväksyn käyttöehdot.</string>
   <string name="service_name_album">Galleria</string>
@@ -201,7 +207,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="summary_not_set">Ei asetettu</string>
   <string name="system_navigation_mode">Järjestelmän navigointitila</string>
   <string name="terms_of_use">Käyttöehdot</string>
-  <string name="terms_of_use_ble_htmlViewer">, Sulautunut sijaintipalvelujen tarjoaja, HTMLViewer</string>
+  <string name="terms_of_use_ble_htmlViewer">, Sulautunut sijaintipalvelujen tarjoaja, HTML Viewer</string>
   <string name="terms_of_use_label">"Lue meidän Käyttöehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 Sinun täytyy hyväksyä Käyttöehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta.
 %s ja Mi-tilin komponentit ottavat yhteyden internetiin ja hakevat sijaintisi."</string>
@@ -224,7 +230,7 @@ Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden
   <string name="terms_privacy_policy_input_method_kika">Kika:n Tietosuojakäytäntö</string>
   <string name="title_fingerprint">Aseta salasana</string>
   <string name="user_agreement">Käyttöehdot</string>
-  <string name="user_agreement_declare">Ennen MIUI:n käyttämistä, sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Laitteesi aktivoinnin aikana, Mi SIM-aktivointipalvelut, Aloitusnäyttö, Usein käytetyt lauseet, Käännöspalvelut, MIUI Daemon ja Päivittäjä yhdistävät verkkoon. MSA yhdistää verkkoon ja käyttää sijaintiasi.</string>
+  <string name="user_agreement_declare">Ennen MIUI:n käyttämistä, sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Laitteesi aktivoinnin aikana, Mi SIM-aktivointipalvelut, Etsi laite, Aloitusnäyttö, Usein käytetyt lauseet, Käännöspalvelut, MIUI Daemon, HTML Viewer ja Päivittäjä yhdistävät verkkoon. Älypalvelut yhdistää verkkoon ja käyttää sijaintiasi.</string>
   <string name="voice_assist_advice">Mi AI sallii ääniohjauksen käyttämisen, mutta se kuluttaa enemmän virtaa (+1% tunnissa).</string>
   <string name="voice_assist_condition">"Voit käyttää Mi AI:ta näissä tilanteissa:
 1. Kun näyttö on päällä.
