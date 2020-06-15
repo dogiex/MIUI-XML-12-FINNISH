@@ -1343,6 +1343,12 @@ mukauttaaksesi Galleriasi"</string>
   <string name="movie_audio_dream">Unelma</string>
   <string name="movie_audio_electronics">Elektroninen</string>
   <string name="movie_audio_none">Ei mitään</string>
+  <string name="movie_audio_point1">Neon</string>
+  <string name="movie_audio_point2">Auringonlasku</string>
+  <string name="movie_audio_point3">Muistot</string>
+  <string name="movie_audio_point4">Keskikesä</string>
+  <string name="movie_audio_point5">Aallot</string>
+  <string name="movie_audio_point6">Karnevaali</string>
   <string name="movie_audio_quiet">Zen</string>
   <string name="movie_audio_summertime">Kesä</string>
   <string name="movie_audio_vitality">Voima</string>
@@ -1375,6 +1381,12 @@ mukauttaaksesi Galleriasi"</string>
   <string name="movie_tab_music">Musiikki</string>
   <string name="movie_tab_template">Malli</string>
   <string name="movie_template_baby">Söpö</string>
+  <string name="movie_template_cool">Valot</string>
+  <string name="movie_template_cool2">Rytmi</string>
+  <string name="movie_template_cool3">Aallot</string>
+  <string name="movie_template_dull">Tarina</string>
+  <string name="movie_template_dull2">Aika</string>
+  <string name="movie_template_dull3">Kauneus</string>
   <string name="movie_template_food">Ruoka</string>
   <string name="movie_template_new_year">Uusi Vuosi</string>
   <string name="movie_template_normal">Melodia</string>

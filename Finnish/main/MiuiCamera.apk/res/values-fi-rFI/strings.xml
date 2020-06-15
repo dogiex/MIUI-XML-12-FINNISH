@@ -668,8 +668,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
   <string name="pref_camera_zoom_mode_entry_standard">TAVALLINEN</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRALAAJA</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>
@@ -693,6 +693,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_photo_assistance_tips_off">Pois käytöstä</string>
   <string name="pref_photo_assistance_tips_on">Käytössä</string>
+  <string name="pref_popup_camera_title">Ponnahduskamera</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">F</string>
   <string name="pref_retain_camera_mode_summary">Vaihda kamera edelliseen käytettyyn tilaan, kun avaat sovelluksen.</string>

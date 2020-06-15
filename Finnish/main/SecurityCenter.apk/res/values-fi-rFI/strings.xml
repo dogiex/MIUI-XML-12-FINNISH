@@ -2057,8 +2057,15 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="privacy_apps_tutorial_prompt_pagethree">Annettuasi salasanasi, piilotettujen sovelluksien kansio tulee esiin.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Levitä kahta sormea näytölläsi. Näet viestin, joka pyytää antamaan Sovelluslukon salasanasi.</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
+  <string name="privacy_description_camera">%1s käyttää kameraa taustalla. Voit alla olevasta kytkimestä rajoittaa tätä aktiviteettia.</string>
+  <string name="privacy_description_camera_mic">%1s käyttää kameraa ja mikrofonia taustalla. Voit alla olevasta kytkimestä rajoittaa tätä aktiviteettia.</string>
+  <string name="privacy_description_mic">%1s käyttää mikrofonia taustalla. Voit alla olevasta kytkimestä rajoittaa tätä aktiviteettia.</string>
   <string name="privacy_dialog_message">Kun yhdistät internetiin, tämä viesti salataan ja lähetetään operaattorisi tietojen kanssa Mi:n palvelimille auttamaan meitä tilastoimaan datan käyttöä.</string>
   <string name="privacy_mode_dialog_title">Vieras tila</string>
+  <string name="privacy_notification_subtitle">Hallitse käyttöoikeuksia napauttamalla</string>
+  <string name="privacy_notification_title_camera">%1s käyttää kameraa taustalla</string>
+  <string name="privacy_notification_title_camera_mic">%1s käyttää kameraa ja mikrofonia taustalla</string>
+  <string name="privacy_notification_title_mic">%1s käyttää mikrofonia taustalla</string>
   <string name="privacy_prompt_tc_sms_report_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta datan käytön tiedot voidaan päivittää.</string>
   <string name="privacy_prompt_traffic_adjust_message">"Kalibroinnin käynnistämisen jälkeen, MIUI yhdistää verkkoon, enkoodaa operaattorisi tiedot, puhelinnumerosi, IMEI-koodisi, ja Mi-tilisi ja lähettää ne Mi:n palvelimille. Tämä tehdään, jotta saadaan operaattorin kalibrointimalli ja opitaan, onko sijainnissasi mahdollista ostaa dataa.
 
