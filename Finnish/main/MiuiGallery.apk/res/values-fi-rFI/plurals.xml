@@ -20,18 +20,18 @@
         <item quantity="other">Puolen tunnin kuluttua</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Heti</item>
+        <item quantity="other">Pian</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d minuutin kuluttua</item>
-        <item quantity="one">minuutin kuluttua</item>
+        <item quantity="one">%d minuutin kuluttua</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Juuri nyt</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minuuttia sitten</item>
-        <item quantity="one">minuutti sitten</item>
+        <item quantity="one">%d minuutti sitten</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Piilotetaanko nämä tiedostot?</item>
@@ -98,8 +98,12 @@
         <item quantity="one">%d kohde on liian suuri varmuuskopioitavaksi</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d kuvaa ja videota | Pysäytetty</item>
-        <item quantity="one">%d kuva tai video | Pysäytetty</item>
+        <item quantity="other">Jatketaan %d minuutin kuluttua</item>
+        <item quantity="one">Jatketaan %d minuutin kuluttua</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Pysäytä kuvien, videoiden, yhteystietojen, muistioiden ja muiden kohteiden synkronointi pilven kanssa %d minuutin ajaksi.</item>
+        <item quantity="one">Pysäytä kuvien, videoiden, yhteystietojen, muistioiden ja muiden kohteiden synkronointi pilven kanssa %d minuutin ajaksi.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d kuvaa ja videota | %2$s</item>
@@ -249,36 +253,36 @@
         <item quantity="one">minuutti sitten</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d kohdetta odottaa varmuuskopiointia</item>
-        <item quantity="one">1 kohde odottaa varmuuskopiointia</item>
+        <item quantity="other">%1$d kohdetta odottaa synkronointia</item>
+        <item quantity="one">%1$d kohde odottaa synkronointia</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d kuvaa</item>
         <item quantity="one">1 kuva</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d kuvaa odottaa varmuuskopiointia</item>
-        <item quantity="one">1 kuva odottaa varmuuskopiointia</item>
+        <item quantity="other">%1$d kuvaa odottaa synkronointia</item>
+        <item quantity="one">%1$d kuva odottaa synkronointia</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Varmuuskopioidaan %1$d kuvaa…</item>
-        <item quantity="one">Varmuuskopioidaan kuva…</item>
+        <item quantity="other">Synkronoidaan %1$d kuvaa…</item>
+        <item quantity="one">Synkronoidaan %1$d kuva…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Varmuuskopioidaan %1$d kohdetta…</item>
-        <item quantity="one">Varmuuskopioidaan 1 kohde…</item>
+        <item quantity="other">Synkronoidaan %1$d kohdetta…</item>
+        <item quantity="one">Synkronoidaan %1$d kohde…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Varmuuskopioidaan %1$d videota…</item>
-        <item quantity="one">Varmuuskopioidaan video…</item>
+        <item quantity="other">Synkronoidaan %1$d videota…</item>
+        <item quantity="one">Synkronoidaan %1$d video…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d videota</item>
         <item quantity="one">1 video</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videota odottaa varmuuskopiointia</item>
-        <item quantity="one">1 video odottaa varmuuskopiointia</item>
+        <item quantity="other">%1$d videota odottaa synkronointia</item>
+        <item quantity="one">%1$d video odottaa synkronointia</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Yhteensä %1$d kohdetta</item>

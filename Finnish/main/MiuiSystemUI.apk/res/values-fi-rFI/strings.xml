@@ -737,11 +737,11 @@
      <string name="phone_locked_foget_password">Unohtuiko salasana?</string>
      <string name="phone_locked_foget_password_mehod_back">Takaisin</string>
      <string name="phone_locked_foget_password_method">Unohtuiko salasana?</string>
-     <string name="phone_locked_foget_password_method_content">Sinun täytyy poistaa kaikki laitteessa olevat tiedot, mukaan lukien kuvat ja yhteystiedot ja sen jälkeen aseta uusi Lukitusnäytön salasana.</string>
+     <string name="phone_locked_foget_password_method_content"><Data>Sinun täytyy &amp;lt;font color=#a5220e&amp;gt;poistaa kaikki tiedot &amp;lt;/font&amp;gt;laitteesta, mukaan lukien kuvat ja yhteystiedot ja sen jälkeen aseta uusi Lukitusnäytön salasana.</Data></string>
      <string name="phone_locked_foget_password_method_next">Seuraava</string>
      <string name="phone_locked_foget_password_ok">Selvä</string>
-     <string name="phone_locked_forget_password_suggesstion_one_content">Sammuta laitteesi, paina pohjassa yhtä aikaa Virta -painiketta ja Äänenvoimakkuus ylös -painiketta, kunnes näet Mi logon.</string>
-     <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Tyhjennä &amp; Nollaa\" ja odota kunnes laite käynnistyy uudelleen.</string>
+     <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Sammuta laitteesi, paina pohjassa yhtä aikaa &amp;lt;font color=#a5220e&amp;gt;Virta-painiketta&amp;lt;/font&amp;gt; ja &amp;lt;font color=#a5220e&amp;gt;Äänenvoimakkuus ylös -painiketta&amp;lt;/font&amp;gt;, kunnes näet Mi-logon.</Data></string>
+     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Valitse &amp;lt;font color=#a5220e&amp;gt;\"Tyhjennä &amp; Nollaa\"&amp;lt;/font&amp;gt; ja odota kunnes laite käynnistyy uudelleen.</Data></string>
      <string name="phone_locked_forget_password_suggesstions_title">Kuinka tiedot poistetaan?</string>
      <string name="phone_locked_string">Puhelin on lukittu</string>
      <string name="pip_close">Sulje PiP</string>

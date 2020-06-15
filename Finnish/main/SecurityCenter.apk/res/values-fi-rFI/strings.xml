@@ -318,10 +318,12 @@ Et menetä sovellustietoja."</string>
   <string name="applock_face_unlock_title">Kasvojentunnistus</string>
   <string name="applock_function_base_settings">Sovelluslukko</string>
   <string name="applock_function_pwd_settings">Salasana</string>
+  <string name="applock_go_to">Asetukset</string>
   <string name="applock_header_text_less_than_half">Liian pieni. Vedä hieman kauemmaksi.</string>
   <string name="applock_login_and_add_account">Kirjaudu sisään &amp; lisää</string>
   <string name="applock_not_add_account">Ei nyt</string>
   <string name="applock_not_login_account">Et ole kirjautuneena sisään</string>
+  <string name="applock_settings_unlock_all_toast">Kaikkien sovellusten lukitus avattiin</string>
   <string name="applock_toast_tip">Sovelluslukko vahvistettiin onnistuneesti</string>
   <string name="apps_item_sign_dialog_content">"%s allekirjoitus on eri, kuin App Store version. Poistetaanko tämä sovellus ja asennetaanko virallinen versio? Huom: Ristiriitaisen allekirjoituksen omaavan sovelluksen asentaminen saattaa johtaa sovellustietojen menettämiseen."</string>
   <string name="apps_item_sign_dialog_title">Asenna virallinen sovellus</string>
@@ -1321,9 +1323,8 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="load_only_under_wlan">Lataa vain Wi-Fi-yhteydellä</string>
   <string name="loading">Odota hetki…</string>
   <string name="local_ip_exception_summary">Paikallista IP-osoitetta ei saatu. Lähettääksesi raportin MIUI:lle, avaa Palaute-sovellus ja lähetä lokitiedosto laitteestasi.</string>
+  <string name="lock_all_title">Lukitse kaikki sovellukset</string>
   <string name="lock_mode_title">Lukitusasetukset</string>
-  <string name="lock_screen_business_hongbao_message">来自%1$s</string>
-  <string name="lock_screen_hongbao_message">来自“%1$s”</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s käytetty lukitusnäytöllä</string>
   <string name="lock_screen_traffic_guide_notification_title">Hallitse datan käyttöä napauttamalla.</string>
   <string name="lock_screen_traffic_notify_body">Lukittu, koska %2$s klo %1$s, dataa käytetty %3$s</string>
@@ -1859,7 +1860,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_list_item_battery_status_time">t</string>
   <string name="power_center_list_item_close_bluetooth">Poista Bluetooth käytöstä</string>
   <string name="power_center_list_item_deep_save_title">Lisäasetukset</string>
-  <string name="power_center_list_item_set_lockscreen_time">Laita näyttö nukkumaan 30 sekunnin toimettomuuden jälkeen</string>
+  <string name="power_center_list_item_set_lockscreen_time">Laita näyttö nukkumaan 30 sekunnin käyttämättömyyden jälkeen</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Lukitse laite %d sekunnin käyttämättömyyden jälkeen</string>
   <string name="power_center_main_percent_formatted">%s %%</string>
   <string name="power_center_one_key_save">Optimoi</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>
@@ -2488,14 +2490,14 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="system_permission_declare_no_say_no">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi normaalisti.</string>
   <string name="system_permission_declare_no_say_no_analytics">Jos et halua sallia näitä käyttöoikeuksia, voit poistaa rekisteröinnin asetuksissa Asetukset &gt; Lisäasetukset &gt; Yksityisyys &gt; Käyttäjäkokemusohjelma.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Jos et anna vaadittuja käyttöoikeuksia tai et salli meidän kerätä ja käyttää tietojasi, tämä sovellus ei välttämättä toimi osittain.</string>
-  <string name="system_permission_declare_privacy_declare">Tämän sovelluksen täytyy yhdistää internetiin ja se vaatii seuraavia käyttöoikeuksia toimiakseen normaalisti:</string>
-<string name="system_permission_declare_privacy_no_permission">Tämän sovelluksen täytyy yhdistää internetiin ja kerätä tarvittavat henkilötiedot toimiakseen normaalisti.</string>
-  <string name="system_permission_declare_privacy_policy">Lue ja hyväksy meidän Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä.</string>
+  <string name="system_permission_declare_privacy_declare">Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti. Huomaa, että Tietoturvan on oltava yhteydessä internetiin ja että henkilökohtaisten tietojen keruu edellyttää seuraavia oikeuksia:</string>
+  <string name="system_permission_declare_privacy_no_permission">Huomaa, että Tietoturvan on yhdistettävä internetiin ja kerättävä tarvittavat henkilökohtaiset tiedot, jotta voimme tarjota palveluitamme sinulle. Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti.</string>
+  <string name="system_permission_declare_privacy_policy"><Data>Lue ja hyväksy meidän &amp;lt;a href=\"%1$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt; ennen tämän toiminnon käyttämistä.</Data></string>
   <string name="system_permission_declare_revoke_system">Voit poistua tästä sovelluksesta.</string>
   <string name="system_permission_declare_revoke_uninstallable">Voit kirjautua ulos, poistaa tämän sovelluksen tai peruuttaa valtuutuksen menemällä Tietoturva &gt; Hallitse sovelluksia &gt; Käyttöoikeudet &gt; Käyttöoikeudet.</string>
   <string name="system_permission_declare_use_network">Yhdistä verkkoon</string>
   <string name="system_permission_declare_use_network_no_permission">Yhdistä verkkoon</string>
-  <string name="system_permission_declare_user_agreement">Lue ja hyväksy meidän Käyttöehdot ennen tämän ominaisuuden käyttämistä.</string>
+  <string name="system_permission_declare_user_agreement"><Data>Lue ja hyväksy meidän &amp;lt;a href=\"%1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ennen tämän toiminnon käyttämistä.</Data></string>
   <string name="system_permission_perm_answer_call">Soita puheluita</string>
   <string name="system_permission_perm_read_mms">Lukea multimediaviestejä</string>
   <string name="system_permission_perm_read_numbers">Lukea puhelinnumeroita</string>

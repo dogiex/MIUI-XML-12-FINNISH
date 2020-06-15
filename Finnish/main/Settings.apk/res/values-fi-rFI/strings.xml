@@ -2422,11 +2422,14 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa, yritä myöhemmin uudelleen</string>
   <string name="fingerprint_swipe_for_notifications_summary">Voit katsoa ilmoitukset pyyhkäisemällä puhelimen takaosassa olevasta sormenjälkitunnistimesta alaspäin.</string>
   <string name="fingerprint_swipe_for_notifications_title">Näytä ilmoitukset pyyhkäisemällä sormenjälkitunnistinta</string>
+  <string name="fingerprint_unlock_press_type">Paina</string>
   <string name="fingerprint_unlock_set_unlock_password">Sormenjälki ja salasana</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Sormenjälki ja kuvio</string>
   <string name="fingerprint_unlock_set_unlock_pin">Sormenjälki ja PIN-koodi</string>
   <string name="fingerprint_unlock_skip_fingerprint">Jatka ilman sormenjälkeä</string>
   <string name="fingerprint_unlock_title">Sormenjäljen avulla voit käyttää sormenjälkeäsi puhelimen lukituksen avaamiseen. Turvallisuussyistä tämä edellyttää, että määrität näytön varalukitustavan.</string>
+  <string name="fingerprint_unlock_touch_type">Kosketa</string>
+  <string name="fingerprint_unlock_type">Sormenjälkien tunnistusmenetelmä</string>
   <string name="fingerprint_usage_category_title">Sormenj. käyttökohde</string>
   <string name="finish_application">Pakota lopetus</string>
   <string name="finish_button">Valmis</string>
@@ -2627,6 +2630,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_add_fingerprint_put_finger_message">Paina näyttöä ja nosta sormesi, kun tunnet värinän. Toista useita kertoja.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Paina ja nosta värinän jälkeen</string>
   <string name="gxzw_add_fingerprint_title">Lisää sormenjälkesi</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Neon</string>
   <string name="gxzw_anim_pulse">Syke</string>
   <string name="gxzw_anim_rhythm">Rytmi</string>
@@ -4828,9 +4832,12 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_dark_mode_smart_dark_summary">Aseta tummatila myös kolmannen osapuolen sovelluksiin. Jotkut sovellukset voivat näkyä väärin.</string>
   <string name="screen_dark_mode_smart_dark_title">Globaali tummatila</string>
   <string name="screen_dark_mode_time_title">Ajastus</string>
-  <string name="screen_effect">Kontrasti &amp; värit</string>
-  <string name="screen_fps_summary">Korkea virkistystaajuus tekee kuvasta sulavamman, kun taas alhainen virkistystaajuus säästää virtaa</string>
+  <string name="screen_effect">Värit</string>
+  <string name="screen_fps_summary_power_save">Kiinteän arvon käyttäminen kuluttaa vähemmän virtaa</string>
+  <string name="screen_fps_summary_smooth">Jotkin sovellukset nostavat virkistystaajuutta automaattisesti parantaakseen kuvanlaatua</string>
   <string name="screen_fps_title">Virkistystaajuus</string>
+  <string name="screen_fps_unit_power_save">%d Hz (Säästää virtaa)</string>
+  <string name="screen_fps_unit_smooth">%d Hz (Parempi laatu)</string>
   <string name="screen_key_long_press">Navigointipainikkeiden pitkä painallus</string>
   <string name="screen_key_long_press_action">Käynnistettävä toiminto</string>
   <string name="screen_key_long_press_timeout">Aseta pitkän painalluksen aika</string>
@@ -6210,6 +6217,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>
+  <string name="unlock_type_category_title">Tunnistusmenetelmä</string>
   <string name="unlogin_account_summary">Kaikki Mi-palvelut. Yksi Mi-tili.</string>
   <string name="unlogin_account_title">Kirjaudu sisään Mi-tiliin</string>
   <string name="unmount_inform_text">USB-tallennustila poistetaan käytöstä</string>
@@ -6707,6 +6715,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="weight_light">Kevyt</string>
   <string name="weight_setting_toast">Voit vaihtaa fontin lihavuutta vain järjestelmän oletusfontille</string>
   <string name="welcome">Tervetuloa</string>
+  <string name="wellbing_title">Digitaalinen hyvinvointi &amp; lapsilukot</string>
   <string name="wfc_disclaimer_agree_button_text">JATKA</string>
   <string name="wfc_disclaimer_disagree_text">EI KIITOS</string>
   <string name="wfc_disclaimer_emergency_limitation_desc_text">"Operaattorisi ei tue hätäpuhelun soittamista Wi-Fi-puheluna.

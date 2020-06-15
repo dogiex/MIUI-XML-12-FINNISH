@@ -47,7 +47,7 @@
   <string name="open_print_service">Ota tulostaminen käyttöön</string>
   <string name="open_print_service_tips">Käyttääksesi tätä ominaisuutta, ota tulostaminen ensin käyttöön Asetuksissa.</string>
   <string name="open_wlan">Ota Wi-Fi käyttöön</string>
-  <string name="open_wlan_tips">Ota Wi-Fi käyttöön löytääksesi tulostimia nopeammin.</string>
+  <string name="open_wlan_tips">Ota Wi-Fi käyttöön löytääksesi tulostimia</string>
   <string name="other_printer">Muut tulostimet</string>
   <string name="page_description_template">Sivu %1$d/%2$d</string>
   <string name="pages_range_example">esim. 1–5,8,11–13</string>
@@ -64,8 +64,8 @@
   <string name="print_fail_network_error">Ei voitu tulostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="print_forget_printer">Unohda tulostin</string>
   <string name="print_help_label">Apua</string>
-  <string name="print_help_tip">Varmista, että puhelimesi ja tulostimesti ovat yhteydessä samaan Wi-Fi-verkkoon tai Wi-Fi Direct on käytössä. Katso \"Apua\".</string>
-  <string name="print_help_tip_reg">Apua</string>
+  <string name="print_help_tip">Varmista, että puhelimesi ja tulostimesi ovat yhteydessä samaan Wi-Fi-verkkoon tai Wi-Fi Direct on käytössä. %1$s.</string>
+  <string name="print_help_tip_reg">Katso \"Apua\"</string>
   <string name="print_no_print_services">Ei käytössä olevia tulostuspalveluita</string>
   <string name="print_no_printers">Tulostimia ei löydy</string>
   <string name="print_options_collapsed">Tulostusasetukset on tiivistetty</string>

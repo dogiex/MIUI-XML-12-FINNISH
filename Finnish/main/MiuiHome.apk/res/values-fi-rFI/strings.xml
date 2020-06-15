@@ -233,9 +233,10 @@
     <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
     <string name="launcher_minus_screen_title">Miinus yksi näyttö</string>
     <string name="launcher_not_exist">Tapahtui virhe. Mene takaisin Aloitusnäytölle ja yritä uudelleen.</string>
-    <string name="launcher_pull_down_title">Pyyhkäise alaspäin Aloitusnäytöllä</string>
-    <string name="launcher_slide_up_title">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
-    <string name="launcher_sliding_up_gesture">Avaa hakutoiminto pyyhkäisemällä Aloitusnäytöllä ylöspäin</string>
+    <string name="launcher_pull_down_title">Pyyhkäise alas Aloitusnäytöllä</string>
+    <string name="launcher_search_bar_title">Hakupalkki</string>
+    <string name="launcher_slide_up_title">Pyyhkäise ylös Aloitusnäytöllä</string>
+    <string name="launcher_sliding_up_gesture">Avaa hakutoiminto pyyhkäisemällä ylös Aloitusnäytöllä</string>
     <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
     <string name="like">Lisää suosikkeihin</string>
     <string name="liked">Lisätty suosikkeihin</string>

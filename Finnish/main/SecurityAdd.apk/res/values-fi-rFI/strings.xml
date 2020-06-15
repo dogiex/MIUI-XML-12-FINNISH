@@ -20,6 +20,7 @@
   <string name="ad_downloading">Lataa…</string>
   <string name="app_name">Järjestelmäpalvelun liitännäinen</string>
   <string name="app_select_title">Lisää usein käytettyjä sovelluksia</string>
+  <string name="cancel">Peruuta</string>
   <string name="cancel_button">Peruuta</string>
   <string name="cta_main_purpose">Tervetuloa Game Turboon!</string>
   <string name="dialog_market_score_cancel">Peruuta</string>
@@ -43,6 +44,11 @@
   <string name="fastboot_status_locked_info">Fastboot ei ole avattu tässä laitteessa</string>
   <string name="fastboot_status_locked_summary">Root-käyttöoikeutta ei saada</string>
   <string name="fastboot_unlock_web_title">Mene viralliselle MIUI verkkosivulle ja hae avaustyökalu (unlock tool).</string>
+  <string name="fingerprint_not_remind">Älä kysy uudelleen</string>
+  <string name="free_send_net_booster">Ilmainen Verkon nopeuttaja</string>
+  <string name="free_send_net_booster_busniess">Hanki ilmainen Xunlei-nopeuttaja</string>
+  <string name="free_send_net_booster_busniess_tip">Napauta vastaanottaaksesi</string>
+  <string name="free_send_net_booster_tip">Nauti tasaisesta pelaamisesta ilmaisella verkon nopeuttajalla.</string>
   <string name="game_booster">Pelien nopeuttaja</string>
   <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon käyttääkseen Pelien nopeuttajan kaikkia ominaisuuksia?</string>
   <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet eivät ole käytettävissä</string>
@@ -56,6 +62,9 @@
   <string name="miuishare_title_share">Jaa</string>
   <string name="miuishare_wechat_timeline_title">WeChat Hetket</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="net_booster_expire_notification">Verkon nopeutuksen istunto on päättymässä</string>
+  <string name="net_booster_overdue_notification">Verkon nopeutuksen istunto on päättymässä</string>
+  <string name="net_booster_overdue_notification_tip">Verkon nopeutuksen istunto päättyy pian. Uusitaanko istunto?</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="ok_button">OK</string>
@@ -65,6 +74,7 @@
   <string name="pm_lable_name">Tietoa root-oikeuksista</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
   <string name="privacy_prompt_traffic_purchase_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta saadaan tietoa datan oston vaihtoehdoista.</string>
+  <string name="renew_now">Uusi</string>
   <string name="search_menu_title">Haku</string>
   <string name="share">Jaa</string>
   <string name="size_unit_byte">%1$s t</string>
