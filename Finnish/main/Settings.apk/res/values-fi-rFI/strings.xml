@@ -377,9 +377,9 @@ Järjestelmänvalvoja voi valvoa tähän käyttäjäprofiiliin liittyviä asetuk
   <string name="ai_settings_long_click_title">Paina ja pidä pohjassa</string>
   <string name="ai_settings_single_press_des">Paina AI-painiketta puhuaksesi Google Assistentille, vapauta saadaksesi vastauksen.</string>
   <string name="airplane_mode">Lentokonetila</string>
-  <string name="alarm_ringtone_title">Herätyksen oletusääni</string>
+  <string name="alarm_ringtone_title">Hälytyksen oletusääni</string>
   <string name="alarm_sound_dialog_title">Valitse hälytyksen oletusääni</string>
-  <string name="alarm_sound_title">Herätyksen oletusääni</string>
+  <string name="alarm_sound_title">Hälytys</string>
   <string name="alarm_stop">Poista Äänetön tila käytöstä, kun herätyskello soi</string>
   <string name="alarm_stop_info">Äänetön tila poistetaan käytöstä, kun herätyskello soi</string>
   <string name="alarm_volume_option_title">Hälytyksen voimakkuus</string>
@@ -2145,6 +2145,20 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dual_clock_open_message">Kaksoiskello näytetään Lukitusnäytöllä ja Aloitusnäytöllä.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_wifi">Dual Wi-Fi-verkon kiihdytys</string>
+  <string name="dual_wifi_acceleration">Toissijainen Wi-Fin kiihdytys</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Käytettävissä oleva toissijainen Wi-Fi</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Käytettävissä oleva toissijainen Wi-Fi (2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Käytettävissä oleva toissijainen Wi-Fi (5G)</string>
+  <string name="dual_wifi_enabler_summary">Käytä kahta Wi-Fiä samanaikaisesti kiihdytykseen</string>
+  <string name="dual_wifi_off">Pois käytöstä</string>
+  <string name="dual_wifi_on">Käytössä</string>
+  <string name="dual_wifi_primary_wifi_connected">Yhdistetty ensisijainen Wi-Fi</string>
+  <string name="dual_wifi_slave_wifi_connected">Yhdistetty toissijainen Wi-Fi</string>
+  <string name="dual_wifi_summary">Yhdistä ensisijaiseen Wi-Fi-verkkoon, ota toissijainen Wi-Fi käyttöön ja paranna verkon nopeutta.</string>
+  <string name="dual_wifi_switching_not_remind">Ei vinkkejä seuraavalla kerralla</string>
+  <string name="dual_wifi_switching_prompt">Wi-Fin vaihtamisen ilmoitus</string>
+  <string name="dual_wifi_switching_summary">Dual Wi-Fi vaatii erilaisia taajuuskaistoja, ja jos haluat muuttaa ensisijaisen Wi-Fin taajuuskaistaa, toissijainen Wi-Fi katkaistaan.</string>
   <string name="dump_log">Hae ongelmaan liittyvät lokit</string>
   <string name="dump_log_summary">"Tämä toiminto on luotu luomaan 284 lokin MIUI:n Alpha- ja Beta-versioissa. Käytä sitä varoen.
 Voit katsoa luotuja lokeja Tiedostohallinnassa."</string>
@@ -3672,6 +3686,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_range_header_prompt">Valitse päivämääräväli</string>
   <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+  <string name="multi_network_acceleration_app_settings">Moniverkon nopeutettu sovellusten hallinta</string>
   <string name="multi_touch_points_category_title">Moni-kosketuspisteet</string>
   <string name="multi_touch_points_preference">Tämä asetus tulee voimaan uudelleenkäynnistämisen jälkeen</string>
   <string name="music_app_unavailable">Varmista, että Mi Musiikki-sovellus on käytettävissä.</string>
@@ -4723,7 +4738,7 @@ Käynnistä laite uudelleen ja yritä sitten uudelleen."</string>
   <string name="reset_network_final_button_text">Nollaa asetukset</string>
   <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset nyt? Tämä saattaa kestää useita sekunteja. Toimintoa ei voi palauttaa.</string>
   <string name="reset_network_final_desc_esim">Haluatko nollata kaikki verkkoasetukset ja tyhjentää ladatut SIM-kortit? Toimintoa ei voi kumota.</string>
-  <string name="reset_network_title">Verkkoasetusten nollaus</string>
+  <string name="reset_network_title">Nollaa Wi-Fi, mobiiliverkot ja Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Nollaa Toisen tilan salasana</string>
   <string name="reset_second_space_passwd_cancel">Peruuta</string>
@@ -4774,7 +4789,7 @@ Käynnistä laite uudelleen ja yritä sitten uudelleen."</string>
   <string name="ring_volume_option_title">Soittoäänen voimakkuus</string>
   <string name="ring_volume_title">Soittoäänen voimakkuus</string>
   <string name="ringtone_slot_setting_title">Yhden SIM-kortin asetukset</string>
-  <string name="ringtone_title">Puhelimen soittoääni</string>
+  <string name="ringtone_title">Soittoääni</string>
   <string name="ringtone_uniform_setting_title">Kahden SIM-kortin asetukset</string>
   <string name="ringtones_category_preference_title">Soittoäänet</string>
   <string name="ringtones_install_custom_sound_content">Tiedosto kopioidaan kansioon %s.</string>
@@ -4836,7 +4851,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_cancel">Peruuta</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
   <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>
-  <string name="screen_color_temperature">Värit</string>
+  <string name="screen_color_temperature">Värilämpötila</string>
   <string name="screen_color_temperature_and_saturation">Värit &amp; saturaatio</string>
   <string name="screen_compatibility_label">Ruudun yhteensopivuus</string>
   <string name="screen_compatibility_text">Tätä sovellusta ei välttämättä ole suunniteltu näytöllesi sopivaksi. Voit muuttaa asetuksia täältä.</string>
@@ -6971,6 +6986,7 @@ Tutustu palveluntarjoajan tietosuojakäytäntöön."</string>
   <string name="wifi_metered_title">Verkon käyttö</string>
   <string name="wifi_modify">Muokkaa</string>
   <string name="wifi_more">Lisää</string>
+  <string name="wifi_multi_network_acceleration">Älykäs moniverkkoinen kiihdytys</string>
   <string name="wifi_multiple_cert_added">(Useita varmenteita lisätty)</string>
   <string name="wifi_network_prefix_length">Etuliitteen pituus</string>
   <string name="wifi_network_prefix_length_hint">24</string>
