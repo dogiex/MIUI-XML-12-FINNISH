@@ -727,6 +727,8 @@ Korkeampi herkkyys voi olla ristiriidassa näytön reunan sovelluseleiden kanssa
   <string name="backup_summary_state_off">Ei käytössä</string>
   <string name="backup_summary_state_on">Käytössä</string>
   <string name="badge_title">Näytä sovelluskuvakkeiden merkit</string>
+  <string name="band_24G">" (2,4 GHz:n kaista)"</string>
+  <string name="band_5G">" (5 GHz:n kaista)"</string>
   <string name="band_mode_failed">Epäonnistui</string>
   <string name="band_mode_loading">Ladataan taajuusluetteloa...</string>
   <string name="band_mode_set">Aseta</string>
@@ -2145,20 +2147,20 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dual_clock_open_message">Kaksoiskello näytetään Lukitusnäytöllä ja Aloitusnäytöllä.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="dual_wifi">Dual Wi-Fi-verkon kiihdytys</string>
-  <string name="dual_wifi_acceleration">Toissijainen Wi-Fin kiihdytys</string>
-  <string name="dual_wifi_avaliable_slave_wifi">Käytettävissä oleva toissijainen Wi-Fi</string>
-  <string name="dual_wifi_avaliable_slave_wifi_24G">Käytettävissä oleva toissijainen Wi-Fi (2.4G)</string>
-  <string name="dual_wifi_avaliable_slave_wifi_5G">Käytettävissä oleva toissijainen Wi-Fi (5G)</string>
-  <string name="dual_wifi_enabler_summary">Käytä kahta Wi-Fiä samanaikaisesti kiihdytykseen</string>
+  <string name="dual_wifi">Dual band Wi-Fi-nopeuttaja</string>
+  <string name="dual_wifi_acceleration">Nopeutetaan</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Käytettävissä olevat apuverkot</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Käytettävissä olevat apuverkot (2,4 GHz:n kaista)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Käytettävissä olevat apuverkot (5 GHz:n kaista)</string>
+  <string name="dual_wifi_enabler_summary">Paranna Wi-Fin nopeutta yhdistämällä verkkoja</string>
   <string name="dual_wifi_off">Pois käytöstä</string>
   <string name="dual_wifi_on">Käytössä</string>
-  <string name="dual_wifi_primary_wifi_connected">Yhdistetty ensisijainen Wi-Fi</string>
-  <string name="dual_wifi_slave_wifi_connected">Yhdistetty toissijainen Wi-Fi</string>
-  <string name="dual_wifi_summary">Yhdistä ensisijaiseen Wi-Fi-verkkoon, ota toissijainen Wi-Fi käyttöön ja paranna verkon nopeutta.</string>
-  <string name="dual_wifi_switching_not_remind">Ei vinkkejä seuraavalla kerralla</string>
-  <string name="dual_wifi_switching_prompt">Wi-Fin vaihtamisen ilmoitus</string>
-  <string name="dual_wifi_switching_summary">Dual Wi-Fi vaatii erilaisia taajuuskaistoja, ja jos haluat muuttaa ensisijaisen Wi-Fin taajuuskaistaa, toissijainen Wi-Fi katkaistaan.</string>
+  <string name="dual_wifi_primary_wifi_connected">Pää Wi-Fi-verkko</string>
+  <string name="dual_wifi_slave_wifi_connected">Apu Wi-Fi-verkko</string>
+  <string name="dual_wifi_summary">Paranna Wi-Fin nopeutta yhdistämällä apuverkkoihin</string>
+  <string name="dual_wifi_switching_not_remind">Älä näytä uudelleen</string>
+  <string name="dual_wifi_switching_prompt">Vaihdetaan verkkojen välillä</string>
+  <string name="dual_wifi_switching_summary">Dual band Wi-Fi-nopeuttajan on käytettävä kahta eri Wi-Fi-kaistaa. Jos yhdistät toiseen pääverkkoon, yhteys apuverkkoon katkaistaan.</string>
   <string name="dump_log">Hae ongelmaan liittyvät lokit</string>
   <string name="dump_log_summary">"Tämä toiminto on luotu luomaan 284 lokin MIUI:n Alpha- ja Beta-versioissa. Käytä sitä varoen.
 Voit katsoa luotuja lokeja Tiedostohallinnassa."</string>
@@ -3686,7 +3688,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_range_header_prompt">Valitse päivämääräväli</string>
   <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
-  <string name="multi_network_acceleration_app_settings">Moniverkon nopeutettu sovellusten hallinta</string>
+  <string name="multi_network_acceleration_app_settings">Verkon kiihdytys sovelluksille</string>
   <string name="multi_touch_points_category_title">Moni-kosketuspisteet</string>
   <string name="multi_touch_points_preference">Tämä asetus tulee voimaan uudelleenkäynnistämisen jälkeen</string>
   <string name="music_app_unavailable">Varmista, että Mi Musiikki-sovellus on käytettävissä.</string>
@@ -6091,7 +6093,6 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="traffic_balance">Datan käyttötila</string>
   <string name="traffic_none">Ei mitään</string>
   <string name="transition_animation_scale_title">Siirtymä</string>
-  <string name="translation_contributors_title">Avustajat</string>
   <string name="trigger_carrier_provisioning">Ota operaattorin hallinta käyttöön</string>
   <string name="trust_agents_extend_unlock_summary">Kun tämä on käytössä, luotettavat tahot pitävät puhelimen avattuna pidempään mutta eivät voi enää avata lukittua laitetta.</string>
   <string name="trust_agents_extend_unlock_title">Luotettavat tahot vain pitävät avattuna</string>
@@ -6986,7 +6987,7 @@ Tutustu palveluntarjoajan tietosuojakäytäntöön."</string>
   <string name="wifi_metered_title">Verkon käyttö</string>
   <string name="wifi_modify">Muokkaa</string>
   <string name="wifi_more">Lisää</string>
-  <string name="wifi_multi_network_acceleration">Älykäs moniverkkoinen kiihdytys</string>
+  <string name="wifi_multi_network_acceleration">Älykäs verkon kiihdytys</string>
   <string name="wifi_multiple_cert_added">(Useita varmenteita lisätty)</string>
   <string name="wifi_network_prefix_length">Etuliitteen pituus</string>
   <string name="wifi_network_prefix_length_hint">24</string>

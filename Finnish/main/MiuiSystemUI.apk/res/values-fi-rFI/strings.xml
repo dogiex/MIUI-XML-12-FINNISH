@@ -197,6 +197,8 @@
      <string name="auto_disable_screenbuttons_disable_toast_text">Navigointipainikkeet pois käytöstä, tuplanapauta mitä tahansa painiketta ottaaksesi ne takaisin käyttöön.</string>
      <string name="auto_disable_screenbuttons_enable_toast_text">Navigointipainikkeet käytössä</string>
      <string name="back">Takaisin</string>
+     <string name="band_24G">" (2,4 GHz:n kaista)"</string>
+     <string name="band_5G">" (5 GHz:n kaista)"</string>
      <string name="battery">Akku</string>
      <string name="battery_can_use_time">Suunnilleen %s jäljellä</string>
      <string name="battery_detail_charging_summary">Virransäästö ei ole käytettävissä latauksen aikana</string>
