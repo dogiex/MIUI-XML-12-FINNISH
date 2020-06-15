@@ -16,12 +16,6 @@
   <string name="ai_button_title">AI-painike</string>
   <string name="album_introduction">Gallerian avulla voit hallita, optimoida ja muokata laitteellasi olevia kuvia ja videoita sekä synkronoida ne Xiaomi Cloudiin.</string>
   <string name="poco_agree_terms_other">(Mukaan lukien POCO Launcher Tietosuojakäytäntö ja Käyttöehdot)</string>
-  <string name="accessibility_enabled">Esteettömyys käytössä.</string>
-  <string name="agree">Hyväksy</string>
-  <string name="agree_and_next">Hyväksy</string>
-  <string name="agree_terms">Olen lukenut ja hyväksyn Käyttöehdot ja Tietosuojakäytännön.</string>
-  <string name="agree_terms_input_method_facemoji">Olen lukenut ja hyväksyn Facemojin Tietosuojakäytännön.</string>
-  <string name="agree_terms_input_method_kika">Olen lukenut ja hyväksyn Kika:n Tietosuojakäytännön.</string>
   <string name="app_name">Provision</string>
   <string name="application_package_introduction">Tämä sovellus sallii sinun asentaa kolmannenosapuolen sovelluksia, skannaa ne ennen asentamista ja anna suositukset sen jälkeen.</string>
   <string name="application_permissions">Sovelluksen käyttöoikeudet</string>
