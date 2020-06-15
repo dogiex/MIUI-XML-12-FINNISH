@@ -33,7 +33,6 @@
   <string name="back">Takaisin</string>
   <string name="calendar_sound">Tapahtumamuistutukset</string>
   <string name="calendar_tip">Tapahtumamuistutusten äänet toimivat kalenterimuistutuksille, muistioille ja tehtäville</string>
-  <string name="focus_time_exception_tip">Näyttää siltä, että järjestelmän aika muuttui. Poistettiin Keskittymistila käytöstä.</string>
   <string name="category_other">Muu</string>
   <string name="color_gamut">Väriavaruus</string>
   <string name="contrast_ratio">Kontrasti</string>
@@ -43,7 +42,7 @@
   <string name="created">Luotiin</string>
   <string name="created_successfully">Luotiin onnistuneesti</string>
   <string name="first_unlock_time">"Ensimmäinen avaaminen: "</string>
-  <string name="focus_time_exception_tip">Näyttää siltä, että järjestelmän aika on muuttunut. Keskittymistila on poistettu käytöstä.</string>
+  <string name="focus_time_exception_tip">Näyttää siltä, että järjestelmän aika muuttui. Poistettiin Keskittymistila käytöstä.</string>
   <string name="follow_sim1">Käytä SIM 1 -asetuksia</string>
   <string name="gamma">Gamma</string>
   <string name="healthy_use_phone">Hallitse ruutuaikaa</string>
