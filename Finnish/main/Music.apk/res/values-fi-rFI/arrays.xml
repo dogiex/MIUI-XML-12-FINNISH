@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>Sunnuntain suositukset</item>
+        <item>Maanantain suositukset</item>
+        <item>Tiistain suositukset</item>
+        <item>Keskiviikon suositukset</item>
+        <item>Torstain suositukset</item>
+        <item>Perjantain suositukset</item>
+        <item>Lauantain suositukset</item>
+    </string-array>
+</resources>

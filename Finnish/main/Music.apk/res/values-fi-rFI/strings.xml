@@ -153,6 +153,7 @@
   <string name="current_album">Nykyinen albumin kansikuva</string>
   <string name="current_lyric">Nykyinen sanoitus</string>
   <string name="current_version">Nykyinen versio</string>
+  <string name="daily_recommendation">Päivittäinen sekoitus</string>
   <string name="dark_mode">Tummatila</string>
   <string name="data_usage_warning">Datan käyttö</string>
   <string name="data_usage_warning_summary">Käyttämällä mobiilidatayhteyttä korkealaatuisen musiikin suoratoistoon saattaa nostaa datan käyttömaksuja.</string>
@@ -196,6 +197,10 @@
   <string name="dialog_renew_free_end">Ilmainen kokeilujaksosi on päättynyt. Tilataanko Hungama PRO?​</string>
   <string name="dialog_renew_positive_text">KYLLÄ, HALUAN ROKKAA KUIN AMMATTILAINEN</string>
   <string name="dialog_renew_success">Kiitos vahvistuksestasi</string>
+  <string name="dialog_score_btn_good">Arvostele</string>
+  <string name="dialog_score_prompt_bad">Kiitos palautteestasi! Teemme parhaamme parantaaksemme sovellustamme ja palveluitamme.</string>
+  <string name="dialog_score_prompt_good">Kiitos tuestasi! Arvostelisitko sovelluksemme Google Play -kaupassa myös?</string>
+  <string name="dialog_score_title">Arvostele sovelluksemme</string>
   <string name="dialog_song_sort_type">Lajittele</string>
   <string name="dialog_song_sort_type_name">Nimen mukaan</string>
   <string name="dialog_song_sort_type_playing_times">Soittokertojen mukaan</string>
@@ -213,6 +218,7 @@
   <string name="dialog_title_remove_tracks">Poista</string>
   <string name="disallow_add_to_fm">FM Radioon ei voi lisätä kappaleita</string>
   <string name="do_not_remind_this_version">Älä muistuta minua tästä versiosta</string>
+  <string name="do_not_support_google_voice_search">Googlen äänihaku ei ole tuettuna laitteellasi.</string>
   <string name="download">Lataa</string>
   <string name="download_added_to_list">Lisättiin latauslistalle</string>
   <string name="download_apk_desktop_installing">Asennetaan</string>
@@ -401,12 +407,14 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Vain PRO-jäsenet voi ladata useita kappaleita. Hankitaanko PRO-jäsenyys nys?</string>
-  <string name="hungama_category_chart">Suosituimmat listat</string>
+  <string name="hungama_batch_download_alert_summary_toast">Hanki tilaus ladataksesi koko soittolistan.</string>
+  <string name="hungama_category_chart">Listat</string>
   <string name="hungama_category_playlist">Soittolistat</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Videot</string>
   <string name="hungama_category_vip">Vip</string>
   <string name="hungama_free_download_out_summary">Et voi ladata enempää ilmaisia kappaleita. Hankitaanko PRO-jäsenyys ladataksesi rajattoman määrän kappaleita?</string>
+  <string name="hungama_free_download_out_summary_toast">Olet ladannut jo %d kappaletta. Hanki tilaus ladataksesi lisää.</string>
   <string name="hungama_playlist_category">Soittolistakategoria</string>
   <string name="hungama_privacy_desc">Hungaman Tietosuojakäytäntö (valinnainen)</string>
   <string name="hungama_privacy_tips_content">Käyttääksesi online-sisältöä, sinun täytyy hyväksyä Hungaman Tietosuojakäytäntö.</string>
@@ -505,6 +513,7 @@
   <string name="more_settings">Lisäasetukset</string>
   <string name="more_settings_summary">Nukkuma-ajastin, tiedostojen suodattaminen ja paljon muuta</string>
   <string name="more_share">Jaa</string>
+  <string name="more_splendid_contents">Lisää</string>
   <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
   <string name="mulit_choice_management">Hallinnoi useaa kohdetta</string>
   <string name="music_browser_label">Musiikki</string>
@@ -775,6 +784,7 @@ Ole onnellinen"</string>
   <string name="tab_album_list">Albumit</string>
   <string name="tab_artist">Artistit</string>
   <string name="tab_artist_list">Artistit</string>
+  <string name="tab_chart">Listat</string>
   <string name="tab_folder">Kansiot</string>
   <string name="tab_playlist">Soittolistat</string>
   <string name="tab_top_results">Parhaat tulokset</string>
@@ -861,4 +871,5 @@ Delta päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s päivitys!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Tallennustila ei käytettävissä, tarkista SD-kortti.</string>
   <string name="you_can_switch_mode_in_settings">Voit vaihtaa tilojen välillä Asetuksissa</string>
+  <string name="you_may_like">Saatat myös tykätä</string>
 </resources>

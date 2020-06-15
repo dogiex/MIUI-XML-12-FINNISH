@@ -1906,7 +1906,7 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="voicemail_provider">Palveluntarjoaja</string>
   <string name="voicemail_provider_summary">Valitse puhelinvastaajan palvelu</string>
   <string name="voicemail_set_pin_dialog_title">Aseta PIN-koodi.</string>
-  <string name="voicemail_settings">Asetukset</string>
+  <string name="voicemail_settings">Vastaajan määritys</string>
   <string name="voicemail_settings_number_hint">Anna puhelinvastaajan numero</string>
   <string name="voicemail_settings_number_label">Puhelinvastaajan numero</string>
   <string name="voicemail_settings_number_title">Puhelinvastaajan numero</string>
