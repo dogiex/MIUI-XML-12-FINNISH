@@ -563,7 +563,6 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_lying_title">Ilmoita nykyisestä suunnasta</string>
   <string name="pref_camera_magic_mirror_title">Taikapeili</string>
   <string name="pref_camera_manual_mode_title">Manuaalinen</string>
-  <string name="pref_camera_manually_exposure_value">EV</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ota MFNR käyttöön</string>
   <string name="pref_camera_movie_solid_title">Kuvanvakautus</string>
   <string name="pref_camera_multilevel_entry_high">Korkea</string>
