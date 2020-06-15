@@ -650,6 +650,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_video_duration_entry_120">Ei rajaa</string>
   <string name="pref_camera_video_duration_entry_30">30 minuuttia</string>
   <string name="pref_camera_video_duration_entry_mms">30 sekuntia (MMS)</string>
+  <string name="pref_camera_video_log_tips">LOKI</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Sulkija</string>
   <string name="pref_camera_volumekey_function_entry_timer">Sulkijan laskenta</string>
   <string name="pref_camera_volumekey_function_entry_volume">Äänenvoimakkuus</string>

@@ -1693,6 +1693,16 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="sip_system_decide">Automaattinen</string>
   <string name="smart_divert_summary">CFNRc asetukset</string>
   <string name="smart_divert_title">Smart-Divert</string>
+  <string name="smart_forwarding_settings_menu">Älykäs soitonsiirto</string>
+  <string name="smart_forwarding_settings_menu_summary">Kun yksi numero ei ole tavoitettavissa, siirrä aina puhelut toiseen numeroosi</string>
+  <string name="sms_messages_title">Tekstiviesti</string>
+  <string name="smsc_dialog_message">Varmista, että syöttämäsi numero on oikein. Muuten et voi lähettää etkä vastaanottaa tekstiviestejä. Vahvista SMSC-numerosi ottamalla yhteyttä operaattoriisi.</string>
+  <string name="speed_label_fast">Nopea</string>
+  <string name="speed_label_medium">Keskiverto</string>
+  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_slow">Hidas</string>
+  <string name="speed_label_very_fast">Hyvin nopea</string>
+  <string name="speed_label_very_slow">Hyvin hidas</string>
   <string name="sports_news_settings">Urheilu-uutiset</string>
   <string name="srvcc_message">4G-äänipuhelu alennettiin 2G/3G-äänipuheluksi, koska 4G-verkko ei ole käytettävissä.</string>
   <string name="srvcc_video_message">Videopuhelu alennettiin 2G/3G-äänipuheluksi, koska 4G-verkko ei ole käytettävissä.</string>

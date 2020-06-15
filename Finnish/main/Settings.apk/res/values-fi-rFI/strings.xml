@@ -1124,6 +1124,12 @@ Kanavatila"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth-äänen LDAC-koodekki: Toiston laatu</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Valitse Bluetooth-äänen LDAC-koodekki:
 Toiston laatu"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth-äänen LHDC-koodekki: Viive</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Valitse Bluetooth-äänen LHDC-koodekki:
+Viive"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth-äänen LHDC-koodekki: Toiston laatu</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Valitse Bluetooth-äänen LHDC-koodekki:
+Toiston laatu"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth-ääninäytteen siirtonopeus</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Valitse Bluetooth-äänen koodekki:
 Siirtonopeus"</string>
@@ -1256,6 +1262,14 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="bt_ldac_open_dialog_title">Otetaanko LDAC käyttöön?</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Ominaisuudet</string>
+  <string name="bt_lhdc_declaration">Kun Bluetooth-laite tukee LHDC:tä, se yhdistetään oletuksena. LHDC tarjoaa korkean äänenlaadun kokemuksen, mutta se lisää virrankulutusta. Toiston aikana saattaa ilmetä ongelmia Bluetooth-laitteistorajoitusten takia.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC tarjoaa korkean äänenlaadun kokemuksen, mutta se lisää virrankulutusta.
+Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
+  <string name="bt_lhdc_dialog_title">Nykyinen laite tukee LHDC:tä, joka yhdistettiin oletuksena:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC tarjoaa korkean äänenlaadun kokemuksen, mutta se lisää virrankulutusta. Toiston aikana saattaa ilmetä ongelmia Bluetooth-laitteistorajoitusten takia.</string>
+  <string name="bt_lhdc_open_dialog_title">Otetaanko LHDC käyttöön?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Ominaisuudet</string>
   <string name="bt_pre_summary">Tarjoaa korkean äänenlaadun kokemuksen</string>
   <string name="bt_rarely_used_device_title">Harvoin käytetyt laitteet (%d)</string>
   <string name="bt_trace_log">Bluetooth jäljitysloki</string>
@@ -3754,7 +3768,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="netcheck_title">Verkkodiagnostiikat</string>
   <string name="network_4G">4G (suositus)</string>
   <string name="network_alarm">Älä mykistä internet-puheluita</string>
-  <string name="network_alarm_summary">Huomautus: Jotkut sovellukset eivät ole yhteensopivia tämän toiminnon kanssa. %1$s.</string>
+  <string name="network_alarm_summary">Huomaa: Jotkut sovellukset eivät ole yhteensopivia tämän toiminnon kanssa. %1$s.</string>
   <string name="network_alarm_summary_reg">Näytä tuetut sovellukset</string>
   <string name="network_alarm_support_apps">Tuetut sovellukset</string>
   <string name="network_assistant">Datan käyttö</string>
@@ -6961,7 +6975,7 @@ Tutustu palveluntarjoajan tietosuojakäytäntöön."</string>
   <string name="wifi_network_prefix_length">Etuliitteen pituus</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_domain_warning">Määritä verkkotunnus.</string>
-  <string name="wifi_no_internet">Ei internetyhteyttä</string>
+  <string name="wifi_no_internet">Internetyhteyttä ei voi muodostaa</string>
   <string name="wifi_no_internet_no_reconnect">Yhteyttä ei muodosteta automaattisesti</string>
   <string name="wifi_not_in_range">Ei kantoalueella</string>
   <string name="wifi_not_in_range_message">Verkko ei ole kantoalueella</string>
@@ -7206,6 +7220,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "<b>Takaisin</b>.</string>
   <string name="write_system_settings">Muokkaa järjestelmäasetuksia</string>
   <string name="wrong_pin_code_pukked">Virheellinen SIM-kortin PIN-koodi. Sinun on nyt otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</string>
   <string name="xiaomi_account">Mi-tili</string>
+  <string name="xiaomi_cloud_find_device">Etsi laite</string>
   <string name="xiaomi_cloud_service">Xiaomi Pilvi</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Pilvi synkronoi kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>

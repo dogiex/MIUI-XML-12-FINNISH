@@ -2,8 +2,17 @@
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Tallennetaan…</string>
-  <string name="motion_photo_re_pick_title">Valitse paras kuva</string>
+  <string name="motion_photo_cancel">Peruuta</string>
+  <string name="motion_photo_re_pick_title">Live-kuva</string>
+  <string name="motion_photo_save_fail">Ei voitu tallentaa</string>
+  <string name="motion_photo_save_gif">Tallenna GIF</string>
+  <string name="motion_photo_save_gif_ing">Tallennetaan GIF…</string>
+  <string name="motion_photo_save_image">Tallenna paras kuva</string>
+  <string name="motion_photo_save_image_ing">Tallennetaan parasta kuvaa…</string>
+  <string name="motion_photo_save_video">Tallenna videona</string>
+  <string name="motion_photo_save_video_ing">Tallennetaan videota…</string>
   <string name="motion_photo_toast_default">Oletus</string>
+  <string name="motion_photo_toast_long_press_play">Paina ja pidä kuvaa pohjassa toistaaksesi</string>
   <string name="motion_photo_toast_suggest">Suositus</string>
   <string name="refocus_discard_confirm_message">Tallennetaanko muutokset?</string>
   <string name="refocus_discard_negative_btn">Hylkää</string>

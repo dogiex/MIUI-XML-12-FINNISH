@@ -857,6 +857,7 @@
      <string name="quick_settings_screenshot_label">Kuvakaappaus</string>
      <string name="quick_settings_secondary_label_until">%s asti</string>
      <string name="quick_settings_settings_label">Asetukset</string>
+     <string name="quick_settings_sim_disabled">(Pois käytöstä)</string>
      <string name="quick_settings_sync_label">Synkronointi</string>
      <string name="quick_settings_tethering_label">Tethering</string>
      <string name="quick_settings_time_label">Aika</string>
@@ -1985,7 +1986,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="wifi_display_certification">Langattoman näytön sertifiointi</string>
   <string name="wifi_display_certification_summary">Näytä langattoman näytön sertifiointiin liittyvät asetukset</string>
   <string name="wifi_fail_to_scan">Verkkoja ei voi etsiä.</string>
-  <string name="wifi_no_internet">Ei internetyhteyttä</string>
+  <string name="wifi_no_internet">Internetyhteyttä ei voi muodostaa</string>
   <string name="wifi_no_internet_no_reconnect">Yhteyttä ei muodosteta automaattisesti</string>
   <string name="wifi_not_in_range">Ei kantoalueella</string>
   <string name="wifi_remembered">Tallennettu</string>

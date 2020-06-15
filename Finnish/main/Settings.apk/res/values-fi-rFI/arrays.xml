@@ -295,6 +295,28 @@
         <item>Optimoi yhteyden laatu (330 kb/s / 303 kb/s)</item>
         <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Lyhyt viive</item>
+        <item>Keskimääräinen viive</item>
+        <item>Pitkä viive</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Lyhyt viive (50~100ms)</item>
+        <item>Keskimääräinen viive (150~200ms)</item>
+        <item>Pitkä viive (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimoitu yhteyden laatuun</item>
+        <item>Tasapainoinen äänen ja yhteyden laatu</item>
+        <item>Optimoitu äänenlaatuun</item>
+        <item>Paras yritys (Automaattinen bittinopeus)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimoitu yhteyden laatuun (400kbps)</item>
+        <item>Tasapainoinen äänen ja yhteyden laatu (500/560kbps)</item>
+        <item>Optimoitu äänenlaatuun (900kbps)</item>
+        <item>Paras yritys (Automaattinen bittinopeus)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>44,1 kHz</item>
@@ -313,10 +335,11 @@
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ ääni</item>
+        <item>Qualcomm® aptX™ HD-ääni</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
+        <item>LHDC</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
@@ -324,10 +347,11 @@
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ ääni</item>
+        <item>Qualcomm® aptX™ HD-ääni</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
+        <item>LHDC</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
