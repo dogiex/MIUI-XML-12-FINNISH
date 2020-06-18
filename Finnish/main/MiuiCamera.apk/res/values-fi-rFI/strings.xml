@@ -121,6 +121,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="camera_liveshot_on_tip">Dynaamiset otokset</string>
   <string name="camera_mode_options">Tilat</string>
   <string name="camera_setting">Kamera-asetukset</string>
+  <string name="camera_settings_category_development">Kokeelliset toiminnot</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Nopean kuvan tila</string>
   <string name="camera_snap_mode_title_detail">Näytä tiedot napauttamalla</string>
@@ -450,7 +451,6 @@ kuvasi taustan"</string>
   <string name="portrait_mode_use_hint">"Muotokuvatila sumentamaan taustan
 ja tuo henkilöt esiin."</string>
   <string name="pref_960_watermark_title">960FPS vesileima</string>
-  <string name="pref_advance_settings">Lisäasetukset</string>
   <string name="pref_ai_detect">AI tunnistus</string>
   <string name="pref_audio_focus_entry_front">Etu</string>
   <string name="pref_audio_focus_entry_general">Normaali</string>
@@ -501,6 +501,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_coloreffect_entry_vsco_a4">Analoginen</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Matta</string>
   <string name="pref_camera_coloreffect_title">Suodattimet</string>
+  <string name="pref_camera_common_settings">Yleiset asetukset</string>
   <string name="pref_camera_contrast_title">Kontrasti</string>
   <string name="pref_camera_delay_capture_entry_10s">10s viive</string>
   <string name="pref_camera_delay_capture_entry_3s">3s viive</string>
@@ -511,6 +512,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_dual_enable_title">Ota kaksoiskamera käyttöön</string>
   <string name="pref_camera_dual_sat_enable_title">Ota kaksois SAT kamera käyttöön</string>
   <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
+  <string name="pref_camera_exposuretime_entry_auto_abbr">AUTO</string>
   <string name="pref_camera_face_info_watermark_title">Lisää ikäleima kuvaan</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Piilota kasvojentunnistuksen kehys automaattisesti</string>
   <string name="pref_camera_facedetection_title">Kasvojentunnistus</string>
@@ -523,7 +525,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_focus_shoot_summary">Tarkenna napauttamalla, ota kuva napauttamalla uudelleen.</string>
   <string name="pref_camera_focus_shoot_title">Tarkenna &amp; ota kuva</string>
   <string name="pref_camera_focusmode_entry_auto">AUTO</string>
-  <string name="pref_camera_focusmode_entry_infinity">Infinity</string>
+  <string name="pref_camera_focusmode_entry_auto_abbr">AUTO</string>
+  <string name="pref_camera_focusmode_entry_infinity">Äärettömyys</string>
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_manual">Manuaalinen</string>
   <string name="pref_camera_focusmode_entry_normal">Normaali</string>
@@ -544,6 +547,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_histogram_entry_disable">Poista käytöstä</string>
   <string name="pref_camera_histogram_entry_enable">Ota käyttöön</string>
   <string name="pref_camera_iso_entry_auto">AUTO</string>
+  <string name="pref_camera_iso_entry_auto_abbr">AUTO</string>
   <string name="pref_camera_iso_title">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Korkea</string>
   <string name="pref_camera_jpegquality_entry_low">Matala</string>
@@ -581,7 +585,6 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_peak_entry_off">Pois käytöstä</string>
   <string name="pref_camera_peak_entry_on">Käytössä</string>
   <string name="pref_camera_peak_title">Tarkennuksen huippu</string>
-  <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö</string>
   <string name="pref_camera_picturesize_entry_standard">Normaali 4:3</string>
@@ -592,6 +595,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Kaunistus Muotokuvatilassa</string>
   <string name="pref_camera_proximity_lock_summary">Lukitse kosketuseleet, kun laitetaan taskuun</string>
   <string name="pref_camera_proximity_lock_title">Taskutila</string>
+  <string name="pref_camera_quick_settings">Pika-asetukset</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Ota nopean kuvan animaatio käyttöön</string>
   <string name="pref_camera_quick_shot_enable_title">Ota nopea kuva käyttöön</string>
   <string name="pref_camera_recordlocation_entry_off">Pois käytöstä</string>
@@ -665,15 +669,23 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_whitebalance_entry_manual">Manuaalinen</string>
   <string name="pref_camera_whitebalance_entry_measure">Mittaa</string>
   <string name="pref_camera_whitebalance_title">WB</string>
+  <string name="pref_camera_whitebalance_title_abbr">WB</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">HEIKKO VALAISTUS</string>
-  <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
+  <string name="pref_camera_zoom_mode_entry_macro">MAKRO</string>
+  <string name="pref_camera_zoom_mode_entry_macro_abbr">MAKRO</string>
   <string name="pref_camera_zoom_mode_entry_standard">TAVALLINEN</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">TELE 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">TELE 5X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_abbr">TELE</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRALAAJA</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">UW</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
+  <string name="pref_camera_zoom_mode_entry_wide_abbr">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>
+  <string name="pref_camera_zoom_mode_title_abbr">LINSSI</string>
   <string name="pref_camera_zsl_entry_off">Pois käytöstä</string>
   <string name="pref_camera_zsl_entry_on">Käytössä</string>
   <string name="pref_capture_settings">Kamera</string>
@@ -691,12 +703,14 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_lens_dirty_detect_summary">Vastaanota ilmoitus, kun linssi on likainen</string>
   <string name="pref_lens_dirty_detect_title">Ilmoita likaisesta linssistä</string>
   <string name="pref_manual_exposure_title">S</string>
+  <string name="pref_manual_exposure_title_abbr">S</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_photo_assistance_tips_off">Pois käytöstä</string>
   <string name="pref_photo_assistance_tips_on">Käytössä</string>
   <string name="pref_popup_camera_title">Ponnahduskamera</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">F</string>
+  <string name="pref_qc_focus_position_title_abbr">AF</string>
   <string name="pref_retain_camera_mode_summary">Vaihda kamera edelliseen käytettyyn tilaan, kun avaat sovelluksen.</string>
   <string name="pref_retain_camera_mode_title">Tallenna edellinen tila</string>
   <string name="pref_scan_qrcode_summary">Vain takakamera voi lukea QR-koodeja \"Valokuva\" -tilassa.</string>

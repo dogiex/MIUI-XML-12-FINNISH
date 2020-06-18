@@ -23,6 +23,10 @@
         <item quantity="other">Valittuna %s kohdetta</item>
         <item quantity="one">Valittuna %s kohde</item>
     </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Lisättiin %d puhelinnumeroa</item>
+        <item quantity="one">Lisättiin %d puhelinnumero</item>
+    </plurals>
         <plurals name="hours_ago">
         <item quantity="other">%1$d t sitten</item>
     </plurals>

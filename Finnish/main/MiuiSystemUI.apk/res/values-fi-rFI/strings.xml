@@ -862,7 +862,7 @@
      <string name="quick_settings_screenshot_label">Kuvakaappaus</string>
      <string name="quick_settings_secondary_label_until">%s asti</string>
      <string name="quick_settings_settings_label">Asetukset</string>
-     <string name="quick_settings_sim_disabled">(Pois käytöstä)</string>
+     <string name="quick_settings_sim_disabled">" (Pois käytöstä)"</string>
      <string name="quick_settings_sync_label">Synkronointi</string>
      <string name="quick_settings_tethering_label">Tethering</string>
      <string name="quick_settings_time_label">Aika</string>
@@ -897,7 +897,9 @@
      <string name="save">Tallenna</string>
      <string name="screenshot_failed_title">Kuvakaappausta ei voitu ottaa.</string>
      <string name="screenshot_failed_to_capture_text">Sovellus tai organisaatio ei salli kuvakaappauksen ottamista</string>
+     <string name="screenshot_failed_to_capture_title">Tämä sovellus ei salli kuvakaappauksien ottamista</string>
      <string name="screenshot_failed_to_save_text">Kuvakaappausta ei voi tallentaa rajoitetun tallennustilan takia.</string>
+     <string name="screenshot_failed_to_save_title">Tallennustilaa ei ole riittävästi uusille kuvakaappauksille</string>
      <string name="screenshot_failed_to_save_unknown_text">Kuvakaappauksen tallentamisen aikana tapahtui virhe.</string>
      <string name="search_menu_title">Haku</string>
      <string name="show_battery_percentage">Näytä upotetun akun prosenttiosuus</string>

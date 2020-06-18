@@ -557,7 +557,9 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="applications_settings_header">Sovellusasetukset</string>
   <string name="applications_settings_summary">Hallinnoi sovelluksia, ota käyttöön pikakuvakkeita</string>
   <string name="applications_settings_title">Sovellukset</string>
-  <string name="apply_fingerprint_to_category_title">Käytä sormenjälkeä…</string>
+  <string name="apply">Aseta</string>
+  <string name="apply_fingerprint_to">Käytä sormenjälkiä</string>
+  <string name="apply_fingerprint_to_category_title">Käytä sormenjälkiä…</string>
   <string name="apply_now_button_text">Päivitä</string>
   <string name="apply_password_to_category_title">Vaadi lukituksen poisto</string>
   <string name="apply_update_fail">Päivitys epäonnistui</string>
@@ -2271,6 +2273,7 @@ Tämä auttaa suojaamaan laitteella olevia tietoja, jos laite katoaa tai varaste
   <string name="enhanced_4g_lte_mode_title">VoLTE</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">4G-puhelut</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Puhelujen lisävaihtoehdot</string>
+  <string name="enrol_fingerprint_data">Lisää sormenjälki</string>
   <string name="enter_password">Käynnistä Android kirjoittamalla salasana</string>
   <string name="enter_pattern">Käynnistä Android piirtämällä kuvio</string>
   <string name="enter_pin">Käynnistä Android kirjoittamalla PIN-koodi</string>
@@ -3019,6 +3022,13 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="lights_title">LED-valo</string>
   <string name="line_breaking_summary">Optimoi kappaleen rivinväli</string>
   <string name="line_breaking_title">Optimoi teksti</string>
+  <string name="link_turbo_prompt">Tämän sivun tilastotiedot osoittavat vain tietomäärän, jota käytetään Wi-Fi-yhteyden nopeuden lisäämiseen. Nämä tilastot eivät kuvaa todellista mobiilidatan käyttöä.</string>
+  <string name="link_turbo_settings_all_app_display_loading">Odota hetki…</string>
+  <string name="link_turbo_settings_all_app_reach_max">Voit valita enintään 15 sovellusta</string>
+  <string name="link_turbo_usage_state_month">Tässä kuussa</string>
+  <string name="link_turbo_usage_state_month_total">Tässä kuussa</string>
+  <string name="link_turbo_usage_state_today">Tänään</string>
+  <string name="link_turbo_usage_state_today_total">Tänään</string>
   <string name="list_bg_header_text">Jos rajoitat taustayhteyttä, uudet sovellukset ei voi yhdistää internetiin taustalla niiden asentamisen jälkeen. Sovellukset ei välttämättä voi enää vastaanottaa viestejä tai ladata sisältöä tämän jälkeen.</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="live_caption_summary">Tekstitä media automaattisesti.</string>
@@ -3374,6 +3384,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
   <string name="max_fingerprint_number_reached">Sormenjälkiä ei voi lisätä viittä enempää. Poista jo olemassa olevia sormenjälkiä, jos haluat lisätä uuden.</string>
+  <string name="max_fingerprint_reached_toast">Voit lisätä enintään viisi sormenjälkeä</string>
   <string name="maximum_memory_use">Muistin enimmäiskäyttö</string>
   <string name="media_button">Media-painike</string>
   <string name="media_category">Media</string>
@@ -5901,8 +5912,10 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suggestions_title">Ehdotukset</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_range_verbal_combination">%1$s–%2$s</string>
-  <string name="supl_not_set">Ei asetettu</string>
+  <string name="summary_range_verbal_combination">%1$s – %2$s</string>
+  <string name="sunlight_mode">Auringonvalotila</string>
+  <string name="sunlight_mode_summary">Säädä kirkkaus voimakkaan ympäristön valon mukaan, kun automaattinen kirkkaus ei ole käytössä</string>
+  <string name="supl_not_set">&lt;Ei asetettu&gt;</string>
   <string name="supplicant_state_label">Anojan tila:</string>
   <string name="support_account_picker_add_account">Lisää tili</string>
   <string name="support_account_request_prefix">Pyytäjä</string>
@@ -6971,6 +6984,13 @@ Tutustu palveluntarjoajan tietosuojakäytäntöön."</string>
   <string name="wifi_ip_settings_menu_save">Tallenna</string>
   <string name="wifi_limit_optimizations_summary">Rajoita Wi-Fin akun käyttöä</string>
   <string name="wifi_limited_connection">Rajallinen yhteys</string>
+  <string name="wifi_link_turbo">Käytä mobiilidataa nopeuttamiseen</string>
+  <string name="wifi_link_turbo_app_settings_summary">Valitse tätä toimintoa käyttävät sovellukset</string>
+  <string name="wifi_link_turbo_app_settings_title">Valitse sovellukset</string>
+  <string name="wifi_link_turbo_no_app">Täällä ei ole vielä sovelluksia.</string>
+  <string name="wifi_link_turbo_off">Pois käytöstä</string>
+  <string name="wifi_link_turbo_on">Käytössä</string>
+  <string name="wifi_link_turbo_summary">Paranna yhteysnopeutta valituille sovelluksille käyttäen mobiilidataa, kun Wi-Fi-yhteys on heikko</string>
   <string name="wifi_menu_advanced">Lisäasetukset</string>
   <string name="wifi_menu_configure">Määritä</string>
   <string name="wifi_menu_connect">Yhdistä verkkoon</string>
