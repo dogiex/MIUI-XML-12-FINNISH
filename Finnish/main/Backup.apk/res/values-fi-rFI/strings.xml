@@ -282,7 +282,7 @@ http://www.miliao.com
 	<string name="local_main_backup_manager_title">Hallinnoi varmuuskopioita</string>
 	<string name="local_main_backup_settings">Paikallisen varmuuskopion asetukset</string>
 	<string name="local_main_backup_time">Uusin varmuuskopio: %1$s</string>
-	<string name="local_main_date_format">d.M.yyyy H:mm</string>
+	<string name="local_main_date_format">d.M.yyyy H.mm</string>
 	<string name="local_main_encrypt_backup_summary">Salaa varmuuskopioitavat kohteesi käyttäen Mi-tiliäsi</string>
 	<string name="local_main_encrypt_backup_title">Salaa varmuuskopiot</string>
 	<string name="local_main_latest_backup_time_loading">Odota hetki…</string>

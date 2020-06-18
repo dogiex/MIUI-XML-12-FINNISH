@@ -472,7 +472,7 @@
      <string name="keyguard_charging_back_to_lockscreen">Takaisin Lukitusnäytölle</string>
      <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Kuluttanut</string>
-     <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
+     <string name="keyguard_charging_info_last_charge_time">d.M. H.mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Tänään %s</string>
      <string name="keyguard_charging_info_last_charge_yesterday_time">Eilen %s</string>
      <string name="keyguard_charging_info_last_charged_time_text">Edellinen lataus</string>
@@ -924,8 +924,8 @@
      <string name="status_bar_clear_all_button">Tyhjennä</string>
      <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_format_12">"EEEE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_time_format">"H:mm d.  MMMM'ta'"</string>
-     <string name="status_bar_clock_date_time_format_12">"h:mm aa d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format">"H.mm d.  MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format_12">"h.mm aa d. MMMM'ta'"</string>
      <string name="status_bar_date_format">"EEEE
      d. MMMM'ta'"</string>
      <string name="status_bar_date_format_12">"EEEE

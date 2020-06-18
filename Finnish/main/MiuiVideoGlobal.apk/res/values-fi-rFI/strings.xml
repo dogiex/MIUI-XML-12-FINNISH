@@ -890,7 +890,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="srl_header_refreshing">Refreshing…</string>
     <string name="srl_header_release">Release To Refresh</string>
     <string name="srl_header_secondary">Release To Second Floor</string>
-    <string name="srl_header_update">"'Päivitetty viimeksi' d.M. H:mm"</string>
+    <string name="srl_header_update">"'Päivitetty viimeksi' d.M. H.mm"</string>
     <string name="storage_external_sdcard">SD-kortti</string>
     <string name="storage_internal_sdcard">Sisäinen tallennustila</string>
     <string name="storage_permission_denied">Tallennustilan käyttö estettiin</string>
