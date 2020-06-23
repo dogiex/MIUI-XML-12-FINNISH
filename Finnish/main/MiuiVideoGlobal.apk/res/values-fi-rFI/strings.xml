@@ -86,7 +86,6 @@
     <string name="alert_dialog_download_progress">"Ladataan sovellusta: "</string>
     <string name="all">Näytä kaikki</string>
     <string name="app_name">Mi Video</string>
-    <string name="app_name_hungama">Hungama Toisto</string>
     <string name="auth_fail_warning">Istunto vanhentui. Kirjaudu sisään uudelleen.</string>
     <string name="auto_play_next_off">Automaattinen toisto pois käytöstä</string>
     <string name="auto_play_next_on">Automaattinen toisto käytössä</string>
@@ -148,6 +147,27 @@
     <string name="com_mixpanel_android_notification_image">Kuvaa ei näytetä</string>
     <string name="com_permission_desc">Mi Video ei voi käyttää laitteesi videoita. Salli käyttö Asetuksissa.</string>
     <string name="com_permission_title">Käyttöoikeuksia vaaditaan</string>
+    <string name="comment_model_add_comment">Lisää kommentti</string>
+    <string name="comment_model_bg_add_comment">Jaa ajatuksesi yhteisömme kanssa</string>
+    <string name="comment_model_bg_deleted_comment">Tämä kommentti poistettiin</string>
+    <string name="comment_model_comment">Kommentit</string>
+    <string name="comment_model_confirm_delete">Poistetaanko kommentti nyt?</string>
+    <string name="comment_model_copy">Kopioi</string>
+    <string name="comment_model_copy_fail">Ei voitu kopioida</string>
+    <string name="comment_model_copy_success">Kopioitiin onnistuneesti</string>
+    <string name="comment_model_delete">Poista</string>
+    <string name="comment_model_delete_fail">Ei voitu poistaa</string>
+    <string name="comment_model_delete_success">Poistettiin onnistuneesti</string>
+    <string name="comment_model_reply">Vastaukset</string>
+    <string name="comment_model_reply_comment">"Vastaa henkilölle %s: "</string>
+    <string name="comment_model_report">Ilmoita</string>
+    <string name="comment_model_report_fail">Ei voitu ilmoittaa</string>
+    <string name="comment_model_report_success">Ilmoitettiin onnistuneesti</string>
+    <string name="comment_model_send_fail">Ei voitu lähettää</string>
+    <string name="comment_model_send_fail_frequently">Ei niin nopeasti! Odota minuutti tai kaksi ja yritä uudelleen.</string>
+    <string name="comment_model_send_forbid_desc">Julkaisemasi useat kommentit sisältävät asioita, jotka rikkovat yhteisömme normeja. Tilisi on nyt jäädytetty pysyvästi. Voit valittaa päätöksestämme sovelluksen sisäisellä palautteella.</string>
+    <string name="comment_model_send_forbid_tips">Tili jäädytetty</string>
+    <string name="comment_model_send_success">Lähetettiin onnistuneesti</string>
     <string name="common_cancel">Peruuta</string>
     <string name="common_google_play_services_enable_button">Ota käyttöön</string>
     <string name="common_google_play_services_enable_text">%1$s ei toimi ennen kuin otat Google Play palvelut käyttöön.</string>
@@ -180,7 +200,7 @@
   <string name="diagnosis_log_sent_format">"Lokit lähetettiin onnistuneesti.
 ID:%s
 Lähetä tämä koodi valvojalle."</string>
-    <string name="dialog_privacy_info_new2">Käyttääksesi palveluita, sinun täytyy hyväksyä, että %1$s kerää, käsittelee ja käyttää henkilötietojasi. Sinun oletetaan lukeneen ja hyväksyneen meidän Tietosuojakäytännön, kun napautat alapuolella olevaa \"Hyväksyn\" -painiketta.</string>
+    <string name="dialog_privacy_info_new2">Käyttääksesi palveluita, sinun täytyy hyväksyä, että %1$s kerää, käsittelee ja käyttää henkilötietojasi. Sinun oletetaan lukeneen ja hyväksyneen meidän &lt;a href=\"%2$s\"&gt;Tietosuojakäytännön&lt;/a&gt;, kun napautat alapuolella olevaa \"Hyväksyn\"-painiketta.</string>
     <string name="dialog_privacy_title">Valtuuttaminen</string>
     <string name="dialog_revoke_privacy_info_new2">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimiltamme. Tämä tekee sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta?</string>
     <string name="dialog_revoke_privacy_title">Valtuutuksen peruuttaminen</string>
@@ -188,23 +208,8 @@ Lähetä tämä koodi valvojalle."</string>
     <string name="do_not_show_again">Älä näytä uudelleen</string>
     <string name="empty_channels">Hallinnoi kanavoita</string>
     <string name="empty_subscribe">Et tilaa vielä mitään.</string>
-    <string name="enable_background_audio">Toista taustalla</string>
-    <string name="error_drm_not_supported">Suojattu sisältö ei ole tuettuna alle 18 API-tasoilla</string>
-    <string name="error_drm_unknown">Tapahtui tuntematon DRM-virhe</string>
-    <string name="error_drm_unsupported_scheme">Tämä laite ei tue vaadittua DRM-järjestelmää</string>
     <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo liitettynä toiseen Mi-tiliin.</string>
     <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on virheellinen.</string>
-    <string name="error_mg_content_not_available">Tämä sisältö ei ole saatavilla maassasi.</string>
-    <string name="error_mg_no_content">Tälle elokuvalle ei ole sisältöä saatavilla. Yritä myöhemmin uudelleen</string>
-    <string name="error_mg_no_content_for_tv">Tälle TV-sarjalle ei ole sisältöä saatavilla. Yritä myöhemmin uudelleen</string>
-    <string name="error_msg_invalid_url">Virheellinen URL-osoite. Yritä myöhemmin uudelleen</string>
-    <string name="error_msg_no_network">Verkkoyhteyttä ei havaittu. Varmista, että olet yhteydessä verkkoon ja yritä uudelleen.</string>
-    <string name="error_msg_server_error">Palvelin ei ole saatavilla tällä hetkellä. Yritä myöhemmin uudelleen.</string>
-    <string name="error_msg_socket_timeout">Yhteyden aikakatkaisu. Yritä myöhemmin uudelleen</string>
-    <string name="error_msg_video_play_time_out">Pahoittelut, emme voi toistaa tätä videota tällä hetkellä. Yritä myöhemmin uudelleen.</string>
-    <string name="error_msg_video_play_time_out_title">Aikakatkaisu</string>
-    <string name="error_no_content">Sisältöä ei ole saatavilla.</string>
-    <string name="error_title">Tietoja</string>
     <string name="exceed_binded_phone_times_notice">Tämä puhelinnumero on jo liitettynä toiseen Mi-tiliin.</string>
     <string name="exit">Poistu</string>
     <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
@@ -249,6 +254,7 @@ Lähetä tämä koodi valvojalle."</string>
     <string name="favorite_cancel_success">Poistettiin suosikeista onnistuneesti</string>
     <string name="favorite_fail">Suosikkeihin ei voitu lisätä. Yritä uudelleen.</string>
     <string name="favorite_success">Lisättiin suosikkeihin onnistuneesti</string>
+    <string name="fcm_fallback_notification_channel_label">Sekalainen</string>
     <string name="feedback">Palaute</string>
     <string name="feedback_activity_title">Palaute</string>
     <string name="feedback_contact_empty">Syötä yhteystietosi</string>
@@ -308,7 +314,6 @@ Lähetä tämä koodi valvojalle."</string>
     <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeron enintään kolmelle Mi-tilille. Uusia tilejä ei voi lisätä.</string>
     <string name="get_phone_verifycode_exceed_limit">Liian monta vahvistuskoodia on lähetetty tähän numeroon. Odota 24 tuntia ja yritä uudelleen.</string>
     <string name="goto_sign_up">Luo tili</string>
-    <string name="grant_write_settings_permission">Salli tämä käyttöoikeus hallitaksesi soittimen kirkkautta</string>
     <string name="have_learned">Selvä</string>
     <string name="hidden_channels">Seuraavia kanavia ei näytetä Aloitussivulla.</string>
     <string name="hide">Piilota</string>
@@ -331,18 +336,9 @@ videoille"</string>
     <string name="language_setting_tips">Valitse kieliasetukset saadaksesi osuvampia sisältösuosituksia. Voit vaihtaa kieliasetuksesi Profiili &gt; Kieli.</string>
     <string name="language_setting_tips_dialog">Voit valita kieliasetukset sisällölle Tili &gt; Kieli.</string>
     <string name="later">Myöhemmin</string>
-    <string name="lbl_connection_failed_alert_title">Yhteys epäonnistui</string>
-    <string name="lbl_player_local_video_deleted_alert_dialog_text">Tätä videota ei voi toistaa.</string>
-    <string name="lbl_player_no_network">Verkkoyhteyttä ei tunnistettu. Varmista, että olet yhteydessä verkkoon ja yritä uudelleen.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">Pahoittelut, pyyntöäsi ei voi suorittaa tällä hetkellä. Yritä myöhemmin uudelleen.</string>
-    <string name="lbl_setting_playback_streaming_auto">Auto</string>
-    <string name="lbl_url_alert">Tietoja</string>
     <string name="loading">Odota hetki…</string>
-    <string name="logging_normal">Normaali</string>
-    <string name="logging_verbose">Jaaritteleva</string>
     <string name="login">Kirjaudu sisään</string>
     <string name="login_tip">Kirjaudu sisään, jotta voit vastaanottaa vastauksemme palautteeseesi.</string>
-    <string name="login_type">Mi Video SDK</string>
     <string name="logout">Kirjaudu ulos</string>
     <string name="logout_account">Kirjaudu ulos</string>
     <string name="lp_base_folder">SD-kortti</string>
@@ -437,8 +433,7 @@ videoille"</string>
     <string name="lv_subtitle_onlinesub_loading">Ladataan tekstityksiä…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Ladataan tekstityksiä…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Vastuuvapauslauseke</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">"Hanki tekstityksiä osoitteesta opensubtitles.org
-Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Hanki tekstityksiä &lt;br/&gt;&lt;br/&gt;osoitteesta &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Kaikki online-tekstitykset tarjoaa &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Tekstityksiä ei voitu lisätä</string>
     <string name="lv_subtitle_onlinesub_save_success">Tekstitykset lisättiin onnistuneesti</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Hae antamalla avainsanoja</string>
@@ -510,8 +505,13 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="no_recommend_data">Ei suositeltuja videoita juuri nyt</string>
     <string name="no_subscriptions">Täällä ei ole kohteita</string>
     <string name="not_show">Älä näytä uudelleen</string>
+    <string name="notice_comment_action">%s kommentoi viestiäsi</string>
+    <string name="notice_comment_action_deleted">Tämä kommentti poistettiin</string>
+    <string name="notice_feedback_content">Palautteellesi on päivitys. Katso napauttamalla.</string>
+    <string name="notice_like_action">%s tykkäsi kommentistasi</string>
+    <string name="notice_message_title">Ilmoitukset</string>
+    <string name="notice_title">Viestit</string>
     <string name="notify_apk_installed">Ladattiin onnistuneesti</string>
-    <string name="off">[pois käytöstä]</string>
     <string name="ok">OK</string>
     <string name="order_recently_subscribe">Viimeksi tilatut</string>
     <string name="order_recently_updated">Viimeksi päivitetty</string>
@@ -520,6 +520,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="ovp_category">Kategoriat</string>
     <string name="ovp_confirm_delete_favor">Poistetaanko valitut kohteet suosikeista?</string>
     <string name="ovp_default_plugin_name">HD-liitännäinen</string>
+    <string name="ovp_detail_back_to_watch_more">Löydä lisää kohteita kotisivulta</string>
     <string name="ovp_detail_collapse_summary">Piilota</string>
     <string name="ovp_detail_collect">Lisää suosikkeihin</string>
     <string name="ovp_detail_comment">Kommentti</string>
@@ -559,11 +560,13 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="ovp_loading_video_netplay_label_v5">Odota hetki…</string>
     <string name="ovp_local_videos_title">Paikalliset videot</string>
     <string name="ovp_navigation_category">Kategoria</string>
+    <string name="ovp_navigation_content">Sisältöyhteistyö</string>
     <string name="ovp_navigation_favorites">Suosikit</string>
     <string name="ovp_navigation_feedback">Palaute</string>
     <string name="ovp_navigation_history">Historia</string>
     <string name="ovp_navigation_home">Koti</string>
     <string name="ovp_navigation_localvideo">Paikallinen</string>
+    <string name="ovp_navigation_notice">Ilmoitukset</string>
     <string name="ovp_navigation_setting">Asetukset</string>
     <string name="ovp_navigation_subscribe">Tilaus</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Sulje</string>
@@ -670,8 +673,8 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="passport_unknow_error">Tapahtui tuntematon virhe</string>
     <string name="passport_unknow_host_network_error">Tarkista verkkoasetuksesi ja yritä uudelleen</string>
     <string name="passport_unknow_network_error">Tapahtui verkkovirhe</string>
-    <string name="passport_user_agreement_link"><Data>Olen lukenut ja hyväksyn Xiaomin &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%2$s&gt;Tietosuojakäytännön&lt;/a&gt;.</Data></string>
-    <string name="passport_user_agreement_link_more"><Data>Olen lukenut ja hyväksyn seuraavat asiakirjat: Xiaomin &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%4$s&gt;Tietosuojakäytännön&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.</Data></string>
+    <string name="passport_user_agreement_link"><Data>Olen lukenut ja hyväksyn Xiaomin &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%2$s\"&gt;Tietosuojakäytännön&lt;/a&gt;.</Data></string>
+    <string name="passport_user_agreement_link_more"><Data>Olen lukenut ja hyväksyn seuraavat asiakirjat: Xiaomin &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%4$s\"&gt;Tietosuojakäytännön&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.</Data></string>
     <string name="passport_user_id_intro">Syötä salasana käyttäjälle %1$s</string>
     <string name="passport_v_code_error">Vahvistuskoodi on väärin</string>
     <string name="passport_vcode_notification_title">Kirjautumisesi vahvistaminen on kesken</string>
@@ -703,15 +706,13 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="phone_num_use_for">Puhelinnumeroa käytetään:</string>
     <string name="phone_number">Puhelinnumero</string>
     <string name="photoPickerNotFoundText">Ei kuvia saatavilla.</string>
-    <string name="ping_platform">SOVELLUS</string>
-    <string name="ping_property">elokuva</string>
-    <string name="player_replay_btn_text">uusinta</string>
     <string name="playlist_detail_recomm_title">Suositellut soittolistat</string>
     <string name="playlist_no_more">Täällä ei ole enempää videoita</string>
     <string name="playlist_offline">Tämä soittolista ei ole enää käytettävissä.</string>
     <string name="playlist_title">Soittolista</string>
     <string name="plus_add_shortcut">Luo Aloitusnäytön pikakuvake</string>
     <string name="plus_change_poster">Vaihda albumin kansi</string>
+    <string name="plus_continue_watching">Jatka katsomista</string>
     <string name="plus_deleting_wait">Poistetaan</string>
     <string name="plus_fallback">Palaute</string>
     <string name="plus_gallery_allvideos">Kaikki videot</string>
@@ -730,6 +731,12 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="plus_gallery_video_title_mediatype">Videoiden kategoriat</string>
     <string name="plus_gallery_video_title_othergallery">Muut videot</string>
     <string name="plus_loading_text">Ladataan kohteita…</string>
+    <string name="plus_menu_delete">Poista</string>
+    <string name="plus_menu_delete_popup_text">Poistetaanko nyt?</string>
+    <string name="plus_menu_properties">Ominaisuudet</string>
+    <string name="plus_menu_rename">Nimeä uudelleen</string>
+    <string name="plus_menu_rename_fail">Tiedostonimi ei voi sisältää \"/\"</string>
+    <string name="plus_menu_share">Jaa</string>
     <string name="plus_mine_gallery">Albumini</string>
     <string name="plus_mine_videos">Videoni</string>
     <string name="plus_player_8k_video_not_support">Tällä laitteella ei voi toistaa 8K-videoita</string>
@@ -768,7 +775,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="plus_player_subtitle_local_add_success">Tekstitykset lisättiin onnistuneesti</string>
     <string name="plus_player_subtitle_no_file">Täällä ei ole tekstityksiä.</string>
     <string name="plus_player_subtitle_online">Online-tekstitykset</string>
-    <string name="plus_player_subtitle_online_declare_content">"Aiot hakea &lt;br/&gt;tekstityksiä &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; -sivuston tietokannasta. &lt;br/&gt;Kaikki tekstitykset tarjoaa &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
+    <string name="plus_player_subtitle_online_declare_content">"Aiot hakea &lt;br/&gt;tekstityksiä &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; -sivuston tietokannasta. &lt;br/&gt;Kaikki tekstitykset tarjoaa &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
     <string name="plus_player_subtitle_online_declare_title">Vastuuvapauslauseke</string>
     <string name="plus_player_subtitle_online_download_fail">Tekstityksiä ei voitu ladata</string>
     <string name="plus_player_subtitle_online_download_start">Ladataan tekstityksiä…</string>
@@ -780,6 +787,31 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="plus_player_unhide">Poista piilosta</string>
     <string name="plus_player_video_not_support">Tätä videomuotoa ei tueta.</string>
     <string name="plus_poster_reset_default">Palauta oletuskansi</string>
+    <string name="plus_properties_bit_rate">Bittinopeus</string>
+    <string name="plus_properties_codec">Koodekki</string>
+    <string name="plus_properties_date">Päivämäärä</string>
+    <string name="plus_properties_file">Tiedosto</string>
+    <string name="plus_properties_file_name">Tiedostonimi</string>
+    <string name="plus_properties_finished">Valmis</string>
+    <string name="plus_properties_format">Formaatti</string>
+    <string name="plus_properties_frame_rate">Ruudunpäivitysnopeus</string>
+    <string name="plus_properties_last_playback_position">Edellinen sijainti</string>
+    <string name="plus_properties_last_playback_time">Viimeksi toistettu</string>
+    <string name="plus_properties_length">Kesto</string>
+    <string name="plus_properties_media">Media</string>
+    <string name="plus_properties_path">Sijainti</string>
+    <string name="plus_properties_playback_history">Toistohistoria</string>
+    <string name="plus_properties_resolution">Tarkkuus</string>
+    <string name="plus_properties_sample_rate">Näytteenottotaajuus</string>
+    <string name="plus_properties_size">Koko</string>
+    <string name="plus_properties_status">Tila</string>
+    <string name="plus_properties_stream">Toisto</string>
+    <string name="plus_properties_stream_title">Otsikko</string>
+    <string name="plus_properties_type">Tyyppi</string>
+    <string name="plus_properties_type_audio">Ääni</string>
+    <string name="plus_properties_type_subtitle">Tekstitykset</string>
+    <string name="plus_properties_type_video">Video</string>
+    <string name="plus_properties_unfinish">Kesken</string>
     <string name="plus_search_barhint">Hae paikallisia videoita</string>
     <string name="plus_search_guide">Hae videoita</string>
     <string name="plus_search_result_empty">Tuloksia ei löytynyt</string>
@@ -819,6 +851,11 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="reload_sub_title">Yritä uudelleen napauttamalla.</string>
     <string name="reload_title">Verkkoyhteyttä ei voitu muodostaa.</string>
     <string name="report">Ilmoita</string>
+    <string name="report_content_fakement">Roskaposti tai petos</string>
+    <string name="report_content_illegal">Laittomat lausunnot</string>
+    <string name="report_content_other">Muu</string>
+    <string name="report_content_sexy">Seksuaalinen sisältö</string>
+    <string name="report_content_violence">Vihapuhe</string>
     <string name="report_fail">Ei voitu ilmoittaa. Yritä uudelleen.</string>
     <string name="report_success">Ilmoitettiin onnistuneesti</string>
     <string name="resend_active_email">Lähetä uudelleen</string>
@@ -893,7 +930,6 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="srl_header_update">"'Päivitetty viimeksi' d.M. H.mm"</string>
     <string name="storage_external_sdcard">SD-kortti</string>
     <string name="storage_internal_sdcard">Sisäinen tallennustila</string>
-    <string name="storage_permission_denied">Tallennustilan käyttö estettiin</string>
     <string name="submit">Lähetä</string>
     <string name="subscribe">TILAA</string>
     <string name="subscribed">TILATTU</string>
@@ -944,9 +980,6 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="toast_share_failed">Ei voitu jakaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
     <string name="today">Tänään</string>
     <string name="tuesday">Tiistai</string>
-    <string name="txt_cancel_download">PERUUTA SIIRTO</string>
-    <string name="txt_download_complete">Lataus valmis</string>
-    <string name="txt_watch_now">KATSO NYT</string>
     <string name="ugc_no_net">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
     <string name="ui_log_tip">Napauta tätä aluetta piilottaaksesi, paina ja pidä pohjassa tyhjentääksesi vanhat lokitiedot. Raahaa lokitiedot manuaalisesti.</string>
     <string name="unknow">Tuntematon</string>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Näytä %d vastausta</item>
+        <item quantity="one">Näytä %d vastaus</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Siirrytään takaisin kotisivulle %1$d sekunnin kuluttua…</item>
         <item quantity="one">Siirrytään takaisin kotisivulle %1$d sekunnin kuluttua…</item>
@@ -19,6 +23,10 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d videota</item>
         <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Sisältösi sisältää asioita (%1$s), jotka rikkovat yhteisömme normeja. Tilisi on jäädytetty %2$d päiväksi %3$s asti.</item>
+        <item quantity="one">Sisältösi sisältää asioita (%1$s), jotka rikkovat yhteisömme normeja. Tilisi on jäädytetty %2$d päiväksi %3$s asti.</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d videota</item>

@@ -424,7 +424,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="info_flow_description">Info-kanava</string>
     <string name="isReplacePage">Tiedosto on jo olemassa, korvataanko?</string>
     <string name="keep_queued_download">Säilytä</string>
-    <string name="load_error_tip">Latausvirhe, yritä uudelleen napauttamalla</string>
+    <string name="load_error_tip">Kohteita ei voitu ladata. Yritä uudelleen napauttamalla.</string>
     <string name="load_more_footer_status_msg_error_load">Ei voitu ladata. Yritä uudelleen.</string>
     <string name="load_more_footer_status_msg_error_no_network">Verkkoyhteyttä ei voitu muodostaa.</string>
     <string name="load_more_footer_status_msg_full">Siinä kaikki tältä erää.</string>
@@ -659,13 +659,13 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="navigationbar_rightbutton_actiontext_cancle">Peruuta</string>
     <string name="navigationbar_rightbutton_actiontext_go">Siirry</string>
     <string name="navigationbar_rightbutton_actiontext_search">Etsi</string>
-    <string name="network_error_tips">Verkkovirhe, yritä uudelleen</string>
+    <string name="network_error_tips">Tapahtui verkkovirhe. Yritä uudelleen.</string>
     <string name="network_not_available_comment">Ei internetyhteyttä, ei voi kommentoida</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Löydettiin läheltä Wi-Fi Hotspot. Yritetäänkö yhdistää?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi-verkko on käytettävissä</string>
     <string name="next_button_label">Seuraava</string>
     <string name="no_app_open_document">Tälle toiminnolle ei löytynyt soveltuvaa sovellusta</string>
-  <string name="no_memory_space">ei muistitilaa</string>
+    <string name="no_memory_space">ei muistitilaa</string>
     <string name="no_space_alert_cancel">Myöhemmin</string>
     <string name="no_space_alert_clean">Vapauta tilaa</string>
     <string name="no_space_alert_text">Tallenustilaa ei ole tarpeeksi</string>
@@ -823,7 +823,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="readmodelist_bookmarks_to_show">Lukulista</string>
     <string name="recommending_close_toast_text">Sulje tämä ominaisuus lisäasetuksissa</string>
     <string name="refresh_description">Päivitä</string>
-    <string name="refresh_text">Päivitä</string>
+    <string name="refresh_text">Yritä uudelleen</string>
     <string name="refuse_permissions_request">Rajoita</string>
     <string name="remember_passwords_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>
     <string name="remove_bookmark">Poista kirjanmerkki</string>

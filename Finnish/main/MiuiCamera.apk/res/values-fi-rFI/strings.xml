@@ -246,6 +246,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="face_beauty_intelligent_level_3">Korkea</string>
   <string name="face_beauty_smart">Älykäs</string>
   <string name="face_score_info">Pisteet: %.1f</string>
+  <string name="fragment_tab_name_bokeh">Bokeh</string>
   <string name="front_camera_hint_text_place">"Selfien ottaminen on helpompaa
 jos käännät puhelimesi"</string>
   <string name="front_camera_hint_text_rotate">Käännä puhelintasi</string>
@@ -853,10 +854,19 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">M&amp;V</string>
   <string name="video_effect_entry_bygone">Entisaika</string>
+  <string name="video_effect_entry_central">Keskeinen</string>
+  <string name="video_effect_entry_color_retention">Muotokuvan värin säilyttäminen</string>
+  <string name="video_effect_entry_fantasy">Fantasia</string>
   <string name="video_effect_entry_film">Elokuva</string>
   <string name="video_effect_entry_forest">Lehto</string>
   <string name="video_effect_entry_holiday">Heijastukset</string>
+  <string name="video_effect_entry_lost">Kadonnut</string>
+  <string name="video_effect_entry_meet">Tavata</string>
+  <string name="video_effect_entry_northern_europe">Pohjois-Eurooppa</string>
   <string name="video_effect_entry_polaroid">Polaroi</string>
+  <string name="video_effect_entry_rome">Rooma</string>
+  <string name="video_effect_entry_summer_day">Kesäpäivä</string>
+  <string name="video_effect_entry_wind_sing">Tuulen laulu</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
   <string name="video_tag_flag_title">Merkkaa</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>

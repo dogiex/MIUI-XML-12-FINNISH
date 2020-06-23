@@ -412,9 +412,10 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="select_date">Siirry päivämäärään</string>
   <string name="select_today_tip">Tänään</string>
   <string name="setting">Asetukset</string>
-  <string name="setting_about_calendar_version">Kalenterin versio:</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">MIUI versio:</string>
+  <string name="setting_about_calendar_version">Kalenterin versio: %1$s-%2$s</string>
+  <string name="setting_about_imei">IMEI: %1$s</string>
+  <string name="setting_about_miui_version">MIUI-versio: %1$s-%2$s</string>
+  <string name="setting_about_oaid">OAID: %1$s</string>
   <string name="setting_about_summary">Versio:</string>
   <string name="setting_accounts">Kalenterin tilit</string>
   <string name="setting_chinese_calendar">Kiinalainen kalenteri</string>

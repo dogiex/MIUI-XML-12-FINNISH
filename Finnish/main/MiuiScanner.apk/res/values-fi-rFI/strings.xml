@@ -216,6 +216,13 @@
   <string name="shopping_title">Ota tuotteesta kuva</string>
   <string name="shopping_vendor_info">Teknisen tuen tarjoaa Taobao</string>
   <string name="spaceIsLow_content">SD-kortilla ei ole tarpeeksi tallennustilaa. Vapauta tilaa.</string>
+  <string name="store_feedback_prompt">Syötä palautteesi ensin</string>
+  <string name="store_location_dialog">Tämän palvelun tarjoaa Dianping. Kaikki valokuvasi, joita otat tämän palvelun aikana, mukaan lukien niihin liittyvät sijaintitiedot, jaetaan Dianpingille kauppojen tietojen saamiseksi.</string>
+  <string name="store_location_fail">Sijaintitietoa ei voitu hakea</string>
+  <string name="store_location_prompt">Salli Lukijan käyttää sijaintitietojasi kauppojen tunnistamiseksi</string>
+  <string name="store_module_title">Kauppa</string>
+  <string name="store_no_date">Kauppaa ei voitu tunnistaa</string>
+  <string name="store_title">Skannaa kaupan kyltti</string>
   <string name="study_rotate_picture">Käsitellään kuvaa…</string>
   <string name="study_scan_result">Tulos</string>
   <string name="study_searching">Haetaan tuloksia…</string>
