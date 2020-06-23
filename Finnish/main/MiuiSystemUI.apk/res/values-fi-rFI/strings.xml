@@ -267,12 +267,6 @@
      <string name="digital_clock_dot">:</string>
      <string name="disable_vpn">Poista VPN käytöstä</string>
      <string name="disconnect_vpn">Katkaise VPN-yhteys</string>
-     <string name="dnd_is_off">Älä häiritse on pois käytöstä</string>
-     <string name="dnd_notification_warnings_title">Älä häiritse -tila on käytössä. Puhelut ja ilmoitukset mykistetään.</string>
-     <string name="do_disclosure_generic">Yrityksenä hallitsee tätä laitetta</string>
-     <string name="do_disclosure_with_name">Tätä laitetta hallitsee %s</string>
-     <string name="do_not_silence">Älä hiljennä</string>
-     <string name="do_not_silence_block">Älä hiljennä tai estä</string>
      <string name="drag_to_add_tiles">Paina ja pidä pohjassa lisätäksesi tai järjestääksesi kohteita uudelleen</string>
      <string name="drag_to_remove_tiles">Poista raahaamalla tänne</string>
      <string name="drive_mode_tip_idle">Autotila on käytössä</string>
@@ -1434,8 +1428,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="dlg_ok">OK</string>
   <string name="dnd_is_off">Älä häiritse on pois käytöstä</string>
   <string name="dnd_notification_warnings_title">Älä häiritse on käytössä. Puhelut ja ilmoitukset mykistetään.</string>
-  <string name="do_disclosure_generic">Tätä laitetta hallinnoi organisaatiosi</string>
-  <string name="do_disclosure_with_name">Tätä laitetta hallinnoi %s</string>
+  <string name="do_disclosure_generic">Organisaatiosi hallinnoi tätä laitetta.</string>
+  <string name="do_disclosure_with_name">Tätä laitetta hallitsee %s.</string>
   <string name="do_not_silence">Älä mykistä</string>
   <string name="do_not_silence_block">Älä mykistä tai estä</string>
   <string name="dock_forced_resizable">Sovellus ei ehkä toimi jaetulla näytöllä.</string>
