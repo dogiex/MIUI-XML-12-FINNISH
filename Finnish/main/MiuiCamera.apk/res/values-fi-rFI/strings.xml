@@ -543,6 +543,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Pois käytöstä</string>
   <string name="pref_camera_hdr_title">HDR</string>
+  <string name="pref_camera_heic_image_format_description">Kaappaa valokuvia tehokkaassa HEIF-muodossa</string>
+  <string name="pref_camera_heic_image_format_title">HEIC-muoto</string>
   <string name="pref_camera_hfr_entry_off">Pois käytöstä</string>
   <string name="pref_camera_histogram_entry_disable">Poista käytöstä</string>
   <string name="pref_camera_histogram_entry_enable">Ota käyttöön</string>

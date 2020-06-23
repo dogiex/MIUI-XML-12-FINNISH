@@ -3,7 +3,6 @@
     <string name="action_add_to_workspace">Lisää työtilaan</string>
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
     <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
-    <string name="add">Lisää</string>
     <string name="add_custom_category">Mukauta</string>
     <string name="add_screen">Lisää näyttö</string>
     <string name="added_all_category">Lisättiin kaikki sovellukset onnistuneesti</string>
@@ -164,6 +163,7 @@
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="edit">Muokkaa</string>
     <string name="edit_folder_title">Muokkaa kansion nimeä</string>
     <string name="edit_mode_dual_app">Luo kaksoissovellus</string>
     <string name="edit_mode_group">Ryhmä</string>

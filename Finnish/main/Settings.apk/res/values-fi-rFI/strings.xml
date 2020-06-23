@@ -6391,8 +6391,12 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usb_eject_summary">Poista USB tallennustila poistaaksesi sen turvallisesti</string>
   <string name="usb_format">Tyhjennä USB tallennustila</string>
   <string name="usb_format_summary">Tyhjennä kaikki tiedot USB tallennustilalta (esim. musiikki ja kuvat)</string>
+  <string name="usb_headset_not_support_cancel">Selvä</string>
+  <string name="usb_headset_not_support_message">"Ääntä ei voi toistaa adapterin kautta. Käytä digitaalisia kuulokkeita
+tai kuulokkeita, joissa on 3,5 mm liitin."</string>
+  <string name="usb_headset_not_support_tile">Ääntä ei voi toistaa</string>
   <string name="usb_host_mode_subtext">Peliohjainten ja muiden lisälaitteiden käyttäminen USB-portissa saattaa kuluttaa lisää virtaa</string>
-  <string name="usb_host_mode_text">USB host tila</string>
+  <string name="usb_host_mode_text">USB host -tila</string>
   <string name="usb_insert_summary">Liitä USB tallennustila</string>
   <string name="usb_install_app">Asenna USB:n kautta</string>
   <string name="usb_install_app_desc">Salli sovelluksien asennus USB:n kautta</string>
