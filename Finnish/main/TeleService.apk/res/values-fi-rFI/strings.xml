@@ -1487,7 +1487,6 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Ensisijaisen verkon tyyppi</string>
   <string name="preferred_phone_account">Ensisijainen soittotili</string>
-  <string name="preferred_wificall_roaming_title">Verkkovierailuasetukset</string>
   <string name="preferred_wificall_title">Verkkoasetukset</string>
   <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="private_num">Salainen numero</string>
@@ -1770,15 +1769,15 @@ Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame">Tietojen käyttöjakso</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ kierrosta valmis
 Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
-  <string name="time_end">To</string>
-  <string name="time_end_hour">time end hour</string>
-  <string name="time_end_minute">time end minute</string>
+  <string name="time_end">Loppu</string>
+  <string name="time_end_hour">Lopetustunti</string>
+  <string name="time_end_minute">Lopetusminuutti</string>
   <string name="time_formate_am">ap.</string>
   <string name="time_formate_pm">ip.</string>
-  <string name="time_next_day">" next day "</string>
-  <string name="time_start">From</string>
-  <string name="time_start_hour">time start hour</string>
-  <string name="time_start_minute">time start minute</string>
+  <string name="time_next_day">" seuraava päivä "</string>
+  <string name="time_start">Alku</string>
+  <string name="time_start_hour">Aloitustunti</string>
+  <string name="time_start_minute">Aloitusminuutti</string>
   <string name="title_cfu_enabled">Puhelun siirto on käytössä</string>
   <string name="title_convert_fbe">Muunnetaan tiedostopohjaiseksi salaukseksi</string>
   <string name="track_frame_time">Profiilin GPU-hahmonnus</string>

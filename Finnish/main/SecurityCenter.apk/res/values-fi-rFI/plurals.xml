@@ -434,6 +434,14 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Lisättiin %d peliä</item>
         <item quantity="one">Lisättiin %d peli</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s tuntia</item>
+        <item quantity="one">%s tunti</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minuuttia</item>
+        <item quantity="one">%s minuutti</item>
+    </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d peliä ei ole lisätty</item>
         <item quantity="one">%d peliä ei ole lisätty</item>

@@ -14,6 +14,7 @@
   <string name="hint_search_all">Hae sovelluksia</string>
   <string name="hint_search_in_disabled_apps">Hae sovelluksia, jotka eivät voi näyttää ilmoituksia</string>
   <string name="hint_search_in_enabled_apps">Hae sovelluksia, jotka voivat näyttää ilmoituksia</string>
+  <string name="last_sent_time_second">Juuri nyt</string>
   <string name="list_title_disable_notification">Ilmoitukset eivät ole sallittu</string>
   <string name="loading">Odota hetki…</string>
   <string name="lock_screen_display_rules">Muoto</string>

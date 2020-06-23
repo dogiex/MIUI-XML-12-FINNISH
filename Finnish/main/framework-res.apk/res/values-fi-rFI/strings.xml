@@ -1573,13 +1573,13 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="time_of_day" formatted="false">%-k.%M.%S</string>
   <string name="time_picker_decrement_hour_button">Vähennä tuntien määrää.</string>
   <string name="time_picker_decrement_minute_button">Vähennä minuuttien määrää.</string>
-  <string name="time_picker_decrement_set_am_button">Aseta ap</string>
+  <string name="time_picker_decrement_set_am_button">Aseta ap.</string>
   <string name="time_picker_dialog_title">Aseta aika</string>
   <string name="time_picker_header_text">Aseta aika</string>
   <string name="time_picker_hour_label">tunnit</string>
   <string name="time_picker_increment_hour_button">Lisää tuntien määrää.</string>
   <string name="time_picker_increment_minute_button">Lisää minuuttien määrää.</string>
-  <string name="time_picker_increment_set_pm_button">Aseta ip</string>
+  <string name="time_picker_increment_set_pm_button">Aseta ip.</string>
   <string name="time_picker_input_error">Anna kelvollinen aika.</string>
   <string name="time_picker_minute_label">minuutit</string>
   <string name="time_picker_mode">kello</string>

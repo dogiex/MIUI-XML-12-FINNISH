@@ -3693,7 +3693,12 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="msd_pc_system_install_summary_xp">1. Asenna käynnistämällä setup.exe</string>
   <string name="msg_wlan_signal_found">Yhdistetäänkö kohteeseen %s?</string>
   <string name="msim_sim_radio_off">Pois päältä</string>
+  <string name="mtp_connection_failed">Yhdistettyyn tietokoneeseen ei voi siirtää tiedostoja. Kokeile vianmääritystä.</string>
+  <string name="mtp_connection_failed_title">USB-yhteys</string>
+  <string name="mtp_connection_not_remind">Älä näytä uudelleen</string>
   <string name="mtp_ptp_mode_summary">MTP- tai PTP-toiminto on käytössä</string>
+  <string name="mtp_solution_button_cancel">Selvä</string>
+  <string name="mtp_solution_button_ok">Vianmääritys</string>
   <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
   <string name="mtrl_picker_cancel">Peruuta</string>
   <string name="mtrl_picker_confirm">Tallenna</string>

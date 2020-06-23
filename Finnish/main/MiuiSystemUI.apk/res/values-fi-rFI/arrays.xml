@@ -95,9 +95,9 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Ei käytössä</item>
         <item>Suodatus käytössä</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
         <item>Käytössä</item>
+        <item>Käytössä \"Otsikot suodatettiin\"</item>
+        <item>Käytössä \"Mediapaketit suodatettiin\"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>

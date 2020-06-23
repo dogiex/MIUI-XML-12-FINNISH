@@ -632,7 +632,7 @@
      <string name="miui_toast_zen_standard_to_off">Äänetön tila poistettiin käytöstä. Soittoäänet palautettiin normaaliksi.</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media">Äänetön tila poistettiin käytöstä. Soittoäänet, mukaan lukien ilmoitukset ja median äänet toistetaan.</string>
      <string name="miui_toast_zen_to_dnd">Siirryttiin Älä häiritse -tilaan. Äänet mykistettiin ja värinä poistettiin käytöstä.</string>
-     <string name="miui_toast_zen_to_standard">Siirryttiin Äänettömään tilaan. Puheluiden ja ilmoituksien soittoäänet mykistetään.</string>
+     <string name="miui_toast_zen_to_standard">Siirryttiin Äänettömään tilaan. Puheluiden ja ilmoitusten soittoäänet mykistetään.</string>
      <string name="miui_toast_zen_to_standard_when_shield_media">Siirryttiin Äänettömään tilaan. Soittoäänet, mukaan lukien ilmoitukset ja median äänet mykistetään.</string>
      <string name="mobile_data">Mobiilidata</string>
      <string name="monitoring_description_app">Olet yhteydessä kohteeseen %1$s, joka voi valvoa verkon käyttöä, mukaan lukien sähköposteja, sovelluksia ja verkkosivuja.</string>
