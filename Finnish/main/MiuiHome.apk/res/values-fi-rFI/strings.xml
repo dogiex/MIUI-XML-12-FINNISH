@@ -408,6 +408,7 @@
     <string name="status_paused">Pysäytetty</string>
     <string name="status_pending">Odotetaan</string>
     <string name="system_shortcuts_more_operation">Sovellustiedot</string>
+    <string name="system_shortcuts_remove">Poista</string>
     <string name="system_text">Järjestelmä</string>
     <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
     <string name="title_select_live_folder">Valitse kansio</string>

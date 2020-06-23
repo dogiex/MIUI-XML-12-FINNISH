@@ -712,7 +712,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_popup_camera_title">Ponnahduskamera</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">F</string>
-  <string name="pref_qc_focus_position_title_abbr">A/M F</string>
+  <string name="pref_qc_focus_position_title_abbr">F</string>
   <string name="pref_retain_camera_mode_summary">Vaihda kamera edelliseen käytettyyn tilaan, kun avaat sovelluksen.</string>
   <string name="pref_retain_camera_mode_title">Tallenna edellinen tila</string>
   <string name="pref_scan_qrcode_summary">Vain takakamera voi lukea QR-koodeja \"Valokuva\" -tilassa.</string>
