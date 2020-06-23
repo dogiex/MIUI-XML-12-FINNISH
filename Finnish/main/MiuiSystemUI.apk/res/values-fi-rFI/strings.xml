@@ -729,7 +729,7 @@
      <string name="open_camera_hint_text">Avaa Kamera raahaamalla kuvaketta</string>
      <string name="open_extreme_power_save_mode_title">Ota Äärimmäinen virransäästö käyttöön</string>
      <string name="open_lock_screen_magazine_hint_text">Pyyhkäise oikealle saadaksesi lisää vaihtoehtoja</string>
-     <string name="open_remote_center_hint_text">Näytä ohjaimet pyyhkäisemällä oikealle</string>
+     <string name="open_remote_center_hint_text">Näytä pikakuvakkeet pyyhkäisemällä oikealle</string>
      <string name="osu_completing_sign_up">Viimeistellään rekisteröitymistä…</string>
      <string name="osu_connect_failed">Ei yhteyttä</string>
      <string name="osu_opening_provider">Avataan %1$s</string>

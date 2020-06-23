@@ -140,7 +140,7 @@ Poistetaanko henkilökohtaiset mainokset käytöstä joka tapauksessa?"</string>
   <string name="permission_recording">Nauhoita puheluita ja ääntä:</string>
   <string name="permission_recording_introduction">Videon nauhoittamisen aikana äänen nauhoittamista varten</string>
   <string name="permission_screen_shoot_introduction">Näytön nauhoitusten käyttämistä ja tallentamista varten</string>
-  <string name="permission_send_message">Lähetä tekstiviesti</string>
+  <string name="permission_send_message">Lähetä tekstiviestejä:</string>
   <string name="permission_user_record_introduction">Äänen nauhoittamista varten</string>
   <string name="permission_virusscan_introduction">Laitteesi virustarkistusta ja optimointia varten</string>
   <string name="permission_xunlei_introduction">Järjestelmätilien sisäänkirjautumiseen ja hallinnoimiseen, jotta Xunlei-palveluita voidaan tarjota</string>

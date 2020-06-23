@@ -209,6 +209,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="more_details">Lisätietoja</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa.</string>
+  <string name="news_hour_minute_time_format">d.M.yyyy H.mm</string>
   <string name="night_not_disturb_settings_summary">Estä hälytykset aikaväliltä 23.00 - 7.00</string>
   <string name="night_not_disturb_settings_title">Älä häiritse yöllä</string>
   <string name="no_data">Ei tietoja</string>
@@ -322,12 +323,11 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="weather_introduce">Aina kanssasi, satoi tai paistoi.</string>
   <string name="weather_permission_agree">Hyväksyn</string>
   <string name="weather_service_channel_name">Taustapalvelut</string>
-  <string name="weather_alert">Säävaroitukset</string>
+  <string name="widget_cta_not_agree">Hae säätiedot napauttamalla</string>
   <string name="wind_direction_no_data">Tuuli</string>
-  <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">Sää -sovellus tarjoaa sinulle tarkkoja sääennustustietoja. Ilman tätä sovellusta, ilmoitusalueen ja Aloitusnäytön widgetit ei toimi normaalisti. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
-  <string name="xiaomi_weather_description_title">Tietoja Sää -sovelluksesta</string>
+  <string name="xiaomi_weather_description_content">Sää-sovellus tarjoaa sinulle tarkkoja sääennustustietoja. Ilman tätä sovellusta, ilmoitusalueen ja Aloitusnäytön widgetit ei toimi normaalisti. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
+  <string name="xiaomi_weather_description_title">Tietoja Sää-sovelluksesta</string>
   <string name="yes_vote_ratio">Puolesta %1$s%%</string>
   <string name="your_location">Sijaintisi</string>
 </resources>

@@ -31,6 +31,7 @@
   <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
   <string name="abc_toolbar_collapse_description">Kutista</string>
   <string name="account_and_cloud">Tili</string>
+  <string name="account_logout">Kirjaudu ulos</string>
   <string name="action_item_add">Lisää kohteeseen</string>
   <string name="action_item_add_song">Lisää soittolistalle</string>
   <string name="action_item_add_to_current_playlist">Jono</string>
@@ -58,7 +59,9 @@
   <string name="agreement_desc">Käyttöehdot (pakollinen)</string>
   <string name="alaka_required">Sinun täytyy maksaa tämä kappale, jotta voit kuunnella sen.</string>
   <string name="alarm_clock_ringtones_successful">Asetettiin hälytys onnistuneesti</string>
-  <string name="album_label">Albumin kansikuvat</string>
+  <string name="album_cover">Albumin kansi</string>
+  <string name="album_is_empty">Albumin nimi ei voi olla tyhjä.</string>
+  <string name="album_label">Albumin kannet</string>
   <string name="album_name">Albumi</string>
   <string name="all_album_count">Kaikki albumit (%d)</string>
   <string name="all_albums">Kaikki albumit</string>
@@ -97,6 +100,8 @@
   <string name="artist_is_empty">Artistin nimi ei voi olla tyhjä.</string>
   <string name="artist_name">Artisti</string>
   <string name="audio_picker_title">Valitse kappale</string>
+  <string name="auto_recommend">Automaattinen (suositus)</string>
+  <string name="auto_sound_quality">Automaattinen</string>
   <string name="auto_update">Päivitä automaattisesti</string>
   <string name="auto_update_tip">Voit päivittää järjestelmäsovelluksia käyttäen mobiilidataa. Tämä saattaa lisätä lisäkustannuksia.</string>
   <string name="available_playlist_name_format">Uusi soittolista %d</string>
@@ -121,6 +126,7 @@
   <string name="choose_download_quality">Valitse latauksen laatu</string>
   <string name="choose_music_lang_pref">Ensisijaiset kielet kappaleille</string>
   <string name="choose_stream_quality">Valitse suoratoiston laatu</string>
+  <string name="click_to_add_album_cover_and_lyric">Napauta lisätäksesi albumin kannen ja sanoitukset</string>
   <string name="click_to_shuffle">Sekoita soittolista koskettamalla</string>
   <string name="close_music_time">"Aikaa jäljellä: "</string>
   <string name="comment_format" formatted="false">%s: %s</string>
@@ -261,6 +267,7 @@
   <string name="download_running">Latauksessa</string>
   <string name="download_running_percent">Latauksessa, %d%%</string>
   <string name="download_share_dialog">Jaa käyttäen</string>
+  <string name="download_song_quality_title">Ladattujen kappaleiden laatu</string>
   <string name="download_start">Aloitetaan lataus…</string>
   <string name="download_start_apk">Aloitetaan lataaminen… Tarkista edistyminen Ilmoitusalueelta.</string>
   <string name="download_start_btn">Lataa</string>
@@ -386,6 +393,8 @@
   <string name="format_unsupported_or_corrupted">Tämä tiedostomuoto ei ole tuettu tai tiedosto on korruptoitunut</string>
   <string name="fragment_title_artist_album">Albumit</string>
   <string name="gcm_fallback_notification_channel_label">Sekalainen</string>
+  <string name="get_more_favorite_content_after_login">Kirjaudu sisään löytääksesi lisää kappaleita ja videoita.</string>
+  <string name="google_account_login">Kirjaudu sisään Googlella</string>
   <string name="goto_local_search">Hae laitteesta</string>
   <string name="goto_online_search">Hae verkosta</string>
   <string name="handle_later">Ei nyt</string>
@@ -395,6 +404,7 @@
   <string name="headset_and_audio_effect_title">Kuulokkeet &amp; äänitehosteet</string>
   <string name="hide_album">Piilota albumin kansikuva</string>
   <string name="hide_lyric">Piilota sanoitukset</string>
+  <string name="high_sound_quality">Korkea</string>
   <string name="higher_quality_music">Korkea äänenlaatu</string>
   <string name="higher_quality_music_summary">Suoratoista ja lataa korkeamman bitraten tiedostoja</string>
   <string name="home_tab_home">Koti</string>
@@ -412,7 +422,7 @@
   <string name="hungama_category_playlist">Soittolistat</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Videot</string>
-  <string name="hungama_category_vip">Vip</string>
+  <string name="hungama_category_vip">Pro</string>
   <string name="hungama_free_download_out_summary">Et voi ladata enempää ilmaisia kappaleita. Hankitaanko PRO-jäsenyys ladataksesi rajattoman määrän kappaleita?</string>
   <string name="hungama_free_download_out_summary_toast">Olet ladannut jo %d kappaletta. Hanki tilaus ladataksesi lisää.</string>
   <string name="hungama_playlist_category">Soittolistakategoria</string>
@@ -466,7 +476,10 @@
   <string name="local_page_artist_more">Lisää kappaleita artistilta %s</string>
   <string name="local_page_playlist">Soittolistat</string>
   <string name="local_page_song_download_history">Lataukset</string>
+  <string name="login_instantly">Kirjaudu sisään</string>
+  <string name="login_mi_account_and_gain_more_rights">Kirjaudu sisään Mi-tililläsi käyttääksesi lisää toimintoja.</string>
   <string name="long_press_to_select_lyric">Paina &amp; pidä pohjassa valitaksesi paikallinen sanoitustiedosto</string>
+  <string name="low_sound_quality">Matala</string>
   <string name="lrc_search_failed">Sanoituksia ei löytynyt</string>
   <string name="lrc_searching">Etsitään…</string>
   <string name="lyric_is_empty">Sanoituksia ei saatavilla</string>
@@ -492,8 +505,8 @@
   <string name="metered_serious_alert_msg_with_beyond_data">Olet jo ylittänyt mobiilidatan rajan %s verran. Käytetäänkö mobiilidataa kappaleiden toistamiseen?</string>
   <string name="metered_serious_alert_msg_with_data">Sinulla on enää %s mobiilidataa jäljellä. Käytetäänkö mobiilidataa kappaleiden toistamiseen?</string>
   <string name="metered_serious_allow">Toista siitä huolimatta</string>
+  <string name="middle_sound_quality">Normaali</string>
   <string name="milink_unavaliable_please_update">Milink ominaisuus ei ole käytettävissä. MIUI järjestelmäpäivitys vaaditaan.</string>
-  <string name="min_sleep_time">%d</string>
   <string name="missing_title">Tuntematon</string>
   <string name="miuishare_account_login_ok">Kirjaudu sisään</string>
   <string name="miuishare_no_network">Verkkoyhteyttä ei voi muodostaa.</string>
@@ -518,6 +531,7 @@
   <string name="mulit_choice_management">Hallinnoi useaa kohdetta</string>
   <string name="music_browser_label">Musiikki</string>
   <string name="music_filter">Suodata äänitiedostoja</string>
+  <string name="music_recommendation">Kappalesuositukset</string>
   <string name="music_service">Musiikkipalvelu</string>
   <string name="music_settings">Musiikki</string>
   <string name="mv_metered_play_summary">Älä näytä tiedonsiirtovaroitusta</string>
@@ -533,7 +547,8 @@
   <string name="network_request_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_settings_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_traffic">Datan käyttö</string>
-  <string name="next_time">Seuraavalla kerralla</string>
+  <string name="next_time">Ei nyt</string>
+  <string name="next_to_play">Seuraavaksi</string>
   <string name="no_album_info">Ei albumitietoja</string>
   <string name="no_artist_info">Ei artistitietoja</string>
   <string name="no_downloads">Ei latauksia</string>
@@ -542,6 +557,7 @@
   <string name="no_local_songs">Tyhjä</string>
   <string name="no_local_songs_selected">Kappaleita ei voi lähettää, koska niitä ei ole ladattu</string>
   <string name="no_local_source_find">Kappaletta ei löytynyt</string>
+  <string name="no_longer_prompt">Älä näytä uudelleen</string>
   <string name="no_results_return">Ei hakutuloksia</string>
   <string name="no_scanned_songs">Tyhjä</string>
   <string name="no_song_downloaded">Ladattavia kappaleita ei löytynyt</string>
@@ -594,11 +610,13 @@
   <string name="online_list_delete_message">Tämän soittolistan kaikki ladatut kappaleet poistetaan sisäiseltä tallennustilalta.</string>
   <string name="online_playlist_category">Soittolistat</string>
   <string name="online_recommend">Soittolista</string>
-  <string name="online_service_open_tip">Online musiikkipalvelut on käytössä</string>
-  <string name="online_service_title">Online palvelut</string>
-  <string name="online_switch">Online sisältöpalvelut</string>
-  <string name="online_switch_message">Poistamalla online palvelut käytöstä vaikuttaa VIP palveluihin ja suosituksiin. Poistetaanko käytöstä siitä huolimatta?</string>
-  <string name="online_switch_setting">Online sisältöasetukset</string>
+  <string name="online_service_open_tip">Online-musiikkipalvelut on käytössä</string>
+  <string name="online_service_title">Online-palvelut</string>
+  <string name="online_switch">Online-sisältöpalvelut</string>
+  <string name="online_switch_confirm_title">Poistamalla online-sisältöpalvelut käytöstä poistaa kaikki online-toiminnot kättökelvottomiksi. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="online_switch_message">Poistamalla online-palvelut käytöstä vaikuttaa VIP palveluihin ja suosituksiin. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="online_switch_setting">Online-sisältöasetukset</string>
+  <string name="only_pro_can_choose_hd_sound_quality">HD-ääni on käytettävissä vain PRO-jäsenille</string>
   <string name="open_online_service">Sinun täytyy ottaa online palvelut käyttöön käyttääksesi tätä ominaisuutta. Otetaanko käyttöön nyt?</string>
   <string name="open_service">Ota käyttöön</string>
   <string name="operation_done_close">Sulje</string>
@@ -626,6 +644,7 @@
   <string name="pick_recent_song">Toistettu viimeaikoina</string>
   <string name="play_all_song">Toista kaikki</string>
   <string name="play_empty_playlist">Kappaleita ei voi toistaa. Soittolista on tyhjä.</string>
+  <string name="play_history">Toistohistoria</string>
   <string name="play_mode_all_loop">Toista kaikki</string>
   <string name="play_mode_one_loop">Loop</string>
   <string name="play_mode_play_all">Toista kaikki</string>
@@ -662,6 +681,7 @@
   <string name="ready_to_play">Seuraavaksi</string>
   <string name="recently_played">Viimeksi soitetut</string>
   <string name="recently_played_songs">Viimeksi</string>
+  <string name="recommend_songs_when_playing_audio_files">Vastaanota kappalesuosituksia musiikin kuuntelun aikana</string>
   <string name="recommended_file_size_download_in_mobile">Käytetäänkö %s mobiilidataa tämän tiedoston lataamiseen?</string>
   <string name="recommended_no_file_size_download_in_mobile">Käytetäänkö mobiilidata-yhteyttäsi tämän tiedoston lataamiseen?</string>
   <string name="remove">Poista</string>
@@ -692,6 +712,7 @@ Ole onnellinen"</string>
   <string name="s6">Sallitaanko mainoksen luoda kalenteritapahtuma?</string>
   <string name="s7">Kokeilumainos</string>
   <string name="save_changes">Tallenna muutokset</string>
+  <string name="save_image">Tallenna kuva</string>
   <string name="search_album_and_lyric">Hae albumien kansikuvia ja sanoituksia</string>
   <string name="search_empty">Ei tulosta. Kokeile toisia sanoja</string>
   <string name="search_empty_subtitle_online_music">Napauta alla olevaa painiketta avataksesi %s.</string>
@@ -717,7 +738,9 @@ Ole onnellinen"</string>
   <string name="select_desc_sub">Voit valita enintään 3 kieltä</string>
   <string name="select_device">Valitse laite</string>
   <string name="select_displayed_folders">Valitse näytettävät kansiot</string>
+  <string name="select_local_album_cover">Valitse kuva</string>
   <string name="select_local_cover">Valitse paikallinen kansikuva</string>
+  <string name="select_local_lyric">Valitse tiedosto</string>
   <string name="select_local_lyric_file">Valitse paikallinen sanoitustiedosto</string>
   <string name="select_none">Poista valinnat</string>
   <string name="select_one_language">Valitse vähintään 1 kieli</string>
@@ -767,6 +790,7 @@ Ole onnellinen"</string>
   <string name="song_not_find">Tämä kappale ei ole käytettävissä.</string>
   <string name="song_offline">Tämä kappale ei ole enää käytettävissä.</string>
   <string name="song_picker_complete">Valmis</string>
+  <string name="song_quality_category">Musiikki</string>
   <string name="songgroup_pick_album">Albumit</string>
   <string name="songgroup_pick_playlist">Soittolistat</string>
   <string name="sort_by_name">Nimi</string>
@@ -779,12 +803,13 @@ Ole onnellinen"</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB tallennustila</string>
   <string name="streamloadingtext">Yhdistetään kohteeseen %s</string>
-  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+  <string name="switch_success">Vaihdettiin onnistuneesti</string>
   <string name="tab_album">Albumit</string>
   <string name="tab_album_list">Albumit</string>
   <string name="tab_artist">Artistit</string>
   <string name="tab_artist_list">Artistit</string>
   <string name="tab_chart">Listat</string>
+  <string name="tab_flow">Katso</string>
   <string name="tab_folder">Kansiot</string>
   <string name="tab_playlist">Soittolistat</string>
   <string name="tab_top_results">Parhaat tulokset</string>
@@ -839,6 +864,7 @@ Ole onnellinen"</string>
   <string name="toast_uhd_songs_for_stream">Suoratoiston laatu asetettu korkealle</string>
   <string name="today">Tänään</string>
   <string name="top_chart_title">Listat</string>
+  <string name="track_play_history_after_login">Kirjaudu sisään nähdäksesi toistohistorian</string>
   <string name="ultra_high_quality">Korkein</string>
   <string name="unknown_album_name">Tuntematon albumi</string>
   <string name="unknown_artist_name">Tuntematon artisti</string>
@@ -852,6 +878,7 @@ Ole onnellinen"</string>
   <string name="v7_preference_off">POIS KÄYTÖSTÄ</string>
   <string name="v7_preference_on">KÄYTÖSSÄ</string>
   <string name="version_info">Versio</string>
+  <string name="vhigh_sound_quality">HD</string>
   <string name="video_play_cellular">Laitteesi ei ole yhteydessä Wi-Fi-verkkoon. Käytetäänkö mobiilidataa?</string>
   <string name="video_replay_btn">Toista uudelleen</string>
   <string name="video_retry_btn">Yritä uudelleen</string>

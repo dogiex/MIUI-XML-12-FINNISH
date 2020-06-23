@@ -62,6 +62,7 @@
   <string name="fast_connect_device_title_find_headset">Etsi %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">Näyttää siltä, että tämä laite ei ole sinun: %1$s</string>
   <string name="fast_connect_nzbt_reset">Pidä pohjassa ylimpää painiketta %1$s sekunnin ajan laitteen sammuessa</string>
+  <string name="fast_connect_wbs_reset">Pidä pohjassa ylimpää painiketta %1$s sekunnin ajan laitteen sammuessa</string>
   <string name="goto_package">Avaa %1$s</string>
   <string name="install_package">Asenna %1$s lisätoimintoja varten</string>
   <string name="mi_band_vibrate_alarm">Värise kun hälytys soi</string>

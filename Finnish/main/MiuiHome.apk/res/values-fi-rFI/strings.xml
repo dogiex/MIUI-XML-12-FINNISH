@@ -30,7 +30,6 @@
     <string name="all_apps_setting_drawer_tips_title">Sovelluslaatikon käyttäminen</string>
     <string name="all_apps_setting_drawer_title">Sovelluslaatikolla</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
-    <string name="all_apps_setting_min_category_limit">Valitse vähintään yksi kategoria</string>
     <string name="all_apps_setting_original_scrollbar">Alkuperäinen ulkoasu</string>
     <string name="all_apps_setting_scroll_bar">Vierityspalkki</string>
     <string name="all_apps_setting_title">Aloitusnäyttö</string>
@@ -113,7 +112,6 @@
     <string name="cate_order_reset">Nollaa</string>
     <string name="category_already_exists">Tämä kategoria on jo olemassa</string>
     <string name="category_cannot_empty">Syötä kategoria ensin</string>
-    <string name="category_choose_no_app_select_tip">Jokaisessa kategoriassa on oltava vähintään yksi sovellus.</string>
     <string name="category_drawer_name_hint">Syötä kategorian nimi</string>
     <string name="category_group">Kategorioi sovellukset</string>
     <string name="category_group_summary">Kategorioi sovellukset Sovelluslaatikossa</string>
