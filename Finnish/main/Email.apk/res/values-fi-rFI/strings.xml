@@ -156,9 +156,9 @@
   <string name="account_setup_username_password_toast">Anna kelvollinen sähköpostiosoite ja salasana.</string>
   <string name="account_smime">S/MIME</string>
   <string name="account_smime_cert_title">Varmenteet</string>
-  <string name="account_smime_encrypt">S/MIME salaus</string>
+  <string name="account_smime_encrypt">S/MIME-salaus</string>
   <string name="account_smime_install_cert">Lisää varmenne</string>
-  <string name="account_smime_sign">S/MIME allekirjoitus</string>
+  <string name="account_smime_sign">S/MIME-allekirjoitus</string>
   <string name="account_sync_off">Tilin synkronointi on pois käytöstä.</string>
   <string name="account_sync_settings_settings">Synkronoi yhteystiedot ja kalenteri</string>
   <string name="account_sync_settingstip_description">Synkronointi</string>

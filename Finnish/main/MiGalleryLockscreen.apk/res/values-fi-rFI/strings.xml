@@ -192,7 +192,7 @@
   <string name="declaration">Saat uusia taustakuvia suoraan lukitusnäytöllesi joka päivä ilmaiseksi.</string>
   <string name="declaration_lockscreen_title">Taustakuvan Karuselli</string>
   <string name="declaration_title">Käyttöehdot</string>
-  <string name="delete_pic">Delete image</string>
+  <string name="delete_pic">Poista kuva</string>
   <string name="deny_des">Taustakuvan Karuselli tarvitsee Gallerian käyttöoikeuden toimiakseen normaalisti.</string>
   <string name="detail_ad_type_ad">MAINOS</string>
   <string name="detail_ad_type_video">Suositut videot</string>

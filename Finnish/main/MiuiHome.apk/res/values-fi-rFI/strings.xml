@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakukysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jaa…</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
     <string name="action_add_to_workspace">Lisää työtilaan</string>
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
     <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
@@ -19,6 +46,8 @@
     <string name="all_app_category_photography">Valokuvaaminen</string>
     <string name="all_app_category_shopping">Ostelu</string>
     <string name="all_app_category_tools">Työkalut</string>
+    <string name="all_apps">Kaikki sovellukset</string>
+    <string name="all_apps_no_search_results">Tuloksia ei löytynyt</string>
     <string name="all_apps_search_app">Hae sovelluksia</string>
     <string name="all_apps_search_market_message">Hae verkosta</string>
     <string name="all_apps_setting_desktop_desc">Näytä kaikki asennetut sovellukset Aloitusnäytöllä. Paina sovelluskuvaketta pohjassa nähdäksesi käytettävissä olevat pikakuvakkeet, hallinnoidaksesi sitä tai poistaaksesi sovelluksen.</string>
@@ -32,6 +61,7 @@
     <string name="all_apps_setting_scroll_bar">Vierityspalkki</string>
     <string name="all_apps_setting_title">Aloitusnäyttö</string>
     <string name="all_apps_slide_up_tips">Ylöspäin pyyhkäiseminen on varattu Sovelluslaatikon avaamiselle. Vaihda tavalliseen Alotisnäytön tilaan ja yritä uudelleen.</string>
+    <string name="all_apps_suggestions">Sovellussuositukset</string>
     <string name="announce_for_app_move_in_folder">Siirrettiin kansiossa sijaintiin %1$d</string>
     <string name="announce_for_checked">%1$s, tarkistettu</string>
     <string name="announce_for_choose_default_screen">Aseta näyttö %1$d oletusaloitusnäytöksi</string>
@@ -349,6 +379,7 @@
     <string name="privacy_thumbnail_blur_summary">Sumenna sovelluksien esikatselu Viimeaikaisissa</string>
     <string name="privacy_thumbnail_blur_title">Sumenna sovelluksien esikatselu</string>
     <string name="quick_app">Pikasovellukset</string>
+    <string name="recent_apps">Viimeaikainen</string>
     <string name="recents_config_title">Viimeaikaiset</string>
     <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
     <string name="recommend_app">Sovellussuositukset</string>
