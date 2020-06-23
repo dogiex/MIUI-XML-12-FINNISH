@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="prompt_to_suggest_to_open_volte_from_operator">Puheluita ei voi soittaa. Ota yhteyttä China Telecomiin ottaaksesi VoLTE-palvelun käyttöön.</string>
   <string name="wifi_call_accept">Ohita</string>
   <string name="wifi_call_available_message">Voit soittaa puheluita nyt käyttäen Wi-Fiä. Jos olet yhteydessä Wi-Fi-verkkoon, voit puhua vaikka olisit alueella, jossa ei ole mobiiliverkon kuuluvuutta.</string>
   <string name="wifi_call_available_title">Otetaan Wi-Fi-puhelua käyttöön</string>
