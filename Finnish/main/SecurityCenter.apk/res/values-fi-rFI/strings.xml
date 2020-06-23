@@ -1711,7 +1711,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="operator_name_unicom">China Unicom</string>
   <string name="optimize_manage_title">Paranna nopeutta</string>
   <string name="optimize_result_available_memory_info">Käytettävissä oleva muisti</string>
-  <string name="optimize_result_button_cloudspace">Lisää pilven tallennustilaa</string>
+  <string name="optimize_result_button_cloudspace">Hanki lisää pilven tallennustilaa</string>
   <string name="optimize_result_button_consume_power_analysis">Skannaa akku</string>
   <string name="optimize_result_button_cooldown_now">Viilennä</string>
   <string name="optimize_result_button_correct_now">Säädä</string>
@@ -1952,6 +1952,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_save_ps_clean">Tyhjennä välimuisti kun laite lukitaan</string>
   <string name="power_save_ps_close_setting">Poista palvelut ja toiminnot käytöstä, jotka kuluttavat paljon virtaa (synkronointi, GPS, haptinen palaute, \"Herätä nostamalla\", \"Herätä tai sammuta näyttö tuplanapauttamalla\", \"Näytä sormenjäljen kuvake, kun näyttö on sammutettuna\") säästääksesi virtaa</string>
   <string name="power_save_ps_close_setting_5g">Poista palvelut ja toiminnot käytöstä, jotka kuluttavat paljon virtaa (synkronointi, 5G-verkkoyhteys, GPS, haptinen palaute, \"Herätä nostamalla\", \"Herätä tai sammuta näyttö tuplanapauttamalla\", \"Näytä sormenjäljen kuvake, kun näyttö on sammutettuna\") säästääksesi virtaa</string>
+  <string name="power_save_ps_close_setting_5g_q">Poista palvelut ja toiminnot käytöstä, jotka kuluttavat paljon virtaa (synkronointi, 5G-verkkoyhteys, haptinen palaute, \"Herätä nostamalla\", \"Herätä tai sammuta näyttö tuplanapauttamalla\", \"Näytä sormenjäljen kuvake, kun näyttö on sammutettuna\")</string>
+  <string name="power_save_ps_close_setting_q">Poista palvelut ja toiminnot käytöstä, jotka kuluttavat paljon virtaa (synkronointi, haptinen palaute, \"Herätä nostamalla\", \"Herätä tai sammuta näyttö tuplanapauttamalla\", \"Näytä sormenjäljen kuvake, kun näyttö on sammutettuna\")</string>
   <string name="power_save_ps_freeze">Jäädytä taustalla olevat sovellukset</string>
   <string name="power_save_ps_limit">Rajoita järjestelmäsovellusten aktiviteettia</string>
   <string name="power_save_settings">Akun asetukset</string>

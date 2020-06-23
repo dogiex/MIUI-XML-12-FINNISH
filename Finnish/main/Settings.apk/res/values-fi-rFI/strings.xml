@@ -2027,6 +2027,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="disallow_lock_screen_summary">Salli ilmoitukset ensin asetuksissa \"Sovellusilmoitukset\"</string>
   <string name="disconnect">katkaise yhteys</string>
   <string name="disconnected">Ei yhdistetty</string>
+  <string name="display_advanced_mode_summary">Värivaihtoehdot</string>
+  <string name="display_advanced_mode_title">Lisäasetukset</string>
   <string name="display_auto_rotate_rotate">Käytössä</string>
   <string name="display_auto_rotate_stay_in_current">Pois käytöstä</string>
   <string name="display_auto_rotate_stay_in_landscape">Lukitse vaakanäkymä</string>
@@ -2693,6 +2695,9 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="handy_mode_tips_full_screen">Kun käytät kokonäytön eleitä, voit ottaa Yhden käden-tilan käyttöön käyttämällä Pikavalikkoa. Voit myös vaihtaa käyttämään painikkeita kokonäytön eleiden sijaan.</string>
   <string name="haptic_feedback_enable_title">Kosketusvärinä</string>
   <string name="haptic_feedback_level">Värinä</string>
+  <string name="haptic_feedback_progress">Haptisen palautteen taso</string>
+  <string name="haptic_feedback_summary">Vastaanota haptista palautetta eleille ja järjestelmän hallintaan</string>
+  <string name="haptic_feedback_title">Haptinen palaute</string>
   <string name="hardkeyboard_category">Fyysisen näppäimistön asetukset</string>
   <string name="hardware_info">Malli ja laitteisto</string>
   <string name="hardware_version">Laitteistoversio</string>
@@ -2758,6 +2763,8 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="ignore_optimizations_on_desc">Akku voi tyhjentyä tavallista nopeammin.</string>
   <string name="ignore_optimizations_title">Saako %s ohittaa akun optimoinnit?</string>
   <string name="ime_security_warning">%1$s saattaa kerätä kaiken, mitä kirjoitat, mukaan lukien salasanat, luottokortin numerot ja muut henkilökohtaiset tiedot.</string>
+  <string name="ime_security_warning_global">Syöttötavat voivat kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilökohtaiset tiedot, kuten salasanat ja luottokorttinumerot. Käytetäänkö %1$s?</string>
+  <string name="ime_security_warning_title_global">Otetaan näppäimistö käyttöön</string>
   <string name="imei_information_summary">IMEI-koodiin liittyvät tiedot</string>
   <string name="imei_information_title">IMEI-koodin tiedot</string>
   <string name="immediately_destroy_activities">Älä säilytä toimintoja</string>
@@ -4126,7 +4133,9 @@ Tämä antaa sovellukselle myös oikeuden ottaa Älä häiritse ‑tilan käytt�
   <string name="onekey_migrate">Mi Mover</string>
   <string name="onscreen_keyboard_settings_summary">Näyttönäppäimistön asetukset</string>
   <string name="open_demo_mode">Ota käyttöön</string>
-  <string name="open_demo_mode_warning_message">Kun Demotila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demotilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
+  <string name="open_demo_mode_warning_message">Kun Demo-tila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demo-tilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
+  <string name="open_game_accelerate">Ota Game Turbo käyttöön</string>
+  <string name="open_haptic_feedback">Haptinen palaute</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
   <string name="open_optimization_message">Ota MIUI:n optimointi käyttöön nauttiaksesi sulavammasta ja nopeammasta käyttöliittymästä.</string>
   <string name="open_optimization_option">Ota käyttöön</string>

@@ -266,6 +266,10 @@
         <item quantity="other">%d päivää</item>
         <item quantity="one">%d päivä</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Valitut kuvat ei ole laitteella. Ladataanko ne käyttämällä mobiilidataa?</item>
         <item quantity="one">Valittu kuva ei ole laitteella. Ladataanko se käyttämällä mobiilidataa?</item>

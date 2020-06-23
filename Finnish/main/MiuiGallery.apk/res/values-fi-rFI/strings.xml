@@ -50,6 +50,8 @@
   <string name="permission_contacts_name">Yhteystiedot</string>
   <string name="scanning_device_tips">Haetaan lähellä olevia laitteita… Varmista, että toinen laite on löydettävissä.</string>
   <string name="send_files_to">Lähetä tiedostoja kohteeseen</string>
+  <string name="send_heif_summary">Muunna kuvat ennen lähettämistä varmistaaksesi yhteensopivuuden</string>
+  <string name="send_heif_title">Muunna HEIF-kuvat JPG-kuviksi ennen lähettämistä</string>
   <string name="throwing_print">Tulosta</string>
   <string name="throwing_screen">Suoratoista</string>
   <string name="thumbnail_build_error">Esikatselukuvaa ei voitu ladata</string>
@@ -360,6 +362,7 @@
   <string name="byteShort">t</string>
   <string name="camera_needs_auto_backup_tip">Kamera-albumi täytyy synkronoida</string>
   <string name="can_authorize_owner_albums_share_to_tv">Valtuuta albumeiden katseleminen TV:ssä</string>
+  <string name="can_not_transfer_when_screening">Siirron aikana ei voi suoratoistaa</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_authorize_to_device_failed">Valtuutusta ei voitu peruuttaa</string>
   <string name="cancel_authorize_watch_on_tv_failed">TV:ssä katselun valtuutusta ei voitu peruuttaa</string>
@@ -940,6 +943,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Voit valita ladattujen kuvien laadun tai poistaa automaattiset lataukset käytöstä Asetuksissa.</string>
   <string name="downloading_title">Ladataan kuvia Xiaomi Pilvestä</string>
+  <string name="dump_db_info">Tyhjennä tietokannan tiedot</string>
   <string name="edit_baby_info">Näytä vauvan tiedot</string>
   <string name="editor_cancel">Peruuta</string>
   <string name="editor_export">Tallenna</string>
@@ -1127,7 +1131,8 @@ on käytettävissä"</string>
   <string name="filter_people_sepia">Seepia</string>
   <string name="filter_people_story">Tarina</string>
   <string name="filter_people_tea">Tee</string>
-  <string name="filter_scene_city">Kapunki</string>
+  <string name="filter_portrait_hint">Värin ponnahdus</string>
+  <string name="filter_scene_city">Kaupunki</string>
   <string name="filter_scene_df">Sumu</string>
   <string name="filter_scene_koizora">Rakkaus</string>
   <string name="filter_scene_lomo">Lomo</string>
@@ -1532,6 +1537,11 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_movie_select_image_range">Videoleikkeet voivat sisältää 3-20 kuvaa</string>
   <string name="photo_page_save_uri_image_fail">Galleriaan tallentaminen epäonnistui</string>
   <string name="photo_page_save_uri_image_ok">Kuva tallennettiin Galleriaan</string>
+  <string name="photo_portrait_color_download_fail">Liitännäistä ei voitu ladata. Yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="photo_portrait_color_download_success">Suodattimet ladattiin onnistuneesti</string>
+  <string name="photo_portrait_color_no_face">Värin ponnahdus toimii vain kuvissa, joissa on ihmisiä</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Näyttää siltä, että laitteesi ei ole yhteydessä Wi-Fi-verkkoon. Voit ladata suodattimet (%1$d Mt) käyttäen mobiilidataa.</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Suodattimien lataaminen</string>
   <string name="photo_print_menu_loading">Ladataan liitännäistä…</string>
   <string name="photo_print_package_finish">Ladattiin Tulostus-liitännäinen onnistuneesti</string>
   <string name="photo_print_package_installing">Ladataan Tulostus-liitännäistä…</string>
@@ -1905,6 +1915,10 @@ mukauttaaksesi Galleriasi"</string>
   <string name="unsupport_raw">%s ei tue RAW-kuvia</string>
   <string name="unsupport_raw_and_video">%s ei tue videoita eikä RAW-kuvia</string>
   <string name="unsupport_video">%s tue videoita</string>
+  <string name="unsupported_media_downloading_tip_common">Alkuperäisten kuvien katsominen tässä kuvamuodossa ei ole tuettuna tässä Android-versiossa. Ladataanko siitä huolimatta?</string>
+  <string name="unsupported_media_downloading_tip_format">Alkuperäisten %s-kuvien katsominen ei ole tuettuna tässä Android-versiossa. Ladataanko siitä huolimatta?</string>
+  <string name="unsupported_media_scanned_tip">%1$s-kuvia havaittiin. %2$s-kuvien katsominen ei ole tuettuna tässä Android-versiossa.</string>
+  <string name="unsupported_media_view_tip">Alkuperäisten %s-kuvien katsominen ei ole tuettuna tässä Android-versiossa</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>

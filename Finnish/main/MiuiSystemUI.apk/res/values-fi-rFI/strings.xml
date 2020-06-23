@@ -1505,7 +1505,9 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="how_to_use_drawer">Kuinka avataan pyyhkäisyvalikko</string>
   <string name="how_to_use_drawer_summary">Pyyhkäise oikealle näytön yläosassa</string>
   <string name="how_to_use_fsg">Voit suorittaa näitä toimintoja käyttäen eleitä</string>
-  <string name="ime_security_warning">%1$s voi tallentaa kaiken kirjoittamasi tekstin, mukaan luettuna henkilökohtaiset tiedot kuten salasanat ja luottokortin numerot ja muut henkilötiedot.</string>
+  <string name="ime_security_warning">%1$s voi kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilökohtaiset tiedot, kuten salasanat ja luottokorttinumerot. Se on lähtöisin sovelluksesta %1$s. Käytetäänkö tätä syöttötapaa?</string>
+  <string name="ime_security_warning_global">Syöttötavat voivat kerätä kaiken kirjoittamasi tekstin, mukaan lukien henkilökohtaiset tiedot, kuten salasanat ja luottokorttinumerot. Käytetäänkö %1$s?</string>
+  <string name="ime_security_warning_title_global">Otetaan näppäimistö käyttöön</string>
   <string name="immediately_destroy_activities">Älä säilytä toimintoja</string>
   <string name="immediately_destroy_activities_summary">Lopeta kaikki toiminnot, kun käyttäjä poistuu</string>
   <string name="important_desc">Kaikki tärkeät ilmoitukset tulee näkyviin Ilmoitusalueelle.</string>
