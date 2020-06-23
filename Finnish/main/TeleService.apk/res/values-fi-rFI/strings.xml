@@ -1083,7 +1083,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="lafs_disable">Paikallisten lentokenttien lentoaikataulut pois käytöstä</string>
   <string name="lafs_enable">Paikallisten lentokenttien lentoaikataulut käytössä</string>
   <string name="last_sim_callback_summary">Kun soitat puheluhistoriasta, käytä samaa SIM-korttia, jolla soitit yhteyshenkilölle viimeksi</string>
-  <string name="last_sim_callback_title">Muista SIM-kortin asetukset</string>
+  <string name="last_sim_callback_title">Muista SIM-asetukset</string>
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu</string>
   <string name="list_language_dtitle">Kielet</string>

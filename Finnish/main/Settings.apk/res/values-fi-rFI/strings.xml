@@ -1900,6 +1900,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_vol_stream_title">Oletus äänenvoimakkuudensäätö</string>
   <string name="delete">Poista</string>
   <string name="delete_fingerprint_confirm_msg">Poistetaanko sormenjälki?</string>
+  <string name="delete_fingerprint_confirm_title">Huomio</string>
   <string name="delete_fingerprint_text">Poista sormenjälki</string>
   <string name="delete_legacy_fingerprint">Poista</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Poistetaanko tämä sormenjälki?</string>
@@ -3286,6 +3287,7 @@ PIN-koodi"</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="lockscreen_label">Lukitusnäyttö</string>
   <string name="lockscreen_magazine">Taustakuvan Karuselli</string>
+  <string name="lockscreen_magazine_india">Vilkaise Mi:tä</string>
   <string name="lockscreen_magazine_summary">Upeita kuvia ja jännittäviä tarinoita toimitetaan sinulle päivittäin</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
