@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetoothin kytkeminen päälle ja pois päältä</string>
+  <string name="HIPS_Perm_CallLog_Desc">Kirjoita ja poista puheluhistoria</string>
+  <string name="HIPS_Perm_Call_Desc">Soita suoraan puhelinnumeroihin</string>
+  <string name="HIPS_Perm_Contact_Desc">Muokkaa ja poista yhteystietoja</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Käytä puhelinnumeroa, IMEI:tä ja IMSI:tä</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Käytä puhelinnumeroa ja laitteen tilaa</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">Lue puheluhistoria</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Lue yhteystietosi</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">Lue tekstiviestisi</string>
+  <string name="HIPS_Perm_SendSMS_Desc">Lähetä suoraan tekstiviestejä</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fin kytkeminen päälle ja pois</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">Lisää järjestelmän ääniviestejä</string>
+  <string name="HIPS_Perm_get_accounts_Desc">Käytä kaikkia laitteelle tallennettuja tilejä</string>
+  <string name="HIPS_Perm_process_nfc_Desc">NFC:n käyttö</string>
+  <string name="HIPS_Perm_use_sip_Desc">Käytä istunnon aloitusprotokollaa videon suoratoistoon</string>
   <string name="permgroupdesc_calendar">käyttää kalenteria</string>
   <string name="permgroupdesc_calllog">lukea puhelulokia ja kirjoittaa siihen</string>
   <string name="permgroupdesc_camera">ottaa kuvia ja videoita</string>
@@ -1792,6 +1807,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Vältä ylikuumenemisen- ja laitteistoon liittyviä ongelmia</string>
   <string name="perfermance_optimization_title">Suorituskyvyn optimointi</string>
+  <string name="permdesc_in_calls">Tarkkaile saapuvia puheluita</string>
+  <string name="permdesc_out_calls">Tarkkaile lähteviä puheluita</string>
   <string name="permission_action_accept">Hyväksy</string>
   <string name="permission_action_always">Salli aina</string>
   <string name="permission_action_foreground">Sovelluksen käytön aikana</string>
@@ -1844,14 +1861,17 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_battery_last">%s jäljellä</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
   <string name="power_center_dialog_msg_bottom">Voit lisätä akun kestoa jopa %1$d t %2$d min. Otetaanko Virransäästö käyttöön?</string>
+  <string name="power_center_dialog_msg_title">Ota käyttöön saadaksesi %1$s lisäaikaa. Seuraavat toimenpiteet suoritetaan akun säästämiseksi:</string>
   <string name="power_center_dialog_msg_top">Virransäästön ollessa käytössä, MIUI suorittaa seuraavat optimoinnit:</string>
   <string name="power_center_hints_scan_danger_result">Voit korjata akkuongelmat nyt</string>
   <string name="power_center_list_item_auto_brightness">Säädä näytön kirkkaus automaattisesti</string>
   <string name="power_center_list_item_battery_status_time">t</string>
   <string name="power_center_list_item_close_bluetooth">Poista Bluetooth käytöstä</string>
   <string name="power_center_list_item_deep_save_title">Lisäasetukset</string>
+  <string name="power_center_list_item_haptic_feedback">Poista haptinen palaute käytöstä</string>
   <string name="power_center_list_item_set_lockscreen_time">Laita näyttö nukkumaan 30 sekunnin käyttämättömyyden jälkeen</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Lukitse laite %d sekunnin käyttämättömyyden jälkeen</string>
+  <string name="power_center_list_item_wake_notification">Älä herätä näyttöä ilmoituksia varten</string>
   <string name="power_center_main_percent_formatted">%s %%</string>
   <string name="power_center_one_key_save">Optimoi</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>
@@ -1905,6 +1925,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_optimize_disable_5g">Rajoita 5G-yhteyttä</string>
   <string name="power_optimize_disable_app_autostart">Estä sovelluksia käynnistymästä automaattisesti</string>
   <string name="power_optimize_disable_gps">Sammuta GPS</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Poista tarkka sijaintitila käytöstä</string>
   <string name="power_optimize_disable_start_other_app">Estä sovelluksia avaamasta toisia sovelluksia</string>
   <string name="power_optimize_loading">Ladataan</string>
   <string name="power_optimize_open_hide_mode">Ota Virransäästö käyttöön</string>
@@ -1914,18 +1935,23 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_save_mode">Virransäästö</string>
   <string name="power_save_mode_auto_exit_summary">Poista käytöstä, kun akkua on 60% tai täyteen ladattu</string>
   <string name="power_save_mode_auto_exit_title">Poista käytöstä, kun ladattu</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Toimii Virransäästön ollessa käytössä</string>
+  <string name="power_save_mode_close_notification_screenon_title">Älä herätä näyttöä ilmoituksia varten</string>
   <string name="power_save_mode_close_warn_text">Virransäästö rajoittaa taustatyöskentelyä ja synkronointia. Jos käytät sitä, kun laitteesi on ladattu, jotkut ominaisuudet ei välttämättä toimi kunnolla. Pidetäänkö Virransäästö päällä, kun laitteesi on ladattu?</string>
   <string name="power_save_mode_close_warn_title">Virransäästö</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Toimii Virransäästön ollessa käytössä</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">Älä käynnistä Mi AI:ta äänellä</string>
   <string name="power_save_mode_enable">Virransäästö</string>
   <string name="power_save_mode_end_time">Lopetus</string>
   <string name="power_save_mode_ontime_enabled">Ajasta vaihtaminen tilojen välillä</string>
+  <string name="power_save_mode_other_optimization">Valinnainen optimointi</string>
   <string name="power_save_mode_start_time">Aloitus</string>
   <string name="power_save_mode_summary">Seuraa taustaprosesseja ja poista synkronointi käytöstä.</string>
   <string name="power_save_on_time_end_time_summary_na">Minne</string>
   <string name="power_save_on_time_start_time_summary_na">Mistä</string>
   <string name="power_save_ps_clean">Tyhjennä välimuisti kun laite lukitaan</string>
-  <string name="power_save_ps_close_setting">Poista taustapalvelut (synkronointi, GPS) käytöstä säästääksesi virtaa</string>
-  <string name="power_save_ps_close_setting_5g">Rajoita virtaa kuluttavia toimintoja (synkronointi, 5G-yhteys, GPS)</string>
+  <string name="power_save_ps_close_setting">Poista palvelut ja toiminnot käytöstä, jotka kuluttavat paljon virtaa (synkronointi, GPS, haptinen palaute, \"Herätä nostamalla\", \"Herätä tai sammuta näyttö tuplanapauttamalla\", \"Näytä sormenjäljen kuvake, kun näyttö on sammutettuna\") säästääksesi virtaa</string>
+  <string name="power_save_ps_close_setting_5g">Poista palvelut ja toiminnot käytöstä, jotka kuluttavat paljon virtaa (synkronointi, 5G-verkkoyhteys, GPS, haptinen palaute, \"Herätä nostamalla\", \"Herätä tai sammuta näyttö tuplanapauttamalla\", \"Näytä sormenjäljen kuvake, kun näyttö on sammutettuna\") säästääksesi virtaa</string>
   <string name="power_save_ps_freeze">Jäädytä taustalla olevat sovellukset</string>
   <string name="power_save_ps_limit">Rajoita järjestelmäsovellusten aktiviteettia</string>
   <string name="power_save_settings">Akun asetukset</string>
@@ -2503,6 +2529,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="system_permission_declare_use_network_no_permission">Yhdistä verkkoon</string>
   <string name="system_permission_declare_user_agreement"><Data>Lue ja hyväksy meidän &amp;lt;a href=\"%1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ennen tämän toiminnon käyttämistä.</Data></string>
   <string name="system_permission_perm_answer_call">Soita puheluita</string>
+  <string name="system_permission_perm_optional">" (valinnainen)"</string>
   <string name="system_permission_perm_read_mms">Lukea multimediaviestejä</string>
   <string name="system_permission_perm_read_numbers">Lukea puhelinnumeroita</string>
   <string name="system_permission_perm_send_mms">Lähettää multimediaviestejä</string>

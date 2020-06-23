@@ -189,6 +189,9 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="dialog_ok_time">OK (%d s)</string>
   <string name="dirty_tip_toast">Linssi on likainen. Puhdista se.</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>
+  <string name="document_blackwhite">M&amp;V</string>
+  <string name="document_origin">Alkuperäinen</string>
+  <string name="document_strengthen">Paranneltu</string>
   <string name="dual_camera_lens_covered_toast">Linssi on peitetty.</string>
   <string name="dual_camera_lowlight_toast">Näyttää siltä, että on liian pimeää.</string>
   <string name="dual_camera_too_close_toast">Kamera on liian lähellä kohdetta.</string>
@@ -264,6 +267,11 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="hint_subtitle">Sanele tekstitystä videota kuvattaessa</string>
   <string name="hint_subtitle_prompt">Voit sanella tekstityksiä nyt</string>
   <string name="hunt_dual_water_mark">Kaksoiskameran vesileima lisätään automaattisesti.</string>
+  <string name="id_card_mode_hint_back">Skannaa ID:si takaosa</string>
+  <string name="id_card_mode_hint_front">Skannaa ID:si etuosa</string>
+  <string name="id_card_mode_use_hint_text_body">"Yhdistä ID:si molemmat puolet yhteen kuvaan.
+Tulosta kopio langattomasti A4-paperille."</string>
+  <string name="id_card_mode_use_hint_text_title">Skannaa ID</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Asenna</string>
   <string name="lens_dirty_detected_content">"Näyttää siltä, että kamerasi linssi on likainen.
@@ -415,7 +423,6 @@ Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän &amp;lt;a 
   <string name="no_storage">Kameran tallennustila ei ole käytettävissä järjestelmävirheen vuoksi.</string>
   <string name="not_enough_space">Sisäinen tallennustila on täynnä</string>
   <string name="object_track_enable_toast">Valitaksesi objektin, napauta yhtäaikaa kaksi diagonaalista pistettä sen reunoille.</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Kohdista nuoli vertailulinjan kanssa</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Jatka vain…</string>
   <string name="pano_how_to_use_prompt_slow_down">Hidasta hieman…</string>
@@ -516,6 +523,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_face_info_watermark_title">Lisää ikäleima kuvaan</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Piilota kasvojentunnistuksen kehys automaattisesti</string>
   <string name="pref_camera_facedetection_title">Kasvojentunnistus</string>
+  <string name="pref_camera_first_tag_tips">Merkattiin onnistuneesti</string>
   <string name="pref_camera_flashmode_entry_auto">Automaattinen</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Pehmeä valo</string>
   <string name="pref_camera_flashmode_entry_off">Pois käytöstä</string>
@@ -657,6 +665,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_video_duration_entry_30">30 minuuttia</string>
   <string name="pref_camera_video_duration_entry_mms">30 sekuntia (MMS)</string>
   <string name="pref_camera_video_log_tips">LOKI</string>
+  <string name="pref_camera_video_tag">Salli videoiden merkkaaminen</string>
+  <string name="pref_camera_video_tag_description">Napauta \"Merkkaa\" videon kuvaamisen aikana, niin voit palata merkattuihin hetkiin videon toiston aikana</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Sulkija</string>
   <string name="pref_camera_volumekey_function_entry_timer">Sulkijan laskenta</string>
   <string name="pref_camera_volumekey_function_entry_volume">Äänenvoimakkuus</string>
@@ -691,6 +701,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_zsl_entry_off">Pois käytöstä</string>
   <string name="pref_camera_zsl_entry_on">Käytössä</string>
   <string name="pref_capture_settings">Kamera</string>
+  <string name="pref_document_mode">Asiakirjat</string>
   <string name="pref_face_beauty_title">Kaunistus</string>
   <string name="pref_fingerprint_capture_title">Sormenjäljellä kuvan ottaminen</string>
   <string name="pref_front_mirror_entry_auto">Kun kasvot tunnistetaan</string>
@@ -846,8 +857,8 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="video_effect_entry_forest">Lehto</string>
   <string name="video_effect_entry_holiday">Heijastukset</string>
   <string name="video_effect_entry_polaroid">Polaroi</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
+  <string name="video_tag_flag_title">Merkkaa</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
   <string name="vv_duartion_hint">%1$s | Osa %2$d | %3$s s</string>
   <string name="vv_hint">Voit kuvata vlogeja vain vaakatilassa</string>

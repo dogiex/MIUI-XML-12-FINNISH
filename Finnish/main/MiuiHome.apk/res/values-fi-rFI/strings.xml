@@ -19,8 +19,6 @@
     <string name="all_app_category_photography">Valokuvaaminen</string>
     <string name="all_app_category_shopping">Ostelu</string>
     <string name="all_app_category_tools">Työkalut</string>
-    <string name="all_apps">Kaikki sovellukset</string>
-    <string name="all_apps_no_search_results">Tuloksia ei löytynyt</string>
     <string name="all_apps_search_app">Hae sovelluksia</string>
     <string name="all_apps_search_market_message">Hae verkosta</string>
     <string name="all_apps_setting_desktop_desc">Näytä kaikki asennetut sovellukset Aloitusnäytöllä. Paina sovelluskuvaketta pohjassa nähdäksesi käytettävissä olevat pikakuvakkeet, hallinnoidaksesi sitä tai poistaaksesi sovelluksen.</string>
@@ -34,7 +32,6 @@
     <string name="all_apps_setting_scroll_bar">Vierityspalkki</string>
     <string name="all_apps_setting_title">Aloitusnäyttö</string>
     <string name="all_apps_slide_up_tips">Ylöspäin pyyhkäiseminen on varattu Sovelluslaatikon avaamiselle. Vaihda tavalliseen Alotisnäytön tilaan ja yritä uudelleen.</string>
-    <string name="all_apps_suggestions">Sovellusehdotukset</string>
     <string name="announce_for_app_move_in_folder">Siirrettiin kansiossa sijaintiin %1$d</string>
     <string name="announce_for_checked">%1$s, tarkistettu</string>
     <string name="announce_for_choose_default_screen">Aseta näyttö %1$d oletusaloitusnäytöksi</string>
@@ -112,6 +109,7 @@
     <string name="cate_order_reset">Nollaa</string>
     <string name="category_already_exists">Tämä kategoria on jo olemassa</string>
     <string name="category_cannot_empty">Syötä kategoria ensin</string>
+    <string name="category_choose_no_app_select_tip">Jokaisessa kategoriassa on oltava vähintään yksi sovellus.</string>
     <string name="category_drawer_name_hint">Syötä kategorian nimi</string>
     <string name="category_group">Kategorioi sovellukset</string>
     <string name="category_group_summary">Kategorioi sovellukset Sovelluslaatikossa</string>
@@ -351,7 +349,6 @@
     <string name="privacy_thumbnail_blur_summary">Sumenna sovelluksien esikatselu Viimeaikaisissa</string>
     <string name="privacy_thumbnail_blur_title">Sumenna sovelluksien esikatselu</string>
     <string name="quick_app">Pikasovellukset</string>
-    <string name="recent_apps">Viimeaikainen</string>
     <string name="recents_config_title">Viimeaikaiset</string>
     <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
     <string name="recommend_app">Sovellussuositukset</string>

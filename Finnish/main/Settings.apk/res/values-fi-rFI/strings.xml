@@ -1469,6 +1469,13 @@ Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
   <string name="color_cyan">Turkoosi</string>
   <string name="color_gray">Harmaa</string>
   <string name="color_green">Vihreä</string>
+  <string name="color_lamp_applications_title">Hallinnoi ilmoituksia</string>
+  <string name="color_lamp_applications_title_summary">Salli tai rajoita LED-valon käyttöä asetuksissa \"Ilmoituskategoriat\"</string>
+  <string name="color_lamp_battery_title">Pidä latauksen ajan päällä</string>
+  <string name="color_lamp_charging_summary">LED-valo sammutetaan, kun laitteesi on ladattu täyteen</string>
+  <string name="color_lamp_incall_pulse_title">Vilku saapuville puheluille</string>
+  <string name="color_lamp_notification_pulse_title">Vilku ilmoituksille, kun näyttö on sammuksissa</string>
+  <string name="color_lamp_title">LED-valo</string>
   <string name="color_led_applications_title">Valitse sovellukset</string>
   <string name="color_led_applications_title_summary">Voit rajoittaa LED-valon käyttöä yksittäisissä sovelluksissa</string>
   <string name="color_led_battery_title">Pidä päällä latauksen ajan</string>
@@ -2151,6 +2158,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dual_wifi">Dual band Wi-Fi-nopeuttaja</string>
   <string name="dual_wifi_acceleration">Nopeutetaan</string>
+  <string name="dual_wifi_auto_disable">Lopeta nopeuttaminen automaattisesti</string>
+  <string name="dual_wifi_auto_disable_summary">Katkaise yhteys Wi-Fi apuverkoista virran säästämiseksi, kun näyttö sammutetaan</string>
   <string name="dual_wifi_avaliable_slave_wifi">Käytettävissä olevat apuverkot</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Käytettävissä olevat apuverkot (2,4 GHz:n kaista)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Käytettävissä olevat apuverkot (5 GHz:n kaista)</string>
@@ -2630,7 +2639,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gesture_setting_off">Ei käytössä</string>
   <string name="gesture_setting_on">Käytössä</string>
   <string name="gesture_wakeup_summary">Voit tuplanapauttaa näyttöä sammuttaaksesi sen, kun Oletus ja Klassinen teema on asetettuna</string>
-  <string name="gesture_wakeup_title">Tuplanapauta näyttöä herättääksesi tai sammuttaaksesi</string>
+  <string name="gesture_wakeup_title">Herätä tai sammuta näyttö tuplanapauttamalla</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">Gt</string>
   <string name="global_actions_panel_short_title">Kortit</string>
@@ -3017,6 +3026,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="legal_workday_invalidate">Ma-Pe (juhlapyhä tiedot vanhentunut)</string>
   <string name="legal_workday_invalidate_message">Päivitä julkiset juhlapyhät napauttamalla.</string>
   <string name="legal_workday_message">(Ohita juhlapyhät)</string>
+  <string name="legal_written_offer">Kirjallinen tarjous</string>
   <string name="license_title">Käyttölupa</string>
   <string name="lift_to_wake_title">Herätä nostamalla</string>
   <string name="lights_title">LED-valo</string>
@@ -4291,6 +4301,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="popup_gesture_title">Avaa etukamera nostamalla</string>
   <string name="popup_led_summary">Näytä animaatio, kun etukamera tulee näkyviin ja palaa takaisin</string>
   <string name="popup_led_title">Visuaalinen tehoste</string>
+  <string name="popup_led_try_later">Odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="popup_title">Etukameran tehosteet</string>
   <string name="popup_title_cangmen">Matkustamon ovi</string>
   <string name="popup_title_chilun">Hammaspyörä</string>

@@ -161,6 +161,7 @@ Tällä tabletilla ei ole korvakuuloketta. Voit vaihtaa hands-free-tilaan tai k�
   <string name="additional_gsm_call_settings_with_label">Lisäasetukset (%s)</string>
   <string name="administrative_disable">Järjestelmänhallinta pois käytöstä</string>
   <string name="administrative_enable">Järjestelmänhallinta käytössä</string>
+  <string name="advanced_mobile_settings">Lisäasetukset</string>
   <string name="advanced_options_title">Lisäasetukset</string>
   <string name="advanced_settings">Lisäasetukset</string>
   <string name="advanced_settings_hide">▽ Piilota kaikki koskettamalla</string>
@@ -941,6 +942,7 @@ Valinta"</string>
   <string name="fiveg_power_secret_code_tip">Käytä tätä Tietoturva -sovelluksen kautta - Akku - 5G-virransäästäjä</string>
   <string name="fiveg_restrict_dcnr1">Rajoita DCNR [SIM1] :</string>
   <string name="fiveg_restrict_dcnr2">Rajoita DCNR [SIM2] :</string>
+  <string name="fiveg_sa_switch_title">SA-verkko</string>
   <string name="fiveg_signal_strength1">5G signaalin voimakkuus [SIM1] :</string>
   <string name="fiveg_signal_strength2">5G signaalin voimakkuus [SIM2] :</string>
   <string name="fiveg_switch_status1">5G kytkimen tila [SIM1] :</string>
@@ -1104,6 +1106,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="lte_band_sel_setting">band list</string>
   <string name="lte_band_set_status">lte band set</string>
   <string name="lte_freq_set_button">set freq and pci</string>
+  <string name="main_netcheck_summary">Testaa yhteys verkkoon liittyviin ongelmiin</string>
   <string name="maintenance_disable">Ylläpito pois käytöstä</string>
   <string name="maintenance_enable">Ylläpito käytössä</string>
   <string name="make_and_receive_calls">Puhelujen soittaminen ja vastaanottaminen</string>
@@ -1145,12 +1148,16 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: Ei palvelua</string>
   <string name="mmiCancelled">MMI-koodi peruutettu</string>
   <string name="mmiStarted">MMI-koodi aloitettu</string>
+  <string name="mobile_advanced_dns_server_title">DNS-palvelimen osoite</string>
+  <string name="mobile_advanced_ip_address_title">IP-osoite</string>
+  <string name="mobile_connection_management">Hallitse mobiiliverkkoyhteyttä</string>
   <string name="mobile_data">Mobiilidata</string>
   <string name="mobile_data_alert">Dataliikenne saatetaan generoida toisella kortilla</string>
   <string name="mobile_data_always_on">Mobiilidata on aina käytössä</string>
   <string name="mobile_data_always_on_summary">Pidä mobiilidata aina käytössä, vaikka Wi-Fi olisi aktiivinen. Tämä mahdollistaa nopeamman vaihtelun verkkojen välillä.</string>
   <string name="mobile_network_settings_not_available">Matkapuhelinverkon asetukset ei ole käytettävissä tällä käyttäjällä</string>
   <string name="mobile_networks">Mobiiliverkon asetukset</string>
+  <string name="mobile_property">Mobiiliverkon ominaisuudet</string>
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>
@@ -1197,6 +1204,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="name">Nimi</string>
   <string name="national_disable">Kotimaan uutiset pois käytöstä</string>
   <string name="national_enable">Kotimaan uutiset käytössä</string>
+  <string name="netcheck_title">Mobiiliverkon diagnostiikka</string>
   <string name="network_1x">1x</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
@@ -1675,6 +1683,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="srvcc_video_message">Videopuhelu alennettiin 2G/3G-äänipuheluksi, koska 4G-verkko ei ole käytettävissä.</string>
   <string name="status_hint_label_incoming_wifi_call">Wi-Fi-puhelu henkilöltä</string>
   <string name="status_hint_label_wifi_call">Wi-Fi-puhelu</string>
+  <string name="status_unavailable">Ei käytettävissä</string>
   <string name="stk_cc_ss_to_dial_error">SS-pyyntö muutettiin DIAL-pyynnöksi.</string>
   <string name="stk_cc_ss_to_ss_error">SS-pyyntö muutettiin uudeksi SS-pyynnöksi.</string>
   <string name="stk_cc_ss_to_ussd_error">SS-pyyntö muutettiin USSD-pyynnöksi.</string>
