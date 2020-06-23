@@ -64,6 +64,8 @@
   <string name="deep_space_planet">Ulkoavaruus</string>
   <string name="deep_space_planet_des">\"Ulkoavaruus\" heijastaa ympärilläsi päivän aikana tapahtuvia valomuutoksia. Auringonnousu ja auringonlasku tässä teemassa synkronoidaan sijaintisi kanssa.</string>
   <string name="digital_clock">Digitaalinen</string>
+  <string name="disable_aod_in_power_save_mode">Poista käytöstä, kun Virransäästö on käytössä</string>
+  <string name="disable_aod_in_power_save_mode_summary">Älä näytä kohteita virran säästämiseksi</string>
   <string name="font_thickness">Fontin paksuus</string>
   <string name="large_time">Suuri kello</string>
   <string name="mini_time">Pieni kello</string>
@@ -79,6 +81,7 @@
   <string name="paper_mode_end_time_title">Poista käytöstä</string>
   <string name="paper_mode_start_time_title">Ota käyttöön</string>
   <string name="password_toggle_content_description">Näytä salasana</string>
+  <string name="photo_editor_saving">Tallennetaan…</string>
   <string name="please_input_signature">Syötä allekirjoitus</string>
   <string name="scheduled_style">Ajastettu</string>
   <string name="scope_icon">Kaleidoskooppityyli</string>
@@ -95,9 +98,7 @@
   <string name="signature_default_content">"Usko aina, että
 jotain ihanaa tulee tapahtumaan"</string>
   <string name="standard_style">Tavallinen</string>
-  <string name="summary">"Vähentääksesi virrankulutusta, kohteita ei näytetä seuraavissa tilanteissa:
-1. Kun laitteesi on pitkään pimeässä.
-2. Kun Älä häiritse -tila on käytössä."</string>
+  <string name="summary">Virrankulutuksen vähentämiseksi kohteita ei näytetä, kun laite on pitkään pimeässä.</string>
   <string name="super_wallpaper_date">"EEEE
 d.M."</string>
   <string name="temporary_style">10 sekunnin ajan napauttamisen jälkeen</string>

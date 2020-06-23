@@ -3280,6 +3280,9 @@ PIN-koodi"</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="lockscreen_settings_title">Lukitusnäytön asetukset</string>
+  <string name="lockscreen_settings_what_to_show_category">Mitä näytetään</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Mukauta lukitusnäytön sivupaneelissa näytettävät sovellukset</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Sivupaneelin pikakuvakkeet</string>
   <string name="login_account_dialog_message">Kirjaudu sisään Mi-tililläsi ja ota pilven synkronointi käyttöön.</string>
   <string name="login_account_dialog_title">Kirjaudu sisään Mi-tilillä</string>
   <string name="login_account_summary">Hallinnoi tilejä, pilvipalveluita, maksuja ja paljon muuta</string>
