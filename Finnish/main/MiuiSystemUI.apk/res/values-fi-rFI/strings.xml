@@ -173,6 +173,11 @@
      <string name="accessibility_status_bar_headphones">Kuulokkeet yhdistetty</string>
      <string name="accessibility_status_bar_headset">Kuulokkeet yhdistetty</string>
      <string name="accessibility_status_bar_hotspot">Hotspot</string>
+     <string name="accessibility_status_bar_no_slave_wifi">Apu Wi-Fi katkaistu.</string>
+     <string name="accessibility_status_bar_slave_wifi_four_bars">Apu Wi-Fi neljä palkkia.</string>
+     <string name="accessibility_status_bar_slave_wifi_one_bar">Apu Wi-Fi yksi palkki.</string>
+     <string name="accessibility_status_bar_slave_wifi_three_bars">Apu Wi-Fi kolme palkkia.</string>
+     <string name="accessibility_status_bar_slave_wifi_two_bars">Apu Wi-Fi kaksi palkkia.</string>
      <string name="accessibility_three_bars">Kolme palkkia.</string>
      <string name="accessibility_two_bars">Kaksi palkkia.</string>
      <string name="accessibility_unlock_button">Poista lukitus</string>
@@ -876,6 +881,12 @@
      <string name="quick_settings_user_new_user">Uusi käyttäjä</string>
      <string name="quick_settings_user_title">Käyttäjä</string>
      <string name="quick_settings_vibrate_label">Värinä</string>
+     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Nopeutetaan</string>
+     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Peruuta</string>
+     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Vahvista</string>
+     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Älä näytä uudelleen</string>
+     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Vaihdetaan verkkojen välillä</string>
+     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Kaksois Wi-Fin nopeuttamisen tarvitsee käyttää kahta eri Wi-Fi-taajuutta. Jos yhdistät toiseen pääverkkoon, apuverkon yhteys menetetään.</string>
      <string name="quick_settings_wifi_no_network">Ei verkkoa</string>
      <string name="quick_settings_wifi_not_connected">Ei yhteyttä</string>
      <string name="quick_settings_wifi_off_label">Wi-Fi pois käytöstä</string>

@@ -942,7 +942,10 @@ Valinta"</string>
   <string name="fiveg_power_secret_code_tip">Käytä tätä Tietoturva -sovelluksen kautta - Akku - 5G-virransäästäjä</string>
   <string name="fiveg_restrict_dcnr1">Rajoita DCNR [SIM1] :</string>
   <string name="fiveg_restrict_dcnr2">Rajoita DCNR [SIM2] :</string>
-  <string name="fiveg_sa_switch_title">SA-verkko</string>
+  <string name="fiveg_sa_switch_open_dialog_content">5G-yhteys saattaa olla epävakaa itsenäisessä tilassa, joka saattaa vaikuttaa puhelinpalveluihin. Otetaanko SA-tila käyttöön siitä huolimatta?</string>
+  <string name="fiveg_sa_switch_open_dialog_title">Huomio</string>
+  <string name="fiveg_sa_switch_summary">Salli yhteyden muodostaminen 5G-verkkoihin itsenäisessä tilassa</string>
+  <string name="fiveg_sa_switch_title">SA-tila</string>
   <string name="fiveg_signal_strength1">5G signaalin voimakkuus [SIM1] :</string>
   <string name="fiveg_signal_strength2">5G signaalin voimakkuus [SIM2] :</string>
   <string name="fiveg_switch_status1">5G kytkimen tila [SIM1] :</string>
@@ -1499,7 +1502,12 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="private_num">Salainen numero</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
-  <string name="prompt_to_turnoff_volte_when_failed">VoLTE-palvelut ei ole käytettävissä. Poista VoLTE käytöstä soittaaksesi.</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content">Puheluita ei voi soittaa eikä vastaanottaa. VoLTE-palvelu on nyt pois käytöstä SIM-kortillasi (China Telecom).</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content2">Puheluita ei voi soittaa eikä vastaanottaa. VoLTE-palvelu on nyt pois käytöstä SIM-kortille %d (China Telecom).</string>
+  <string name="prompt_to_suggest_no_call_service_notification_title">Puheluita ei voi soittaa eikä vastaanottaa</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator">Puheluita ei voi soittaa. Ota yhteyttä China Telecomiin ottaaksesi VoLTE-palvelun käyttöön.</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator2">SIM %d ei voi soittaa puheluita. Ota yhteyttä China Telecomiin ottaaksesi VoLTE-palvelun käyttöön.</string>
+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE-palvelu ei ole käytettävissä. Poista VoLTE käytöstä soittaaksesi.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Palvelu ei ole käytettävissä. Poista VoLTE käytöstä Asetuksissa.</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Valitse LTE ensisijaisen verkon tyypiksi ennen kuin otat VoLTE:n käyttöön.</string>
   <string name="prompt_when_turnon_volte_without_lte">VoLTE-verkkoja ei ole käytettävissä. Ottamalla VoLTE käyttöön saattaa se estää soittamasta normaaleja puheluita.</string>
