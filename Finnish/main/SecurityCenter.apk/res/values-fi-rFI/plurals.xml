@@ -238,6 +238,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%1$d henkilöä pelaa</item>
         <item quantity="one">%1$d henkilö pelaa</item>
     </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d katselukertaa</item>
         <item quantity="one">%1$d katselukerta</item>
@@ -430,6 +434,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Käytettiin %d vuotta sitten</item>
         <item quantity="one">Käytettiin %d vuosi sitten</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Voit suojata vähintään %s sovellusta</item>
+        <item quantity="one">Voit suojata vähintään %s sovelluksen</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">Lisättiin %d peliä</item>
         <item quantity="one">Lisättiin %d peli</item>
@@ -445,6 +453,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d peliä ei ole lisätty</item>
         <item quantity="one">%d peliä ei ole lisätty</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d sovellusta</item>
+        <item quantity="one">%d sovellus</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d päivää jäljellä, kunnes Verkon nopeuden parantajan istunto päättyy. Uusi istuntosi välttääksesi ongelmia verkon nopeuden kanssa.</item>

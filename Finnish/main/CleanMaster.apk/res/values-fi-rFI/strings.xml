@@ -592,9 +592,9 @@
   <string name="recommend_news">Vastaanota suosituksia</string>
   <string name="recommend_the_following">Tee seuraavat toiminnot, jotta saat laitteestasi kaiken irti</string>
   <string name="recommended">Suosittua</string>
-  <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; tiedostoa voi vielä tyhjentää. Vapauta lisää tilaa.&lt;/Data&gt;</string>
-  <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Voit tyhjentää &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; QQ:n luomaa välimuistia&lt;/Data&gt;</string>
-  <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChatin välimuistia. Vapauta lisää tilaa.&lt;/Data&gt;</string>
+  <string name="resutl_function_deep_clean_summary"><Data>&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; tiedostoa voi vielä tyhjentää. Vapauta lisää tilaa.</Data></string>
+  <string name="resutl_function_qq_clean_summary"><Data>Voit tyhjentää &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; QQ:n luomaa välimuistia</Data></string>
+  <string name="resutl_function_wechat_clean_summary"><Data>&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChatin välimuistia. Vapauta lisää tilaa.</Data></string>
   <string name="sc_allow_network_dialog_button">Hyväksy</string>
   <string name="sc_allow_network_dialog_message">Sallitaanko tämän sovelluksen ottaa yhteyttä internetiin saadakseen päivityksiä?</string>
   <string name="scanning">Skannataan…</string>

@@ -1208,7 +1208,7 @@ Siirtonopeus"</string>
   <string name="bootloader_device_bind_no_sim">Aseta SIM-kortti ja yritä uudelleen.</string>
   <string name="bootloader_device_bind_server_code">Ei voitu lisätä. Virhekoodi:</string>
   <string name="bootloader_device_bind_sim_invalid">SIM-kortti on virheellinen. Korvaa se uudella ja yritä uudelleen.</string>
-  <string name="bootloader_locked_answer_1">Lukitsemme laitteet varmistaaksemme, että ne on ovat turvassa ja ettei henkilökohtaiset tietosi jaeta kolmansille osapuolille. Jos sinun täytyy päästä Fastboot tilaan ja asentaa laitteesi, voit avata lukon.</string>
+  <string name="bootloader_locked_answer_1">Lukitsemme laitteet varmistaaksemme, että ne on ovat turvassa ja ettei henkilökohtaisia tietojasi jaeta kolmansille osapuolille. Jos sinun täytyy päästä Fastboot-tilaan ja asentaa laitteesi, avaa lukitus ensin.</string>
   <string name="bootloader_locked_answer_1_warning">Muista: Et voi käyttää \"Etsi laite\" ominaisuutta puhelimen lukituksen avaamisen jälkeen.</string>
   <string name="bootloader_locked_answer_2">"1. Varmista, että olet asettanut jo SIM-kortin laitteeseesi.
 2. Poista Wi-Fi käytöstä ja ota mobiilidata käyttöön. Varmista, että laitteesi voi yhdistää internetiin käyttäen mobiilidataa.
@@ -1453,10 +1453,12 @@ Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
   <string name="close_demo_mode">Peruuta</string>
   <string name="close_fod">Et voi poistaa laitteesi lukitusta sormenjäljelläsi näytön ollessa sammutettuna. Sormenjäljellä avaaminen toimii vain näytön ollessa päällä.</string>
   <string name="close_fod_aod">Et voi poistaa laitteesi lukitusta sormenjäljelläsi näytön ollessa sammutettuna. \"Aina käytössä -tila\" ei ole myöskään käytössä. Sormenjäljellä avaaminen toimii vain näytön ollessa päällä.</string>
+  <string name="close_hotspot_hint">Poista kannettava hotspot käytöstä ennen suoratoistamista</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_optimization_message">Poistamalla tämän ominaisuuden käytöstä saattaa vaikuttaa tekstin ulkoasuun, tileihin, ja muihin MIUI:n osiin.</string>
   <string name="close_optimization_option">Poista käytöstä</string>
   <string name="close_privacy_thumbnail_blur_title">Esikatseluita ei ole sumennettu</string>
+  <string name="close_slave_wifi_hint">Katkaise yhteys apu Wi-Fi-verkoista ennen suoratoistamista</string>
   <string name="cloud_backup_section_title">Xiaomi Pilven varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
   <string name="cloud_restore_section_summary">Palauta järjestelmän asetukset, Aloitusnäytön ulkoasu ja sovellukset</string>
@@ -6591,6 +6593,7 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vibrate_title">Värinä</string>
   <string name="vibrate_when_ringing_title">Värinä puheluille</string>
   <string name="video_calling_settings_title">Videopuheluiden operaattori</string>
+  <string name="video_tool_box_title">Video-työkalupakki</string>
   <string name="vip_list">Salli saapuvat puhelut</string>
   <string name="virtual_keyboard_category">Virtuaalinen näppäimistö</string>
   <string name="virtual_keyboards_for_work_title">Virtuaalinen näppäimistö työkäyttöön</string>

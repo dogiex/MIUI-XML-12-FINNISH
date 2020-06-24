@@ -106,7 +106,7 @@ Huomio: Asennettujen sovellusten datatietoja ei varmuuskopioida Xiaomi Pilveen. 
   <string name="cloud_backup_detail_title">Aloitusnäyttö, sovellukset ja asetukset.</string>
   <string name="cloud_backup_have_data">Löydettiin varmuuskopio Xiaomi Pilvestä</string>
   <string name="cloud_backup_in_cancel">Peruuta</string>
-  <string name="cloud_backup_in_process">Varmuuskopioidaan…</string>
+  <string name="cloud_backup_in_process">Varmuuskopioidaan</string>
   <string name="cloud_backup_select_recover">Valitse varmuuskopio Xiaomi Pilvestä</string>
   <string name="cloud_restore_from_other_device">Lopetetaanko kohteesta %s palauttaminen ja poistetaanko tämä varmuuskopio? Et voi kumota tätä toimintoa.</string>
   <string name="cloud_restore_task">Palautetaan…</string>

@@ -331,6 +331,7 @@ Muotokuvatilassa"</string>
   <string name="location_permission_des">Muista kuvien ja videoiden sijainti</string>
   <string name="location_permission_not_ask_again">Salli Kameran käyttää sijaintiasi Asetuksissa.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Salli</string>
+  <string name="log_format">LOKI</string>
   <string name="lying_direct_hint">Nykyinen suunta</string>
   <string name="macro_mode">Makro</string>
   <string name="macro_mode_tip">Linssin ja kohteen etäisyys toisistaan ei pitäisi ylittää 10 cm</string>
@@ -400,6 +401,8 @@ näyttävät kuvissa suuremmilta"</string>
   <string name="mimoji_selected">Valitse</string>
   <string name="mimoji_start_create">Luodaan Mimojia…</string>
   <string name="mimoji_tips">Ota kuva napauttamalla. Nauhoita video painamalla ja pitämällä pohjassa.</string>
+  <string name="miservice_notification_content">Opi lisää napauttamalla</string>
+  <string name="miservice_notification_title">Opi lisää Kameran uusista toiminnoista</string>
   <string name="module_name_beauty">Kaunistus</string>
   <string name="module_name_capture">Kuva</string>
   <string name="module_name_fun">Lyhyt video</string>
@@ -429,8 +432,12 @@ Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän &amp;lt;a 
   <string name="pano_how_to_use_prompt_slow_down">Hidasta hieman…</string>
   <string name="pano_how_to_use_prompt_start">Napauta nuolta vaihtaaksesi suuntaa ja aloita panoroimaan hitaasti.</string>
   <string name="pano_how_to_use_prompt_to_move">Aloita panoroimaan hitaasti</string>
+  <string name="parameter_log_format_title">LOKI</string>
   <string name="path_settings">Järjestelmäsovellukset/Kamera/Asetukset</string>
-  <string name="photo_assistance_tips_title">Live-vinkkejä</string>
+  <string name="photo_assistance_tips_title">Live-vinkit</string>
+  <string name="pic_flaw_blink_more">Näyttää siltä, että joku kehyksessä sulki silmänsä</string>
+  <string name="pic_flaw_blink_one">Näyttää siltä, että henkilö kehyksessä sulki silmänsä</string>
+  <string name="pic_flaw_cover">Näyttää siltä, että linssi on osittain peitetty</string>
   <string name="popup_tip_3d_beauty_intro_text">3D-Kauneus</string>
   <string name="portait_effect_entry_blackwhite">M&amp;V</string>
   <string name="portait_effect_entry_cool">Minttu</string>
@@ -458,9 +465,9 @@ kuvasi taustan"</string>
   <string name="portrait_india_effect_entry_portrait">Muotokuva</string>
   <string name="portrait_india_effect_entry_retro">Retro</string>
   <string name="portrait_india_effect_entry_romantic">Romanttinen</string>
-  <string name="portrait_india_effect_entry_strong">Voimakas</string>
+  <string name="portrait_india_effect_entry_strong">Intensiivinen</string>
   <string name="portrait_india_effect_entry_sunny">Aurinkoinen</string>
-  <string name="portrait_india_effect_entry_sweet">Makea</string>
+  <string name="portrait_india_effect_entry_sweet">Karamelli</string>
   <string name="portrait_india_effect_entry_warm">Lämmin</string>
   <string name="portrait_india_effect_entry_young">Nuori</string>
   <string name="portrait_mode_depth_effect_success_hint">Syvyystehoste</string>
@@ -563,8 +570,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Pois käytöstä</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_heic_image_format_description">Kaappaa valokuvia tehokkaassa HEIF-muodossa</string>
-  <string name="pref_camera_heic_image_format_title">HEIC-muoto</string>
+  <string name="pref_camera_heic_image_format_description">Tehokkaan kuvatiedostomuodon valokuvat vievät vähemmän tallennustilaa, mutta jotkut sovellukset eivät tue niitä</string>
+  <string name="pref_camera_heic_image_format_title">HEIF-muoto</string>
   <string name="pref_camera_hfr_entry_off">Pois käytöstä</string>
   <string name="pref_camera_histogram_entry_disable">Poista käytöstä</string>
   <string name="pref_camera_histogram_entry_enable">Ota käyttöön</string>
@@ -732,6 +739,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_photo_assistance_tips_off">Pois käytöstä</string>
   <string name="pref_photo_assistance_tips_on">Käytössä</string>
+  <string name="pref_pic_flaw_tip_summary">Vastaanota reaaliaikaisia ilmoituksia, kun kehyksen ihmiset sulkevat silmänsä tai linssi on osittain peitetty kuvauksen aikana</string>
+  <string name="pref_pic_flaw_tip_title">Ilmoita puutteista</string>
   <string name="pref_popup_camera_title">Ponnahduskamera</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
   <string name="pref_qc_focus_position_title">F</string>

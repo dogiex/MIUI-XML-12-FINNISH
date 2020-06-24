@@ -116,7 +116,7 @@
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Kiellä ja älä kysy uudelleen</string>
   <string name="location_settings">Sijaintiasetukset</string>
   <string name="location_warning">%1$s on sijaintipalveluiden tarjoaja tälle laitteelle. Sijainnin pääsyä voi muokata sijainnin asetuksista.</string>
-  <string name="never_ask_again">Älä kysy uudelleen</string>
+  <string name="never_ask_again">Älä kysy uudelleen rajoittamisen jälkeen</string>
   <string name="ok">OK</string>
   <string name="permdesc_camera">Ota kuvia ja nauhoita videoita</string>
   <string name="permdesc_in_calls">Monitoroi saapuvia puheluita</string>

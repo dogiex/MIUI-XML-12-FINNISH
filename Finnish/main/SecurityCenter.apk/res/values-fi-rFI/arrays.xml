@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="applock_password_types">
+        <item>Kuvio</item>
+        <item>PIN</item>
+        <item>Salasana</item>
+    </string-array>
     <string-array name="date_of_traffic_cmcc">
         <item>"Tällä viikolla "</item>
         <item>"Tänään "</item>

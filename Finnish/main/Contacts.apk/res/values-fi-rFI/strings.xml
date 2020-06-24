@@ -923,7 +923,7 @@ Lisätäksesi yhteystietoja suosikkeihisi:
   <string name="option_send_to_others">Lähetä edelleen</string>
   <string name="option_view_contact">Näytä</string>
   <string name="option_view_group">Näytä</string>
-  <string name="organizationLabelsGroup">Organisaatio</string>
+  <string name="organizationLabelsGroup">Asema</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="other_contacts">Muut yhteystiedot</string>
   <string name="other_phone">Muut laitteet</string>
