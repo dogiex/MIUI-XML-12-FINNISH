@@ -113,7 +113,7 @@ Jos sinun täytyy ottaa Miracasti käyttöön, paina [MENU] painiketta ja valits
   <string name="privacy_agree">Hyväksyn</string>
   <string name="privacy_text_1"><Data>"Tervetuloa Suoratoistoon! Suoratoistaminen sallii puhelimesi kohteiden peilaamisen isommalle ulkoiselle näytölle.
 Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti. Jotkut ominaisuudet tarjoaa kolmannen osapuolen palveluntarjoaja HappyCast. Ennen tämän ominaisuuden käyttämistä, lue ja hyväksy meidän &amp;lt;a href=%2$s&amp;gt;HappyCast Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%1$s&amp;gt;HappyCast Tietosuojakäytäntö&amp;lt;/a&amp;gt;.
-Toimiakseen normaalisti, tämä sovellus tarvitsee internetyhteyden ja se vaatii myös seuraavat käyttöoikeudet kerätäkseen henkilötietojasi:"</Data></Data></string>
+Toimiakseen normaalisti, tämä sovellus tarvitsee internetyhteyden ja se vaatii myös seuraavat käyttöoikeudet kerätäkseen henkilötietojasi:"</Data></string>
   <string name="privacy_text_2"><Data>"Jos et hyväksy käyttöoikeuksia tai jaa ja lähetä henkilötietojasi, et voi käyttää tätä sovellusta. Voit poistaa tämän sovelluksen, kirjautua ulos siitä tai rajoittaa käyttöoikeuksia Asetuksissa näissä tapauksissa.
 Lue ja hyväksy meidän &amp;lt;a href=%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%2$s&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt; ennen tämän ominaisuuden käyttämistä."</Data></string>
   <string name="privacy_text_pemission">"　　•Kuvien käyttäminen ja tallentaminen laitteellesi, jotta niitä voidaan peilata ulkoisille näytöille
