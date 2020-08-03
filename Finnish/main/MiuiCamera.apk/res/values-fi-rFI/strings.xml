@@ -169,7 +169,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="confirm_install_scanner_message">Lukijalla voit skannata QR-koodeja, viivakoodeja ja muuta. Sinun ei tarvitse yhdistää internetiin asentaaksesi sitä.</string>
   <string name="confirm_install_scanner_title">Asenna Lukija</string>
   <string name="confirm_location_alert">Muista kuvien sijainnit</string>
-  <string name="confirm_location_message">Merkkaa kuviin ja videoihin sijainti, missä ne on otettu. Muut sovellukset voivat käyttää tätä tietoa.</string>
+  <string name="confirm_location_message"><Data>Tervetuloa Kameraan! Merkkaamalla kuviisi ja videoihisi sijainnin, missä ne on otettu, tekee Galleriastasi järjestäytyneemmän ja auttaa sinua löytämään kohteita nopeammin. Joitakin toimintoja ei voi käyttää jos rajoitat sijaintitietojen lisäämistä.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti.</Data></string>
   <string name="confirm_location_title">Muistetaanko kuvien sijainnit?</string>
   <string name="confirm_recording_fail_calling_alert">Puhelun aikana ei voi nauhoittaa.</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Toinen sovellus saattaa käyttää jo laitteen mikrofonia nauhoittamiseen.</string>
@@ -328,6 +328,7 @@ Muotokuvatilassa"</string>
   <string name="live_sticker_network_error_hint">Verkkovirhe</string>
   <string name="live_sticker_tab_name">TikTok Magic -tarra</string>
   <string name="live_sticker_updating">Päivitetään…</string>
+  <string name="location_access_allow">Salli</string>
   <string name="location_permission_des">Muista kuvien ja videoiden sijainti</string>
   <string name="location_permission_not_ask_again">Salli Kameran käyttää sijaintiasi Asetuksissa.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Salli</string>

@@ -51,6 +51,13 @@
   <string name="call_anyone">Soita</string>
   <string name="camera_error_title">Kamera virhe</string>
   <string name="cancel">Peruuta</string>
+  <string name="carsHome_title">Auto</string>
+  <string name="cars_is_public">Julkaistu</string>
+  <string name="cars_no_public">Ei julkaistu</string>
+  <string name="cars_solution">"Ratkaisu: "</string>
+  <string name="cars_suitability">"Osuma: "</string>
+  <string name="cars_title">Skannaa auto tai auton osa</string>
+  <string name="carshome_data">Teknisen tuen tarjoaa Autohome Inc.</string>
   <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
   <string name="check_for_updates">Tarkista Beta-päivitykset</string>
   <string name="choose_open_code_app">Valitse sovellus</string>
@@ -68,6 +75,7 @@
   <string name="continue_waiting">Jatka odottamista</string>
   <string name="copy_text">Kopioi teksti</string>
   <string name="copy_text_success">Teksti kopioitu</string>
+  <string name="copy_tracknum">Kopioi seurantakoodi</string>
   <string name="crop_cancel_description">Peruuta</string>
   <string name="crop_done_description">Valmis</string>
   <string name="crop_title_study">Rajaa kuva</string>
@@ -133,11 +141,13 @@
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Tietosuojakäytäntö</string>
   <string name="jd_shopping_title">Hae JD:stä</string>
+  <string name="jingdong">JD</string>
   <string name="keywords_search_code">Lukija;Lue;QR koodi;QR;Tunnistus;Viivakoodi;Viivakoodit;Tuote;Tuotteet;Alipay;WeChat;Kuinka luen QR koodin;Kuinka luen viivakoodin;Kuinka skannaan;MIUI Lukija</string>
   <string name="keywords_search_document">Lukija;Skanneri;Lue asiakirja;Lue asiakirjoja;OCR;Lue tekstiä;Lue</string>
   <string name="keywords_search_namecard">Lukija;Skanneri;Käyntikortti;Käyntikortit;Skannaa;Skannaa kortteja;Kortti;Kortit;Yhteystiedot;Yhteystieto</string>
   <string name="keywords_search_study">Lukija;Skanneri;Ongelmat;Ratkaise ongelmia;Kotityö;Koulu;Fysiikka;Kemia;Matematiikka;Englanti;Historia;Kiinalainen</string>
   <string name="keywords_search_translation">Lukija;Skanneri;Käännä;Sanakirja;Englanti;Ulkomaan kieli;Kieli;Kielet;Englannista Kiinaksi;Italialainen;Saksalainen;Japanilainen;Korealainen;Espanjalainen;Ranskalainen;Baidu Kääntäjä;Youdao Sanakirja;Baidu Sanakirja;Google Kääntäjä</string>
+  <string name="kuaidi100_data">Powered by Kuaidi 100</string>
   <string name="label_choose_picture">Valitse kuva</string>
   <string name="label_flash_light">Taskulamppu</string>
   <string name="language_entry_chinese_cn">Yksinkertaistettu kiina</string>
@@ -147,6 +157,7 @@
   <string name="language_entry_japanese">Japani</string>
   <string name="language_entry_korean">Korea</string>
   <string name="language_entry_spanish">Espanja</string>
+  <string name="logistics">Pikalähetys</string>
   <string name="low_version_tip">Päivitä MIUI viimeisimpään versioon käyttääksesi Lukijaa.</string>
   <string name="miracast_connect">Suoratoista</string>
   <string name="miracast_connect_fail">Suoratoistaminen epäonnistui, yritä uudelleen</string>
@@ -155,6 +166,7 @@
   <string name="miracast_message">Suoratoistetaanko kohteeseen %s?</string>
   <string name="miracast_switch_off">Langaton näyttö on pois käytöstä</string>
   <string name="miracast_switch_tip">Käyttääksesi tätä toimintoa, ota langaton näyttö käyttöön</string>
+  <string name="mishop">Mi Store</string>
   <string name="module_title_business_card">Käyntikortti</string>
   <string name="module_title_code">QR-koodi</string>
   <string name="module_title_document">Asiakirja</string>
@@ -174,6 +186,7 @@
   <string name="not_insert_contact">Yhteystietoa ei voi lisätä</string>
   <string name="not_recommend_access_web_url">Siirry silti</string>
   <string name="note">Huomautus:</string>
+  <string name="now_state">"Nykyinen tila: "</string>
   <string name="once">Vain kerran</string>
   <string name="open_url">Avaa URL-osoite</string>
   <string name="password_toggle_content_description">Näytä salasana</string>
@@ -187,6 +200,7 @@
   <string name="plant_reg_fail_2">Tätä kohdetta ei voitu tunnistaa. Lukija voi tunnistaa vain kasveja.</string>
   <string name="plant_support">" (Tekninen tuki)"</string>
   <string name="plant_title">Skannaa kasvi, jonka haluat tunnistaa</string>
+  <string name="please_try_again_later">Odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="pref_camera_jpeg_quality_fine">hyvä</string>
   <string name="pref_camera_jpeg_quality_normal">normaali</string>
   <string name="pref_camera_jpeg_quality_superfine">tosihyvä</string>
@@ -194,6 +208,11 @@
   <string name="previous">Takaisin</string>
   <string name="prompt">Huomio</string>
   <string name="qr_code_details">QR-koodin tiedot:</string>
+  <string name="queryNum">Tarkista tilaus</string>
+  <string name="query_faile">Tilauksen tila ja yksityiskohdat eivät ole vielä synkronoitu. Tarkista tilauksesi manuaalisesti.</string>
+  <string name="query_inai">Anna Mi AI:n auttaa sinua</string>
+  <string name="query_more">Lisätietoja</string>
+  <string name="query_tracknum">Tarkista pikalähetyksen tilaus</string>
   <string name="recognize">Skannaa</string>
   <string name="recognize_fail">Koodia ei voitu lukea</string>
   <string name="request_server_failed">Palvelimeen ei saatu yhteyttä</string>
@@ -203,6 +222,7 @@
   <string name="search_menu_title">Haku</string>
   <string name="secure_access_web_url">Siirry verkkosivulle</string>
   <string name="see_app_details">Näytä sovelluksen tiedot</string>
+  <string name="see_details">Näytä tiedot napauttamalla</string>
   <string name="select_dialog_confirm">OK</string>
   <string name="send_mail">Lähetä sähköposti</string>
   <string name="setting_alipay">Alipay</string>
@@ -230,6 +250,7 @@
   <string name="study_vendor_info">Powered by Zuoyebang</string>
   <string name="suggested_submission_success">Palautteesi lähetettiin onnistuneesti</string>
   <string name="switch_open">Ota käyttöön</string>
+  <string name="taobao">Taobao</string>
   <string name="tel">Puhelin</string>
   <string name="title">Otsikko:</string>
   <string name="to_install_title">Tämä QR-koodi uudelleenohjaa sinut poistettuun sovellukseen. Ladataanko tämä sovellus nyt?</string>
@@ -270,6 +291,7 @@
   <string name="url_is_unknown">Tämän verkkosivun turvallisuutta ei voida tarkistaa</string>
   <string name="url_is_unsafety">Tämä verkkosivu ei ole turvallinen</string>
   <string name="vender_info_translation_kingsoft">Teknisen tuen tarjoaa Kingsoft</string>
+  <string name="waybill_num">"Tilaus: "</string>
   <string name="web">Verkkosivu:</string>
   <string name="website_details">Verkkosivu:</string>
   <string name="weixin_code_tip">Skannaa tämä QR-koodi käyttäen WeChattiä</string>
@@ -283,6 +305,8 @@
   <string name="wifi_ssid">SSID:</string>
   <string name="will_be_sent_tothe_background_review">" (Hakemuksesi lähetetään pian tarkistettavaksi.)"</string>
   <string name="wx_not_installed_toast">Tämän ominaisuuden täytyy käyttää WeChattia. Asenna WeChat ensin.</string>
+  <string name="xiaoai_dialog">"Kokeile sanoa mitä
+haluat skannataksesi Mi AI:lla"</string>
   <string name="you_have_permission_to_download">Lataa Beta-versio napauttamalla</string>
   <string name="you_id">"ID:si: "</string>
   <string name="your_application_is_under_review">" (Hakemustasi tarkistetaan parhaillaan.)"</string>

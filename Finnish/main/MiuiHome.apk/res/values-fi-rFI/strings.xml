@@ -30,7 +30,7 @@
     <string name="action_add_to_workspace">Lisää työtilaan</string>
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
     <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
-    <string name="add_custom_category">Mukauta</string>
+    <string name="add_custom_category">Mukautettu</string>
     <string name="add_screen">Lisää näyttö</string>
     <string name="added_all_category">Lisättiin kaikki sovellukset onnistuneesti</string>
     <string name="all_app_category_all">Kaikki</string>
@@ -127,6 +127,8 @@
     <string name="aqi_quality_index_light_pollution">Varoitus</string>
     <string name="aqi_quality_index_moderate">Keskinkertainen</string>
     <string name="aqi_quality_index_unhealthy">Epäterveellinen</string>
+    <string name="auto_delete_category_dialog_content">Nykyiset sovellukset poistetaan tästä kategoriasta ja kategoria poistetaan. Poistetaanko tämä kategoria nyt?</string>
+    <string name="auto_delete_category_dialog_title">Kategorian poistaminen</string>
     <string name="backup_fail">Käynnistintä ei voitu varmuuskopioida</string>
     <string name="bad_wallpaper_source_prompt">Taustakuvaa ei voi ladata</string>
     <string name="buffering">Puskuroidaan…</string>
@@ -164,6 +166,7 @@
     <string name="default_folder_title_game">Pelit</string>
     <string name="default_folder_title_meitu">Meitu sovellukset</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
+    <string name="default_folder_title_other_apps">Muita sovelluksia</string>
     <string name="default_folder_title_recommend">Lisää sovelluksia</string>
     <string name="default_folder_title_security">Järjestelmä</string>
     <string name="default_folder_title_services">Palvelut</string>
@@ -434,7 +437,6 @@
     <string name="status_paused">Pysäytetty</string>
     <string name="status_pending">Odotetaan</string>
     <string name="system_shortcuts_more_operation">Sovellustiedot</string>
-    <string name="system_shortcuts_remove">Poista</string>
     <string name="system_text">Järjestelmä</string>
     <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
     <string name="title_select_live_folder">Valitse kansio</string>

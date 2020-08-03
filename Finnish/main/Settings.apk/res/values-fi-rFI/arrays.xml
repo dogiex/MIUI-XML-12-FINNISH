@@ -340,7 +340,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen -ääni</item>
         <item>Qualcomm® aptX™ TWS+ -ääni</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
@@ -353,7 +355,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptiivinen -ääni</item>
         <item>Qualcomm® aptX™ TWS+ -ääni</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>

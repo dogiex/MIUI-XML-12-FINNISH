@@ -38,6 +38,8 @@
   <string name="aod_dual_togother_12">h.mm aa</string>
   <string name="aod_lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="aod_lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
+  <string name="aod_lock_screen_date_12_signature">d.M.</string>
+  <string name="aod_lock_screen_date_signature">d.M.</string>
   <string name="aod_mode_preview">Esikatselu</string>
   <string name="aod_mode_style">Kellon tyyli ja tausta</string>
   <string name="aod_mode_style_title">Lisää valintoja</string>
@@ -47,6 +49,7 @@
   <string name="aod_mode_title">Himmennetty näyttö</string>
   <string name="aod_show_date_and_time">Näytä päivämäärä ja aika</string>
   <string name="aod_show_style_title">Näytettävät kohteet</string>
+  <string name="aod_signature_12">h.mm aa</string>
   <string name="aod_style">Teema</string>
   <string name="aod_to_close">Poista käytöstä</string>
   <string name="apply">Aseta</string>
