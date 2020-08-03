@@ -131,7 +131,6 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="camera_snap_mode_title_detail">Näytä tiedot napauttamalla</string>
   <string name="cannot_connect_camera_once">Kameraan ei saada yhteyttä</string>
   <string name="cannot_connect_camera_twice">Kameraan ei saada vieläkään yhteyttä. Kokeile käynnistää laite uudelleen.</string>
-  <string name="cannot_connect_camera_volte_call">Videopuhelu on käynnissä, yritä myöhemmin uudelleen.</string>
   <string name="cannot_move_warning_message">Otetaan kuvaa, pidä laite vakaana</string>
   <string name="capture_back_pressed_hint">Poistu napauttamalla uudelleen</string>
   <string name="ccc_temperature_warning_msg">Laitteesi on ylikuumentunut. Kamera suljetaan %d sekunnin kuluttua. Valokuvasi tai videosi tallennetaan automaattisesti.</string>

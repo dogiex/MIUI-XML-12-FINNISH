@@ -896,7 +896,7 @@ Lisätäksesi yhteystietoja suosikkeihisi:
   <string name="no_contacts_dialog_message">Yhteystiedot saattaa olla SIM-kortilla. Yritä tuoda yhteystiedot SIM-kortilta laitteen sisäiseen tallennustilaan ja yritä uudelleen.</string>
   <string name="no_contacts_dialog_title">Yhteystietoja ei löydy</string>
   <string name="no_contacts_selected">Yhteystietoja ei ole valittuna.</string>
-  <string name="no_phone_no_shortcut">Yhteystiedoista ei voi luoda pikakuvakkeita, joilla ei ole puhelinnumeroa</string>
+  <string name="no_phone_no_shortcut">Pikakuvakkeita ei voi luoda yhteystiedoista, joilla ei ole puhelinnumeroa</string>
   <string name="no_sdcard_message">SD-korttia ei löydy.</string>
   <string name="no_setting_menu">Valikkovaihtoehtoja ei saatavilla</string>
   <string name="non_phone_add_to_contacts">Lisää yhteystietoihin</string>
