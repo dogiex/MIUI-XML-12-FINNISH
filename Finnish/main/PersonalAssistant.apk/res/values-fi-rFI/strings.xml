@@ -18,9 +18,9 @@
   <string name="app_setting_xiaoai">Mi AI-painike</string>
   <string name="app_suggest_detail_setting_summary">Sovellusehdotukset pohjautuu käyttötietoihisi</string>
   <string name="app_suggest_detail_setting_title">Salli sovellusten tilan käyttö</string>
-  <string name="app_suggest_setting_brief">Näytä viimeksi käytetyt sovellukset</string>
-  <string name="app_suggest_setting_brief_detail">Sovellusehdotukset pohjautuu käyttötietoihisi</string>
-  <string name="app_suggest_setting_title">Sovellusehdotukset</string>
+  <string name="app_suggest_setting_brief">Vastaanota ehdotuksia sovelluksista ja ominaisuuksista, joita todennäköisimmin käytät</string>
+  <string name="app_suggest_setting_brief_detail">Vastaanota ehdotuksia sovelluksista ja ominaisuuksista, joita todennäköisimmin käytät.</string>
+  <string name="app_suggest_setting_title">Älykkäät ehdotukset</string>
   <string name="book_his">Varaushistoria</string>
   <string name="book_input_lack">Täytä ensin kaikki vaaditut alueet</string>
   <string name="book_save_fail">Varausta ei voitu lisätä. Yritä uudelleen.</string>
@@ -197,7 +197,8 @@
   <string name="card_expand_note_toast_clear_null">Tyhjennettiin onnistuneesti</string>
   <string name="card_expand_note_toast_save_done">Tallennettiin Muistioon</string>
   <string name="card_expand_note_toast_save_dup">Tallennettiin onnistuneesti</string>
-  <string name="card_hint_noteboard">Luo muistiinpano napauttamalla tähän.</string>
+  <string name="card_expand_note_toast_share_null">Tämä muistio on tyhjä</string>
+  <string name="card_hint_noteboard">Luo muistio napauttamalla tähän.</string>
   <string name="card_menu_edit">Muokkaa</string>
   <string name="card_menu_remove">Poista</string>
   <string name="card_menu_setting">Asetukset</string>

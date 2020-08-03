@@ -34,7 +34,7 @@
   <string name="account_settings_enforced_summary">Ei mitään</string>
   <string name="account_settings_incoming_summary">Käyttäjänimi, salasana ja muita saapuvan postin asetuksia</string>
   <string name="account_settings_login_dialog_content_fmt">Käyttäjänimi tai salasana %s on väärä. Päivitetäänkö ne nyt?</string>
-  <string name="account_settings_login_dialog_reason_fmt">%1$s kirjautuminen epäonnistui. Palvelin ilmoittaa virheestä: %2$s</string>
+  <string name="account_settings_login_dialog_reason_fmt">%1$s kirjautuminen epäonnistui. Palvelin ilmoittaa virheestä: %2$s. Päivitetäänkö käyttäjänimesi tai salasanasi?</string>
   <string name="account_settings_login_dialog_title">Kirjautuminen ei onnistu</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Sinun täytyy päivittää Sähköposti manuaalisesti synkronoidaksesi sähköpostisi</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">Sinun täytyy synkronoida Sähköposti manuaalisesti synkronoidaksesi viestit ja kalenteritapahtumat.</string>
@@ -348,7 +348,7 @@
   <string name="contextmenu_openlink">Avaa selaimessa</string>
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
-  <string name="contextmenu_sms_dot">Tekstiviesti...</string>
+  <string name="contextmenu_sms_dot">Tekstiviesti…</string>
   <string name="conversation_cert_distrust">Älä luota</string>
   <string name="conversation_cert_info_tips">Tämä sähköposti allekirjoitettiin luotetulla varmenteella</string>
   <string name="conversation_cert_info_title">Allekirjoitettu</string>

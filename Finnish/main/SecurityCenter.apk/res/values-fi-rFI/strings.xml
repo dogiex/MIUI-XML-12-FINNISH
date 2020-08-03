@@ -1165,6 +1165,7 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gamebox_immersion_tips_content">Immersiivinen tila rajoittaa SIM-kortin kaikkia toiminnallisuuksia paitsi mobiilidatayhteyttä. Sinua ei keskeytetä puheluilla, etkä tule saamaan ilmoituksia vastaamattomista puheluista. SIM-kortin kaikki toiminnallisuudet palautetaan takaisin, kun Immersiivinen tila poistetaan käytöstä. Otetaanko Immersiivinen tila käyttöön?</string>
   <string name="gamebox_immersion_tips_title">Huomio</string>
   <string name="gamebox_immerson_open">Immersiivistä tilaa otetaan käyttöön. Älä vaihda verkkoja…</string>
+  <string name="gamebox_manual_record">Nauhoita</string>
   <string name="gamebox_milink">Suoratoista</string>
   <string name="gamebox_positive_button_text">OK (%1$d s)</string>
   <string name="gamebox_qq_not_find">Asenna QQ ja yritä uudelleen.</string>

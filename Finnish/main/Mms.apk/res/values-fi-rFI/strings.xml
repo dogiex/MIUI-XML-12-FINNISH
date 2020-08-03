@@ -272,6 +272,10 @@ Jos et suostu myöntämään tällaisia lupia tai jakamaan ja lähettämään he
   <string name="fake_cell_timeout_hint">Turvallisuuden tarkastaminen epäonnistui</string>
   <string name="favorite_at_time">Lisättiin suosikkeihin klo: %1s</string>
   <string name="fdn_check_failure">Voit lähettää vain viestejä sallittuihin numeroihin.</string>
+  <string name="feature_mx">Mi Viesti</string>
+  <string name="feature_mx_summary">&lt;b&gt;Mi Viestillä voit lähettää toisille Mi Viestit -käyttäjille viestejä internetin välityksellä ilman lisäkustannuksia&lt;/b&gt;. Lähtevä tekstiviesti vaaditaan tämän palvelun aktivoimiseksi. Operaattorisi veloittaa sinua tästä viestistä. Lue ja hyväksy meidän &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Käyttöehdot&lt;/a&gt;&lt;/font&gt; ja &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Tietosuojakäytäntö&lt;/a&gt;&lt;/font&gt; ennen tämän ominaisuuden käyttämistä.</string>
+  <string name="feature_smart_sms">Älyviestintä</string>
+  <string name="feature_smart_sms_summary">&lt;b&gt;Älyviestintä tarjoaa Lähettäjän ID:n tunnistamisen ja älyvalikot&lt;/b&gt;". Älyviestinnän tarjoaa osittain Yulore. Lue ja hyväksy Yuloren "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Tietosuojakäytäntö&lt;/a&gt;&lt;/font&gt; ennen tämän ominaisuuden käyttämistä.</string>
   <string name="festival_sms_loading">Ladataan…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Luotu:</string>
@@ -323,6 +327,7 @@ Jos et suostu myöntämään tällaisia lupia tai jakamaan ja lähettämään he
   <string name="hybrid_service_unavailiable">Palvelu ei ole käytettävissä</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="i_know">Selvä</string>
+  <string name="ignore">Ei nyt</string>
   <string name="imageview_ad">Mainos</string>
   <string name="importing_progress_private_message">Tuodaan…</string>
   <string name="in_sms">Viesti</string>
@@ -602,6 +607,7 @@ Tämä viesti saattaa olla ei-toivottu."</string>
   <string name="privacy_password_title3">Päivitä salasanasi</string>
   <string name="privacy_password_title4">Salasana päivitetty</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="privacy_term">Tietosuojakäytäntö</string>
   <string name="private_message">Yksityinen viestintä</string>
   <string name="private_new_notification">Viestin ilmoitukset</string>
   <string name="private_protect">Yksityisyydensuoja</string>
@@ -690,6 +696,12 @@ Tämä viesti saattaa olla ei-toivottu."</string>
   <string name="recommend_bar_ok">Ota käyttöön</string>
   <string name="recommend_bar_title_mx_rcs">Mi Viesti</string>
   <string name="recommend_bar_title_smart_message">Älyviestintä</string>
+  <string name="recommend_both_dialog_title">Tervetuloa Viestit-sovellukseen!</string>
+  <string name="recommend_dialog_message">Voit ottaa Mi Viestin ja Älyviestinnän käyttöön käyttääksesi lisätoimintoja.</string>
+  <string name="recommend_mx_dialog_title">Tervetuloa Mi Viestiin!</string>
+  <string name="recommend_mx_setting_summary">Mi Viestin avulla voit lähettää viestejä toisille Mi Viestit -käyttäjille internetin välityksellä ilman ylimääräisiä kuluja.</string>
+  <string name="recommend_smart_sms_dialog_title">Tervetuloa Älyviestintään!</string>
+  <string name="recommend_smart_sms_setting_summary">Älyviestintä tarjoaa Lähettäjän ID:n tunnistamisen ja älyvalikot.</string>
   <string name="recording_failed">Ei voi nauhoittaa</string>
   <string name="refill_now">Top up nyt</string>
   <string name="refreshing">Päivitetään…</string>
@@ -895,6 +907,7 @@ Tämä viesti saattaa olla ei-toivottu."</string>
   <string name="too_many_unsent_mms">Viestiä ei voi lähettää juuri nyt. Liian monta lähettämätöntä multimediaviestiä.</string>
   <string name="train_edit_destination">Lisää</string>
   <string name="try_to_send">Yritä lähettää</string>
+  <string name="turn_on">Ota käyttöön</string>
   <string name="type_attachment">liitetiedosto</string>
   <string name="type_audio">ääni</string>
   <string name="type_picture">kuva</string>
@@ -923,6 +936,7 @@ Yritys tehty: %s."</string>
   <string name="url_result_safe">Tämä URL-osoite on turvallinen</string>
   <string name="url_scanning">Tarkistetaan URL-osoitetta…</string>
   <string name="user_agreement">Käyttöehdot</string>
+  <string name="user_term">Käyttöehdot</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Vahvistuskoodit</string>
   <string name="view">Näytä</string>
@@ -936,6 +950,7 @@ Yritys tehty: %s."</string>
   <string name="yes">OK</string>
   <string name="yesterday">Eilen</string>
   <string name="you_have_new_message">Sinulla on uusi viesti</string>
+  <string name="yulore_term">Tietosuojakäytäntö</string>
   <string name="zero_sms_feedback_message">Ilmoitetut viestit mukaan lukien niiden lähettäjän puhelinnumerot lähetetään meidän palvelimille. Näitä viestejä käytetään vain Estolistan toimintojen parantamiseksi.</string>
   <string name="zero_sms_feedback_success">Ilmoitettiin onnistuneesti</string>
   <string name="zero_sms_feedback_title">Ilmoita</string>

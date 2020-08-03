@@ -53,7 +53,7 @@
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Kaikki</item>
-        <item>Vain vastaanottajat</item>
+        <item>Vain lähettäjät</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blogi:</item>
