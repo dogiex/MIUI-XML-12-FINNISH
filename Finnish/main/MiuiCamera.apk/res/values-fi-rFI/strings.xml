@@ -278,6 +278,7 @@ Tulosta kopio langattomasti A4-paperille."</string>
   <string name="id_card_mode_use_hint_text_title">Skannaa ID</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Asenna</string>
+  <string name="kaleidoscope_fragment_tab_name">Kaleidoskooppi</string>
   <string name="lens_dirty_detected_content">"Näyttää siltä, että kamerasi linssi on likainen.
 Puhdista kamerasi linssi parempia kuvia varten."</string>
   <string name="lens_dirty_detected_title_back">Takakameran linssi on likainen</string>
