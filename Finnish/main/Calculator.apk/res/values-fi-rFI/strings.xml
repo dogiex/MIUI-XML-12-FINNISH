@@ -116,6 +116,7 @@
   <string name="digit7">7</string>
   <string name="digit8">8</string>
   <string name="digit9">9</string>
+  <string name="disallow">En hyväksy</string>
   <string name="div">÷</string>
   <string name="divDesc">jaa</string>
   <string name="dob_selection_error">Syntymäpäivä täytyy olla ennen tätä päivää</string>
@@ -303,11 +304,20 @@ Yhden ja viiden vuoden LPR:t noteerataan kunkin kuukauden 20. päivänä (viivä
   <string name="negDesc">Vaihda lämpötiloja nollan ala- ja yläpuolella</string>
   <string name="network_confirm_content">Valuuttamuuntimen, veron- ja lainalaskurin on yhdistettävä internetiin ja käytettävä laitteen sijaintitietoja toimiakseen normaalisti.</string>
   <string name="network_confirm_title">Käyttöoikeuksia vaaditaan</string>
+  <string name="network_privacy">Huomaa, että tämän sovelluksen on yhdistettävä internetiin kerätäkseen tarvittavat henkilökohtaiset tiedot, jotta se voi tarjota palveluja sinulle. Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti.</string>
   <string name="none">Ei mitään</string>
   <string name="not_supported_due_to_language">Tämä ominaisuus on käytettävissä vain Kiinan kielellä</string>
   <string name="ok">OK</string>
   <string name="percentDesc">prosentti</string>
   <string name="percentage">%</string>
+  <string name="permission_location">Pääsy sijaintiin</string>
+  <string name="permission_location_desc">Tarjotakseen sijaintiin perustuvia palveluita</string>
+  <string name="permission_phone">Pääsy laitteen tilaan ja ID:seen</string>
+  <string name="permission_phone_desc">Tunnistaakseen eri laitteet</string>
+  <string name="permission_privacy_link"><Data>Ennen tämän sovelluksen käyttämistä, lue ja hyväksy meidän &amp;lt;a href=%1$s&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=%2$s&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;.</Data></string>
+  <string name="permission_purpose">"Tervetuloa Laskimeen! Perusominaisuuksien lisäksi, Laskimella voit muuntaa valuuttoja ja mittayksiköitä, laskea asuntolainan takaisinmaksuajan ja paljon muuta. Suojaamme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti.
+Huomaa, että tämä sovellus täytyy yhdistää internetiin ja tarvitsee seuraavat käyttöoikeudet kerätäkseen henkilökohtaiset tietosi:"</string>
+  <string name="permission_remove_desc">Voit valita tämän sovelluksen poistamisen tai rajoittaa sen käyttöoikeuksia ja peruuttaa sen valtuutuksen Asetuksissa.</string>
   <string name="pi">π</string>
   <string name="piDesc">pi</string>
   <string name="plus">+</string>

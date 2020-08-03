@@ -899,6 +899,8 @@
   <string name="delete">Poista</string>
   <string name="delete_album_failed">Albumin poisto epäonnistui</string>
   <string name="delete_album_msg_format">Poistetaanko \"%2$s\" albumi %1$s %3$s?</string>
+  <string name="delete_album_msg_format_cloud">Poistetaanko %1$s %2$s Xiaomi Cloudista ja kaikista synkronoiduista laitteista?</string>
+  <string name="delete_album_msg_format_local">Poistetaanko %1$s %2$s?</string>
   <string name="delete_album_success">Albumi poistettu</string>
   <string name="delete_from_all_devices_and_cloud">kaikista laitteista ja Xiaomi Pilvestä</string>
   <string name="delete_from_cloud">Poista kohteet Xiaomi Pilvestä</string>
@@ -1141,8 +1143,12 @@ on käytettävissä"</string>
   <string name="filter_scene_vivid">Eloisa</string>
   <string name="filter_scene_warm">Aurinko</string>
   <string name="filter_single_sky">Taivaanmuotoilu</string>
+  <string name="filter_sky_clear_sky">Kirkas taivas</string>
   <string name="filter_sky_cloudy">Pilvinen</string>
+  <string name="filter_sky_cumulus">Kumpupilvi</string>
+  <string name="filter_sky_dawn">Sarastus</string>
   <string name="filter_sky_detect_forbidden_tips">Taivasta ei tunnistettu</string>
+  <string name="filter_sky_double_rainbow">Kaksoissateenkaari</string>
   <string name="filter_sky_download_failed">Liitännäistä ei voitu ladata. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
   <string name="filter_sky_download_finish">Liitännäinen ladattiin onnistuneesti</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">Jos et ole yhteydessä Wi-Fiin, voit käyttää mobiilidataa liitännäisen (%1$d Mt) lataamiseen, joka sallii taivaan vaihtamisen kuvissasi.</string>
@@ -1150,9 +1156,13 @@ on käytettävissä"</string>
   <string name="filter_sky_dusk">Hämärä</string>
   <string name="filter_sky_glow">Hehku</string>
   <string name="filter_sky_hint">Taivaanmuotoilu</string>
+  <string name="filter_sky_nimbus">Sadepilvi</string>
   <string name="filter_sky_rainbow">Sateenkaari</string>
+  <string name="filter_sky_snowy">Luminen</string>
+  <string name="filter_sky_stratus">Sumupilvi</string>
   <string name="filter_sky_sunny">Aurinkoinen</string>
   <string name="filter_sky_sunset">Auringonlasku</string>
+  <string name="filter_sky_twilight">Hämärä</string>
   <string name="finish_create_baby_album_toast">Luotiin albumi \"%s\" Xiaomi Pilveen</string>
   <string name="finish_fill_baby">Luo</string>
   <string name="first_time_add_video_to_secret_tips">Päivitä Galleria piilottaaksesi videoita</string>
@@ -1658,7 +1668,10 @@ mukauttaaksesi Galleriasi"</string>
   <string name="request_sms_url_title">Vinkki</string>
   <string name="retry_to_create_album">Yritä uudelleen</string>
   <string name="retry_to_request_qr_code">Yritä uudelleen</string>
+  <string name="risk_control_deleted_date">d.M.</string>
+  <string name="risk_control_deleted_message">Joku poisti Galleriakohteitasi pilvestä käyttäen laitetta %3$s, %1$s %2$s. Olitko se sinä?</string>
   <string name="risk_control_deleted_time">H.mm</string>
+  <string name="risk_control_deleted_title">Tietoturvavaroitus</string>
   <string name="runtime_permission_ungranted">Galleria suljettiin, vaadittuja käyttöoikeuksia ei ole</string>
   <string name="same_name_album_exist_and_toast">"Saman niminen albumi on jo olemassa. Luotiin '%s' sen sijaan."</string>
   <string name="scan_barcode_guide">Saadaksesi albumin QR-koodin, napauta Jaa-kuvaketta.</string>
@@ -1805,6 +1818,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="slim_stop">Lopeta optimointi</string>
   <string name="special_type_eye_repair">Korjattiin suljetut silmät käyttäen AI:ta</string>
   <string name="special_type_hdr">HDR</string>
+  <string name="special_type_log">LOKI</string>
   <string name="special_type_night_beauty">AI alhaisen valon muotokuva</string>
   <string name="special_type_night_mode">AI-yötila</string>
   <string name="special_type_portrait">AI kevyt muotokuvamaalaus</string>
@@ -1893,7 +1907,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="too_many_recipients">Voit lisätä enintään %2$s vastaanottajaa (Tällä hetkellä lisätyt %1$s).</string>
   <string name="trash_bin">Roskakori</string>
   <string name="trash_bin_key_word">Poistetut kuvat</string>
-  <string name="trash_bin_summary">Selaa varmuuskopioituja kuvia, jotka poistettiin äskettäin</string>
+  <string name="trash_bin_summary">Selaa varmuuskopioituja valokuvia, jotka poistettiin äskettäin</string>
+  <string name="trash_bin_summary_local">Tarkastele äskettäin poistettuja valokuvia ja videoita</string>
   <string name="trash_empty">Täällä ei ole kohteita.</string>
   <string name="trash_menu_delete">Poista</string>
   <string name="trash_menu_recovery">Palauta</string>
@@ -1923,7 +1938,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>
   <string name="user_alias_self">Itse</string>
-  <string name="user_notice_identify_summary_format">Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s.</string>
+  <string name="user_notice_identify_summary_format"><Data>Käyttämällä tätä palvelua, hyväksyt Xiaomin &amp;lt;a href=\"%1$s\"&amp;gt;\"Palveluehdot\"&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"%2$s\"&amp;gt;\"Tietosuojakäytännön\"&amp;lt;/a&amp;gt;."</Data></string>
   <string name="user_notice_title">Käyttöehdot</string>
   <string name="video_edit_file_not_exits_tip">Lataa video ensin</string>
   <string name="video_editor_abandon_changes_tip_message">Hylätäänkö kaikki muutokset?</string>

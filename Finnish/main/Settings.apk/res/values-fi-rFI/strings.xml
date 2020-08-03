@@ -2662,6 +2662,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="google_service_title">Google-palvelut</string>
   <string name="google_title">Google</string>
   <string name="got_it">Selvä</string>
+  <string name="gps_description">Useita satelliittinavigointijärjestelmiä (GPS, BeiDou, GLONASS, Galileo) tuetaan</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiin</string>
   <string name="gxzw_add_fingerprint_area">Sormenjälkitunnistin</string>
   <string name="gxzw_add_fingerprint_continue">Jatka</string>
@@ -5693,6 +5694,8 @@ Tämä toiminto tarvitsee käyttöoikeuden sijaintitietoihisi, käyttää mobiil
   <string name="sound_title">Ääni</string>
   <string name="sound_vibrate_settings">Ääni ja värinä</string>
   <string name="sound_work_settings">Työprofiilin äänet</string>
+  <string name="speaker">Kaiutin</string>
+  <string name="speaker_clean">Puhdas kaiutin</string>
   <string name="special_access">Sovellusten erikoiskäyttö</string>
   <string name="special_access_more">Katso lisää</string>
   <string name="speed_label_fast">Nopea</string>

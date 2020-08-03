@@ -51,6 +51,10 @@
         <item quantity="other">(%d kohdetta)</item>
         <item quantity="one">(%d kohde)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albumia</item>
+        <item quantity="one">%d albumi</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d kohdetta</item>
         <item quantity="one">%1$d kohde</item>

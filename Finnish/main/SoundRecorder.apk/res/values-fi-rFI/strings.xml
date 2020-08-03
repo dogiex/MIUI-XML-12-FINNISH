@@ -26,6 +26,7 @@
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tiedonsiirtovaroitus</string>
   <string name="delete">Poista</string>
+  <string name="delete_cloud_data_at_same_time">Poista myös pilvestä</string>
   <string name="delete_dialog_message">Poistetaanko nauhoitus?</string>
   <string name="deleting_message">Poistetaan…</string>
   <string name="details">Tiedot</string>
@@ -154,6 +155,8 @@
   <string name="preference_online_orders">Verkkotilaukset</string>
   <string name="preference_recog_faqs">Verkkotunnistuksen UKK</string>
   <string name="preference_recog_terms">Palveluehdot</string>
+  <string name="preference_record_desktop_indicator_summary">Näytä sininen merkkivalo aloitusnäytössä, kun Ääninauhuri toimii taustalla</string>
+  <string name="preference_record_desktop_indicator_title">Aloitusnäytön merkkivalo</string>
   <string name="preference_record_scenes_dialog_title">Valitse nauhoituksen tyyppi</string>
   <string name="preference_scenes">Nauhoituksen tyyppi</string>
   <string name="preference_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
