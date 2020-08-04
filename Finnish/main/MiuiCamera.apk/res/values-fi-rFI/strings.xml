@@ -79,8 +79,8 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_video_pause_button">Pysäytettiin videon nauhoittaminen</string>
   <string name="accessibility_video_resume_button">Jatkettiin videon nauhoittamista</string>
   <string name="accessibility_zoom_button">Zoom-tila</string>
-  <string name="ai_scene_mode_use_hint_text">"AI-kamera tunnistaa näkymän automaattisesti
-ja optimoi valokuvasi näiden tietojen perusteella"</string>
+  <string name="ai_scene_mode_use_hint_text">"Tunnista kohtaukset AI:n avulla
+ja säädä asetukset automaattisesti"</string>
   <string name="ai_scene_top_moon_off">Hämärätila</string>
   <string name="ai_scene_top_tip">Kuutila</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
@@ -117,6 +117,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="button_fisheye_camera_title">Kalansilmä</string>
   <string name="button_front_camera_title">Ota selfie</string>
   <string name="button_normal_video_title">Nauhoita video</string>
+  <string name="camcorder_tip_8k_max_video_duration">Voit nauhoittaa enintään kuusi minuuttia 8K-resoluutiolla</string>
   <string name="camera_disabled">Kamera on poistettu käytöstä</string>
   <string name="camera_error_title">Kameravirhe</string>
   <string name="camera_facedetection_sub_option_hint">Kokeellinen ominaisuus</string>
@@ -918,6 +919,8 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="user_notice_identify_summary_format">Ennen Kameran käyttämistä sinun täytyy hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Kameran täytyy yhdistää internetiin toimiakseen normaalisti. Hyväksytkö?</string>
   <string name="user_notice_title">Käyttöehdot</string>
   <string name="video_beauty_tip">Videon kaunistaminen</string>
+  <string name="video_beauty_tip_filter">Suodattimet</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">M&amp;V</string>
   <string name="video_effect_entry_bygone">Entisaika</string>

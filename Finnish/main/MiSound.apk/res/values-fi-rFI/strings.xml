@@ -104,7 +104,7 @@
   <string name="music_headset_mode_settings">Kuulokkeiden etäpainikkeet</string>
   <string name="music_headset_mode_volume">Hallitse äänenvoimakkuuden tasoa</string>
   <string name="music_headset_no_contected">Kuulokkeita ei tunnistettu</string>
-  <string name="music_headset_settings">Kuulokkeet</string>
+  <string name="music_headset_settings">Äänitehosteet</string>
   <string name="music_hifi_summary">Vähentää melu- ja taustakohinaa ja lisää äänenlaatua</string>
   <string name="music_hifi_title">Hi-Fi-ääni</string>
   <string name="music_mi_effect_summary">Käytä Mi Äänenparantajaa kaiuttimien kanssa</string>

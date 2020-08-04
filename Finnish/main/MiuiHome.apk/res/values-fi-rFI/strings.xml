@@ -127,6 +127,7 @@
     <string name="aqi_quality_index_light_pollution">Varoitus</string>
     <string name="aqi_quality_index_moderate">Keskinkertainen</string>
     <string name="aqi_quality_index_unhealthy">Epäterveellinen</string>
+    <string name="auto_add_app_shortcut">Lisää äskettäin asennetut sovellukset aloitusnäytölle</string>
     <string name="auto_delete_category_dialog_content">Nykyiset sovellukset poistetaan tästä kategoriasta ja kategoria poistetaan. Poistetaanko tämä kategoria nyt?</string>
     <string name="auto_delete_category_dialog_title">Kategorian poistaminen</string>
     <string name="backup_fail">Käynnistintä ei voitu varmuuskopioida</string>
@@ -143,6 +144,9 @@
     <string name="category_cannot_empty">Syötä kategoria ensin</string>
     <string name="category_choose_no_app_select_tip">Jokaisessa kategoriassa on oltava vähintään yksi sovellus.</string>
     <string name="category_drawer_name_hint">Syötä kategorian nimi</string>
+    <string name="category_edit_back_confirm_dialog_content">Tallennetaanko muutokset nyt?</string>
+    <string name="category_edit_back_confirm_dialog_negative_button">Älä tallenna</string>
+    <string name="category_edit_back_confirm_dialog_positive_button">Tallenna</string>
     <string name="category_group">Kategorioi sovellukset</string>
     <string name="category_group_summary">Kategorioi sovellukset Sovelluslaatikossa</string>
     <string name="category_not_selected">Käytettävissä olevat sovellukset</string>

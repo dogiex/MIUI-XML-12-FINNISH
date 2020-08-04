@@ -1464,6 +1464,8 @@ Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
   <string name="cloud_restore_section_summary">Palauta järjestelmän asetukset, Aloitusnäytön ulkoasu ja sovellukset</string>
   <string name="cloud_restore_section_title">Palauta Xiaomi Pilvestä</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
+  <string name="codec_low_latency_summary">Tarjoaa matalan viiveen kokemuksen Ääni- ja videosynkronoinnille</string>
+  <string name="codec_low_latency_title">Matala Viive</string>
   <string name="color_black">Musta</string>
   <string name="color_blue">Sininen</string>
   <string name="color_calibration_none">Natiivi</string>
@@ -1897,6 +1899,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_rule_name">Ajastin 1</string>
   <string name="default_sound">Oletusääni</string>
   <string name="default_spell_checker">Oletusarvoinen oikoluku</string>
+  <string name="default_suppression_title">Oletus (Suositeltu)</string>
   <string name="default_theme">Oletus</string>
   <string name="default_usb_mode">USB-yhteys</string>
   <string name="default_vol_stream_title">Oletus äänenvoimakkuudensäätö</string>
@@ -2052,6 +2055,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="display_vr_pref_off">Vähennä vilkkumista</string>
   <string name="display_vr_pref_title">Laite VR-tilassa</string>
   <string name="display_white_balance_title">Näytä valkotasapaino</string>
+  <string name="diy_suppression_summary">Säädä reunan lähellä olevan alueen kokoa, jossa vahinkokosketuksia ei huomioida</string>
+  <string name="diy_suppression_title">Mukautettu</string>
   <string name="dlg_cancel">Peruuta</string>
   <string name="dlg_confirm_unmount_text">Jos poistat USB-tallennustilan käytöstä, osaa käyttämistäsi sovelluksista ei voi käyttää, ennen kuin otat USB-tilan uudelleen käyttöön.</string>
   <string name="dlg_confirm_unmount_title">Poista USB-tila käytöstä?</string>
@@ -2192,6 +2197,8 @@ Voit katsoa luotuja lokeja Tiedostohallinnassa."</string>
   <string name="edge_mode_photo_summary">Kamera sovelluksen ollessa auki, napauta näytön reunaa aktivoidaksesi kameran sulkijan ja napauta uudelleen ottaaksesi kuvan</string>
   <string name="edge_mode_screenshot">Kuvakaappaus</string>
   <string name="edge_mode_screenshot_summary">Tuplanapauta molempia reunoja ottaaksesi kuvakaappauksen</string>
+  <string name="edge_mode_state_summary">Kaarevien reunojen alue ei vastaa kosketukseen</string>
+  <string name="edge_mode_state_title">Älä huomioi vahinkokosketuksia reunoilla</string>
   <string name="edge_to_edge_navigation_summary">Siirry aloitusnäytölle pyyhkäisemällä ylös näytön alalaidasta. Vaihda sovelluksesta toiseen pyyhkäisemällä alareunasta ylös, pitämällä sormea paikallaan ja päästämällä sitten irti. Palaa takaisin pyyhkäisemällä näytön vasemmasta tai oikeasta reunasta.</string>
   <string name="edge_to_edge_navigation_title">Eleillä navigointi</string>
   <string name="edit_rule">Muokkaa sääntöjä</string>
@@ -2724,7 +2731,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="header_category_system">Järjestelmä</string>
   <string name="header_category_wireless_networks">Langaton &amp; verkot</string>
   <string name="header_data_and_synchronization">Tiedot &amp; synkronointi</string>
-  <string name="headset_settings_title">Kuulokkeet</string>
+  <string name="headset_settings_title">Äänitehosteet</string>
   <string name="heavy_weight_stop_description">Tätä sovellusta ei voi pysäyttää turvallisesti. Jos pysäytät sovelluksen, saatat menettää tietoja.</string>
   <string name="help_feedback_label">Ohje ja palaute</string>
   <string name="help_label">Ohjeet ja palaute</string>
@@ -4519,7 +4526,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_factory_reset_dlg_button_text">Palauta</string>
   <string name="privacy_factory_reset_dlg_message">Jos unohdat salasanasi, sinun täytyy suorittaa tehdasasetusten palauttaminen asettaaksesi uuden salasanan.</string>
   <string name="privacy_factory_reset_dlg_title">Varmuuskopioi tietosi</string>
-  <string name="privacy_childmode">Lapsi-tila</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Syötä salasana ennen uuden sormenjäljen käyttämistä</string>
   <string name="privacy_file">Tiedostot</string>
   <string name="privacy_gallery">Kuvat</string>
   <string name="privacy_header_text_less_than_half">Liian pieni. Vedä hieman pidemmälle.</string>
@@ -5389,6 +5396,7 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="security_update">Tietoturvapäivitys</string>
   <string name="see_less">Näytä vähemmän</string>
   <string name="see_more">Lisää</string>
+  <string name="seek_bar_info">Säädä kokoa</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_application">Valitse sovellus</string>
   <string name="select_automatically">Valitse verkko automaattisesti</string>
@@ -5923,6 +5931,8 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="storageuse_settings_title">Tallennustilan käyttö</string>
   <string name="strict_mode">Tiukka tila käytössä</string>
   <string name="strict_mode_summary">Vilkuta näyttöä sovellusten tehdessä pitkiä toimia</string>
+  <string name="strong_suppression_summary">Laitteesi ei reagoi vahinkokosketuksiin, jotkut eletoiminnot ei välttämättä toimi reunojen lähellä</string>
+  <string name="strong_suppression_title">Suuri alue</string>
   <string name="structure_add_facerecoginition_text">Lisää kasvojen 3D-tiedot</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">Tätä ominaisuutta ei voi käyttää vähäisen virran takia</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Akun täytyy olla vähintään 5% ladattuna käynnistääksesi nauhoituksen.</string>
@@ -6756,6 +6766,8 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="vt_provisioned_switch_string">Videopuhelukäyttäjiä hallitaan</string>
   <string name="wait_for_debugger">Odota vianetsintää</string>
   <string name="wait_for_debugger_summary">Sovellus odottaa vianetsinnän lisäämistä, ja käynnistyy sen jälkeen.</string>
+  <string name="wake_suppression_summary">Laitteesi saattaa reagoida vahinkokosketuksiin, mutta se reagoi myös eletoimintoihin reunojen lähellä</string>
+  <string name="wake_suppression_title">Pieni alue</string>
   <string name="wakeup_and_sleep_settings_category_name">Lukitusnäytön asetukset</string>
   <string name="wakeup_for_keyguard_notification_title">Herätä Lukitusnäyttö ilmoituksista</string>
   <string name="wallpaper_attributions">Taustakuvat</string>
@@ -6906,6 +6918,8 @@ Tutustu palveluntarjoajan tietosuojakäytäntöön."</string>
   <string name="wifi_details_ipv6_address_header">IPv6-osoitteet</string>
   <string name="wifi_details_subnet_mask">Aliverkon peite</string>
   <string name="wifi_dialog_remind_type_title">Mobiilidataverkko</string>
+  <string name="wifi_direct_close_hotspot_hint">Poista kannettava hotspot käytöstä ennen Wi-Fi Directin käyttämistä</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Katkaise yhteys apu Wi-Fi-verkosta ennen Wi-Fi Directin käyttämistä</string>
   <string name="wifi_disabled_by_recommendation_provider">Ei yhteyttä – verkko huonolaatuinen</string>
   <string name="wifi_disabled_generic">Pois käytöstä</string>
   <string name="wifi_disabled_help">Wi-Fi-yhteys katkaistiin huonon laadun takia</string>

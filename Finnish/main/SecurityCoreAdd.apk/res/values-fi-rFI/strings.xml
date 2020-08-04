@@ -166,7 +166,7 @@ Varmista, että yrityksesi nimi on oikein. Lue ja hyväksy tietosuojakäytäntö
   <string name="go_on_import">Jatka tuomista</string>
   <string name="gpg_message">Kaksoispelisovelluksien luominen vaatii toimiakseen Google Play Pelit. Luodaanko Google Play Pelistä kaksoissovellus?</string>
   <string name="gpg_title">Kaksoissovellus Google Play Peliä varten</string>
-  <string name="green_guard">Perheen vartija</string>
+  <string name="green_guard">Perheen Vartija</string>
   <string name="green_guard_des1">Lisää laitteita hallitaksesi niitä etäältä</string>
   <string name="green_guard_des2">Tiedä missä kaikki hallitut laitteet ovat</string>
   <string name="green_guard_des3">Hallitse asennettuja sovelluksia ja rajoita käyttöä</string>
@@ -176,6 +176,10 @@ Varmista, että yrityksesi nimi on oikein. Lue ja hyväksy tietosuojakäytäntö
   <string name="greenguard_child_des_title">Lisää laite lukemalla QR-koodi</string>
   <string name="greenguard_functional_description">"Hallinnoi laitteita etäältä, näytä sijaintitiedot,
 hallitse asennettuja sovelluksia ja rajoita niiden käyttöä"</string>
+  <string name="greenguard_install_cancle">Ei kiitos</string>
+  <string name="greenguard_install_confirm">Asenna</string>
+  <string name="greenguard_install_message">Perheen Vartija on järjestelmäsovellus. Et tarvitse internetiä asentaaksesi sen.</string>
+  <string name="greenguard_install_title">Asenna Perheen Vartija</string>
   <string name="greenguard_parent_des">Hallinnoi ystäviesi ja perheesi laitteita</string>
   <string name="greenguard_parent_des_title">Käytä Kite Guardia lisätäksesi laitteita</string>
   <string name="guide_contact_sub_title_desc">"Toiseen tilaan lisätyistä yhteystiedoista tulee yksityisiä.
