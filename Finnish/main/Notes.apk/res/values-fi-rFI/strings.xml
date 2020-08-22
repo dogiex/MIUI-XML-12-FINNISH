@@ -25,13 +25,6 @@
   <string name="folder_operation_delete">Poista</string>
   <string name="folder_operation_rename">Nimeä uudelleen</string>
   <string name="hide_arrow_description">Piilota</string>
-  <string name="rich_text_bold_description">Lihavoi</string>
-  <string name="rich_text_center_description">Keskitä</string>
-  <string name="rich_text_chooser_title">Valitse tyyli</string>
-  <string name="rich_text_italic_description">Kursivoitu</string>
-  <string name="rich_text_right_description">Oikealle</string>
-  <string name="rich_text_size_description">Koko</string>
-  <string name="rich_text_underline_description">Alleviivaus</string>
   <string name="save_to_gallery_failure_message">Ei voitu tallentaa</string>
   <string name="save_to_gallery_icon_name">Tallenna Galleriaan</string>
   <string name="save_to_gallery_success_message">Tallennettiin onnistuneesti</string>
