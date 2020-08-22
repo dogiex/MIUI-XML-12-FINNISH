@@ -49,6 +49,8 @@
   <string name="business_no_result">Käyntikorttia ei tunnistettu. Yritä uudelleen.</string>
   <string name="calender">Kalenteri</string>
   <string name="call_anyone">Soita</string>
+  <string name="calories_logo_text">AI-tuen tarjoaa Health Hope</string>
+  <string name="calories_request_interface_text">AI-tuki</string>
   <string name="camera_error_title">Kamera virhe</string>
   <string name="cancel">Peruuta</string>
   <string name="carsHome_title">Auto</string>

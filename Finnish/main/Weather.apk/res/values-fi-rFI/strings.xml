@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+  <string name="abc_action_bar_up_description">Siirry ylös</string>
+  <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+  <string name="abc_action_mode_done">Valmis</string>
+  <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+  <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+  <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+  <string name="abc_capital_on">PÄÄLLÄ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Fn+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+  <string name="abc_menu_space_shortcut_label">välilyönti</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Valikko+</string>
+  <string name="abc_search_hint">Haku…</string>
+  <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+  <string name="abc_searchview_description_query">Hakukysely</string>
+  <string name="abc_searchview_description_search">Haku</string>
+  <string name="abc_searchview_description_submit">Lähetä kysely</string>
+  <string name="abc_searchview_description_voice">Puhehaku</string>
+  <string name="abc_shareactionprovider_share_with">Jaa…</string>
+  <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="request_permission_location_dialog_content">Nykyiseen sijaintiisi liittyvien säätietojen näyttämiseen</string>
   <string name="request_permission_main_purpose">Säätietojen näyttäminen</string>
   <string name="request_permission_read_phone_state_dialog_content">Laitteesi tunnistamiseen</string>
@@ -270,6 +297,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="refresh_fail">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Sään hälytys</string>
   <string name="retry">Yritä uudelleen</string>
+  <string name="search_menu_title">Haku</string>
   <string name="search_weather">Sää</string>
   <string name="search_weather_keywords">Lämpötila;Sää ennustus;Sää;Ilmanlaatu;Saaste;Kosteus</string>
   <string name="set_degree_centigrade">°C</string>

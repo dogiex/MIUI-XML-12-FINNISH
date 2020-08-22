@@ -163,6 +163,10 @@
   <string name="preference_status_bar_indicator_prompt">Näytä ilmoituspalkin pikakuvake nauhoituksen aikana</string>
   <string name="preference_tip_rename">Nimeä nauhoitukset käsin</string>
   <string name="privacy_policy_title">Tietosuojakäytäntö</string>
+  <string name="recognition_button_add_to_queue">Lisää jonoon</string>
+  <string name="recognition_button_cancel">Ei nyt</string>
+  <string name="recognition_button_start">Aloita</string>
+  <string name="recognition_confirm_dialog_body">Puhtaaksikirjoittaminen saattaa kestää jonkin aikaa. Saat ilmoituksen, kun tämä tehtävä on valmis. Aloitetaanko nyt?</string>
   <string name="recognition_error_cancel">Peruutettu</string>
   <string name="recognition_error_code">Virhekoodi: %d</string>
   <string name="recognition_error_download_cancel">Myöhemmin</string>
@@ -178,6 +182,11 @@
   <string name="recognition_error_internal">Sisäinen virhe</string>
   <string name="recognition_error_stopped">Kirjoitus pysäytettiin</string>
   <string name="recognition_error_unknown">Tapahtui tuntematon virhe. Ilmoita se meille ja yritä uudelleen.</string>
+  <string name="recognition_interrupt_current_dialog_body">Puhtaaksikirjoittaminen saattaa kestää jonkin aikaa. Saat ilmoituksen, kun tämä tehtävä on valmis. \"%s\" puhtaaksikirjoitetaan nyt. Lisätäänkö tämä tehtävä puhtaaksikirjoitusjonoon?</string>
+  <string name="recognition_notification_channel">Puhtaaksikirjoitetaan</string>
+  <string name="recognition_notification_complete_success">Puhtaaksikirjoitettiin \"%s\" onnistuneesti. Näytä napauttamalla.</string>
+  <string name="recognition_notification_error">Ei voitu puhtaaksikirjoittaa \"%s\"</string>
+  <string name="recognition_notification_running">Puhtaaksikirjoitetaan \"%s\"…</string>
   <string name="recognition_process_dialog_body">Muita nauhoituksia (%s) kirjoitetaan juuri nyt. Pysäytetäänkö käynnissä olevat tehtävät ja aloitetaan uusi?</string>
   <string name="recognition_process_dialog_cancel">Jono</string>
   <string name="recognition_process_dialog_confirm">Pakota aloitus</string>
@@ -185,23 +194,7 @@
   <string name="recognition_status_downloaded">Kirjoitusmoottori ladattiin onnistuneesti</string>
   <string name="recognition_status_downloading">"Ladataan "</string>
   <string name="recognition_status_init">"Valmistellaan "</string>
-  <string name="recognition_terms">"尊敬的用户，您好！
-
- 欢迎在小米录音机使用语音转文字服务，该服务由安徽听见科技有限公司提供，能够快速将录音整理成文字，解决日常会议、教育培训、媒体传播等各种场景下的语音转文字问题，提升工作效率。
-
- 语音转文字服务为有偿服务，收费策略如下：
-
- 音频时长\u0009\u0009\u0009\u0009\u0009收费价格(原价)
- 不足10分钟\u0009\u0009\u00093.3元
- 10分钟及以上\u0009音频时长/1小时*19.8 元
-
- 为了更好地使用语音转文字服务，您还需要了解以下内容：
- 1.未经您的允许，听见科技不会向第三方公开或传播您的信息、录音及文字稿件内容。
- 2.若非因听见科技原因，如因天灾、盗窃、抢劫、黑客攻击等不可抗力造成信息泄露的，听见科技不承担法律责任。听见科技在下述情况下不再承担保密义务，包括但不限于：
- （1）因非听见科技原因，文稿内容被公开的
- （2）法律法规要求、行政司法机关要求、或其他有权机关要求披露的
- 3.上述条款在听见科技完成语音转文字服务后三年内有效。
- 4.用户保证其使用听见科技提供的语音转文字服务转写的录音内容，不违反当地相关法律、法规、政策的规定；不涉及有损中华人民共和国国家安全和利益的信息；也不涉及任何反动、色情、迷信、赌博、诽谤他人等违法信息；且不会侵犯任何人的合法权益，包括但不限于知识产权、名誉权、肖像权、商业秘密等。用户因违反上述条款所引起的纠纷、赔偿责任等一律由用户自行承担，若由此给听见科技造成损失的，用户应当承担赔偿责任。"</string>
+  <string name="recognition_stop_current">Lopeta meneillään oleva tehtävä</string>
   <string name="recognize_choose_dialog_offline">Kirjoita veloituksetta</string>
   <string name="recognize_choose_dialog_offline_desp">Kirjoita nauhoituksia ilman internetyhteyttä</string>
   <string name="recognize_choose_dialog_online">Kirjoita pilveen</string>

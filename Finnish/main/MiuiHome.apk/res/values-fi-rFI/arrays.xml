@@ -45,11 +45,6 @@
         <item>Oletus</item>
         <item>Google</item>
     </string-array>
-        <string-array name="minus_screen_entries">
-        <item>Ei mitään</item>
-        <item>Sovellusholvi</item>
-        <item>Google</item>
-    </string-array>
     <string-array name="transformation_entries">
         <item>Liuku</item>
         <item>Häivytä</item>

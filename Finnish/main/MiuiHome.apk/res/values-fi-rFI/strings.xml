@@ -282,6 +282,7 @@
     <string name="guide_install_app_msg">Tätä sovellusta ei ole asennettu laitteellesi. Etsitäänkö ja asennetaanko sovellus nyt?</string>
     <string name="guide_install_app_title">Etsi ja asenna sovellus?</string>
     <string name="guide_tips_editing_mode">Valitse widgetti painamalla ja pitämällä sitä pohjassa</string>
+    <string name="hide_apps_title">Piilota sovelluskuvakkeet</string>
     <string name="home_gesture_content_center">Sisältökeskus</string>
     <string name="home_gesture_global_search">Haku</string>
     <string name="home_gesture_no_action">Ei mitään</string>
@@ -289,6 +290,7 @@
     <string name="home_pull_down_action">Pyyhkäise alaspäin Aloitusnäytöllä</string>
     <string name="home_screen">Aloitusnäyttö</string>
     <string name="home_slide_up_action">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
+    <string name="home_switch_personal_assistant">-1 näyttö</string>
     <string name="icon_reorganize_channel">Järjestä kuvakkeita</string>
     <string name="icon_size">Kuvakkeen koko</string>
     <string name="image_too_small_message">Alkuperäinen kuva ei ole tarpeeksi suuri.</string>
@@ -298,7 +300,6 @@
     <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
     <string name="launcher_global_search_mode_title">Globaali haku</string>
     <string name="launcher_global_search_provider_title">Globaalin haun tarjoaja</string>
-    <string name="launcher_minus_screen_title">Miinus yksi näyttö</string>
     <string name="launcher_not_exist">Tapahtui virhe. Mene takaisin Aloitusnäytölle ja yritä uudelleen.</string>
     <string name="launcher_pull_down_title">Pyyhkäise alas Aloitusnäytöllä</string>
     <string name="launcher_search_bar_title">Aloitusnäytön hakupalkki</string>
@@ -468,8 +469,13 @@
     <string name="status_installing">Asennetaan</string>
     <string name="status_paused">Pysäytetty</string>
     <string name="status_pending">Odotetaan</string>
+    <string name="switch_personal_assistant_app_vault">Sovellusholvi</string>
+    <string name="switch_personal_assistant_google">Google Discover</string>
+    <string name="switch_personal_assistant_none">Ei mitään</string>
     <string name="system_shortcuts_more_operation">Sovellustiedot</string>
+    <string name="system_shortcuts_remove">Poista</string>
     <string name="system_text">Järjestelmä</string>
+    <string name="task_access_locked_app_msg">Sovelluslukko otettiin käyttöön</string>
     <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
     <string name="title_select_live_folder">Valitse kansio</string>
     <string name="title_select_shortcut">Valitse pikakuvake</string>

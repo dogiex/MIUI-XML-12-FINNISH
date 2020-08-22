@@ -39,7 +39,12 @@
   <string name="aod_lock_screen_date">"EEEE d. MMMM'ta'"</string>
   <string name="aod_lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="aod_lock_screen_date_12_signature">d.M.</string>
+  <string name="aod_lock_screen_date_12_smartcover">"EE
+d.M."</string>
   <string name="aod_lock_screen_date_signature">d.M.</string>
+  <string name="aod_lock_screen_date_smartcover">"EE
+d.M."</string>
+  <string name="aod_lock_screen_date_smartcover_b">EE d.M.</string>
   <string name="aod_mode_preview">Esikatselu</string>
   <string name="aod_mode_style">Kellon tyyli ja tausta</string>
   <string name="aod_mode_style_title">Lisää valintoja</string>
@@ -72,8 +77,8 @@
   <string name="font_thickness">Fontin paksuus</string>
   <string name="large_time">Suuri kello</string>
   <string name="mini_time">Pieni kello</string>
+  <string name="minimalist_clock">Yksinkertainen kello</string>
   <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
-  <string name="my_style_title">Oma tyyli</string>
   <string name="notification_anim_pulse">Pulssi</string>
   <string name="notification_anim_rhythm">Rytmi</string>
   <string name="notification_anim_star">Tähtivalo</string>
@@ -109,7 +114,6 @@ d.M."</string>
   <string name="text_color">Tekstin väri</string>
   <string name="text_length_exceed_limit_alert">*Syöttämäsi teksti on liian pitkä</string>
   <string name="text_size">Tekstin koko</string>
-  <string name="theme_cate_title">Teema</string>
   <string name="time_location">Kellon sijainti</string>
   <string name="time_style">Tyyli</string>
   <string name="time_style_layout">Ulkoasu</string>

@@ -44,6 +44,7 @@
   <string name="action_item_hifi">Kuulokkeet &amp; äänitehosteet</string>
   <string name="action_item_play_all">Sekoita kaikki</string>
   <string name="action_item_play_next">Toista myöhemmin</string>
+  <string name="action_item_play_video">Toista musiikkivideo</string>
   <string name="action_item_remove">Poista</string>
   <string name="action_item_remove_from_favorite">Poista suosikeista</string>
   <string name="action_item_share">Jaa</string>
@@ -127,6 +128,7 @@
   <string name="choose_download_quality">Valitse latauksen laatu</string>
   <string name="choose_music_lang_pref">Ensisijaiset kielet kappaleille</string>
   <string name="choose_stream_quality">Valitse suoratoiston laatu</string>
+  <string name="click_and_watch_video_tip">Toista musiikkivideo napauttamalla</string>
   <string name="click_to_add_album_cover_and_lyric">Napauta lisätäksesi albumin kannen ja sanoitukset</string>
   <string name="click_to_shuffle">Sekoita soittolista koskettamalla</string>
   <string name="close_music_time">"Aikaa jäljellä: "</string>
@@ -371,6 +373,7 @@
   <string name="fcm_fallback_notification_channel_label">Sekalainen</string>
   <string name="feed_back">Palaute</string>
   <string name="file_not_found">Tiedostoa ei ole olemassa</string>
+  <string name="filter_by_MP4">Näytä MP4-tiedostoja sisältävät kansiot</string>
   <string name="filter_by_duration">Pituuden mukaan</string>
   <string name="filter_by_duration_max">%d min</string>
   <string name="filter_by_duration_min">%d sek</string>
@@ -414,6 +417,7 @@
   <string name="home_tab_local">Musiikkini</string>
   <string name="home_tab_more_music">Lisää musiikkia</string>
   <string name="home_tab_online">Online-musiikki</string>
+  <string name="home_tab_recommend">Online</string>
   <string name="home_tab_search">Haku</string>
   <string name="home_tab_yandex">Yandex.Music</string>
   <string name="hot_icon_in_fast_indexer">H</string>
@@ -753,6 +757,8 @@ Ole onnellinen"</string>
   <string name="service_and_settings">Palvelu ja asetukset</string>
   <string name="set_as_alarm_clock_ringtone">Hälytys</string>
   <string name="set_as_ring">Aseta soittoääneksi</string>
+  <string name="set_online_home_subtitle">Avaa verkkosuositukset sovelluksen käynnistyessä</string>
+  <string name="set_online_home_title">Näytä verkkosuositukset käynnistyessä</string>
   <string name="set_ringtones_failed">Soittoäänen asettaminen epäonnistui</string>
   <string name="set_ringtones_successful">%s asetettiin soittoääneksi</string>
   <string name="setting_feature_setting">Ominaisuuksien Asetukset</string>
@@ -902,4 +908,5 @@ Delta päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Tallennustila ei käytettävissä, tarkista SD-kortti.</string>
   <string name="you_can_switch_mode_in_settings">Voit vaihtaa tilojen välillä Asetuksissa</string>
   <string name="you_may_like">Saatat myös tykätä</string>
+  <string name="youtube_play_history">Toistohistoria</string>
 </resources>
