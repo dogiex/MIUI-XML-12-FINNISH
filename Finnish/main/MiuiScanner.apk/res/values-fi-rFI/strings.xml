@@ -26,7 +26,7 @@
   <string name="accessibility_shutter_button">Sulkija</string>
   <string name="action_search">Haku</string>
   <string name="address">Osoite:</string>
-  <string name="agree_app_use">QR-koodien lukemiseen ja niiden tunnistamiseen toisista kuvista</string>
+  <string name="agree_app_use">QR-koodien ja muiden kuvien lukemiseen (jotkut toiminnot saattaa tarvita pääsyn sijaintiisi)</string>
   <string name="agree_btn">Hyväksy</string>
   <string name="agree_camera_permission">Kuvien ottamiseen ja videon nauhoittamiseen</string>
   <string name="agree_storage_permission">Pääsy laitteellesi tallennettuihin tiedostoihin ja kuviin</string>

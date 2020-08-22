@@ -607,8 +607,7 @@ Syy: %s"</string>
   <string name="import_from_sim2">Tuo SIM-kortilta 2</string>
   <string name="import_multiple_vcard_string">Tuo useita vCard-tiedostoja</string>
   <string name="import_name">Nimi</string>
-  <string name="import_one_vcard_string">Tuo vCard-tiedosto</string>
-  <string name="import_percent">0%</string>
+  <string name="import_one_vcard_string">Tuo %d vCard-tiedosto</string>
   <string name="import_selected_sim_entries_miui">Tuo valitut yhteystiedot</string>
   <string name="import_sim_contacts_hint_title">Tuo SIM-kortin yhteytietoja</string>
   <string name="import_sim_entries_finish">SIM-kortin yhteystietojen tuonti onnistui</string>
@@ -1176,11 +1175,11 @@ Lisätäksesi yhteystietoja suosikkeihisi:
   <string name="set_default">Aseta oletus</string>
   <string name="set_photo_failed_msg">Kuvaa ei voitu asettaa</string>
   <string name="share_contact_as">Jaa yhteystieto muodossa</string>
-  <string name="share_error">Yhteystieto ei jaettavissa</string>
-  <string name="share_over_limit">Yli 1000, ei voida jakaa</string>
+  <string name="share_error">Tätä yhteystietoa ei voi jakaa</string>
+  <string name="share_over_limit">Yli %d yhteystietoa ei voi jakaa</string>
   <string name="share_qrcode">Jaa QR-koodi</string>
-  <string name="share_via">Jaa yhteystieto</string>
-  <string name="share_visible_contacts">Jaa näkyvät yhteystiedot</string>
+  <string name="share_via">Jaa käyttäen</string>
+  <string name="share_visible_contacts">Jaa yhteystietoja</string>
   <string name="shortcutActivityTitle">Valitse pikakuvakkeen yhteystieto</string>
   <string name="shortcutContact">Yhteystieto</string>
   <string name="shortcutDialContact">Puhelu</string>
@@ -1274,7 +1273,7 @@ Lisätäksesi yhteystietoja suosikkeihisi:
   <string name="t9_search_empty_send_sms">Lähetä viesti</string>
   <string name="t9_search_empty_video_call">Videopuhelu</string>
   <string name="t9_search_guide_pinyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon <font fgcolor="">E</font>ero <font fgcolor="">R</font>akas</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon <font fgcolor="">X</font>avier <font fgcolor="">H</font>enry</string>
   <string name="t9_search_guide_zhuyin_title1">Etsi yhteystietoja syöttämällä numeroita</string>
   <string name="t9_search_guide_zhuyin_title2" formatted="false">Syötä %d ja %d etsiäksesi yhteystiedon <font fgcolor="">J</font>aska <font fgcolor="">M</font>äkinen</string>
   <string name="take_new_photo">Ota uusi kuva</string>

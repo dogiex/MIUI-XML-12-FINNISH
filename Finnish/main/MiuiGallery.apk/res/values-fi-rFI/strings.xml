@@ -1985,6 +1985,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="video_editor_loading_warning_msg">Muunnosvirheen takia, jotkut toiminnot ja esikatselut eivät saata olla saatavilla editoinnin aikana. Tämä ei kuitenkaan vaikuta valmistuvaan videotiedostoon.</string>
   <string name="video_editor_loading_warning_title">Muunnosvirhe</string>
   <string name="video_editor_more">Lisäasetukset</string>
+  <string name="video_editor_not_support_8k_tips">8K-videoita ei voi muokata</string>
   <string name="video_editor_not_support_tips">Tämän kaltaisia videotiedostoja ei tueta.</string>
   <string name="video_editor_ok">OK</string>
   <string name="video_editor_res_download_failed_tips">Lataus epäonnistui, tarkasta verkkoasetukset ja yritä uudelleen</string>

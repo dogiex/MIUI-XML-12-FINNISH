@@ -277,6 +277,7 @@ Lähetä tämä koodi valvojalle."</string>
     <string name="fw_loading">Odota hetki…</string>
     <string name="fw_reload_sub_title">Yritä uudelleen napauttamalla näyttöä</string>
     <string name="fw_reload_title">Verkkoyhteyttä ei voitu muodostaa.</string>
+    <string name="gallery_fold_tags">Piilota merkit</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Kamera</string>
     <string name="gallery_folder_alias_download">Lataukset</string>
@@ -309,6 +310,7 @@ Lähetä tämä koodi valvojalle."</string>
     <string name="gallery_video_operate_text">Hidastuksen säädöt</string>
     <string name="gallery_video_save_video">Luodaan videota…</string>
     <string name="gallery_video_slow_edit">Hidastus</string>
+    <string name="gallery_view_tags">Näytä merkit</string>
     <string name="get_back_pwd">Salasanan palauttaminen</string>
     <string name="get_ph_ticket">Hanki koodi</string>
     <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeron enintään kolmelle Mi-tilille. Uusia tilejä ei voi lisätä.</string>
@@ -337,11 +339,16 @@ videoille"</string>
     <string name="language_setting_tips_dialog">Voit valita kieliasetukset sisällölle Tili &gt; Kieli.</string>
     <string name="later">Myöhemmin</string>
     <string name="loading">Odota hetki…</string>
+    <string name="local_push_title">Suosittu tänään</string>
     <string name="login">Kirjaudu sisään</string>
     <string name="login_tip">Kirjaudu sisään, jotta voit vastaanottaa vastauksemme palautteeseesi.</string>
     <string name="logout">Kirjaudu ulos</string>
     <string name="logout_account">Kirjaudu ulos</string>
     <string name="lp_base_folder">SD-kortti</string>
+    <string name="lp_play_mode_list_loop">Looppaa kaikki</string>
+    <string name="lp_play_mode_pause">Toista yksi</string>
+    <string name="lp_play_mode_single_loop">Looppaa yksi</string>
+    <string name="lp_play_mode_title">Toistotila</string>
     <string name="lp_speed_title">Toistonopeus</string>
     <string name="lp_speed_toast">Toistetaan nopeudella %sX…</string>
     <string name="lp_videoView_error_button">Selvä</string>
@@ -362,6 +369,7 @@ videoille"</string>
     <string name="lv_audio_track">Ääniraita</string>
     <string name="lv_auto_update">Päivitä myöhemmin</string>
     <string name="lv_brightness">Kirkkaus</string>
+    <string name="lv_cast">Suoratoista</string>
     <string name="lv_check_delete_file">Valitse poistettavat kohteet</string>
     <string name="lv_check_send_file">Voit lähettää yhden tiedoston kerrallaan</string>
     <string name="lv_confirm_delete_history">Poistetaanko valitut kohteet?</string>
@@ -500,6 +508,7 @@ videoille"</string>
     <string name="next">Seuraava</string>
     <string name="nick_name">Lempinimi</string>
     <string name="no_account">Ei kirjautuneena</string>
+    <string name="no_more_content">Siinä kaikki tältä erää</string>
     <string name="no_network_tips">Tätä ominaisuutta ei voi tällä hetkellä käyttää. Verkon käyttö on rajoitettu.</string>
     <string name="no_phone">Ei puhelinnumeroa</string>
     <string name="no_recommend_data">Ei suositeltuja videoita juuri nyt</string>

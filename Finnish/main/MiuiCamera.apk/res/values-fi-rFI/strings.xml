@@ -83,6 +83,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
 ja säädä asetukset automaattisesti"</string>
   <string name="ai_scene_top_moon_off">Hämärätila</string>
   <string name="ai_scene_top_tip">Kuutila</string>
+  <string name="ai_watermark_title">AI-vesileima</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="autozoom_click_hint">Napauta kohdetta pitääksesi sen tarkennettuna, kun se liikkuu. Pysy vähintään 3 metriä kohteesta parhaan tehosteen vuoksi.</string>
   <string name="autozoom_disabled_hint">Liikkuvan kohteen seuraaminen lopetettiin</string>
@@ -194,6 +195,9 @@ ja säädä asetukset automaattisesti"</string>
   <string name="dirty_tip_toast">Linssi on likainen. Puhdista se.</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>
   <string name="document_blackwhite">M&amp;V</string>
+  <string name="document_mode_use_hint_text_body">"Kohdista ja paranna
+skannatut asiakirjat automaattisesti"</string>
+  <string name="document_mode_use_hint_text_title">Skannaa asiakirjoja</string>
   <string name="document_origin">Alkuperäinen</string>
   <string name="document_strengthen">Paranneltu</string>
   <string name="dual_camera_lens_covered_toast">Linssi on peitetty.</string>
@@ -403,7 +407,6 @@ näyttävät kuvissa suuremmilta"</string>
   <string name="mimoji_recapture_alert">Kaikki muutokset hylätään, kun aloitat alusta. Aloitetaanko alusta siitä huolimatta?</string>
   <string name="mimoji_reset">Nollaa</string>
   <string name="mimoji_save">Tallenna</string>
-  <string name="mimoji_save_success">Tallennettiin onnistuneesti</string>
   <string name="mimoji_selected">Valitse</string>
   <string name="mimoji_start_create">Luodaan Mimojia…</string>
   <string name="mimoji_tips">Ota kuva napauttamalla. Nauhoita video painamalla ja pitämällä pohjassa.</string>
@@ -919,6 +922,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="user_notice_identify_summary_format">Ennen Kameran käyttämistä sinun täytyy hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Kameran täytyy yhdistää internetiin toimiakseen normaalisti. Hyväksytkö?</string>
   <string name="user_notice_title">Käyttöehdot</string>
   <string name="video_beauty_tip">Videon kaunistaminen</string>
+  <string name="video_beauty_tip_beautification">Kaunista</string>
   <string name="video_beauty_tip_filter">Suodattimet</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Videokamera</string>
@@ -949,6 +953,11 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
 nauhoittaa ja muokata videoita tien päällä"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Odota hetki…</string>
+  <string name="watermark_tab_city">kaupunki</string>
+  <string name="watermark_tab_festival">festivaali</string>
+  <string name="watermark_tab_general">yleinen</string>
+  <string name="watermark_tab_scene">näkymä</string>
+  <string name="watermark_tab_spots">paikat</string>
   <string name="wideselfie_press_shoot_key_to_start">Napauta sulkijapainiketta</string>
   <string name="wideselfie_result_image_lossless">Panoramakuvaa ei voitu luoda</string>
   <string name="wideselfie_rotate_slowly">Käännä puhelinta hitaasti sivuttain</string>
