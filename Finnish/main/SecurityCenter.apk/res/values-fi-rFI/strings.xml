@@ -136,6 +136,8 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="already_close_gamebooster">Game Turbo on pois käytöstä</string>
   <string name="anti_disturb_msg_detail">Poista käytöstä kaikki ilmoitukset paitsi saapuville puheluille</string>
   <string name="anti_disturb_msg_title">Älä häiritse</string>
+  <string name="antispam_mms_text">Aseta Viestit-sovellus tekstiviestien oletussovellukseksi, nähdäksesi estetyt viestit</string>
+  <string name="antispam_mms_text_setting">Aseta Viestit-sovellus tekstiviestien oletussovellukseksi käyttääksesi estolistaa</string>
   <string name="antispam_mode_details">Estolistan tiedot</string>
   <string name="antispam_notificaiton_type_show_all">Kaikki numerot</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Numerot, jotka ei ole estolistalla</string>

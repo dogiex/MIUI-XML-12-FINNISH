@@ -1158,6 +1158,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mmiStarted">MMI-koodi aloitettu</string>
   <string name="mobile_advanced_dns_server_title">DNS-palvelimen osoite</string>
   <string name="mobile_advanced_ip_address_title">IP-osoite</string>
+  <string name="mobile_advanced_nr_network_title">5G-verkon tyyppi</string>
   <string name="mobile_connection_management">Hallitse mobiiliverkkoyhteyttä</string>
   <string name="mobile_data">Mobiilidata</string>
   <string name="mobile_data_alert">Dataliikenne saatetaan generoida toisella kortilla</string>
@@ -1270,6 +1271,13 @@ Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="notification_voicemail_text_format">Soita numeroon %s</string>
   <string name="notification_voicemail_title">Uusia viestejä vastaajassa</string>
   <string name="notification_voicemail_title_count">Uusia viestejä vastaajassa (%d)</string>
+  <string name="nr_network_info">5G-verkon käyttötiedot</string>
+  <string name="nr_usaged_first_used_time">Rekisteröity 5G-verkkoon</string>
+  <string name="nr_usaged_module">Laitteen malli</string>
+  <string name="nr_usaged_network_rate">Suurin nopeus</string>
+  <string name="nr_usaged_network_usaged">Data tänään</string>
+  <string name="nr_usaged_operator">Operaattori</string>
+  <string name="nr_usaged_used_time">Käytön kesto</string>
   <string name="number">Numero</string>
   <string name="oem_unlock_enable">OEM:n lukituksen avaus</string>
   <string name="oem_unlock_enable_summary">Salli käynnistysohjelman lukituksen avaaminen</string>

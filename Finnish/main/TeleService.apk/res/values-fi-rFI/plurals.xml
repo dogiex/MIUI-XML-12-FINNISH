@@ -24,6 +24,14 @@
         <item quantity="other">%d numeroa poistetaan.</item>
         <item quantity="one">%d numero poistetaan.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s päivää</item>
+        <item quantity="one">%s päivä</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s tuntia</item>
+        <item quantity="one">%s tunti</item>
+    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d yritystä jäljellä."</item>

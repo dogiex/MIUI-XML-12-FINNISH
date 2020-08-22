@@ -81,6 +81,8 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_hide_mode_app_list_summary">Säästetään virtaa taustalla</string>
   <string name="power_hide_mode_title">Akku &amp; suorituskyky</string>
   <string name="power_mode">Virta-asetukset</string>
+  <string name="power_tools_current">Nykyinen</string>
+  <string name="power_tools_fps">FPS</string>
   <string name="power_usage">Virrankäyttö</string>
   <string name="pref_config_title">Suorituskyvyn optimointi</string>
   <string name="privacy">Tietosuojakäytäntö</string>

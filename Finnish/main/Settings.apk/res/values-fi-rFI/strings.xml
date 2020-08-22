@@ -4297,6 +4297,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="power_mgr">Akun optimointi</string>
   <string name="power_mode">Virran asetukset</string>
   <string name="power_mode_balanced_title">Tasapainoinen</string>
+  <string name="power_monitor_summary">Virran valvontaan käytetyt työkalut.</string>
+  <string name="power_monitor_title">Virran valvonta</string>
   <string name="power_optimize">Virransäästö</string>
   <string name="power_overcounted">Yliarvioitu</string>
   <string name="power_phone">Äänipuhelut</string>
