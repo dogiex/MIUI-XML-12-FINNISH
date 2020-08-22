@@ -36,6 +36,7 @@
   <string name="content_description_start">Aloita</string>
   <string name="content_introduction">Sisältökeskus yhdistää sisällön ja palvelut useilta kanavilta. Täällä voit lukea artikkeleita, katsella videoita, katsella päivittäin esiteltyjä kohteita ja vastaanottaa sisältösuosituksia.</string>
   <string name="continue_to_enable_accessibility">Jatka kahdella sormella painamista ottaaksesi esteettömyyden käyttöön.</string>
+  <string name="data_traffic_enable_dialog_title">Jos et ole nyt yhteydessä Wi-Fiin, laitteesi käyttää mobiilidataa. Mobiilidatan käyttäminen saattaa aiheuttaa operaattorin lisäkustannuksia.</string>
   <string name="desc_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, Mi Maksun kaupan vahvistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="desc_international_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
   <string name="diagnose_report">Lähetä diagnostiikkatietoja järjestelmäongelmien paikantamiseksi ja analysoimiseksi ja parantaaksesi käyttäjäkokemusta. Tällaiset tiedot saattavat sisältää henkilötietoja (esim. IP, sijainti jne.)</string>
@@ -93,6 +94,7 @@ Poistetaanko henkilökohtaiset mainokset käytöstä joka tapauksessa?"</string>
   <string name="other_settings_auto_update">Automaattiset järjestelmäpäivitykset</string>
   <string name="other_settings_auto_update_summary">MIUI valitsee parhaan ajan päivityksien lataamiselle ja asentamiselle. Laitteesi käynnistyy automaattisesti uudelleen, jotta muutokset voidaan ottaa käyttöön.</string>
   <string name="other_settings_enhanced_lockscreen">Taustakuvakaruselli</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Mi:n katsaus</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Tietosuojakäytäntö</string>
   <string name="other_settings_enhanced_lockscreen_summary">Hanki kuvia ja tarinoita Lukitusnäytöllesi päivittäin. %1$s ja %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Loppukäyttäjän lisenssisopimus</string>

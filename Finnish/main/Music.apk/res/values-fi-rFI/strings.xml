@@ -120,6 +120,7 @@
   <string name="button_wait_for_wifi">Odota</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_running_download">Peruuta</string>
+  <string name="cannot_download_to_sdcard_hint">Kohteita ei voi ladata SD-kortille tekijänoikeusrajoitusten takia. Kohteet ladataan sen sijaan sisäiselle tallennustilalle.</string>
   <string name="change_download_quality">Vaihda latauksen laatu</string>
   <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
   <string name="checking_new_version">Tarkistetaan päivityksiä…</string>
@@ -156,6 +157,7 @@
   <string name="count_million_format">%2$1.2fM</string>
   <string name="create_playlist">Luo soittolista</string>
   <string name="create_playlist_failure">Soittolistan luominen epäonnistui</string>
+  <string name="create_playlist_input_hint">Syötä soittolistan nimi</string>
   <string name="current_album">Nykyinen albumin kansikuva</string>
   <string name="current_lyric">Nykyinen sanoitus</string>
   <string name="current_version">Nykyinen versio</string>
@@ -607,6 +609,7 @@
   <string name="online_apk_install_in_background">Ladataan online-sisältöä taustalla…</string>
   <string name="online_apk_install_network_change_paused">Käytät mobiilidataa. Kohteiden lataaminen pysäytettiin. Napauta %s katsoaksesi.</string>
   <string name="online_apk_install_network_error">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="online_apk_install_tips">Sinun täytyy ladata tämän sisällöntarjoajan liitännäinen kerran. Voit käyttää kappaleita suoraan seuraavalla kerralla.</string>
   <string name="online_list_delete_message">Tämän soittolistan kaikki ladatut kappaleet poistetaan sisäiseltä tallennustilalta.</string>
   <string name="online_playlist_category">Soittolistat</string>
   <string name="online_recommend">Soittolista</string>

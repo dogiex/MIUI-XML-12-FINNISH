@@ -173,6 +173,7 @@
      <string name="accessibility_status_bar_headphones">Kuulokkeet yhdistetty</string>
      <string name="accessibility_status_bar_headset">Kuulokkeet yhdistetty</string>
      <string name="accessibility_status_bar_hotspot">Hotspot</string>
+     <string name="accessibility_status_bar_micphone">Mikrofoni yhdistetty</string>
      <string name="accessibility_status_bar_no_slave_wifi">Apu Wi-Fi katkaistu.</string>
      <string name="accessibility_status_bar_slave_wifi_four_bars">Apu Wi-Fi neljä palkkia.</string>
      <string name="accessibility_status_bar_slave_wifi_one_bar">Apu Wi-Fi yksi palkki.</string>
@@ -1225,7 +1226,7 @@
   <string name="as_unimportant">Ei tärkeä</string>
   <string name="ask_me_later_bubbles">Kysy myöhemmin</string>
   <string name="aspect_cancel">Peruuta</string>
-  <string name="aspect_message">Tämä sovellus käynnistetään uudelleen kokonäyttötilassa. Jos törmäät ongelmiin, voit poistaa kokonäyttötilan käytöstä tälle sovellukselle asetuksista Asetukset &gt; Koko näytön ruutu &gt; Kokonäyttötila.</string>
+  <string name="aspect_message">Tämä sovellus käynnistetään uudelleen kokonäyttötilassa. Jos törmäät ongelmiin, voit poistaa kokonäyttötilan käytöstä tälle sovellukselle asetuksista Asetukset &gt; Kokonäytön ruutu &gt; Kokonäyttötila.</string>
   <string name="aspect_ok">OK</string>
   <string name="aspect_title">Kokonäyttötila</string>
   <string name="audio_effect_custom">Määritä</string>
@@ -1513,6 +1514,9 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="hour_minute_time_format">H.mm</string>
   <string name="how_to_back_home">Siirry Aloitusnäytölle</string>
   <string name="how_to_switch_recents">Avaa Viimeaikaiset sovellukset</string>
+  <string name="how_to_use_app_quick">Kuinka siirrytään sovellusten välillä</string>
+  <string name="how_to_use_app_quick_hide_line_summary">Pyyhkäise ylös näytön alareunasta ja sen jälkeen pyyhkäise vasemmalle tai oikealle</string>
+  <string name="how_to_use_app_quick_summary">Pyyhkäise vasemmalle tai oikealla kokonäytön indikaattorista tai näytön alareunasta</string>
   <string name="how_to_use_drawer">Kuinka avataan pyyhkäisyvalikko</string>
   <string name="how_to_use_drawer_summary">Pyyhkäise oikealle näytön yläosassa</string>
   <string name="how_to_use_fsg">Voit suorittaa näitä toimintoja käyttäen eleitä</string>

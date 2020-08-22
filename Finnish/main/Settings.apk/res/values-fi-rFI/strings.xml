@@ -2772,7 +2772,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="incoming_call_volume_title">Soittoääni</string>
   <string name="infinity_display_settings">Koko näyttö</string>
   <string name="infinity_display_slogan">Innovaatiota koko näytöllä</string>
-  <string name="infinity_display_title">Koko näytön ruutu</string>
+  <string name="infinity_display_title">Kokonäytön ruutu</string>
   <string name="information_dialog_button_text">Selvä</string>
   <string name="information_label">Tiedot</string>
   <string name="input_assistance">Työkalut</string>
@@ -3726,6 +3726,9 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="my_device_disclaimer">Huomio: Laitteiston tiedot, sisältää CPU:n, akun kapasiteetin, näytön koon ja resoluution, ja kameran tarjoaa Xiaomi labs, suunnittelijat ja toimittajat.</string>
   <string name="n_cacrts">%d CA-varmennetta</string>
   <string name="nature_color">Oletus</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Pyyhkäise ylös näytön alareunasta ja sen jälkeen pyyhkäise vasemmalle tai oikealle</string>
+  <string name="navigation_guide_app_quick_switch_summary">Pyyhkäise vasemmalle tai oikealla kokonäytön indikaattorista tai näytön alareunasta</string>
+  <string name="navigation_guide_app_quick_switch_title">Siirry sovellusten välillä</string>
   <string name="navigation_guide_app_summary">Pyyhkäise näytön yläosan reunalta vasemmalle tai oikealle</string>
   <string name="navigation_guide_app_title">Käynnistä sovelluksen toiminto</string>
   <string name="navigation_guide_appswitch_anim_summary">Pyyhkäise näytön poikki aloittamalla reunasta palataksesi takaisin edelliseen sovellukseen</string>
@@ -3738,6 +3741,10 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="navigation_guide_dialog_skip">Ei nyt</string>
   <string name="navigation_guide_dialog_summary">Opettele mitä eleitä voit käyttää järjestelmän navigointia varten.</string>
   <string name="navigation_guide_dialog_title">Opettele eleitä</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">Uuta elettä käytetään sovelluksesta toiseen siirtymiselle, kun piilotat kokonäytön indikaattorin. Opetellaanko tämä ele nyt?</string>
+  <string name="navigation_guide_gesture_line_dialog_title">Opettele uusi ele</string>
+  <string name="navigation_guide_hide_gesture_line_summary">Älä näytä kokonäytön indikaattoria, kun kokonäytön eleitä käytetään</string>
+  <string name="navigation_guide_hide_gesture_line_title">Piilota kokonäytön indikaattori</string>
   <string name="navigation_guide_home_summary">Pyyhkäise ylös näytön alareunasta</string>
   <string name="navigation_guide_home_title">Siirry Aloitusnäytölle</string>
   <string name="navigation_guide_recent_summary">Pyyhkäise ylös näytön alareunasta ja keskeytä</string>
