@@ -64,7 +64,7 @@
      <string name="accessibility_desc_on">Käytössä.</string>
      <string name="accessibility_desc_quick_settings_edit">Pika-asetuksien editori.</string>
      <string name="accessibility_desc_settings">Asetukset</string>
-     <string name="accessibility_enter_lock_wallpaper">Avaa Taustakuvan Karuselli napauttamalla</string>
+     <string name="accessibility_enter_lock_wallpaper">Avaa Taustakuvakaruselli napauttamalla</string>
      <string name="accessibility_ethernet_connected">Ethernet yhdistetty.</string>
      <string name="accessibility_ethernet_disconnected">Ethernet-yhteys katkaistu.</string>
      <string name="accessibility_face_dialog_face_icon">Kasvojen kuvake</string>
@@ -75,7 +75,7 @@
      <string name="accessibility_gps_enabled">GPS otettu käyttöön.</string>
      <string name="accessibility_key">Mukautettu navigointipainike</string>
      <string name="accessibility_left_control_center_button">Pikakuvake</string>
-     <string name="accessibility_left_lock_screen_magazine_button">Taustakuvan Karuselli</string>
+     <string name="accessibility_left_lock_screen_magazine_button">Taustakuvakaruselli</string>
      <string name="accessibility_location_active">Sijaintipyynnöt ovat aktiivisia</string>
      <string name="accessibility_multi_user_switch_inactive">Nykyinen käyttäjä %s</string>
      <string name="accessibility_multi_user_switch_quick_contact">Näytä profiili</string>
@@ -491,7 +491,7 @@
      <string name="keyguard_left_remotecentral">Mi Kaukosäädin</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
      <string name="keyguard_left_torch">Taskulamppu</string>
-     <string name="keyguard_left_view_lock_wallpaper">Taustakuvan Karuselli</string>
+     <string name="keyguard_left_view_lock_wallpaper">Taustakuvakaruselli</string>
      <string name="keyguard_low_battery">Yhdistä laturisi.</string>
      <string name="keyguard_missing_sim_instructions">Aseta SIM-kortti.</string>
      <string name="keyguard_missing_sim_instructions_long">SIM-kortti puuttuu tai sitä ei voi lukea. Aseta SIM-kortti.</string>
@@ -586,9 +586,9 @@
      <string name="lock_screen_date_two_lines_12">"EEEE
      d. MMMM'ta'"</string>
      <string name="lock_screen_magazine_default_content">Päivittäinen annos tuoreita kuvia</string>
-     <string name="lock_screen_magazine_default_title">Taustakuvan Karuselli</string>
+     <string name="lock_screen_magazine_default_title">Taustakuvakaruselli</string>
      <string name="lock_screen_magazine_global_button_text">Lisää</string>
-     <string name="lock_screen_magazine_label">Avaa Taustakuvan Karuselli</string>
+     <string name="lock_screen_magazine_label">Avaa Taustakuvakaruselli</string>
      <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Lisää</string>
      <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Siirry</string>
      <string name="lock_screen_no_sim_card_emergency_only">Vain hätäpuhelut</string>
@@ -1447,7 +1447,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="dock_forced_resizable">Sovellus ei ehkä toimi jaetulla näytöllä.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Näytön jakaminen ei ole tuettu Lukitusnäytöllä.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Sovellus ei tue jaetun näytön tilaa.</string>
-  <string name="download_lock_wallpaper">Lataa Taustakuvan Karuselli tuplanapauttamalla</string>
+  <string name="download_lock_wallpaper">Lataa Taustakuvakaruselli tuplanapauttamalla</string>
   <string name="drive_mode_tip">Olet Ajotilassa</string>
   <string name="enable_adb">USB-vianetsintä</string>
   <string name="enable_adb_summary">Vianetsintätila USB-liitännän ollessa käytössä</string>

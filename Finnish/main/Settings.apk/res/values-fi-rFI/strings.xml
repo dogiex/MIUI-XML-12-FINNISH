@@ -3280,10 +3280,10 @@ PIN-koodi"</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
   <string name="lockscreen_label">Lukitusnäyttö</string>
-  <string name="lockscreen_magazine">Taustakuvan Karuselli</string>
+  <string name="lockscreen_magazine">Taustakuvakaruselli</string>
   <string name="lockscreen_magazine_india">Vilkaise Mi:tä</string>
   <string name="lockscreen_magazine_summary">Upeita kuvia ja jännittäviä tarinoita toimitetaan sinulle päivittäin</string>
-  <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
+  <string name="lockscreen_magazine_title">Taustakuvakaruselli</string>
   <string name="lockscreen_remote_input">Estä vastausten ja muun tekstin kirjoittaminen ilmoituksiin, kun laite on lukittu</string>
   <string name="lockscreen_settings_title">Lukitusnäytön asetukset</string>
   <string name="lockscreen_settings_what_to_show_category">Mitä näytetään</string>

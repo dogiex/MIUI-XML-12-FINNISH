@@ -259,7 +259,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="lockscreen_magazine_summary">Kategoriat</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s taustakuvaa</string>
   <string name="lockscreen_magazine_system_title">Laitteessa</string>
-  <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
+  <string name="lockscreen_magazine_title">Taustakuvakaruselli</string>
   <string name="lockscreen_wallpaper">Lukitusnäyttö</string>
   <string name="lockstyle_personal_settings">Muokkaa</string>
   <string name="long_click_can_hide_resource">Paina ja pidä pohjassa piilottaaksesi kohteet</string>
