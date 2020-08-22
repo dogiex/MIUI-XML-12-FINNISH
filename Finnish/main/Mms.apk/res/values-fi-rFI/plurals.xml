@@ -15,7 +15,7 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Poistetaanko %1$s valittua keskustelua?</item>
-        <item quantity="one">Poistetaanko tämä keskustelu?</item>
+        <item quantity="one">Poistetaanko %1$s valittu keskustelu?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d valittu</item>

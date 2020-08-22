@@ -491,6 +491,8 @@ Tämä viesti saattaa olla ei-toivottu."</string>
   <string name="non_english_subject_limit">13 merkkiä</string>
   <string name="nosend_message">Älä lähetä</string>
   <string name="not_prepare_for_send">Ei lähetettävää viestiä</string>
+  <string name="notification_add_todo">Muistuta minua</string>
+  <string name="notification_add_todo_content">Noutokoodi: %s</string>
   <string name="notification_channel_msg_description">Ilmoitukset viesteistä</string>
   <string name="notification_channel_msg_name">Viestit</string>
   <string name="notification_channel_other_description">Muut ilmoitukset</string>

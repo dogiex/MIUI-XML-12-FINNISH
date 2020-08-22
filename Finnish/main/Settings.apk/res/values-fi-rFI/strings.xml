@@ -1628,6 +1628,8 @@ Jatka painamalla Poista ja muunna…"</string>
   <string name="copy">Kopioi</string>
   <string name="copyable_slice_toast">%1$s kopioitiin leikepöydälle</string>
   <string name="copyright_title">Tekijänoikeudet</string>
+  <string name="corner_assistant_gesture_summary">Pyyhkäise ylös näytön oikeasta tai vasemmasta alareunasta herättääksesi Google Assistantin</string>
+  <string name="corner_assistant_gesture_title">Pyyhkäise ylös nurkasta aktivoidaksesi Google Assistantin</string>
   <string name="country_name">%s (järjestelmä)</string>
   <string name="create">Luo</string>
   <string name="credential_contains">Sisältö:</string>
