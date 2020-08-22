@@ -4232,6 +4232,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="play_pause_description">Toista/Pysäytä-painike</string>
   <string name="please_select_phase2">Todennus: vaihe 2</string>
   <string name="please_type_passphrase">Salasana</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcherin Tietosuojakäytäntö</string>
+  <string name="poco_launcher_user_agreement">POCO Launcherin Käyttöehdot</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
   <string name="pointer_settings_category">Hiiri/ohjauslevy</string>
@@ -6404,7 +6406,7 @@ tai kuulokkeita, joissa on 3,5 mm liitin."</string>
   <string name="use_open_wifi_automatically_summary">Muodosta automaattisesti yhteys laadukkaisiin julkisiin verkkoihin.</string>
   <string name="use_open_wifi_automatically_title">Muodosta yhteys avoimiin verkkoihin</string>
   <string name="use_otg_charge_only">Käänteinen lataus</string>
-  <string name="use_otg_charge_only_summary">Nopeampi 1 A lataus</string>
+  <string name="use_otg_charge_only_summary">Nopeampi 1,8 A lataus</string>
   <string name="use_otg_file_transfers">Käänteinen lataus &amp; tiedostojen siirtäminen</string>
   <string name="use_otg_file_transfers_summary">Hitaampi 500 mA lataus ja tiedostojen siirtäminen</string>
   <string name="use_otg_title">USB On-The-Go</string>

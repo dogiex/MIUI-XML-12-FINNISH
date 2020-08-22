@@ -22,9 +22,9 @@
   <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
   <string name="open_wifi_connect_title">Yhdistetty kohteeseen %1$s</string>
   <string name="permdesc_accessDrm">Sallii sovelluksen käyttää DRM-suojattua sisältöä.</string>
-  <string name="poco_launcher_privacy_policy">POCO Launcher Tietosuojakäytäntö</string>
-  <string name="poco_launcher_user_agreement">POCO Launcher Käyttöehdot</string>
-  <string name="poco_privacy_policy">POCO Launcher Tietosuojakäytäntö &amp; POCO Launcher Käyttöehdot</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcherin Tietosuojakäytäntö</string>
+  <string name="poco_launcher_user_agreement">POCO Launcherin Käyttöehdot</string>
+  <string name="poco_privacy_policy">POCO Launcherin Tietosuojakäytäntö &amp; POCO Launcherin Käyttöehdot</string>
   <string name="policy_name">Protokolla: %s</string>
   <string name="pre_installed_apps">Esiasennetut sovellukset</string>
   <string name="privacy_station_title">Yksityisyyttä Xiaomissa</string>
