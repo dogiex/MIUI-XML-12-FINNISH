@@ -127,7 +127,7 @@
     <string name="aqi_quality_index_light_pollution">Varoitus</string>
     <string name="aqi_quality_index_moderate">Keskinkertainen</string>
     <string name="aqi_quality_index_unhealthy">Epäterveellinen</string>
-    <string name="auto_add_app_shortcut">Lisää äskettäin asennetut sovellukset aloitusnäytölle</string>
+    <string name="auto_add_app_shortcut">Aseta uudet sovellukset Aloitusnäytölle</string>
     <string name="auto_delete_category_dialog_content">Nykyiset sovellukset poistetaan tästä kategoriasta ja kategoria poistetaan. Poistetaanko tämä kategoria nyt?</string>
     <string name="auto_delete_category_dialog_title">Kategorian poistaminen</string>
     <string name="backup_fail">Käynnistintä ei voitu varmuuskopioida</string>
@@ -346,6 +346,7 @@
     <string name="notification_installed">Asennettiin onnistuneesti</string>
     <string name="notification_open_button">Avaa</string>
     <string name="notification_reset_title">Kuvakkeet järjestettiin onnistuneesti</string>
+    <string name="one_key_call_title">Soita napauttamalla</string>
     <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Poista käytöstä</string>

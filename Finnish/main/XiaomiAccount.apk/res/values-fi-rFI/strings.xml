@@ -281,10 +281,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_change_phone_number">Vaihda numeroita</string>
   <string name="passport_checking_account">Tarkistetaan salasanaa…</string>
   <string name="passport_checking_input">Tarkistetaan…</string>
-  <string name="passport_click_email_to_valid">"
-
-Aktivoi tilisi seuraamalla
- linkkiä, jonka lähetimme sähköpostiisi."</string>
+  <string name="passport_click_email_to_valid">Aktivoi tilisi seuraamalla linkkiä, jonka lähetimme sähköpostiisi.</string>
   <string name="passport_completed">Valmis</string>
   <string name="passport_confirm_login">Jatka</string>
   <string name="passport_confirm_recycle_account">Kyllä</string>
