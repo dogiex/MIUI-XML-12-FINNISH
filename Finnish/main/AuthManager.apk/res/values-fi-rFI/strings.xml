@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_mediaVolume">Säädä median äänenvoimakkuutta</string>
+  <string name="HIPS_Perm_mediaVolume_Desc">Salli sovelluksen säätää median äänenvoimakkuutta</string>
+  <string name="HIPS_Perm_recognition">Aktiviteettitietojen käyttö</string>
+  <string name="HIPS_Perm_recognition_Desc">Salli sovelluksen käyttää aktiviteettitietojasi</string>
+  <string name="perm_action_allow">Salli</string>
+  <string name="perm_action_deny">Älä salli ikinä</string>
+  <string name="perm_modem_location">Pääsy sijaintiisi</string>
+  <string name="perm_modem_location_desc">Operaattorisi yrittää käyttää sijaintitietojasi. Jaetaanko sijaintitiedot operaattorin kanssa?</string>
   <string name="HIPS_Action_Accept">Salli</string>
   <string name="HIPS_Action_Accept_Once">Salli Kerran</string>
   <string name="HIPS_Action_Reject">Kiellä</string>

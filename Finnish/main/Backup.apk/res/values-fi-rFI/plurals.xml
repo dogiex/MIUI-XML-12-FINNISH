@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Palautettiin onnistuneesti. %d kohdetta ei voitu palauttaa.</item>
+        <item quantity="one">Palautettiin onnistuneesti. %d kohdetta ei voitu palauttaa.</item>
+     </plurals>
     <plurals name="backup_items_app_tailer">
         <item quantity="other">%d sovellusdatan tiedostoa</item>
         <item quantity="one">%d sovellusdatan tiedosto</item>

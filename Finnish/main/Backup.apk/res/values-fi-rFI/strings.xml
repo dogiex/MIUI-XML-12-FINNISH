@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+	<string name="xiaomi_bytes_unit">%1$s t</string>
+	 <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
+	 <string name="xiaomi_megabytes_unit">%1$s Mt</string>
 	<string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_up_description">Siirry ylös</string>
     <string name="abc_action_menu_overflow_description">Lisäasetukset</string>

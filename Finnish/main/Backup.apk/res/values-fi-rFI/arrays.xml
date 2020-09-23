@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="trans_cancel_survey_title">
-        <item>Siirto kestää liian kauan</item>
-        <item>Yhteys keskeytettiin</item>
-        <item>Valitsin väärät kohteet siirtoa varten</item>
-        <item>Liian monta askelta</item>
-        <item>Puhelimeni virta on vähissä</item>
-        <item>Siirretyt kohteet ovat korruptoituneet</item>
-        <item>Aloitin siirron vahingossa</item>
-        <item>Muu</item>
+        <item>Yleinen kokemus</item>
+        <item>Siirron kesto</item>
+        <item>Prosessin helppous</item>
+        <item>Ohjeiden selkeys</item>
+        <item>Tämä ominaisuus on hyödyllinen</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
         <item>Erittäin tyytymätön</item>

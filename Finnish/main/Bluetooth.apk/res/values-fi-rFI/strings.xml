@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="switch_audio_device_bt_a2dp">Bluetooth (Median ääni)</string>
+  <string name="switch_audio_device_bt_a2dp_summary">Toistaa median äänen yhdistetyssä laitteessa</string>
+  <string name="switch_audio_device_bt_hfp">Bluetooth (Puhelut)</string>
+  <string name="switch_audio_device_bt_hfp_summary">Toistaa puhelun äänen yhdistetyssä laitteessa. Tämä ominaisuus on poistettava käytöstä manuaalisesti.</string>
+  <string name="switch_audio_device_default">Oletus</string>
+  <string name="switch_audio_device_default_summary">Käytössä oleva laite</string>
+  <string name="switch_audio_device_hfp_hint">Vaihdetaan takaisin oletuslähtöön</string>
+  <string name="switch_audio_device_hfp_toast_hint">Valitse äänen oletuslähtö toistaaksesi ääntä tällä laitteella uudelleen.</string>
+  <string name="switch_audio_device_phone_summary">Toista ääntä tällä laitteella</string>
+  <string name="switch_audio_device_switch_hint">Voit poistaa ilmoitukset yhdistetyistä laitteista asetuksissa Asetukset > Bluetooth > Lisäasetukset.</string>
+  <string name="switch_audio_dialog_title">Valitse äänilähtö</string>
   <string name="ErrorTooManyRequests">Liian monta käsiteltävää pyyntöä. Yritä myöhemmin uudelleen.</string>
   <string name="a2dp_sink_mbs_label">Bluetooth-ääni</string>
   <string name="ack_record">Hyv. tiedot</string>
