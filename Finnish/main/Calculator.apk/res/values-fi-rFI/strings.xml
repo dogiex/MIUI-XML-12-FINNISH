@@ -252,9 +252,6 @@
   <string name="unit_data_short_radix_16">HEX</string>
   <string name="unit_data_short_radix_2">BIN</string>
   <string name="unit_data_short_radix_8">OCT</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
