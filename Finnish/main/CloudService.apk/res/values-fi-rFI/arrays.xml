@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_group_tags">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="korea_permission_groups">
+        <item>android.permission-group.PHONE</item>
+        <item>android.permission-group.SMS</item>
+        <item>android.permission-group.CONTACTS</item>
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission-group.STORAGE</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+     </string-array>
+     <string-array name="privacy_dialog_finddevice_runtime_perm">
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission-group.LOCATION</item>
+     </string-array>
+     <string-array name="privacy_dialog_sync_runtime_perm">
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_MMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission-group.STORAGE</item>
+     </string-array>
+     <string-array name="settings_search_phrase">
+        <item>Sync quick replies</item>
+        <item>Turn on sync</item>
+        <item>Quick replies;Clipboard;Editor;Cloud;Sync;Cloud services</item>
+     </string-array>
+     <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+     </string-array>
+     <string-array name="user_detail_fixed_item_click_action">
+        <item>action_view_cloud_data</item>
+        <item>action_view_storage_detail</item>
+     </string-array>
+     <array name="user_detail_fixed_item_icons">
+        <item>@drawable/icon_view_cloud_data</item>
+        <item>@drawable/icon_view_details</item>
+     </array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Tunnistaakseen synkronoidut kohteet</item>
         <item>Synkronoidakseen viestit</item>

@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="follower">
+        <item quantity="other">%d followers</item>
+        <item quantity="one">%d follower</item>
+     </plurals>
+     <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s secs left</item>
+        <item quantity="one">%s sec left</item>
+     </plurals>
+     <plurals name="notification_close_tip">
+        <item quantity="other">This feature will be turned off for %s days</item>
+        <item quantity="one">This feature will be turned off for %s day</item>
+     </plurals>
+     <plurals name="s_double_tap_backward">
+        <item quantity="other">Double tap to rewind by %d seconds</item>
+        <item quantity="one">Double tap to rewind by %d second</item>
+     </plurals>
+     <plurals name="s_double_tap_forward">
+        <item quantity="other">Double tap to fast forward by %d seconds</item>
+        <item quantity="one">Double tap to fast forward by %d second</item>
+     </plurals>
+     <plurals name="s_forward_tip">
+        <item quantity="other">%1$s secs</item>
+        <item quantity="one">%1$s sec</item>
+     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">Näytä %d vastausta</item>
         <item quantity="one">Näytä %d vastaus</item>

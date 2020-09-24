@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="channel_service">Updater Background Service</string>
+     <string name="chengelog">%1$s</string>
+     <string name="message">%1$s</string>
+     <string name="notif_service_summary">Hold to disable \"Background Service\" notification!</string>
+     <string name="notif_service_title">App is running in background…</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
   <string name="app_name">Päivittäjä</string>
   <string name="battery_islow">&lt;font color=#f37981&gt;Liitä laturisi&lt;/font&gt;</string>
   <string name="battery_islow_desc">Akun taso on liian alhainen zip-tiedoston turvallista asentamista varten. Liitä laturisi ja yritä myöhemmin uudelleen!</string>

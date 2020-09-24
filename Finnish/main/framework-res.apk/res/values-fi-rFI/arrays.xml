@@ -41,10 +41,6 @@
         <item>Yritetään ottaa Wi-Fi käyttöön</item>
         <item>Yritetään ottaa BT käyttöön</item>
     </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s Wi-Fi-puhelu</item>
-    </string-array>
 	<string-array name="fingerprint_acquired_vendor">
         <item>Yritä uudelleen</item>
         <item></item>

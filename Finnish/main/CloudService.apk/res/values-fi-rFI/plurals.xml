@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Can't sync %s items"</item>
+        <item quantity="one">"Can't sync %s item"</item>
+     </plurals>
+     <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+     </plurals>
 	<plurals name="dirty_blocklist_count">
         <item quantity="other">%d estolistan merkintää</item>
         <item quantity="one">%d estolistan merkintä</item>

@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="always_on_disconnected_message">"%1$s is set up to stay connected all the time, but it can't connect right now. Your phone will use a public network until it can reconnect to %1$s."</string>
+     <string name="always_on_disconnected_message_lockdown">"%1$s is set up to stay connected all the time, but it can't connect right now. You won't have a connection until the VPN can reconnect."</string>
+     <string name="always_on_disconnected_message_separator">" "</string>
+     <string name="always_on_disconnected_message_settings_link">Change VPN settings</string>
+     <string name="always_on_disconnected_title">"Can't connect to always-on VPN"</string>
+     <string name="dismiss">Dismiss</string>
+     <string name="open_app">Open app</string>
   <string name="configure">Määritä</string>
   <string name="data_received">Vastaanotettu:</string>
   <string name="data_transmitted">Lähetetty:</string>

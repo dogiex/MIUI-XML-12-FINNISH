@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="call_phone_permission_denied">This application needs to access Telephone permission in order to make calls. You can manage Tag permission in Settings</string>
+     <string name="external_storage_permission_denied">This application needs to access External Storage permission in order to access files. You can manage Tag permission in Settings</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
   <string name="action_call">Soita numeroon %s</string>
   <string name="action_text">Lähetä tekstiviesti numeroon %s</string>
   <string name="app_name">Tags</string>

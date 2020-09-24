@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_sync_frequency">
+        <item>Manual</item>
+        <item>Every 15 minutes</item>
+        <item>Every hour</item>
+        <item>Every 4 hours</item>
+        <item>Every 12 hours</item>
+     </string-array>
     <string-array name="aquarius_info">
         <item>vesimies</item>
         <item>Vesimies</item>

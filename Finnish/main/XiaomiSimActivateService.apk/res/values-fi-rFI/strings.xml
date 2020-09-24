@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_history_success_overview">Activated SIM card successfully. Activation is triggered by \"%1$s\".</string>
   <string name="accept">OK</string>
   <string name="activate">Aktivoi</string>
   <string name="activate_auto_sms_notification_desc_1_card">Tekstiviesti lähetettiin \"Etsi laite\" aktivointia varten</string>

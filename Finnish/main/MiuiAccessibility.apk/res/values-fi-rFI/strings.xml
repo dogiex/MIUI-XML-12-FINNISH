@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="iflytek_brand_label_content_description">iFLYREC</string>
+     <string name="pause_recognize_content_description">Stopped transcribing audio. Double tap to start again.</string>
+     <string name="required_permissions">android.permission.RECORD_AUDIO;</string>
+     <string name="start_recognize_content_description">Transcribing audio now. Double tap to stop.</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">More options</string>

@@ -1,5 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cloud_space_full_gallery_notification_content_text">Upgrade your plan to get more cloud storage space</string>
+     <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
+     <string name="connect_wlan_china">Connect to WLAN</string>
+     <string name="cta_notification_content_text">Allow %s to connect to the internet to be able to restore items</string>
+     <string name="cta_notification_content_title">"Can't restore items from %s"</string>
+     <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
+     <string name="find_device_status_summary">Locate and lock your device, as well as erase data remotely</string>
+     <string name="find_device_status_title_pad">Find device</string>
+     <string name="find_device_status_title_phone">Find device</string>
+     <string name="help_and_feedback">Help and feedback</string>
+     <string name="ks_key_download_button">ks_key_download_button</string>
+     <string name="ks_key_status">ks_key_status</string>
+     <string name="ks_key_udpate_time">ks_key_udpate_time</string>
+     <string name="ks_key_version">ks_key_version</string>
+     <string name="ks_name_alipay">IFAA</string>
+     <string name="ks_name_fido">FIDO</string>
+     <string name="ks_name_keybox">Keybox</string>
+     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
+     <string name="ks_name_soter">Soter</string>
+     <string name="ks_name_widevine">Widevine (L1)</string>
+     <string name="low_battery_locate_summary">Automatically report location info when the battery is low</string>
+     <string name="low_battery_locate_title">Report location when battery is low</string>
+     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
+     <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
+     <string name="micloud_find_device_guide_desc_pad">If your device is lost, sign in to &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> on any other device to locate, remotely lock, or erase data on lost device. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>View details&lt;/a>.</string>
+     <string name="micloud_find_device_guide_desc_phone">If your device is lost, sign in to &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> on any other device to locate, remotely lock, or erase data on lost device. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>View details&lt;/a>.</string>
+     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+     <string name="micloud_footer_international_url">mi.com/micloud</string>
+     <string name="micloud_footer_normal_url">i.mi.com</string>
+     <string name="micloud_manual_request_permission_cancel">Cancel</string>
+     <string name="micloud_manual_request_permission_confirm">Settings</string>
+     <string name="micloud_manual_request_permission_content">To be able to use our services, give Xiaomi Cloud the following permissions in the Settings: \"%s\".</string>
+     <string name="micloud_manual_request_permission_content_on_provision">Give the required permissions in Security first</string>
+     <string name="micloud_manual_request_permission_title">Permissions required</string>
+     <string name="micloud_notif_content_depend_wifi_china">Connect to WLAN to sync.</string>
+     <string name="micloud_notif_content_master_depend_wifi_china">Connect to WLAN or change sync settings. Tap to change.</string>
+     <string name="micloud_setting_wifi_summary_china">WLAN settings</string>
+     <string name="micloud_sync_result_wifi_only_china">This item is too big. Sync it when connected to WLAN.</string>
+     <string name="midrive_guide1_desc">Back up items to the cloud to free up storage space on your device.</string>
+     <string name="midrive_guide1_title">Secure backups</string>
+     <string name="midrive_guide2_desc">Download items at breakneck speed.</string>
+     <string name="midrive_guide2_title">Fast downloads</string>
+     <string name="midrive_guide3_desc">Use Mi Drive on mobile devices, computers, and in browsers.</string>
+     <string name="midrive_guide3_title">Works everywhere</string>
+     <string name="midrive_guide_btn_install">Install Mi Drive</string>
+     <string name="midrive_guide_btn_installed">Open Mi Drive</string>
+     <string name="midrive_guide_btn_installing">Installing…</string>
+     <string name="power_off_locate_summary">"Report location info by long pressing the Power button.
+Location info might not be reported when network connection is poor."</string>
+     <string name="power_off_locate_title">Report location before powering off</string>
+     <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
+     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
+     <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
+     <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
+     <string name="soundrecorder_sync_only_in_wifi_china">Only use WLAN to sync</string>
+     <string name="soundrecorder_sync_only_in_wifi_summary_china">Recorder will not use mobile data to download or upload recordings</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="storage_manage_cloud_data_title">View items in the cloud</string>
+     <string name="storage_manage_full_summary">Cloud storage is full. Upgrade your plan.</string>
+     <string name="storage_manage_normal_summary">Change cloud storage plan</string>
+     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
+     <string name="sync_dspt_provision2">i.mi.com</string>
+     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
+     <string name="user_agreement_url">app://com.miui.cloudservice.user_agreement.license</string>
+     <string name="xmpp_server_addr" />
 	<string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_up_description">Siirry ylös</string>
     <string name="abc_action_menu_overflow_description">Lisäasetukset</string>

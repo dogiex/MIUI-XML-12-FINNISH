@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="beam_requires_external_storage_permission">Application does not have External Storage Permission. This is required to Beam this file</string>
+     <string name="bluetooth_package">com.android.bluetooth</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
   <string name="accessibility_nfc_enabled">NFC otettu käyttöön.</string>
   <string name="android_beam">Android Beam</string>
   <string name="app_name">NFC Palvelu</string>

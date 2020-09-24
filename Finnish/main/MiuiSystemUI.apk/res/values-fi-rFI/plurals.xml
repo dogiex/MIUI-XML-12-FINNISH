@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d devices connected</item>
+        <item quantity="one">%1$d device connected</item>
+     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Virheellinen PIN-koodi, %d yritystä jäljellä</item>
         <item quantity="one">Virheellinen PIN-koodi, %d yritys jäljellä</item>
