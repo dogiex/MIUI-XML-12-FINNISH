@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="description_icon_sim_card">SIM %1$d</string>
-     <string name="phone_info_divider">" ｜ "</string>
   <string name="ai_assistant">AI Call Assistant</string>
   <string name="ai_assistant_not_installed">Asenna ensin AI Call Assistant</string>
   <string name="antispam_local_marked">Paikallisesti merkattu</string>

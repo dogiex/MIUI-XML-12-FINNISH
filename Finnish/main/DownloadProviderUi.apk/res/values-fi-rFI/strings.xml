@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Preference</string>
-     <string name="app_size">%1$s</string>
-     <string name="download_num_size">%1$s | %2$s</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="info_rank_show">Recommend popular items</string>
      <string name="search_app_name">下载管理</string>
      <string name="search_download">下载管理</string>
@@ -21,7 +18,6 @@
      <string name="search_xl_account_key_words">迅雷会员;充值会员;下载加速;下载速度慢;下载不了</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="DOWNLOAD_UNIT_BIT">t</string>
   <string name="DOWNLOAD_UNIT_GB">Gt</string>
   <string name="DOWNLOAD_UNIT_KB">Kt</string>

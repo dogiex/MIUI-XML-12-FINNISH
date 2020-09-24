@@ -46,10 +46,6 @@
         <item>action_view_cloud_data</item>
         <item>action_view_storage_detail</item>
      </string-array>
-     <array name="user_detail_fixed_item_icons">
-        <item>@drawable/icon_view_cloud_data</item>
-        <item>@drawable/icon_view_details</item>
-     </array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Tunnistaakseen synkronoidut kohteet</item>
         <item>Synkronoidakseen viestit</item>

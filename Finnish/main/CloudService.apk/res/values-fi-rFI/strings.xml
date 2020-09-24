@@ -5,16 +5,10 @@
      <string name="connect_wlan_china">Connect to WLAN</string>
      <string name="cta_notification_content_text">Allow %s to connect to the internet to be able to restore items</string>
      <string name="cta_notification_content_title">"Can't restore items from %s"</string>
-     <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_status_summary">Locate and lock your device, as well as erase data remotely</string>
      <string name="find_device_status_title_pad">Find device</string>
      <string name="find_device_status_title_phone">Find device</string>
      <string name="help_and_feedback">Help and feedback</string>
-     <string name="ks_key_download_button">ks_key_download_button</string>
-     <string name="ks_key_status">ks_key_status</string>
-     <string name="ks_key_udpate_time">ks_key_udpate_time</string>
-     <string name="ks_key_version">ks_key_version</string>
      <string name="ks_name_alipay">IFAA</string>
      <string name="ks_name_fido">FIDO</string>
      <string name="ks_name_keybox">Keybox</string>
@@ -27,9 +21,6 @@
      <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
      <string name="micloud_find_device_guide_desc_pad">If your device is lost, sign in to &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> on any other device to locate, remotely lock, or erase data on lost device. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>View details&lt;/a>.</string>
      <string name="micloud_find_device_guide_desc_phone">If your device is lost, sign in to &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> on any other device to locate, remotely lock, or erase data on lost device. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>View details&lt;/a>.</string>
-     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-     <string name="micloud_footer_international_url">mi.com/micloud</string>
-     <string name="micloud_footer_normal_url">i.mi.com</string>
      <string name="micloud_manual_request_permission_cancel">Cancel</string>
      <string name="micloud_manual_request_permission_confirm">Settings</string>
      <string name="micloud_manual_request_permission_content">To be able to use our services, give Xiaomi Cloud the following permissions in the Settings: \"%s\".</string>
@@ -64,8 +55,6 @@ Location info might not be reported when network connection is poor."</string>
      <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
-     <string name="sync_dspt_provision2">i.mi.com</string>
-     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
      <string name="user_agreement_url">app://com.miui.cloudservice.user_agreement.license</string>
      <string name="xmpp_server_addr" />
 	<string name="abc_action_bar_home_description">Siirry etusivulle</string>

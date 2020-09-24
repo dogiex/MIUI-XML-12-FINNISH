@@ -165,7 +165,6 @@ To improve device experience, apps and services can still scan for nearby device
      <string name="bluetooth_unpair_dialog_body">Your phone will no longer be paired with %1$s</string>
      <string name="bluetooth_unpair_dialog_forget_confirm_button">Forget device</string>
      <string name="bluetooth_unpair_dialog_title">Forget device?</string>
-     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
      <string name="bottom_function_settings">Functions of additional buttons</string>
      <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
      <string name="bt_absVolume_open_dialog_summary">Due to compatibility issues, some Bluetooth devices may have abnormal volume levels, which can be resolved by turning this feature off.</string>
@@ -174,12 +173,10 @@ To improve device experience, apps and services can still scan for nearby device
      <string name="bt_absVolume_summary">"Keep the volume of Bluetooth devices and the phone strictly consistent. You can turn this feature on and off when media isn't playing in the background."</string>
      <string name="bt_show_notification_summary">Show a permanent notification in the Notification shade</string>
      <string name="bt_show_notification_title">Notify about Bluetooth connections</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="camera_laser_sensor_switch">Camera Laser Sensor</string>
      <string name="cell_data_limit">^1 data limit</string>
      <string name="cell_data_warning">^1 data warning</string>
      <string name="cell_data_warning_and_limit">^1 data warning / ^2 data limit</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="change_brightness">Adjust brightness</string>
      <string name="change_lock_screen_password_title">Change screen lock</string>
      <string name="change_wifi_state_app_detail_summary">Allow this app to turn WLAN on or off, scan and connect to WLAN networks, add or remove networks, or start a local-only hotspot</string>
@@ -200,7 +197,6 @@ To improve device experience, apps and services can still scan for nearby device
      <string name="common_issue">FAQ</string>
      <string name="computer_backup_summary">Back up and restore items using a computer</string>
      <string name="computer_backup_title">Computer</string>
-     <string name="condition_summary">%1$d</string>
      <string name="config_account_intent_uri" />
      <string name="config_backup_settings_intent" />
      <string name="config_backup_settings_label" />
@@ -302,10 +298,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
      <string name="dialog_wifi_button_positive">Yes</string>
      <string name="dialog_wifi_context">You need to connect to the the internet to set up your device. Unless you connect to WLAN, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
      <string name="dialog_wifi_title">Using mobile data</string>
-     <string name="digital_clock_dot">:</string>
      <string name="disabled_for_user_setting_summary">Setting can’t be changed by current user</string>
      <string name="dlg_error_unmount_title" />
-     <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
      <string name="do_disclosure_learn_more_separator">" "</string>
      <string name="double_click_volume_down_when_lock">Double press Volume down when the screen is locked</string>
      <string name="double_tap_power_for_camera_suggestion_title">Open camera quickly</string>
@@ -575,7 +569,6 @@ Open Xiaomi Cloud and restore items from there."</string>
      <string name="ipv4_congertion_control">Select TCP congestion control</string>
      <string name="ipv4_congertion_xontrol_chose">TCP congestion-avoidance algorithm</string>
      <string name="key_combination_power_volume_down">Volume down + Power</string>
-     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
      <string name="keywords_bluetooth_settings">connected, device, headphones, headset, speaker, wireless, pair, earbuds, music, media</string>
      <string name="keywords_change_wifi_state">wifi, wi-fi, toggle, control</string>
      <string name="keywords_default_browser">default, default browser</string>
@@ -658,7 +651,6 @@ Open Xiaomi Cloud and restore items from there."</string>
      <string name="master_clear_short_title">Erase all data (factory reset)</string>
      <string name="master_clear_title_new">Factory reset</string>
      <string name="meid_multi_sim">MEID (sim slot %1$d)</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="mi_pay_summary_without_nfc">Mi Pay</string>
      <string name="micloud_service_summary">Sync the list of apps, back up system settings and Home screen layout</string>
      <string name="micloud_service_title">Xiaomi Cloud</string>
@@ -699,7 +691,6 @@ Continue to access additional settings."</string>
      <string name="network_dashboard_summary_data_usage">data usage</string>
      <string name="network_dashboard_summary_hotspot">hotspot</string>
      <string name="network_dashboard_summary_mobile">mobile</string>
-     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
      <string name="nfc_repair_action_btn">Restore</string>
      <string name="nfc_repair_action_desc">Tap \"<b>Restore</b>"\" to fix the issues that prevent you from using NFC features. Don't leave the current page while NFC functionality is being restored. Reboot your device to apply changes."</string>
      <string name="nfc_repair_btn_no">No</string>
@@ -730,7 +721,6 @@ Continue to access additional settings."</string>
      <string name="no_carrier_update_now_text">Updated just now</string>
      <string name="no_carrier_update_text">Updated ^2 ago</string>
      <string name="notice_header" />
-     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
      <string name="notification_importance_divider">%1$s: %2$s</string>
      <string name="notification_summary_channel">%1$s • %2$s</string>
      <string name="notification_switch_label">Show notifications</string>
@@ -746,7 +736,6 @@ Continue to access additional settings."</string>
      <string name="other">Other</string>
      <string name="other_data">Other items on this device</string>
      <string name="other_password">Other passwords</string>
-     <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="paper_color_title">Colors</string>
      <string name="paper_mode_reset">Restore defaults</string>
      <string name="paper_mode_summary">Switch to warmer colors and add paper texture to backgrounds to reduce eye strain</string>
@@ -768,7 +757,6 @@ Read and agree to %s before using this service."</string>
      <string name="phone_backup_title">Mobile device</string>
      <string name="phone_language_summary" />
      <string name="photo_data">Photos and videos</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_remaining_duration_only_enhanced">About %1$s left based on your usage</string>
      <string name="power_remaining_duration_only_shutdown_imminent">Phone may shutdown soon</string>
      <string name="power_remaining_duration_shutdown_imminent">Phone may shutdown soon (%1$s)</string>
@@ -776,7 +764,6 @@ Read and agree to %s before using this service."</string>
      <string name="power_remaining_less_than_duration_only">Less than %1$s remaining</string>
      <string name="power_remaining_more_than_subtext">More than %1$s remaining (%2$s)</string>
      <string name="power_remaining_only_more_than_subtext">More than %1$s remaining</string>
-     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
      <string name="power_usage_enhanced_debug">%1$s left (New ML est)</string>
      <string name="power_usage_old_debug">%1$s left (Old est)</string>
      <string name="pref_title_network_details">Network details</string>
@@ -795,12 +782,6 @@ Read and agree to %s before using this service."</string>
      <string name="private_dns_mode_provider">Private DNS provider hostname</string>
      <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
      <string name="private_dns_mode_provider_hostname_hint">Enter hostname of DNS provider</string>
-     <string name="process_format">%1$s (%2$d)</string>
-     <string name="process_kernel_label">Android OS</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_port_hint">8080</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
      <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
      <string name="qtifeedback_package">com.qti.smq.Feedback</string>
@@ -853,7 +834,6 @@ Read and agree to %s before using this service."</string>
      <string name="search_breadcrumb_connector">%1$s > %2$s</string>
      <string name="search_connection_and_sharing">More;Wireless</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-     <string name="security_encryption_attention_symbol">•</string>
      <string name="security_input_enable">Secure keyboard</string>
      <string name="security_input_num_order">Fixed</string>
      <string name="security_input_num_random_order">Randomized</string>
@@ -869,10 +849,7 @@ Read and agree to %s before using this service."</string>
      <string name="see_all_apps_title">See all %1$d apps</string>
      <string name="select_private_dns_configuration_dialog_title">Select Private DNS Mode</string>
      <string name="select_private_dns_configuration_title">Private DNS</string>
-     <string name="service_client_name">%1$s</string>
-     <string name="service_process_name">%1$s</string>
      <string name="set_screen_paper_mode">Reading mode</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">Fingerprint setup only takes a minute or two. If you skip this, you can add your fingerprint later in settings.</string>
      <string name="setup_fingerprint_enroll_skip_title">Skip fingerprint?</string>
      <string name="setup_lock_settings_options_button_label">Screen lock options</string>
@@ -885,10 +862,8 @@ Read and agree to %s before using this service."</string>
      <string name="sim_pin_disable_failed">"Can't disable PIN."</string>
      <string name="sim_pin_enable_failed">"Can't enable PIN."</string>
      <string name="sim_selection_channel_title">SIM selection</string>
-     <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_status_title_sim_slot">SIM status (sim slot %1$d)</string>
      <string name="single_press_AI_button">Press AI button</string>
-     <string name="size_suffix">%1$s%2$s</string>
      <string name="slider_game_page_code">00008</string>
      <string name="slight_pause">,</string>
      <string name="smart_home_title">Smart home</string>
@@ -921,8 +896,6 @@ Before using our services, read and agree to our %s."</string>
      <string name="sound_assist_summary">Customize your sound settings</string>
      <string name="sound_assist_title">Sound assistant</string>
      <string name="standby_bucket_summary">App standby state: %s</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
      <string name="status_data_network_type">Mobile data network type</string>
      <string name="status_esim_id">EID</string>
      <string name="status_number_sim_slot">Phone number (sim slot %1$d)</string>
@@ -1016,9 +989,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
      <string name="suggestions_title_v2">Suggested for You</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="summary_empty" />
-     <string name="summary_font_size">%1$s</string>
      <string name="summary_placeholder"> </string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_two_lines_placeholder">" 
  "</string>
      <string name="suwFontSecondary">google-sans</string>
@@ -1084,7 +1055,6 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
      <string name="wifi_calling_not_supported">WLAN calling is not supported for %1$s</string>
      <string name="wifi_calling_off_explanation_2" />
      <string name="wifi_calling_pref_managed_by_carrier">Setting managed by carrier</string>
-     <string name="wifi_calling_roaming_mode_summary">%1$s</string>
      <string name="wifi_calling_settings_activation_instructions">Activate WLAN Calling</string>
      <string name="wifi_calling_turn_on">Turn on WLAN calling</string>
      <string name="wifi_cant_connect">"Can't connect"</string>
@@ -1224,8 +1194,6 @@ Update settings to:
      <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
      <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
      <string name="zen_onboarding_settings">Settings</string>
-     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
-     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
   <string name="always_style">Aina</string>
   <string name="aod_close_color_inversion">Tämä ominaisuus ei toimi käänteisillä väreillä. Poista ensin käänteiset värit käytöstä.</string>
   <string name="aod_name_wanxiang">Himmennetty näyttö</string>

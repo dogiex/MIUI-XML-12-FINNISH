@@ -89,9 +89,6 @@ Send this code to the supervisor."</string>
      <string name="just_a_second">Just a sec…</string>
      <string name="loading">Just a sec…</string>
      <string name="logout_account">Sign out</string>
-     <string name="mibi_button_count_down_reget">%1$s</string>
-     <string name="mibi_colon">": "</string>
-     <string name="mibi_error_frozen_service_num">400-100-3399</string>
      <string name="mibi_permanently_denied_perm_camera">Allow camera in Settings to use the features.</string>
      <string name="mibi_permanently_denied_perm_send_sms">Allow send SMS messages in Settings to use the features.</string>
      <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Coins</string>
@@ -175,7 +172,6 @@ Send this code to the supervisor."</string>
      <string name="sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
      <string name="sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
      <string name="sns_sign_in">Other ways to sign in</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="temporary_not_available">"This feature isn't available yet"</string>
      <string name="ticket_hint">Verification code</string>
      <string name="ticket_invalid">The code you entered is incorrect</string>

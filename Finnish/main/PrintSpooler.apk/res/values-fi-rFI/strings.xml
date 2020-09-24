@@ -7,13 +7,11 @@
      <string name="activity_jump_market_alert_title">Attention</string>
      <string name="activity_jump_market_alert_update_message">"Update WPS Office to convert this file and prepare it for printing. You'll need to start printing again after the new version is installed. Update now?"</string>
      <string name="activity_jump_market_alert_update_positive_button">Update</string>
-     <string name="current_page_template">%1$d/%2$d</string>
      <string name="mediasize_default">ISO_A4</string>
      <string name="mediasize_standard_china">3</string>
      <string name="mediasize_standard_iso">0</string>
      <string name="mediasize_standard_japan">2</string>
      <string name="mediasize_standard_north_america">1</string>
-     <string name="printer_extended_description_template">%1$s - %2$s</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="uri_package_details">market://details?id=%1$s</string>
      <string name="wps_convert_error_toast_text">"Couldn't convert file due to a format error"</string>

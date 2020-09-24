@@ -215,7 +215,6 @@
      <string name="lunar_day">Lunar %1$s</string>
      <string name="menu_group">Create a folder</string>
      <string name="merge_to_folder">Create a folder</string>
-     <string name="micloud_state_total_count">%1$s</string>
      <string name="midnight">Night</string>
      <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
      <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
@@ -275,7 +274,6 @@
      <string name="note_gesture_guide_step1">Press and hold the plus to create a voice note</string>
      <string name="note_gesture_guide_step2">Press and hold a note and then drag it over another note to create a folder</string>
      <string name="note_gesture_guide_step3">Press and hold a note and then drag it over a folder to move the note there</string>
-     <string name="notelist_string_info">…</string>
      <string name="notification_content_add_todo_from_other_app">You added a new task. Tap to view.</string>
      <string name="permission_phone_state_desc">For stopping recording voice notes during calls</string>
      <string name="permission_storage_desc">For saving notes as images</string>
@@ -389,7 +387,6 @@
      <string name="wednesday">Wednesday</string>
      <string name="wednesday_short">Wed</string>
      <string name="wednesday_shortest">Wed</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="yesterday">Yesterday</string>
   <string name="confirm_cancel">Kieltäydyn</string>
   <string name="confirm_ok">Hyväksyn</string>

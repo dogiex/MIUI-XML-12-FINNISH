@@ -174,7 +174,6 @@
      <string name="date_picker_label_month" />
      <string name="date_picker_label_year" />
      <string name="date_picker_lunar">Chinese Traditional Calendar</string>
-     <string name="date_time_fmt">%1$s, %2$s</string>
      <string name="define_cert4android" />
      <string name="define_ical4android" />
      <string name="description_calendar_huangli" />
@@ -748,8 +747,6 @@
      <string name="sunday_shortest">Sun</string>
      <string name="swipe_up_guide_hint_text">上滑发现更多</string>
      <string name="switch_orientation_desc">Screen orientation</string>
-     <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
-     <string name="tag_feed_list_container">feed_list_container</string>
      <string name="taishen">胎神</string>
      <string name="talk_back_description_close_ad_card">关闭广告卡片</string>
      <string name="talk_back_description_close_ad_text">关闭广告短链</string>

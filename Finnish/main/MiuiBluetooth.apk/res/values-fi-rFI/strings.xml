@@ -37,8 +37,6 @@
      <string name="battery_meter_very_low_overlay_symbol">!</string>
      <string name="blackshark_name">H66L</string>
      <string name="blackshark_right_name">H66R</string>
-     <string name="ble_profile_1">ble_profile_mi_band</string>
-     <string name="ble_profile_2">ble_profile_mi_key</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
      <string name="bluetooth_active_battery_level">Active, %1$s battery</string>

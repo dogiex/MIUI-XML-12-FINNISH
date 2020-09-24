@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
-     <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
-     <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
-     <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
-     <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
      <string name="clean_master_icon_recall_button_text">Add</string>
      <string name="clean_master_icon_recall_dialog_button_negative">No thanks</string>
      <string name="clean_master_icon_recall_dialog_button_positive">Add</string>
@@ -14,9 +10,7 @@
      <string name="clean_master_icon_recall_summary">Add a Home screen shortcut to clear trash anytime you need.</string>
      <string name="clean_master_icon_recall_title">Clear trash faster</string>
      <string name="clean_master_icon_recall_toast_text">Added a Home screen shortcut for Cleaner successfully</string>
-     <string name="empty">" "</string>
      <string name="engine_mi">Xiaomi</string>
-     <string name="hints_header_left">%d</string>
      <string name="install_time_format">MM/dd/yyyy</string>
      <string name="install_time_invalid">--</string>
      <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438>清理后会影响APP正常运行&lt;/font></string>
@@ -115,19 +109,13 @@
      <string name="permission_dialog_storage_btn2">Cancel</string>
      <string name="permission_dialog_storage_content">Cleaner needs permission to access internal storage to be able to work normally. Tap \"Settings\" to manage storage permissions.</string>
      <string name="permission_dialog_storage_title">Permissions required</string>
-     <string name="preference_category_information_setting">category_information_setting</string>
      <string name="preference_key_about_privacy">key_about_privacy</string>
      <string name="preference_key_appclean_scan_engine">key_appclean_scan_engine</string>
      <string name="preference_key_create_onekeyclean_shortcut">key_create_onekeyclean_shortcut</string>
      <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
-     <string name="preference_key_information_setting_close">key_information_setting_close</string>
-     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
      <string name="preference_key_scan_engine">key_scan_engine</string>
-     <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
      <string name="preference_key_wechat_garbage_clean_alert12">key_wechat_clean_switch_state_drop</string>
-     <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
      <string name="preference_key_wechat_garbage_cleanup_auto_check_size12">key_wechat_timed_auto_scan_notify_size_drop</string>
-     <string name="preference_key_wechat_garbage_cleanup_auto_check_time">key_wechat_timed_auto_scan_interval</string>
      <string name="preference_key_wechat_garbage_cleanup_auto_check_time12">key_wechat_timed_auto_scan_interval_drop</string>
      <string name="preference_key_whatsapp_setting_alert_size">key_whatsapp_setting_alert_size</string>
      <string name="preference_key_whatsapp_setting_alert_size12">key_whatsapp_setting_alert_size_drop</string>

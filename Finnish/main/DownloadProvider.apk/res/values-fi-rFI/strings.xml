@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="download_running_percent">In progress, %d%%</string>
      <string name="status_bar_notification_info_overflow">999+</string>
   <string name="app_label">Lataukset</string>
   <string name="auto_restart_under_wifi">Wi-Fi-yhteys lataa automaattisesti tämän tiedoston</string>

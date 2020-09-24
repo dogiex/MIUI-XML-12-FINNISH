@@ -33,7 +33,6 @@
      <string name="anonymous_resource_unlink_confirm">"Don't add"</string>
      <string name="anonymous_resource_unlink_hint">"If you don't add items, they won't be associated with your account."</string>
      <string name="anonymous_resource_unlink_title">Confirm your action</string>
-     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
      <string name="apply_choosen_type_resource">Apply selected items</string>
      <string name="apply_failed">"Couldn't apply"</string>
      <string name="apply_not_support_aod">"Always-on display isn't supported on this device"</string>
@@ -42,7 +41,6 @@
      <string name="apply_succeed">Applied successfully</string>
      <string name="apply_success_not_enable_aod">Turn on Always-on display in the Settings first</string>
      <string name="apply_success_not_support_aod">"Can't combine Always-on display with themes on this device. The rest of this theme's components were applied successfully."</string>
-     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
      <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
      <string name="chinese_day_1">初一</string>
      <string name="chinese_day_10">初十</string>
@@ -206,8 +204,6 @@
      <string name="error_icon_content_description">Error</string>
      <string name="evening">PM</string>
      <string name="exchange_alert">You can get codes during our events and redeem them here</string>
-     <string name="exo_track_bitrate">%1$.2f Mbps</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="expand_button_title">Advanced</string>
      <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
      <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -297,7 +293,6 @@
      <string name="home_daily">Daily highlights</string>
      <string name="i_know">Got it</string>
      <string name="icon_content_description">Dialog Icon</string>
-     <string name="item_resource_audio_divider">│</string>
      <string name="item_view_role_description">Tab</string>
      <string name="loading_picture">Loading image…</string>
      <string name="lockscreen_desk_wallpaper">Home screen and Lock screen wallpapers</string>
@@ -438,23 +433,13 @@ mm"</string>
      <string name="ota_recovery_theme_notity_btn">Restore</string>
      <string name="ota_recovery_theme_notity_content">"You can go back to the theme you've been using before the update"</string>
      <string name="ota_recovery_theme_notity_title">Restore your theme</string>
-     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
      <string name="pm">PM</string>
      <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
      <string name="recommend_trigger">Personalized recommendations</string>
      <string name="recommend_trigger_summary">Turn on to receive recommendations based on your preferences</string>
      <string name="resource_comment_error_not_bought">You should use an item before commenting about it</string>
-     <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_exchange_device_not_support">"This item isn't supported on your device"</string>
      <string name="resource_incall_show_download">Download video</string>
-     <string name="resource_price_format">(%1$s)</string>
-     <string name="resource_ring_ranking_list_divider">-</string>
-     <string name="resource_ring_ranking_list_rank_1">1</string>
-     <string name="resource_ring_ranking_list_rank_2">2</string>
-     <string name="resource_ring_ranking_list_rank_3">3</string>
      <string name="resource_status_error">"An error occurred. Can't view this wallpaper now."</string>
      <string name="saturday">Saturday</string>
      <string name="saturday_short">Sat</string>
@@ -523,7 +508,6 @@ mm"</string>
      <string name="solar_term_white_dews">White Dews</string>
      <string name="solar_term_winter_begins">Winter Begins</string>
      <string name="solar_term_winter_solstice">Winter Solstice</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Sunday</string>
      <string name="sunday_short">Sun</string>
@@ -588,7 +572,6 @@ mm"</string>
      <string name="theme_component_title_aod">Always-on display</string>
      <string name="theme_component_video_wallpaper">Dynamic wallpapers</string>
      <string name="theme_designer_products">Designer themes</string>
-     <string name="theme_name">%1$s</string>
      <string name="theme_not_include_module_desc">"This theme doesn't contain the following items: %s"</string>
      <string name="theme_on_the_phone_alert">"Can't play during calls"</string>
      <string name="theme_preview">Theme preview</string>

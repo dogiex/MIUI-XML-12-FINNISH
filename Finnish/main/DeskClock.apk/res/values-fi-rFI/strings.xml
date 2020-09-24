@@ -27,7 +27,6 @@
      <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE</string>
      <string name="ringtone_more">Other</string>
      <string name="shut_down_alarm_no_news">关机闹钟无法享受早间听新闻服务</string>
-     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
      <string name="sleep_duration_text">%1$s %2$s</string>
      <string name="sleep_duration_text_avg">%1$s %2$s</string>
      <string name="sleep_wake_time">%1$s-%2$s</string>
@@ -46,11 +45,9 @@
      <string name="stat_repeat_self_define">自定义</string>
      <string name="stat_repeat_weekdays">周一至周五</string>
      <string name="stat_repeat_weekends">周末</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stopwatch_reset_notification">Stopwatch was reset</string>
      <string name="stopwatch_running_notification">Stopwatch</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-     <string name="symbol_colon">:</string>
      <string name="time_picker_colon">:</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>

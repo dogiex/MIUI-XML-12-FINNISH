@@ -349,13 +349,7 @@
      <string name="back_violet">2:REDMI NOTE 7 PRO:AI DUAL CAMERA</string>
      <string name="back_willow">4:REDMI NOTE 8T:AI QUAD CAMERA</string>
      <string name="background">Background</string>
-     <string name="beauty_level_1">1</string>
-     <string name="beauty_level_2">2</string>
-     <string name="beauty_level_3">3</string>
-     <string name="beauty_level_4">4</string>
-     <string name="beauty_level_5">5</string>
      <string name="camera_fastmotion_title">Time-lapse videos</string>
-     <string name="camera_new_slow_motion_quality_default">5</string>
      <string name="certificate_com_android_camera">27196e386b875e76adf700e7ea84e4c6eee33dfa</string>
      <string name="certificate_com_xiaomi_wearable">1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</string>
      <string name="clone_do_not_move_phone">"Don't move your device"</string>
@@ -411,7 +405,6 @@
      <string name="document_blur_warn">文字拍摄模糊</string>
      <string name="edit_makeup">Makeup</string>
      <string name="emoticon">Sticker pack</string>
-     <string name="empty">" "</string>
      <string name="expand_button_title">Advanced</string>
      <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
      <string name="eye_light_off" />
@@ -681,7 +674,6 @@
      <string name="pref_camera_video_8k_tips">8K</string>
      <string name="pref_camera_video_sat_enable_title">开启视频平滑变焦功能</string>
      <string name="pref_camera_video_show_faceview_title">Show face frame in Video mode</string>
-     <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
      <string name="pref_camera_whitebalance_entry_auto_abbr">AUTO</string>
      <string name="pref_camera_zoom_value_title">Zoom</string>
      <string name="pref_custom_feature_layout_title">Feature layout</string>
@@ -694,7 +686,6 @@
      <string name="pref_google_lens_default">true</string>
      <string name="pref_hdr10_video_mode_description">Optimize colors and contrast for 4K and 8K videos automatically. Optimized videos can only be played on HDR10 compatible devices.</string>
      <string name="pref_hdr10_video_mode_title">HDR10</string>
-     <string name="pref_live_volumekey_function_default">volume</string>
      <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
      <string name="pref_module_settings">Modes</string>
      <string name="pref_more_mode_style_title">Camera modes</string>
@@ -727,7 +718,6 @@
      <string name="pref_video_quality_entry_value_720p_60fps">5,60</string>
      <string name="pref_video_quality_entry_value_8kuhd">3001</string>
      <string name="pref_video_quality_value_autozoom">6</string>
-     <string name="pref_video_volumekey_function_default">shutter</string>
      <string name="pref_wind_denoise_title">Wind filter</string>
      <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
      <string name="preview_back_pressed_hint">Tap again to go back to preview</string>

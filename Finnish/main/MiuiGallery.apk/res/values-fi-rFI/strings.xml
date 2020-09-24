@@ -43,10 +43,8 @@
      <string name="burst_transition_image_view">photo_view_burst</string>
      <string name="card_description_annual_babys">A whole year of growing up</string>
      <string name="card_description_annual_peoples">Faces, stories, places</string>
-     <string name="card_description_from_to">%1$s - %2$s</string>
      <string name="card_title_annual_babys">The cutie in %1$s</string>
      <string name="card_title_annual_peoples">Faces of %1$s</string>
-     <string name="card_title_somewhere">%1$s</string>
      <string name="card_title_three_month_baby">Time flies</string>
      <string name="chinese_day_1">初一</string>
      <string name="chinese_day_10">初十</string>
@@ -178,8 +176,6 @@
      <string name="eras_bc">BCE</string>
      <string name="evening">Afternoon</string>
      <string name="expand_button_title">Advanced</string>
-     <string name="face_recommend_group_number">%1$d/%2$d</string>
-     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="filter_category_classic">Classic</string>
      <string name="filter_category_general">General</string>
      <string name="filter_category_movie">Movie</string>
@@ -324,7 +320,6 @@
      <string name="friday">Friday</string>
      <string name="friday_short">Fri</string>
      <string name="friday_shortest">Fri</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="heavenly_stems_bing">丙</string>
      <string name="heavenly_stems_ding">丁</string>
      <string name="heavenly_stems_geng">庚</string>
@@ -472,9 +467,7 @@ Transcoding might take some time when you use this feature for the first time."<
      <string name="oppo_phone">OPPO</string>
      <string name="other_album_operation_move_to_rubbish_albums">Move to redundant albums</string>
      <string name="other_album_operation_remove_from_other_albums">Remove from redundant albums</string>
-     <string name="percent_sign">%</string>
      <string name="photo_editor_sky">Sky</string>
-     <string name="photo_editor_transition_image_view">photo_view</string>
      <string name="photo_page_rotate_screen">Rotate screen</string>
      <string name="photo_save_to_msg">Saved to %s</string>
      <string name="photo_vlog_module_finish">Downloaded video editor successfully</string>
@@ -505,7 +498,6 @@ Transcoding might take some time when you use this feature for the first time."<
      <string name="private_entry_lock_state_enterd_text">Pull down to open private folder</string>
      <string name="problem_feedback">Feedback</string>
      <string name="prompt_not_support_format">"Can't use this image to create a magic vignette"</string>
-     <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
      <string name="realme">realme</string>
      <string name="realme_phone">realme</string>
      <string name="redmi_6">Redmi 6</string>
@@ -543,9 +535,6 @@ Transcoding might take some time when you use this feature for the first time."<
      <string name="search_backup_full_screen_new">Turn on sync with the cloud to make search more effective</string>
      <string name="search_feedback_task_progress">Missions %1$d/%2$d</string>
      <string name="search_title_photo_name">Filename</string>
-     <string name="search_transition_element_icon">search_icon</string>
-     <string name="search_transition_element_input">search_input</string>
-     <string name="search_transition_element_voice">search_voice</string>
      <string name="security_share_subtitle_default">Privacy protection</string>
      <string name="security_share_subtitle_hide">Location info was removed</string>
      <string name="security_share_subtitle_no_hide">Contains location info</string>

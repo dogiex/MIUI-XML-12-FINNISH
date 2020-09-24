@@ -27,12 +27,10 @@
      <string name="service_name_backup">Backups</string>
      <string name="service_name_fast_pairing">Mi Link</string>
      <string name="service_policy_download"><Data>Before using our services, read and agree to &lt;a href=%1$s>Xunlei Privacy Policy&lt;/a >.</Data></string>
-     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
      <string name="terms_of_use_lable_default_input_method_mint">"
 
 You must agree to Mint Keyboard Privacy Policy before using this feature."</string>
      <string name="terms_of_use_lable_vsimcore">, MConnService</string>
-     <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
   <string name="accessibility_enabled">Esteettömyys käytössä.</string>
   <string name="agree">Hyväksyn</string>
   <string name="agree_and_next">Hyväksyn</string>

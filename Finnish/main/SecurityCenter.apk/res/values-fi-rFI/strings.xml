@@ -224,17 +224,7 @@
      <string name="cmd_lucky_float">摇一摇</string>
      <string name="continue_set">Continue</string>
      <string name="copy">Copy</string>
-     <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
-     <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-     <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
-     <string name="create_table_oaid">CREATE TABLE OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
-     <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-     <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
-     <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-     <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
      <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
-     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
-     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
      <string name="cta_agree_desc">To be able to use our services, allow this app to connect to the internet and grant the permissions listed above.</string>
      <string name="day_overflow_tips">Daily data usage warning</string>
      <string name="debug_open_final_tip">Turn on USB debugging?</string>
@@ -242,8 +232,6 @@
      <string name="dnd_mode_type">勿扰方式</string>
      <string name="dnd_no_everything">不进行提醒</string>
      <string name="dnd_no_sound">仅屏蔽声音</string>
-     <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
-     <string name="ellipsis">…</string>
      <string name="empty_title_installed_apps">Empty</string>
      <string name="enter">进入</string>
      <string name="ew_city_support_tip">*仅支持为其下辖的%s预警</string>
@@ -283,8 +271,6 @@
      <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner can free up &lt;font color=#0099ff>%s&lt;/font> of storage space. Clean now?</Data></string>
      <string name="exit_dialog_release_memory_positive_button">Close</string>
      <string name="exit_dialog_release_memory_title"><Data>Speed up your device by &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
-     <string name="exo_track_bitrate">%1$.2f Mbps</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="expand_button_title">Advanced</string>
      <string name="fast_open">速抢模式</string>
      <string name="fast_open_dialog_message">开启速抢模式后，当您收到红包时，系统将自动打开抢红包页面，抢红包更快更方便。</string>
@@ -419,9 +405,7 @@ Your device is %d%% faster now."</string>
      <string name="menu_summary_optimize_manage_1">Make your device %d%% faster</string>
      <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s occupied</string>
      <string name="menu_text_garbage_cleanup_danger">%s of trash</string>
-     <string name="menu_text_networkassistants_data">%1$s%2$s</string>
      <string name="menu_text_optimize_manage_1">Boost speed</string>
-     <string name="menu_text_power_percent_title">%s</string>
      <string name="mi_pay_lucky">小米钱包</string>
      <string name="miliao_lucky_warning">米聊红包</string>
      <string name="miui_optimization_close_final_tip">Turn off MIUI optimization?</string>
@@ -506,11 +490,6 @@ Your device is %d%% faster now."</string>
      <string name="permission_upgrade_virtual">"If you don't want to allow apps to access your contacts or call history, you can select \"Return blank messages\" when you grant corresponding permissions."</string>
      <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
      <string name="pm_newfeature_sub_text">NEW</string>
-     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-     <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-     <string name="power_center_list_item_battery_status_capacity">mAh</string>
-     <string name="power_center_list_item_battery_status_temperature">℃</string>
      <string name="power_off_warning_button_ok">Got it</string>
      <string name="power_off_warning_message">Battery is low. Your device will shut down in %d seconds. Connect charger.</string>
      <string name="power_off_warning_notification_title">About to shut down</string>
@@ -520,8 +499,6 @@ Your device is %d%% faster now."</string>
      <string name="power_superpower_title_systemui_highpower">Remaining time</string>
      <string name="power_superpower_title_systemui_lowpower">Connect charger</string>
      <string name="pref_more_settings">Additional settings</string>
-     <string name="pref_operator_setting">%1$s%2$s</string>
-     <string name="preference_category_information_setting">category_information_setting</string>
      <string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
      <string name="preference_category_videobox_app_group">category_videobox_app_group</string>
      <string name="preference_category_videobox_line_group">category_videobox_line_group</string>
@@ -535,8 +512,6 @@ Your device is %d%% faster now."</string>
      <string name="preference_key_check_item_root">key_check_item_root</string>
      <string name="preference_key_check_item_update">key_check_item_update</string>
      <string name="preference_key_check_item_wifi">key_check_item_wifi</string>
-     <string name="preference_key_information_setting_close">key_information_setting_close</string>
-     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
      <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
      <string name="preference_key_optimize_manage">key_module_optimize_manage</string>
      <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
@@ -642,7 +617,6 @@ Your device is %d%% faster now."</string>
      <string name="privacy_using_camera">Using camera</string>
      <string name="privacy_using_location">Accessing location</string>
      <string name="privacy_using_record">Recording audio</string>
-     <string name="process_kernel_label">Android</string>
      <string name="required_permissions">Mandatory permissions</string>
      <string name="required_permissions_desc">These permissions are required to make the basic features and services of this app available.</string>
      <string name="risk_app_install_agree_button">Trust this app</string>
@@ -694,11 +668,6 @@ Your device is %d%% faster now."</string>
      <string name="size_suffix">%1$s%2$s</string>
      <string name="size_tera_byte">TB</string>
      <string name="sp_background_risk_dialog_summary_new">Current payment environment might pose security risks. Take a moment to solve existing problems.</string>
-     <string name="st_antispam_mode_blacklist_state">11112121</string>
-     <string name="st_antispam_mode_only_all_deny_state">10000000</string>
-     <string name="st_antispam_mode_only_contacts_state">11110000</string>
-     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
-     <string name="st_antispam_mode_smart_state">11111111</string>
      <string name="st_hint_operatelist">Looks like this rule already exists</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="storage_activity_title">Storage space</string>

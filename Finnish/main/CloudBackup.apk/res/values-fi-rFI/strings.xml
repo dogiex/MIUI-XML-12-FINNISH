@@ -26,8 +26,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
      <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
      <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
      <string name="help_and_feedback">Help and feedback</string>
-     <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
      <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

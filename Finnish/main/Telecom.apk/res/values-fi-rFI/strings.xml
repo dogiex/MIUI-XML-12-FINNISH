@@ -41,7 +41,6 @@
      <string name="bluetooth_talkback_imaging">Imaging</string>
      <string name="bluetooth_talkback_input_peripheral">Input Peripheral</string>
      <string name="bluetooth_talkback_phone">Phone</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="connected_via_carrier">Connected via %1$s</string>
      <string name="enable_gpu_debug_layers">Enable GPU debug layers</string>
      <string name="enable_gpu_debug_layers_summary">Allow loading GPU debug layers for debug apps</string>
@@ -51,7 +50,6 @@
      <string name="ims_reg_title">IMS registration state</string>
      <string name="notice_header" />
      <string name="notification_channel_call_blocking">Call blocking</string>
-     <string name="number_tag_divider">" ｜ "</string>
      <string name="oem_preferred_feedback_reporter" />
      <string name="okay">OK</string>
      <string name="phone_settings_call_blocking_txt">Call blocking</string>
@@ -67,18 +65,11 @@
      <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Call blocking</string>
      <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Call blocking was turned off to allow emergency responders to contact you.</string>
      <string name="phone_strings_emergency_call_made_dialog_title_txt">Emergency call made</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_remaining_duration_only_short">%1$s</string>
-     <string name="process_kernel_label">Android OS</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_port_hint">8080</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="respond_via_sms_setting_summary" />
      <string name="search_menu_title">Search</string>
      <string name="select_private_dns_configuration_dialog_title">Select Private DNS Mode</string>
      <string name="select_private_dns_configuration_title">Private DNS</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="speed_label_fast">Fast</string>
      <string name="speed_label_medium">Medium</string>
      <string name="speed_label_okay">OK</string>

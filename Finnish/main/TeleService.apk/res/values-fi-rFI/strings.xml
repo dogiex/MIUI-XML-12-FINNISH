@@ -35,7 +35,6 @@
      <string name="abc_shareactionprovider_share_with">Share with</string>
      <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
      <string name="abc_toolbar_collapse_description">Collapse</string>
-     <string name="advanced_settings_container">advanced settings container</string>
      <string name="ai_assistant_not_installed">Install AI Call Assistant first</string>
      <string name="ai_assistant_setting_title">AI Call Assistant</string>
      <string name="alarm_template_far">on %1$s</string>
@@ -44,7 +43,6 @@
      <string name="bluetooth_connecting">Connecting…</string>
      <string name="carrier_settings" />
      <string name="carrier_settings_menu" />
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="config_dialing_emergency_number_suffix" />
      <string name="config_world_mode" />
      <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
@@ -261,7 +259,6 @@
      <string name="platform_carrier_config_package">com.android.carrierconfig</string>
      <string name="platform_number_verification_package">com.google.android.gms</string>
      <string name="police_type_description">Police</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_discharge_by">Should last until about %1$s (%2$s)</string>
      <string name="power_discharge_by_enhanced">Should last until about %1$s based on your usage (%2$s)</string>
      <string name="power_discharge_by_only">Should last until about %1$s</string>
@@ -289,11 +286,6 @@
      <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
      <string name="private_dns_mode_provider_hostname_hint">Enter hostname of DNS provider</string>
      <string name="private_num_kr">Caller ID restricted</string>
-     <string name="process_kernel_label">Android OS</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_port_hint">8080</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="replace_4g_template">4G</string>
      <string name="report_method_entries_item1">Only when earphones are connected</string>
      <string name="report_method_entries_item2">Always</string>
@@ -317,7 +309,6 @@
      <string name="search_menu_title">Search</string>
      <string name="select_private_dns_configuration_dialog_title">Select Private DNS Mode</string>
      <string name="select_private_dns_configuration_title">Private DNS</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="sim_change_data_message">Use %1$s instead of %2$s for mobile data?</string>
      <string name="sim_change_data_title">Change data SIM?</string>
      <string name="sim_is_not_ready">SIM card is not ready</string>
@@ -385,23 +376,17 @@
      <string name="switch_on">On</string>
      <string name="system_visual_voicemail_client" />
      <string name="tap_to_sign_up">Tap to sign up</string>
-     <string name="time_interval_char">:</string>
      <string name="time_unit_just_now">Just now</string>
      <string name="traffic_mode_summary">Prioritize mobile network connection for currently used apps. Apps in the background might not be able to connect.</string>
      <string name="traffic_mode_switch_title">Extreme mode</string>
-     <string name="tty_mode_key">button_tty_mode_key</string>
      <string name="unlock_failed">Network unlock request unsuccessful.</string>
      <string name="unlock_success">SIM Network unlock successful.</string>
      <string name="ut_unavailable_to_set_video_cf_toast">UT is unavailable to set call forwarding for video, please close this page and exit.</string>
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ON</string>
      <string name="video_calling_settings_title">Carrier video calling</string>
-     <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
-     <string name="voicemail_notifications_key">voicemail_notification_key</string>
-     <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
      <string name="vowifi_welcome_notification_channel">wifiCallWelcomeNotification</string>
      <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
-     <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
      <string name="wifi_calling_settings_title">WLAN calling</string>
      <string name="wifi_cant_connect">"Can't connect"</string>
      <string name="wifi_cant_connect_to_ap">"Can't connect to '%1$s'"</string>

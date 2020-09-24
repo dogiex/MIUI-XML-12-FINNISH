@@ -1,10 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_one">(1)</string>
      <string name="cancel_msg">Deselect all?</string>
      <string name="des_hide_pwd">隐藏密码</string>
      <string name="des_show_pwd">显示密码</string>
-     <string name="directory_info_divider">"  |  "</string>
      <string name="doc_epub">EPUB</string>
      <string name="doc_pdf">PDF</string>
      <string name="doc_ppt">PPT</string>
@@ -15,7 +13,6 @@
      <string name="drag_not_support_with_dir">"Can't rearrange or send folders"</string>
      <string name="encrypt_setting">Encryption</string>
      <string name="fab_menu_ball">快捷操作球</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="file_name_existed">Filename is taken</string>
      <string name="load_more_fail">加载失败</string>
      <string name="menu_new_display_open">用新窗口打开</string>

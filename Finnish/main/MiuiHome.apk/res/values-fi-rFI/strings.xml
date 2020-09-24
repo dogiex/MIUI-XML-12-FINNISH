@@ -113,7 +113,6 @@
      <string name="small_window_select_title">Available apps</string>
      <string name="small_window_title_text">Tap to open a floating window</string>
      <string name="small_window_toast">You can add up to %d apps</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_bar_recent_memory_giga">%1$s GB</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recent_memory_mega">%1$s MB</string>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="am">AM</string>
-     <string name="call_type_and_date">%1$s %2$s</string>
      <string name="chinese_day_1">初一</string>
      <string name="chinese_day_10">初十</string>
      <string name="chinese_day_11">十一</string>
@@ -149,7 +148,6 @@
      <string name="fmt_weekday_time_timezone">zW T</string>
      <string name="fmt_weekday_timezone">zW</string>
      <string name="four_letter">GHI</string>
-     <string name="from_account_format">%1$s</string>
      <string name="heavenly_stems_bing">丙</string>
      <string name="heavenly_stems_ding">丁</string>
      <string name="heavenly_stems_geng">庚</string>
@@ -179,15 +177,11 @@
      <string name="nine_letter">WXYZ</string>
      <string name="notification_click_detail">Tap to view details</string>
      <string name="notification_micloudsync_delete_contact">Xiaomi Cloud wants to delete some of your contacts</string>
-     <string name="percent_sign">%1$s</string>
-     <string name="percentage">%1$s%2$s</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="pm">PM</string>
      <string name="pound">\#</string>
      <string name="scan_qrcode_card_hint2" />
      <string name="seven_letter">PQRS</string>
      <string name="six_letter">MNO</string>
-     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
      <string name="solar_term_autumn_begins">Autumn begins</string>
      <string name="solar_term_autumn_equinox">Autumn equinox</string>
      <string name="solar_term_clear_and_bright">Clear and bright</string>
@@ -214,7 +208,6 @@
      <string name="solar_term_winter_solstice">Winter solstice</string>
      <string name="star">*</string>
      <string name="star_letter">,</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
      <string name="the_anti_aggression_day">Anti-Aggression Day</string>
@@ -262,7 +255,6 @@
      <string name="three_letter">DEF</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
-     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="zero_letter">+</string>
 	<string name="abc_action_bar_home_description">Siirry etusivulle</string>
 	<string name="abc_action_bar_up_description">Siirry ylös</string>

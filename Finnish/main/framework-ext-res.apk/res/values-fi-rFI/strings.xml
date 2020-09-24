@@ -66,10 +66,7 @@
      <string name="popup_camera_hid_device_name">黑鲨</string>
      <string name="realme">realme</string>
      <string name="realme_phone">realme</string>
-     <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff>&lt;br/>(%2$s)&lt;/font></string>
      <string name="status_bar_toggle_battery_saver_action">com.miui.securitycenter/com.miui.powercenter.savemode.PowerSaveActivity</string>
-     <string name="status_bar_toggle_nfc_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
-     <string name="status_bar_toggle_silent_mode_action">com.android.settings/com.android.settings.Settings$MiuiSilentModeAcivity</string>
      <string name="talk_back_conflict_with_handy_mode">"Can't use One-handed mode when TalkBack is on"</string>
      <string name="three_gesture_down">screen_shot</string>
      <string name="three_gesture_long_press">partial_screen_shot</string>
