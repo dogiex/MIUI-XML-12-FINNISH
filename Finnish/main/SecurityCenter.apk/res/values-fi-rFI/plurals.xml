@@ -107,6 +107,7 @@
      <plurals name="privacy_pop_times">
         <item quantity="other">%s times</item>
         <item quantity="one">%s time</item>
+</plurals>
     <!-- MIUI 10 valmis -->
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>

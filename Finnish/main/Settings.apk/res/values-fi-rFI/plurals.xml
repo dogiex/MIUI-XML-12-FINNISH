@@ -71,6 +71,7 @@
      <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d devices connected</item>
         <item quantity="one">%1$d device connected</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d päivää sitten</item>
         <item quantity="one">%d päivä sitten</item>
