@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Preference</string>
-     <string name="info_rank_show">Recommend popular items</string>
+  <string name="app_name">Asetukset</string>
+     <string name="info_rank_show">Suosittele suosittuja kohteita</string>
      <string name="search_app_name">下载管理</string>
      <string name="search_download">下载管理</string>
      <string name="search_download_desc">查看和管理下载任务</string>
      <string name="search_download_key_words">迅雷下载中心;暂停下载任务;下载管理器;正在下载中;已下载完成;下载文件管理器;文件存储目录;下载储存目录;下载存储路径;管理下载任务;下载工具;下载文件夹;已下载文件;迅雷手机下载;小米资源下载中心;保存目录;保存路径;下载存储位置;下载路径;下载存储目录;下载任务找不到;下载任务在哪里;下载任务管理器;停止下载;删除下载任务</string>
-     <string name="search_menu_title">Search</string>
+     <string name="search_menu_title">Haku</string>
      <string name="search_new_download">新建下载</string>
      <string name="search_new_download_desc">支持BT、电驴、磁力链任务</string>
      <string name="search_new_download_key_words">新建下载任务;新建下载文件;bt下载器;种子下载器;emule下载器;电驴下载器;迅雷下载器;thunder;磁力链下载器;资源下载器;下载工具;新建任务;视频下载</string>
