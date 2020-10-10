@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="cancel_msg">Deselect all?</string>
+     <string name="cancel_msg">Poistetaanko valinnat?</string>
      <string name="des_hide_pwd">隐藏密码</string>
      <string name="des_show_pwd">显示密码</string>
      <string name="doc_epub">EPUB</string>
@@ -10,22 +10,22 @@
      <string name="doc_word">DOC</string>
      <string name="doc_wps">WPS</string>
      <string name="doc_xls">XLS</string>
-     <string name="drag_not_support_with_dir">"Can't rearrange or send folders"</string>
-     <string name="encrypt_setting">Encryption</string>
+     <string name="drag_not_support_with_dir">Kansioita ei voi järjestää uudelleen tai lähettää</string>
+     <string name="encrypt_setting">Salaus</string>
      <string name="fab_menu_ball">快捷操作球</string>
-     <string name="file_name_existed">Filename is taken</string>
+     <string name="file_name_existed">Tiedostonimi on jo olemassa</string>
      <string name="load_more_fail">加载失败</string>
      <string name="menu_new_display_open">用新窗口打开</string>
      <string name="menu_pc_open">用电脑程序打开</string>
-     <string name="not_use">Not now</string>
-     <string name="operation_encrypt_summary">Encrypt files in the private folder. Decrypting big files might take longer than expected.</string>
-     <string name="operation_encrypt_title">Encrypt private files</string>
-     <string name="otg_data_transfer_success">Transferred successfully</string>
-     <string name="otg_data_transferring">"Transferring files… Don't disconnect external storage."</string>
+     <string name="not_use">Ei nyt</string>
+     <string name="operation_encrypt_summary">Salaa yksityisen kansion tiedostot. Suurien tiedostojen salauksen poistaminen saattaa kestää odotettua kauemmin.</string>
+     <string name="operation_encrypt_title">Salaa yksityiset tiedostot</string>
+     <string name="otg_data_transfer_success">Siirrettiin onnistuneesti</string>
+     <string name="otg_data_transferring">Siirretään tiedostoja… Älä poista ulkoista talennustilaa.</string>
      <string name="pkgname_zsxq">知识星球</string>
      <string name="private_folder_update_msg">File Manager is introducing an additional security measure: you can encrypt private files now!</string>
      <string name="private_folder_update_msg_summary">Decryption will make removing files from the private folder slower. You can turn encryption on and off in the Settings.</string>
-     <string name="private_folder_update_tips">New feature</string>
+     <string name="private_folder_update_tips">Uusi ominaisuus</string>
      <string name="pull_to_refresh">下拉刷新</string>
      <string name="refresh_fail">刷新失败</string>
      <string name="refreshing">正在刷新</string>
