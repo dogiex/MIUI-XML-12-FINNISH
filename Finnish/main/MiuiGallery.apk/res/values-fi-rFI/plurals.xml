@@ -270,60 +270,60 @@
         <item quantity="one">%d kohde valittu</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d sarjakuvaa Xiaomi Pilvestä ja kaikista synkronoiduista laitteista?</item>
-        <item quantity="one">Poistetaanko %d sarjakuva Xiaomi Pilvestä ja kaikista synkronoiduista laitteista?</item>
+        <item quantity="other">Poistetaanko %d sarjakuvaa Xiaomi Cloudista ja kaikista synkronoiduista laitteista?</item>
+        <item quantity="one">Poistetaanko %d sarjakuva Xiaomi Cloudista ja kaikista synkronoiduista laitteista?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Poistetaanko %d sarjakuvaa?</item>
         <item quantity="one">Poistetaanko %d sarjakuva?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d sarjakuvaa Xiaomi Pilvestä ja tältä laitteelta?</item>
-        <item quantity="one">Poistetaanko %d sarjakuva Xiaomi Pilvestä ja tältä laitteelta?</item>
+        <item quantity="other">Poistetaanko %d sarjakuvaa Xiaomi Cloudista ja tältä laitteelta?</item>
+        <item quantity="one">Poistetaanko %d sarjakuva Xiaomi Cloudista ja tältä laitteelta?</item>
     </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d kohdetta poistettiin</item>
         <item quantity="one">%d kohde poistettiin</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d kohdetta kaikista laitteista ja Xiaomi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d kohde kaikista laitteista ja Xiaomi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d kohdetta kaikista laitteista ja Xiaomi Cloudista?</item>
+        <item quantity="one">Poistetaanko %d kohde kaikista laitteista ja Xiaomi Cloudista?</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">Poistetaanko %d kohdetta?</item>
         <item quantity="one">Poistetaanko %d kohde?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d kohdetta tästä albumista ja Xiaomi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d kohde tästä albumista ja Xiaomi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d kohdetta tästä albumista ja Xiaomi Cloudista?</item>
+        <item quantity="one">Poistetaanko %d kohde tästä albumista ja Xiaomi Cloudista?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d kuvaa kaikista laitteista ja Xiaomi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d kuva kaikista laitteista ja Xiaomi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d kuvaa kaikista laitteista ja Xiaomi Cloudista?</item>
+        <item quantity="one">Poistetaanko %d kuva kaikista laitteista ja Xiaomi Cloudista?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Poistetaanko %d kuvaa?</item>
         <item quantity="one">Poistetaanko %d kuva?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d kuvaa tästä albumista ja Xiaomi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d kuva tästä albumista ja Xiaomi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d kuvaa tästä albumista ja Xiaomi Cloudista?</item>
+        <item quantity="one">Poistetaanko %d kuva tästä albumista ja Xiaomi Cloudista?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Poistetaanko %d sarjakuvaa laitteeltasi?</item>
         <item quantity="one">Poistetaanko %d sarjakuva laitteeltasi</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d videota kaikista laitteista ja Xiaomi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d video kaikista laitteista ja Xiaomi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d videota kaikista laitteista ja Xiaomi Cloudista?</item>
+        <item quantity="one">Poistetaanko %d video kaikista laitteista ja Xiaomi Cloudista?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Poistetaanko %d videota?</item>
         <item quantity="one">Poistetaanko %d video?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Poistetaanko %d videota tästä albumista ja Xiaomi Pilvestä?</item>
-        <item quantity="one">Poistetaanko %d video tästä albumista ja Xiaomi Pilvestä?</item>
+        <item quantity="other">Poistetaanko %d videota tästä albumista ja Xiaomi Cloudista?</item>
+        <item quantity="one">Poistetaanko %d video tästä albumista ja Xiaomi Cloudista?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">%1$d tiedostoa ei voitu ladata</item>

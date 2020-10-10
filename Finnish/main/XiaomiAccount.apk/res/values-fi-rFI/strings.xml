@@ -178,7 +178,7 @@ Voit nyt kirjautua Mi-tilillesi käyttäen %s."</string>
   <string name="change_email_address">Vaihda sähköpostiosoite</string>
   <string name="change_password">Vaihda salasana</string>
   <string name="change_phone_number">Vaihda puhelinnumero</string>
-  <string name="cloud_service">Xiaomi Pilvi</string>
+  <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Generoi diagnostiikkaloki</string>
   <string name="com_facebook_device_auth_instructions">Vieraile osoitteessa facebook.com/device ja syötä yllä näkyvä koodi.</string>
   <string name="com_facebook_image_download_unknown_error">Odottamaton virhe kuvan lataamisessa.</string>
@@ -514,7 +514,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_skip_login">Ohita</string>
   <string name="passport_skip_register">Ohita rekisteröinti</string>
   <string name="passport_skip_setup_account_msg">Voit asettaa Mi-tilin myöhemmin Asetuksissa.</string>
-  <string name="passport_skip_setup_account_title">Etkö käytä Xiaomi Pilveä?</string>
+  <string name="passport_skip_setup_account_title">Etkö käytä Xiaomi Cloudia?</string>
   <string name="passport_sms_send_success">Lähetetty</string>
   <string name="passport_sms_verification_code_login">Kirjaudu sisään käyttäen tekstiviestiä</string>
   <string name="passport_sms_verification_code_login_or_register">Kirjaudu sisään tai luo tili käyttäen tekstiviestiä</string>
@@ -581,7 +581,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="search_menu_title">Haku</string>
   <string name="search_mi_account">Mi-tili</string>
   <string name="search_mi_account_desc">Mi-tili</string>
-  <string name="search_mi_account_key_words">Xiaomi Pilvi,Tilin asetukset,Mi Pay tiedot,Kirjaudu ulos</string>
+  <string name="search_mi_account_key_words">Xiaomi Cloud,Tilin asetukset,Mi Pay tiedot,Kirjaudu ulos</string>
   <string name="search_mi_account_path">Asetukset/Mi-tili</string>
   <string name="search_user_detail">Henkilökohtaiset tiedot</string>
   <string name="search_user_detail_bottom_key_words">Vaihda Puhelin,Vaihda Sähköposti,Vaihda Tulo,Vaihda Koulutus,Vaihda Sijainti,Vaihda Maa</string>

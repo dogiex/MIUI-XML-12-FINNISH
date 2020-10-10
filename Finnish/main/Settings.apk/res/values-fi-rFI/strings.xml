@@ -2662,10 +2662,10 @@ Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
   <string name="close_optimization_option">Poista käytöstä</string>
   <string name="close_privacy_thumbnail_blur_title">Esikatseluita ei ole sumennettu</string>
   <string name="close_slave_wifi_hint">Katkaise yhteys apu Wi-Fi-verkoista ennen suoratoistamista</string>
-  <string name="cloud_backup_section_title">Xiaomi Pilven varmuuskopiointi</string>
+  <string name="cloud_backup_section_title">Xiaomi Cloudin varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
   <string name="cloud_restore_section_summary">Palauta järjestelmän asetukset, Aloitusnäytön ulkoasu ja sovellukset</string>
-  <string name="cloud_restore_section_title">Palauta Xiaomi Pilvestä</string>
+  <string name="cloud_restore_section_title">Palauta Xiaomi Cloudista</string>
   <string name="cmcc_hardware_version">Laitteistoversio</string>
   <string name="codec_low_latency_summary">Tarjoaa matalan viiveen kokemuksen Ääni- ja videosynkronoinnille</string>
   <string name="codec_low_latency_title">Matala Viive</string>
@@ -5631,7 +5631,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="priority_storage_title">Tallennustilan asetukset</string>
   <string name="priority_summary">Näytä ilmoitukset luettelon kärjessä</string>
   <string name="priority_title">Prioriteetti</string>
-  <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Xiaomi Pilvipalveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
+  <string name="privacy_authorize_cloud_msg">Varmistaaksesi tilisi turvallisuuden, kirjaudu sisään osoitteeseen i.mi.com, jos haluat peruuttaa Xiaomi Cloud -palveluiden valtuutuksen (mukaan lukien synkronoinnin ja varmuuskopiot).</string>
   <string name="privacy_authorize_dialog_agree">Hyväksyn</string>
   <string name="privacy_authorize_dialog_exit">Poistu</string>
   <string name="privacy_authorize_dialog_message"><Data>"Käyttääksesi tämän palvelun perusominaisuuksia, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilökohtaisia tietojasi. Tutustu Tietosuojakäytäntöömme saadaksesi lisätietoja, kuinka keräämme ja käsittelemme henkilötietoja. Valitsemalla \"Hyväksyn\" tarkoittaa, että olet lukenut ja hyväksyt meidän &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Tietosuojakäytännön&lt;/a&gt; ja &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Käyttöehdot&lt;/a&gt;."</Data></string>
@@ -6583,7 +6583,7 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="settings_manual_activity_title">Käyttöopas</string>
   <string name="settings_manual_activity_unavailable">Ongelma ladattaessa käyttöopasta.</string>
   <string name="settings_new_version_btn">Päivitä</string>
-  <string name="settings_notify_need_backup">Varmuuskopioi asetuksesi Xiaomi Pilveen käyttääksesi niitä, kun vaihdat puhelimia.</string>
+  <string name="settings_notify_need_backup">Varmuuskopioi asetuksesi Xiaomi Cloudiin käyttääksesi niitä, kun vaihdat puhelimia.</string>
   <string name="settings_notify_new_version">Päivitys on saatavilla. Katso tiedot napauttamalla.</string>
   <string name="settings_notify_phone_recycled">Puhelinnumerosi on kierrätetty. Napauta lisätäksesi toinen puhelinnumero.</string>
   <string name="settings_panel_title">Asetuspaneeli</string>
@@ -8448,9 +8448,9 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "<b>Takaisin</b>.</string>
   <string name="wrong_pin_code_pukked">Virheellinen SIM-kortin PIN-koodi. Sinun on nyt otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</string>
   <string name="xiaomi_account">Mi-tili</string>
   <string name="xiaomi_cloud_find_device">Etsi laite</string>
-  <string name="xiaomi_cloud_service">Xiaomi Pilvi</string>
-  <string name="xiaomi_cloud_service_description">Xiaomi Pilvi synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
-  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Pilvi synkronoi kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
+  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Xiaomi Cloud synkronoi yhteystietosi ja kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud synkronoi kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
   <string name="xiaomi_cloud_service_disabled">Pois käytöstä</string>
   <string name="xiaomi_cloud_service_unknown">Tuntematon</string>
   <string name="xiaomi_money_service">Mi Krediitti</string>

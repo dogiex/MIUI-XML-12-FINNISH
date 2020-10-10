@@ -612,8 +612,8 @@ Jos et suostu myöntämään tällaisia lupia tai jakamaan ja lähettämään he
   <string name="close">Sulje</string>
   <string name="cloud_recommend_view_tip">Ota pilven synkronointi käyttöön palauttaaksesi tärkeitä viestejä milloin tahansa</string>
   <string name="cloud_state_disabled">Ota pilven synkronointi käyttöön synkronoidaksesi viestit</string>
-  <string name="cloud_state_sync_finished">Synkronoitu Xiaomi Pilveen</string>
-  <string name="cloud_state_syncing">Synkronoidaan Xiaomi Pilveen…</string>
+  <string name="cloud_state_sync_finished">Synkronoitu Xiaomi Cloudiin</string>
+  <string name="cloud_state_syncing">Synkronoidaan Xiaomi Cloudiin…</string>
   <string name="cm_privacy_dialog_allow">Hyväksyn</string>
   <string name="cm_privacy_dialog_cancel">Peruuta</string>
   <string name="cm_privacy_dialog_spannable_tips">Tietosuojakäytäntö</string>
@@ -767,10 +767,10 @@ Jos et suostu myöntämään tällaisia lupia tai jakamaan ja lähettämään he
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Lähetetäänkö viestit %1$s &gt; %2$s?</string>
   <string name="found_old_messages_title">Lähetä viestit toisesta SIM-korteistasi?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Synkronoidaksesi viestit Xiaomi Pilvestä, kirjaudu Mi-tilillesi ja ota tekstiviestien synkronointi käyttöön.</string>
-  <string name="found_wild_messages_guide_settings_desc">Synkronoi viestit Xiaomi Pilvestä Viestintäasetuksista.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Synkronoidaksesi viestit Xiaomi Cloudista, kirjaudu Mi-tilillesi ja ota tekstiviestien synkronointi käyttöön.</string>
+  <string name="found_wild_messages_guide_settings_desc">Synkronoi viestit Xiaomi Cloudista Viestintäasetuksista.</string>
   <string name="found_wild_messages_guide_sync_not_started">Synkronointi ei ole alkanut vielä</string>
-  <string name="found_wild_messages_title">Synkronoi viestit Xiaomi Pilvestä</string>
+  <string name="found_wild_messages_title">Synkronoi viestit Xiaomi Cloudista</string>
   <string name="from_label">"Lähettäjä: "</string>
   <string name="from_pkg_name">Sovelluksesta:</string>
   <string name="ft_cfs_dialog_content">Tiedostoja ei voitu toimittaa käyttäen RCS:ää. Lähetetäänkö linkki tekstiviestinä sen sijasta?</string>

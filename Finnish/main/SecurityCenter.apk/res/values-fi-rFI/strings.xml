@@ -3691,7 +3691,7 @@ Tässä ohjeet:
   <string name="title_chain_start">Rajoita ketjukäynnistystä</string>
   <string name="title_cleaner_cloudscan">Pilven roskien skannaus</string>
   <string name="title_cloud_account">Mi-tili</string>
-  <string name="title_cloud_service">Xiaomi Pilvi</string>
+  <string name="title_cloud_service">Xiaomi Cloud</string>
   <string name="title_cloud_space_almost_full">Pilven tallennustila on lähes täynnä, kohteita ei välttämättä synkronoida</string>
   <string name="title_cloud_space_full">Pilvi on täynnä</string>
   <string name="title_cmcc_app_check">Vahvistus ei ole valmis</string>
