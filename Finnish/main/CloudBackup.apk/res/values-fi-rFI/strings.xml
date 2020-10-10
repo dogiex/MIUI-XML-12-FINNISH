@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="backup_action_buy_cloud_space">Get more storage space</string>
-     <string name="backup_action_check_network">Check network settings</string>
-     <string name="backup_action_clean_disk_space">Free up space</string>
-     <string name="backup_action_retry_now">Try again</string>
+  <string name="backup_action_buy_cloud_space">Hanki lisää tallennustilaa</string>
+     <string name="backup_action_check_network">Tarkista verkkoasetukset</string>
+     <string name="backup_action_clean_disk_space">Vapauta tilaa</string>
+     <string name="backup_action_retry_now">Yritä uudelleen</string>
      <string name="backup_progress_percent_unit">%</string>
-     <string name="backup_remind_buy_cloud_space">Upgrade your cloud storage plan</string>
-     <string name="backup_remind_clean_disk_space">Free up storage space</string>
-     <string name="backup_remind_cloud_space_cost">Backup size: %s</string>
-     <string name="backup_warning_reason_cloud_space_not_enough">"Can't back up"</string>
-     <string name="backup_warning_reason_disk_space_not_enough">"Not enough storage
-Can't back up"</string>
-     <string name="backup_warning_reason_network_error">"Network error
-Can't back up"</string>
-     <string name="backup_warning_reason_no_server_response">"Connection was interrupted
-Try again"</string>
-     <string name="btn_restore_wait_china">Wait for WLAN</string>
-     <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
-*  Apps, Home screen layout, and wallpapers 
-*  Alarm, clock, and time settings 
-*  Notification settings 
-*  MIUI and system settings 
-Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
-     <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
-     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
-     <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
-     <string name="help_and_feedback">Help and feedback</string>
+     <string name="backup_remind_buy_cloud_space">Päivitä pilven talennustilan suunnitelmasi</string>
+     <string name="backup_remind_clean_disk_space">Vapauta tallennustilaa</string>
+     <string name="backup_remind_cloud_space_cost">Varmuuskopion koko: %s</string>
+     <string name="backup_warning_reason_cloud_space_not_enough">Ei voi varmuuskopioida</string>
+     <string name="backup_warning_reason_disk_space_not_enough">"Tallennustila vähissä
+Ei voida varmuuskopioida"</string>
+     <string name="backup_warning_reason_network_error">"Verkkovirhe
+Ei voida varmuuskopioida"</string>
+     <string name="backup_warning_reason_no_server_response">"Yhteys keskeytettiin
+Yritä uudelleen"</string>
+     <string name="btn_restore_wait_china">Odota Wi-Fiä</string>
+     <string name="cloud_back_up_detail_discription_china">"Nämä kohteet varmuuskopioidaan Xiaomi Pilveen laitteesi ollessa yhteydessä Wi-Fi-verkkoon: 
+*  Sovellukset, Aloitusnäytön ulkoasu ja taustakuvat 
+*  Hälytykset, kello ja aika-asetukset 
+*  Ilmoitusasetukset 
+*  MIUI- ja järjestelmäasetukset 
+Huomaa: Asennettujen sovellusten tietoja (dataa) ei varmuuskopioida Xiaomi Pilveen."</string>
+     <string name="cloud_backup_detail_state_summary_china">Luo Xiaomi Pilven varmuuskopioita automaattisesti Wi-Fi-yhteydessä.</string>
+     <string name="dialog_msg_restore_require_wlan_china">Varmuuskopioiden palauttaminen vaatii Wi-Fi-yhteyden.</string>
+     <string name="dialog_title_require_wlan_china">Yhdistä Wi-Fi-verkkoon</string>
+     <string name="help_and_feedback">Ohje ja palaute</string>
      <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
