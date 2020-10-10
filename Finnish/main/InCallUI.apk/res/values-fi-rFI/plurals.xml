@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Hanging up in %1$s secs…</item>
-        <item quantity="one">Hanging up in %1$s sec…</item>
+        <item quantity="other">Puhelu katkaistaan %1$s sekunnin kuluttua…</item>
+        <item quantity="one">Puhelu katkaistaan %1$s sekunnin kuluttua…</item>
      </plurals>
     <plurals name="antispam_marked_count">
         <item quantity="other">%d MIUI:n käyttäjää ilmoittanut</item>

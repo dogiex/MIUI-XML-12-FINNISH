@@ -6,7 +6,7 @@
      <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
      <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
      <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-     <string name="lks_logo_desc_search">Fresh wallpapers daily</string>
+     <string name="lks_logo_desc_search">Tuoreita taustakuvia päivittäin</string>
      <string name="local_default_category">本地预置分类</string>
      <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
      <string name="mtrl_picker_date_header_selected">%1$s</string>
@@ -18,8 +18,8 @@
      <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
      <string name="qq_application_id" />
      <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
-     <string name="see_detail">View</string>
-     <string name="understand_band_story">Learn more</string>
+     <string name="see_detail">Näytä</string>
+     <string name="understand_band_story">Lisätietoja</string>
      <string name="wechat_application_id" />
      <string name="wechat_scope" />
      <string name="wechat_state" />
