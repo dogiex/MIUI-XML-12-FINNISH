@@ -326,7 +326,7 @@
   <string name="net_permission_cancel">En hyväksy</string>
   <string name="net_permission_ok">Hyväksyn</string>
   <string name="network_privacy"><Data>Saadakseen paikallisista juhlapyhistä tietoja ja säätääkseen hälytyksiä, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän &amp;lt;a href=\"%1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"%2$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;. Hyväksytkö?</Data></string>
-  <string name="network_privacy_global"><Data>Tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän &amp;lt;a href=\"%1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"%2$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt;. Hyväksytkö?</Data></string>
+  <string name="network_privacy_global"><Data>Tarjotakseen henkilökohtaisia palveluita, Kellon täytyy yhdistää internetiin. Ennen Kellon käyttämistä sinun täytyy lukea ja hyväksyä meidän <a href=\"%1$s\">Käyttöehdot</a> ja <a href=\"%2$s\">Tietosuojakäytäntö</a>. Hyväksytkö?</Data></string>
   <string name="never">Kerran</string>
   <string name="new_label">Lisää hälytyksen nimi</string>
   <string name="no_alarm_setting">Täällä ei ole hälytyksiä</string>
