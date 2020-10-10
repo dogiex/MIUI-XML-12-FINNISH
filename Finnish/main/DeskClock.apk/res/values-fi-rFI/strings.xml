@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_for_continue_timer">Resume</string>
-     <string name="action_for_pause_timer">Pause</string>
-     <string name="action_for_restart">Repeat</string>
-     <string name="action_for_snooze">Snooze</string>
-     <string name="action_for_stop">Stop</string>
-     <string name="add_common_timer">Add timer</string>
-     <string name="alert_vibrate_enable_summary">Vibrate when alarm goes off</string>
-     <string name="channel_name_stopwatch">Stopwatch</string>
+  <string name="action_for_continue_timer">Jatka</string>
+     <string name="action_for_pause_timer">Pysäytä</string>
+     <string name="action_for_restart">Toista</string>
+     <string name="action_for_snooze">Torkuta</string>
+     <string name="action_for_stop">Lopeta</string>
+     <string name="add_common_timer">Lisää ajastin</string>
+     <string name="alert_vibrate_enable_summary">Värise hälytyksen soidessa</string>
+     <string name="channel_name_stopwatch">Sekuntikello</string>
      <string name="click_listen_news_container">点击早间听新闻卡片</string>
-     <string name="common_timer_selector">Select timer</string>
+     <string name="common_timer_selector">Valitse ajastin</string>
      <string name="day_concat">", "</string>
      <string name="elapsed_time_format">+</string>
      <string name="install_news_app_error">跳转失败</string>
@@ -45,15 +45,15 @@
      <string name="stat_repeat_self_define">自定义</string>
      <string name="stat_repeat_weekdays">周一至周五</string>
      <string name="stat_repeat_weekends">周末</string>
-     <string name="stopwatch_reset_notification">Stopwatch was reset</string>
-     <string name="stopwatch_running_notification">Stopwatch</string>
+     <string name="stopwatch_reset_notification">Sekuntikello nollattiin</string>
+     <string name="stopwatch_running_notification">Sekuntikello</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="time_picker_colon">:</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
      <string name="time_picker_label_second">S</string>
      <string name="timer_alarm_alert_pad">%s</string>
-     <string name="white_noise_selector">Select audio</string>
+     <string name="white_noise_selector">Valitse ääni</string>
 	<string name="abc_action_bar_home_description">Siirry etusivulle</string>
 	<string name="abc_action_bar_up_description">Siirry ylös</string>
 	<string name="abc_action_menu_overflow_description">Lisäasetukset</string>
