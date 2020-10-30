@@ -104,15 +104,15 @@
         <item>1</item>
      </integer-array>
      <string-array name="contact_relation_array">
-        <item>Not set</item>
-        <item>Parent</item>
-        <item>Sister</item>
-        <item>Brother</item>
-        <item>Spouse</item>
-        <item>Partner</item>
-        <item>Friend</item>
-        <item>Colleague</item>
-        <item>Classmate</item>
+        <item>Ei asetettu</item>
+        <item>Vanhempi</item>
+        <item>Sisko</item>
+        <item>Veli</item>
+        <item>Puoliso</item>
+        <item>Kumppani</item>
+        <item>Ystävä</item>
+        <item>Kollega</item>
+        <item>Luokkakaveri</item>
      </string-array>
      <string-array name="energy_unit">
         <item>" kcal"</item>
@@ -124,9 +124,9 @@
         <item>10</item>
      </integer-array>
      <string-array name="gender_array">
-        <item>Not set</item>
-        <item>Male</item>
-        <item>Female</item>
+        <item>Ei asetettu</item>
+        <item>Mies</item>
+        <item>Nainen</item>
      </string-array>
      <string-array name="length_unit">
         <item>" cm"</item>
@@ -139,7 +139,7 @@
         <item>60</item>
      </integer-array>
      <string-array name="normal_blood_array">
-        <item>Not set</item>
+        <item>Ei asetettu</item>
         <item>A</item>
         <item>B</item>
         <item>AB</item>
@@ -174,7 +174,7 @@
         <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D,等. ACSM Position Stand: The, Recommended Quantity and Quality of Exercise for Developing and Maintaining Cardiorespiratory, and Muscular Fitness, and Flexibility in Healthy Adults[J]. Medicine &amp; Science, in Sports &amp; Exercise, 30(6):975-991.</item>
         <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Age-related pattern of body density and body composition of Japanese men and women 18-59 years of age. Am J Hum Biol. 14(6):743-52, 2002</item>
         <item>Wang ZM, Pierson RN Jr, Heymsfield SB. The five-level model: a new approach to organizing body-composition research. Am J Clin Nutr. 1992 Jul;56(1):19-28.</item>
-        <item>WHO guidelines for BMI</item>
+        <item>WHO:n ohjeet BMI:lle</item>
         <item>儿科学辞典. 北京科学技术出版社. 2003</item>
         <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
         <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
@@ -191,23 +191,23 @@
         <item>2018 Physical Activity Guidelines Advisory Committee Submits Scientific Report</item>
      </string-array>
      <string-array name="repeat_mode_mild_abnormal_array">
-        <item>Mon, Wed, Fri</item>
-        <item>Tue, Thu, Sat</item>
-        <item>Wed, Fri, Sun</item>
+        <item>Ma, Ke, Pe</item>
+        <item>Ti, To, La</item>
+        <item>Ke, Pe, Su</item>
      </string-array>
      <string-array name="repeat_mode_week_array">
-        <item>Every Monday</item>
-        <item>Every Tuesday</item>
-        <item>Every Wednesday</item>
-        <item>Every Thursday</item>
-        <item>Every Friday</item>
-        <item>Every Saturday</item>
-        <item>Every Sunday</item>
+        <item>Joka maanantai</item>
+        <item>Joka tiistai</item>
+        <item>Joka keskiviikko</item>
+        <item>Joka torstai</item>
+        <item>Joka perjantai</item>
+        <item>Joka lauantai</item>
+        <item>Joka sunnuntai</item>
      </string-array>
      <string-array name="rh_blood_array">
-        <item>Not set</item>
-        <item>Negative</item>
-        <item>Positive</item>
+        <item>Ei asetettu</item>
+        <item>Negatiivinen</item>
+        <item>Positiivinen</item>
      </string-array>
      <string-array name="run_in_background_state">
         <item>Ei rajoituksia</item>
@@ -269,8 +269,8 @@
         <item>" lb"</item>
      </string-array>
      <string-array name="yes_no_array">
-        <item>Not set</item>
-        <item>Yes</item>
-        <item>No</item>
+        <item>Ei asetettu</item>
+        <item>Kyllä</item>
+        <item>Ei</item>
      </string-array>
 </resources>

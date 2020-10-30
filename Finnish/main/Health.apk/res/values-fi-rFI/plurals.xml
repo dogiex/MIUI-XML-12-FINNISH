@@ -2,275 +2,275 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">Tunti sitten</item>
      </plurals>
      <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">Tunti sitten</item>
      </plurals>
      <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Puoli tuntia sitten</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Tunnin kuluttua</item>
      </plurals>
      <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Puolen tunnin kuluttua</item>
      </plurals>
      <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Heti</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">yhden minuutin kuluttua</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Juuri nyt</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">minuutti sitten</item>
      </plurals>
      <plurals name="birthday_format">
-        <item quantity="other">" (%1$d years old)"</item>
-        <item quantity="one">" (%1$d year old)"</item>
+        <item quantity="other">" (%1$d vuotta vanha)"</item>
+        <item quantity="one">" (%1$d vuotta vanha)"</item>
      </plurals>
      <plurals name="count_duration_standard">
-        <item quantity="other">%1$d-%2$d times</item>
-        <item quantity="one">%1$d-%2$d time</item>
+        <item quantity="other">%1$d-%2$d kertaa</item>
+        <item quantity="one">%1$d-%2$d kerta</item>
      </plurals>
      <plurals name="cousume_unit_format">
         <item quantity="other">%1$d Cal</item>
         <item quantity="one">%1$d Cal</item>
      </plurals>
      <plurals name="daily_suggestions_steps">
-        <item quantity="other">Walk at least %1$d steps every day</item>
-        <item quantity="one">Walk at least %1$d step every day</item>
+        <item quantity="other">Kävele vähintään %1$d askelta joka päivä</item>
+        <item quantity="one">Kävele vähintään %1$d askel joka päivä</item>
      </plurals>
      <plurals name="day_index">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d päivää</item>
+        <item quantity="one">%1$d päivä</item>
      </plurals>
      <plurals name="days_in_menstrual_period">
-        <item quantity="other">Period duration: %1$d days</item>
-        <item quantity="one">Period duration: %1$d day</item>
+        <item quantity="other">Kuukautisten kesto: %1$d päivää</item>
+        <item quantity="one">Kuukautisten kesto: %1$d päivä</item>
      </plurals>
      <plurals name="days_in_period">
-        <item quantity="other">Cycle duration: %1$d days</item>
-        <item quantity="one">Cycle duration: %1$d day</item>
+        <item quantity="other">Syklin kesto: %1$d päivää</item>
+        <item quantity="one">Syklin kesto: %1$d päivä</item>
      </plurals>
      <plurals name="dialog_choose_items">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">Valittuna %1$d kohdetta</item>
+        <item quantity="one">Valittuna %1$d kohde</item>
      </plurals>
      <plurals name="dialog_delete_records_confirm">
-        <item quantity="other">Delete %1$d records?</item>
-        <item quantity="one">Delete %1$d record?</item>
+        <item quantity="other">Poistetaanko %1$d tietuetta?</item>
+        <item quantity="one">Poistetaanko %1$d tietue?</item>
      </plurals>
      <plurals name="distance_unit_kilometre">
         <item quantity="other">%1$.1f km</item>
         <item quantity="one">%1$.1f km</item>
      </plurals>
      <plurals name="dream_talk_segment">
-        <item quantity="other">%1$d recordings</item>
-        <item quantity="one">%1$d recording</item>
+        <item quantity="other">%1$d nauhoitusta</item>
+        <item quantity="one">%1$d nauhoitus</item>
      </plurals>
      <plurals name="dream_talk_segment_unit">
-        <item quantity="other">recordings</item>
-        <item quantity="one">recording</item>
+        <item quantity="other">nauhoitusta</item>
+        <item quantity="one">nauhoitus</item>
      </plurals>
      <plurals name="duration_unit_hour_format">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">%1$d tunti</item>
      </plurals>
      <plurals name="duration_unit_minute_format">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
      </plurals>
      <plurals name="duration_unit_second_format">
-        <item quantity="other">%1$d secs</item>
-        <item quantity="one">%1$d sec</item>
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">%1$d sekunti</item>
      </plurals>
      <plurals name="goal_format_with_unit">
-        <item quantity="other">Goal: %1$d steps</item>
-        <item quantity="one">Goal: %1$d step</item>
+        <item quantity="other">Tavoite: %1$d askelta</item>
+        <item quantity="one">Tavoite: %1$d askel</item>
      </plurals>
      <plurals name="goal_unit">
-        <item quantity="other">" steps"</item>
-        <item quantity="one">" step"</item>
+        <item quantity="other">" askelta"</item>
+        <item quantity="one">" askel"</item>
      </plurals>
      <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d askelta</item>
+        <item quantity="one">%1$d askel</item>
      </plurals>
      <plurals name="group_unit">
-        <item quantity="other">%1$d cycles</item>
-        <item quantity="one">%1$d cycle</item>
+        <item quantity="other">%1$d sykliä</item>
+        <item quantity="one">%1$d sykli</item>
      </plurals>
      <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Puoli tuntia sitten</item>
      </plurals>
      <plurals name="hours">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">%1$d tunti</item>
      </plurals>
      <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Tunnin kuluttua</item>
      </plurals>
      <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Puolen tunnin kuluttua</item>
      </plurals>
      <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Heti</item>
      </plurals>
      <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">1 minuutin kuluttua</item>
      </plurals>
      <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
+        <item quantity="other">%1$d päivää edellisestä punnituksesta</item>
+        <item quantity="one">%1$d päivä edellisestä punnituksesta</item>
      </plurals>
      <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d days since last weigh-in</item>
-        <item quantity="one">%1$d day since last weigh-in</item>
+        <item quantity="other">%1$d päivää edellisestä punnituksesta</item>
+        <item quantity="one">%1$d päivä edellisestä punnituksesta</item>
      </plurals>
      <plurals name="length_unit_meter_format">
-        <item quantity="other">%1$d meters</item>
-        <item quantity="one">%1$d meter</item>
+        <item quantity="other">%1$d metriä</item>
+        <item quantity="one">%1$d metri</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Juuri nyt</item>
      </plurals>
      <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">Period will likely start in %1$d days</item>
-        <item quantity="one">Period will likely start in %1$d day</item>
+        <item quantity="other">Kuukautiset saattaa alkaa %1$d päivän kuluttua</item>
+        <item quantity="one">Kuukautiset saattaa alkaa %1$d päivän kuluttua</item>
      </plurals>
      <plurals name="menstruation_sum_days">
-        <item quantity="other">%1$d-day period</item>
-        <item quantity="one">%1$d-day period</item>
+        <item quantity="other">%1$d-päivän kuukautiset</item>
+        <item quantity="one">%1$d-päivän kuukautiset</item>
      </plurals>
      <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Day %1$d (expected)</item>
-        <item quantity="one">Day %1$d (expected)</item>
+        <item quantity="other">Päivä %1$d (odotettavissa)</item>
+        <item quantity="one">Päivä %1$d (odotettavissa)</item>
      </plurals>
      <plurals name="mesens_card_title_days">
-        <item quantity="other">Day %1$d</item>
-        <item quantity="one">Day %1$d</item>
+        <item quantity="other">Päivä %1$d</item>
+        <item quantity="one">Päivä %1$d</item>
      </plurals>
      <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Next period in %1$d days</item>
-        <item quantity="one">Next period in %1$d day</item>
+        <item quantity="other">Seuraavat kuukautiset %1$d päivän kuluttua</item>
+        <item quantity="one">Seuraavat kuukautiset %1$d päivän kuluttua</item>
      </plurals>
      <plurals name="minutes">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
      </plurals>
      <plurals name="minutes_ago">
-        <item quantity="other">%1$d mins ago</item>
-        <item quantity="one">%1$d min ago</item>
+        <item quantity="other">%1$d minuuttia sitten</item>
+        <item quantity="one">%1$d minuutti sitten</item>
      </plurals>
      <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d uutta ilmoitusta</item>
+        <item quantity="one">%d uusi ilmoitus</item>
      </plurals>
      <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">1 minuutti sitten</item>
      </plurals>
      <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Goal: %1$d hours</item>
-        <item quantity="one">Goal: %1$d hour</item>
+        <item quantity="other">Tavoite: %1$d tuntia</item>
+        <item quantity="one">Tavoite: %1$d tunti</item>
      </plurals>
      <plurals name="sleep_management_exp_hours">
-        <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
-        <item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
+        <item quantity="other">Nykyiset asetukset eivät takaa sinulle %1$d tunnin päivittäistä nukkumista. Tarvitset sitä enemmän.</item>
+        <item quantity="one">Nykyiset asetukset eivät takaa sinulle %1$d tunnin päivittäistä nukkumista. Tarvitset sitä enemmän.</item>
      </plurals>
      <plurals name="step_num_format">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d askelta</item>
+        <item quantity="one">%1$d askel</item>
      </plurals>
      <plurals name="steps_format">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
      </plurals>
      <plurals name="subtitle_add_record">
-        <item quantity="other">"You haven't recorded for %1$d days. Record your periods to get more accurate predictions."</item>
-        <item quantity="one">"You haven't recorded for %1$d day. Record your periods to get more accurate predictions."</item>
+        <item quantity="other">Et ole tallentanut %1$d päivään. Tallenna kuukautiset saadaksesi tarkempia ennustuksia.</item>
+        <item quantity="one">Et ole tallentanut %1$d päivään. Tallenna kuukautiset saadaksesi tarkempia ennustuksia.</item>
      </plurals>
      <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">This period lasts for a total of %1$d days</item>
-        <item quantity="one">This period lasts for a total of %1$d day</item>
+        <item quantity="other">Tämä kuukautisjakso kestää yhteensä %1$d päivää</item>
+        <item quantity="one">Tämä kuukautisjakso kestää yhteensä %1$d päivän</item>
      </plurals>
      <plurals name="subtitle_menstruation_cycle_days">
-        <item quantity="other">Day %1$d of this menstrual cycle</item>
-        <item quantity="one">Day %1$d of this menstrual cycle</item>
+        <item quantity="other">Päivä %1$d tästä kuukautiskierrosta</item>
+        <item quantity="one">Päivä %1$d tästä kuukautiskierrosta</item>
      </plurals>
      <plurals name="sum_cycle_days">
-        <item quantity="other">%1$d-day cycle</item>
-        <item quantity="one">%1$d-day cycle</item>
+        <item quantity="other">%1$d-päivän sykli</item>
+        <item quantity="one">%1$d-päivän sykli</item>
      </plurals>
      <plurals name="time_duration_compare_standard">
-        <item quantity="other">≤%1$d minutes</item>
-        <item quantity="one">≤%1$d minute</item>
+        <item quantity="other">≤%1$d minuuttia</item>
+        <item quantity="one">≤%1$d minuutti</item>
      </plurals>
      <plurals name="time_duration_hour_float">
-        <item quantity="other">%1$.2f hrs</item>
-        <item quantity="one">%1$.2f hr</item>
+        <item quantity="other">%1$.2f tuntia</item>
+        <item quantity="one">%1$.2f tunti</item>
      </plurals>
      <plurals name="time_duration_hour_int">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
      </plurals>
      <plurals name="time_duration_hour_standard">
-        <item quantity="other">%1$.1f-%2$.1f hours</item>
-        <item quantity="one">%1$.1f-%2$.1f hour</item>
+        <item quantity="other">%1$.1f-%2$.1f tuntia</item>
+        <item quantity="one">%1$.1f-%2$.1f tunti</item>
      </plurals>
      <plurals name="time_duration_minute">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
      </plurals>
      <plurals name="time_duration_minute_standard">
-        <item quantity="other">%1$d-%2$d minutes</item>
-        <item quantity="one">%1$d-%2$d minute</item>
+        <item quantity="other">%1$d-%2$d minuuttia</item>
+        <item quantity="one">%1$d-%2$d minuutti</item>
      </plurals>
      <plurals name="time_duration_time">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
+        <item quantity="other">%1$d kertaa</item>
+        <item quantity="one">%1$d kerta</item>
      </plurals>
      <plurals name="times_format">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
+        <item quantity="other">%1$d kertaa</item>
+        <item quantity="one">%1$d kerta</item>
      </plurals>
      <plurals name="title_menstruation_day">
-        <item quantity="other">Day %1$d of the period</item>
-        <item quantity="one">Day %1$d of the period</item>
+        <item quantity="other">Kuukautisten %1$d päivä</item>
+        <item quantity="one">Kuukautisten %1$d päivä</item>
      </plurals>
      <plurals name="title_menstruation_margin_next_time_days">
-        <item quantity="other">%1$d days till the next period</item>
-        <item quantity="one">%1$d day till the next period</item>
+        <item quantity="other">%1$d päivää seuraavaan kuukautiseen</item>
+        <item quantity="one">%1$d päivä seuraavaan kuukautiseen</item>
      </plurals>
      <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Estimated day %1$d of the period</item>
-        <item quantity="one">Estimated day %1$d of the period</item>
+        <item quantity="other">Arvioitu kuukautisen %1$d päivä</item>
+        <item quantity="one">Arvioitu kuukautisen %1$d päivä</item>
      </plurals>
      <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d steps today</item>
-        <item quantity="one">%1$d step today</item>
+        <item quantity="other">%1$d askelta tänään</item>
+        <item quantity="one">%1$d askel tänään</item>
      </plurals>
      <plurals name="unit_days">
-        <item quantity="other">" days"</item>
-        <item quantity="one">" day"</item>
+        <item quantity="other">" päivää"</item>
+        <item quantity="one">" päivä"</item>
      </plurals>
      <plurals name="unit_group">
-        <item quantity="other">" cycles"</item>
-        <item quantity="one">" cycle"</item>
+        <item quantity="other">" sykliä"</item>
+        <item quantity="one">" sykli"</item>
      </plurals>
      <plurals name="unit_times">
-        <item quantity="other">" times"</item>
-        <item quantity="one">" time"</item>
+        <item quantity="other">" kertaa"</item>
+        <item quantity="one">" kerta"</item>
      </plurals>
      <plurals name="user_age_display_format_year">
-        <item quantity="other">%1$d years old</item>
-        <item quantity="one">%1$d year old</item>
+        <item quantity="other">%1$d-vuotias</item>
+        <item quantity="one">%1$d-vuotias</item>
      </plurals>
 </resources>
