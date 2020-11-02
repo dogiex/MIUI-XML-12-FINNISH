@@ -27,7 +27,7 @@
      <string name="abc_shareactionprovider_share_with">Share with</string>
      <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
      <string name="abc_toolbar_collapse_description">Collapse</string>
-     <string name="agree_description">Allow this app to connect to the internet to be able to use all its features.</string>
+     <string name="agree_description">Salli tämän sovelluksen yhdistää internetiin käyttääksesi kaikkia sen toimintoja.</string>
      <string name="app_record">App recordings</string>
      <string name="app_record_preference_title">App recordings</string>
      <string name="copy">Copy</string>

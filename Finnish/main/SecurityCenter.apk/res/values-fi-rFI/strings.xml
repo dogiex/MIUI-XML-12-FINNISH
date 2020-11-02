@@ -2041,10 +2041,9 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="free_traffic_settings">Hiljaisen ajan datan käyttö asetukset</string>
   <string name="function_close">Pois päältä</string>
   <string name="function_gwsd_detail">"Tietoja tästä ominaisuudesta:
- 1. Saapuvat puhelut SIM-kortillesi, jolla käytetään mobiilidataa ei keskeytä mobiilidatayhteyttä. Yhteys keskeyteyy vain jos vastaat puheluun.
- 2. Kun tämä ominaisuus on käytössä, soittaja ei kuule puhelun odotuksen soittoääniä. Saapuvat puhelut lopetetaan, mikäli siihen ei vastata 6 sekuntiin.
- 3. Tämä ominaisuus toimii vain SIM-korteilla, joissa käytetään mobiilidataa. Puhelut ensisijaiseen SIM-korttiin keskeyttää mobiilidatayhteyden.
- 4. Tämä ominaisuus toimii vain China Mobilella ja China Unicomilla."</string>
+ 1. Käyttäessäsi mobiilidataa data-SIM-kortilla tai tavallista SIM-korttia, joka on yhdistetty VoLTE-verkkoon, yhteyttä ei katkaista saapuvien puheluiden takia ennen kuin vastaat siihen.
+ 2. Kun tämä ominaisuus on käytössä, toinen henkilö ei kuule soittoääniäsi, ellet käytä tavallista SIM-korttia. Saapuvat puhelut hylätään automaattisesti 7-10 sekunnin käyttämättömyyden jälkeen.
+ 3. China Mobilen ja China Unicomin myöntämiä data-SIM-kortteja tuetaan. China Mobilen, China Unicomin ja China Telecomin myöntämiä tavallisia SIM-kortteja tuetaan."</string>
   <string name="function_gwsd_title">Älä salli saapuvia puheluita keskeyttää SIM-kortin datayhteyttä</string>
   <string name="function_shield_auto_bright">Poista automaattinen kirkkaus käytöstä</string>
   <string name="function_shield_eye_shield">Poista Lukutila käytöstä</string>
