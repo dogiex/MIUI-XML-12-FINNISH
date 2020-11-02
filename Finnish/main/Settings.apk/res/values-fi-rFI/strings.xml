@@ -399,7 +399,7 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
      <string name="gesture_double_twist_sensor_vendor" />
      <string name="gesture_function_dialog_message">%1$s is used for \"%2$s\". Replace with \"%3$s\"?</string>
      <string name="gesture_settings_title">Gesture shortcuts</string>
-     <string name="gps_description_global">Xiaomi devices are compatible with multiple navigation systems, including GPS, NavIC, BeiDou, GLONASS, and Galileo.</string>
+     <string name="gps_description_global">Xiaomi-laitteet ovat yhteensopivia usean navigointijärjestelmän kanssa, mukaan lukien GPS, NavIC, BeiDou, GLONASS sekä Galileo.</string>
      <string name="gxzw_quick_open_enable_summary">Use gesture shortcuts to open apps or use app features when your device is unlocked</string>
      <string name="gxzw_quick_open_enable_title">Fingerprint shortcuts</string>
      <string name="gxzw_quick_open_fast_summary">Swipe to use a shortcut once your device is unlocked.</string>
@@ -796,7 +796,7 @@ Read and agree to %s before using this service."</string>
      <string name="reset_confirm_directory">"Note: Before restoring items, check whether the folder \"MIUI-Backup-AllBackup\" exists on your mobile device. If it doesn't, create it."</string>
      <string name="reset_remove_data_hint">All the items listed above will be erased permanently. Back up all important items to your computer or Xiaomi Cloud before you continue.</string>
      <string name="reset_title">Reset</string>
-     <string name="restore_oaid_dialog_content">Multiple apps are using your virtual ID. If you reset it now, a part of your app data might be lost or become unusable. Reset virtual ID anyway?</string>
+     <string name="restore_oaid_dialog_content">Useat sovellukset käyttävät sinun virtuaalista ID:tä. Jos palautat sen nyt, osa sinun sovellustiedoistasi saattaa hukkua tai siitä saattaa tulla käyttökelvoton. Palautetaanko virtuaalinen ID siitä huolimatta?</string>
      <string name="restore_oaid_positive_step">Reset (%1$d)</string>
      <string name="rgb_face_data_manage_delete_msg">Delete 2D face data</string>
      <string name="ring_to_you">Custom ringing tone</string>
@@ -1602,7 +1602,7 @@ Järjestelmänvalvoja voi valvoa tähän käyttäjäprofiiliin liittyviä asetuk
   <string name="allow_lights_title">Salli LED-valojen käyttö</string>
   <string name="allow_mock_location">Salli sijaintien imitointi</string>
   <string name="allow_mock_location_summary">Salli sijaintien imitointi</string>
-  <string name="allow_oaid_used">Salli laitteen ID:n käyttäminen</string>
+  <string name="allow_oaid_used">Käytä virtuaalista ID:tä</string>
   <string name="allow_overlay_description">Anna sovelluksen näkyä muiden avoimien sovellusten päällä. Se voi häiritä muiden sovellusten käyttöä tai muuttaa niiden ulkoasua tai vaikutelmaa käyttäytymisestä.</string>
   <string name="allow_sound_title">Salli ääni</string>
   <string name="allow_vibrate_title">Salli värinä</string>

@@ -161,7 +161,7 @@
      <string name="app_behavior_warning_audio_title">%1s is recording audio in the background</string>
      <string name="app_behavior_warning_content">"End this process if you didn't allow it"</string>
      <string name="app_behavior_warning_location_title">%1s is accessing your location</string>
-     <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
+     <string name="app_manager_anomaly_analysis">Analysoi kolmannen osapuolen sovellusongelmat</string>
      <string name="app_manager_power_consume">%.1f%%</string>
      <string name="app_perm_manager_service">Permissions</string>
      <string name="app_right">小米公司官方出品</string>

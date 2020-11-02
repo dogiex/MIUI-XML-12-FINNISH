@@ -197,8 +197,8 @@
      <string name="low_light_preview">Low light preview</string>
      <string name="midnight">Night</string>
      <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
-     <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
-     <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud…</string>
+     <string name="miuix_appcompat_cloud_state_finished">Synkronoitiin pilveen onnistuneesti</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Synkronoidaan pilven kanssa…</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>

@@ -205,7 +205,7 @@ Selection"</string>
      <string name="external_source_untrusted">Not allowed</string>
      <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
      <string name="fast_connect_b508_name">ZMI B508</string>
-     <string name="fast_connect_bt_speaker2_name">MI Portable Speaker</string>
+     <string name="fast_connect_bt_speaker2_name">MI-kannettava kaiutin</string>
      <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
      <string name="fast_connect_reset_common">Reset this device to be able to pair</string>
      <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
