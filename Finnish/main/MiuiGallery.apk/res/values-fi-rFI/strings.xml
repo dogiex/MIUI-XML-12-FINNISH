@@ -908,8 +908,8 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="permission_contacts_name">Yhteystiedot</string>
   <string name="scanning_device_tips">Haetaan lähellä olevia laitteita… Varmista, että toinen laite on löydettävissä.</string>
   <string name="send_files_to">Lähetä tiedostoja kohteeseen</string>
-  <string name="send_heif_summary">Muunna kuvat ennen lähettämistä varmistaaksesi yhteensopivuuden</string>
-  <string name="send_heif_title">Muunna HEIF-kuvat JPG-kuviksi ennen lähettämistä</string>
+  <string name="send_heif_summary">Muunna HEIF-kuvat JPEG-kuviksi varmistaaksesi yhteensopivuuden</string>
+  <string name="send_heif_title">Muunna HEIF-kuvat JPEG-kuviksi ennen lähettämistä</string>
   <string name="throwing_print">Tulosta</string>
   <string name="throwing_screen">Suoratoista</string>
   <string name="thumbnail_build_error">Esikatselukuvaa ei voitu ladata</string>
@@ -1622,7 +1622,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
   <string name="cleaner_empty_value_description">Kaikki näyttää hyvältä</string>
   <string name="cleaner_photo_pick_delete_selected">Poista valitut kuvat</string>
-  <string name="cleaner_raw_action">Tyhjennä</string>
+  <string name="cleaner_raw_action">Näytä</string>
   <string name="cleaner_raw_description">Vapauta tallennustilaa poistamalla suuria RAW-kuvia</string>
   <string name="cleaner_raw_title">Tyhjennä RAW-tiedostoja</string>
   <string name="cleaner_scan_description">Optimoimalla kohteet vapauttaa tallennustilaa laitteeltasi</string>
@@ -1633,10 +1633,10 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="cleaner_scan_no_result">Enempää tallennustilaa ei voi vapauttaa</string>
   <string name="cleaner_scan_ok">Selvä</string>
   <string name="cleaner_scan_title">Skannataan albumeita…</string>
-  <string name="cleaner_screen_shot_action">Tyhjennä</string>
+  <string name="cleaner_screen_shot_action">Näytä</string>
   <string name="cleaner_screen_shot_description">Poista kuvakaappaukset, joita et enää tarvitse.</string>
   <string name="cleaner_screen_shot_title">Poista kuvakaappauksia</string>
-  <string name="cleaner_similar_action">Poista nyt</string>
+  <string name="cleaner_similar_action">Näytä</string>
   <string name="cleaner_similar_description">Poista kuvien kaksoiskappaleet</string>
   <string name="cleaner_similar_title">Kuvien kaksoiskappaleet</string>
   <string name="cleaner_slim_action">Aloita optimointi</string>
@@ -1646,7 +1646,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="cleaner_space_description">voidaan vapauttaa</string>
   <string name="cleaner_space_detail_description">Tyhjennä Galleriasi kuvat vapauttaaksesi tallennustilaa</string>
   <string name="cleaner_stop_scan">Pysäytä skannaaminen</string>
-  <string name="cleaner_video_action">Poista nyt</string>
+  <string name="cleaner_video_action">Näytä</string>
   <string name="cleaner_video_description">Poista tallennustilaa vievät videot</string>
   <string name="cleaner_video_pick_delete_selected">Poista valitut videot</string>
   <string name="cleaner_video_title">Poista videoita</string>
