@@ -54,7 +54,7 @@
      <string name="airplane_mode_summary">"Turn on to disconnect your device from mobile networks. You won't be able to make calls, send and receive text messages, or use mobile data when this feature is on."</string>
      <string name="alarm_template">at %1$s</string>
      <string name="alarm_template_far">on %1$s</string>
-     <string name="allow_oaid_used_desc">"MIUI won't provide a virtual ID (OAID) to installed apps. Some personal recommendation features might not work properly because of that."</string>
+     <string name="allow_oaid_used_desc">MIUI ei tarjoa virtuaalista ID:tä (OAID) asennetuille sovelluksille. Jotkin henkilökohtaiset suositusominaisuudet eivät välttämättä toimi oikein sen takia.</string>
      <string name="ambient_display_category_triggers">When to show</string>
      <string name="app_cellular_data_usage">App data usage</string>
      <string name="app_enable_bluetooth_record">Apps turning on Bluetooth</string>

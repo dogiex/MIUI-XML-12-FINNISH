@@ -51,8 +51,7 @@
      <string name="add_body_weight_button">Lisää painotiedot</string>
      <string name="add_body_weight_record_button">Lisää painotiedot</string>
      <string name="add_data_source">Lisätään tietolähteitä</string>
-     <string name="add_data_source_description">"Lisää terveystietoja muista laitteista Xiaomi Healthiin parantaaksesi tilastojen tarkkuutta ja saadaksesi tarkempia terveysneuvoja.
-Xiaomi Health tukee Mi Home -sovellukseen jo aiemmin lisättyjä laitteita. Jos et löydä haluamaasi laitetta, tarkista oletko lisännyt laitteen jo Mi Home -sovellukseen."</string>
+     <string name="add_data_source_description">Lisää terveystietoja muista laitteista Xiaomi Healthiin parantaaksesi tilastojen tarkkuutta ja saadaksesi tarkempia terveysneuvoja.</string>
      <string name="add_data_source_login_and_open_sync">Sign in to your Mi Account and turn on sync with the cloud to be able to add data sources.</string>
      <string name="add_data_source_open_sync">Turn on sync with the cloud to be able to add data sources.</string>
      <string name="add_data_source_process">How to add a data source</string>
@@ -1240,7 +1239,7 @@ sleep data"</string>
      <string name="sleep_service_background_running">Sleep tracking service is running in the background</string>
      <string name="sleep_setting_title">Sleep settings</string>
      <string name="sleep_snore_audio_auto">Record snoring and talking automatically</string>
-  <string name="sleep_snore_audio_auto_desc">Xiaomi Health can record snoring and talking automatically based om your bedtime schedule. The recording will stop when you get up. To protect your privacy, all recorded files will be saved locally on your device using a built-in algorithm.</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Health can record snoring and talking automatically based on your bedtime schedule. The recording will stop when you get up. To protect your privacy, all recorded files will be saved locally on your device using a built-in algorithm.</string>
   <string name="sleep_snore_audio_close_desc">You can turn this feature off in the Settings anytime.</string>
   <string name="sleep_snore_audio_enable">Automatic detection is on</string>
   <string name="sleep_snore_audio_enable_desc">Your snoring and talking will be recorded automatically when you go to sleep.</string>
@@ -1385,7 +1384,7 @@ sleep data"</string>
      <string name="sync_status_in_progress">Syncing…</string>
      <string name="sync_status_network_failure">"Couldn't sync. Connect to the network and try again."</string>
      <string name="sync_status_never_done">Not synced</string>
-     <string name="sync_status_oauth_error">"Couldn't sync data. Grant the required permissions first."</string>
+     <string name="sync_status_oauth_error">Tietoja ei voitu synkronoida. Myönnä vaaditut käyttöoikeudet ensin.</string>
      <string name="system_app_setting">System app settings</string>
      <string name="systolic_pressure">Systolic</string>
      <string name="tb_audio_progress_bar">Audio playback bar</string>
