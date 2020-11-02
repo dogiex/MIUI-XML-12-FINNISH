@@ -306,8 +306,8 @@
      <string name="saturday_short">Sat</string>
      <string name="saturday_shortest">Sat</string>
      <string name="scheduled_mode_dialog_msg">Items will be displayed on your Always-on display within this period: %s.</string>
-     <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
-     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+     <string name="scheduled_mode_dialog_msg_12">h.mm aa</string>
+     <string name="scheduled_mode_dialog_msg_24">H.mm</string>
      <string name="scheduled_mode_msg">Active period: %s</string>
      <string name="scope_a">[{x:-608,y:-717.01,w:504,h:1008,r:18.87},{x:-292.58,y:-610.75,w:504,h:1008,r:9.2},{x:543.41,y:-120,w:564,h:1128,r:-76.01},{x:615.63,y:303.65,w:429.28,h:858.56,r:-127.2},{x:369.49,y:283.97,w:450,h:900,r:-132.64},{x:682.55,y:41.68,w:458.3,h:916.6,r:-98.43},{x:330.18,y:400.71,w:504,h:1008,r:-144.95},{x:676.31,y:-92.27,w:504,h:1008,r:-89.28},{x:480.22,y:131.47,w:519.92,h:1039.83,r:-97.26},{x:720.97,y:244.16,w:519.92,h:1039.83,r:-116.32}]</string>
      <string name="scope_b">[{x:184.9,y:76.14,w:670.31,h:670.31,r:-115.29},{x:328.21,y:-18.01,w:670.31,h:670.31,r:-102.59},{x:-91.97,y:-188.19,w:670.31,h:670.31,r:-57.19},{x:262.43,y:-110.81,w:670.31,h:670.31,r:-84.11},{x:157.44,y:-60.69,w:818.77,h:815.49,r:-136.07},{x:370.18,y:230.93,w:818.77,h:815.49,r:-147.31},{x:158.93,y:-143.15,w:925.32,h:925.32,r:-133.51},{x:280.01,y:281.45,w:925.32,h:925.32,r:-174.76},{x:206.56,y:0.31,w:918.29,h:918.29,r:-134.3},{x:345.35,y:-77.81,w:918.29,h:918.29,r:-97.14}]</string>
@@ -353,7 +353,7 @@
      <string name="sunday_short">Sun</string>
      <string name="sunday_shortest">Sun</string>
      <string name="super_wallpaper_date_inter">"EEEE
-M/dd"</string>
+d.M."</string>
      <string name="super_wallpaper_date_lunar">"YY年
 N月e"</string>
      <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>

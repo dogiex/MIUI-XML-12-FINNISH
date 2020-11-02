@@ -429,8 +429,8 @@ Paikanna ja lukitse laitteesi, mikäli kadotat sen."</string>
   <string name="micloud_warn_low_sum">Xiaomi Cloudin tallennustilaa käytetty 90%.</string>
   <string name="micloud_warn_low_title">Tallennustila on lähes täynnä</string>
   <string name="micloud_web_discription_place_holder">Vieraile %1$s tietokoneellasi hallinnoidaksesi tietojasi.</string>
-  <string name="micloud_wipe_data_confirm_label">Poista tiedot pilvestä</string>
-  <string name="micloud_wipe_data_confirm_title">Poistetaanko Xiaomi Cloudiin synkronoidut kohteet puhelimesta uloskirjautumisen jälkeen?</string>
+  <string name="micloud_wipe_data_confirm_label">Poistetaanko synkronoidut kohteet tältä laitteelta?</string>
+  <string name="micloud_wipe_data_confirm_title">Jotkin kohteet seuraavista sovelluksista synkronoidaan Xiaomi Cloudin kanssa. Voit poistaa ne tältä laitteelta ja säilyttää ne pilvessä.</string>
   <string name="micloud_wipe_data_remove">Poista</string>
   <string name="micloud_wipe_data_retain">Säilytä</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Päivitä vetämällä</string>
