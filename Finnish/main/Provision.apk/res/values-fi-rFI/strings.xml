@@ -63,7 +63,7 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
   <string name="congratulation_swipe">Siirry järjestelmään pyyhkäisemällä ylöspäin</string>
   <string name="congratulation_title">Asennus valmis</string>
   <string name="content_description_complete">Valmis</string>
-  <string name="content_description_miui_version">MIUI 11</string>
+  <string name="content_description_miui_version">MIUI 12</string>
   <string name="content_description_start">Aloita</string>
   <string name="content_introduction">Sisältökeskus yhdistää sisällön ja palvelut useilta kanavilta. Täällä voit lukea artikkeleita, katsella videoita, katsella päivittäin esiteltyjä kohteita ja vastaanottaa sisältösuosituksia.</string>
   <string name="continue_to_enable_accessibility">Jatka kahdella sormella painamista ottaaksesi esteettömyyden käyttöön.</string>
@@ -90,7 +90,7 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
   <string name="font_hint_large">Oletus tekstin koko</string>
   <string name="font_hint_normal">Suurenna tekstin kokoa</string>
   <string name="framework_introduction">Mi Services Framework sallii sinun käyttää Mi-tiliä, Mi Pushia, Mi Statsia ja MIUI BI:tä.</string>
-  <string name="framwork_base_service">Jotta näitä palveluita voidaan tarjota sinulle, Mi Services Frameworkin (Mi-tili, Mi Push, Mi Stats, MIUI BI) on yhdistettävä internetiin, päästävä puhelinnumeroosi, IMEI- ja IMSI-koodeihin ja sallittava laitteesi vastaanottaa push-ilmoituksia</string>
+  <string name="framwork_base_service">Jotta näitä palveluita voidaan tarjota sinulle, Mi Services Frameworkin (Mi-tili, Mi Push, Mi Stats, MIUI BI) on yhdistettävä internetiin, saatava sijaintitietosi, puhelinnumerosi, IMEI- ja IMSI-koodisi ja sallittava laitteesi vastaanottaa push-ilmoituksia</string>
   <string name="game_introduction">Pelien laajennuksen avulla voit kirjautua sisään, luoda tilauksia, suorittaa maksuja, käyttää kuponkeja ja osallistua kampanjatapahtumiin.</string>
   <string name="google_service_introduction">Jotta normaalisti toimisi, Google Playn on oltava yhteydessä internetiin, käyttää sijaintiasi, pystyä nauhoittamaan ääntä, soittamaan puheluita, käyttää kalenteritapahtumia, puheluhistoriaa, antureita, tallennustilaa, kameraa, laitetietoja ja tilejä.</string>
   <string name="ime_privacy_policy">Valitun näppäimistön Tietosuojakäytäntö</string>
@@ -173,7 +173,7 @@ Poistetaanko henkilökohtaiset mainokset käytöstä joka tapauksessa?"</string>
   <string name="permission_recording">Nauhoita puheluita ja ääntä:</string>
   <string name="permission_recording_introduction">Videon nauhoittamisen aikana äänen nauhoittamista varten</string>
   <string name="permission_screen_shoot_introduction">Näytön nauhoitusten käyttämistä ja tallentamista varten</string>
-  <string name="permission_send_message">Lähetä tekstiviestejä:</string>
+  <string name="permission_send_message">Lähetä tekstiviestejä</string>
   <string name="permission_user_record_introduction">Äänen nauhoittamista varten</string>
   <string name="permission_virusscan_introduction">Laitteesi virustarkistusta ja optimointia varten</string>
   <string name="permission_xunlei_introduction">Järjestelmätilien sisäänkirjautumiseen ja hallinnoimiseen, jotta Xunlei-palveluita voidaan tarjota</string>
@@ -230,7 +230,7 @@ Näytä valitun näppäimistön Tietosuojakäytäntö."</string>
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
   <string name="skip_gesture_guide_dialog_title">Kokonäytön eleet</string>
   <string name="skip_underline">Ohita tämä vaihe</string>
-  <string name="start_up_slogan">Elämä muuttuu helpommaksi</string>
+  <string name="start_up_slogan">Sinulle</string>
   <string name="summary_not_set">Ei asetettu</string>
   <string name="system_navigation_mode">Järjestelmän navigointitila</string>
   <string name="terms_of_use">Käyttöehdot</string>
@@ -257,7 +257,7 @@ Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden
   <string name="terms_privacy_policy_input_method_kika">Kika:n Tietosuojakäytäntö</string>
   <string name="title_fingerprint">Aseta salasana</string>
   <string name="user_agreement">Käyttöehdot</string>
-  <string name="user_agreement_declare">Ennen MIUI:n käyttämistä, sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Laitteesi aktivoinnin aikana, Mi SIM-aktivointipalvelut, Etsi laite, Aloitusnäyttö, Usein käytetyt lauseet, Käännöspalvelut, MIUI Daemon, HTML Viewer ja Päivittäjä yhdistävät verkkoon. Älypalvelut yhdistää verkkoon ja käyttää sijaintiasi.</string>
+  <string name="user_agreement_declare">Ennen MIUI:n käyttämistä, sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Laitteesi aktivoinnin aikana, Mi SIM-aktivointipalvelut, Xiaomi Cloud, Etsi laite, Aloitusnäyttö, Usein käytetyt lauseet, Käännöspalvelut, MIUI Daemon, HTML Viewer, AI Assistant, Akku ja suorituskyky, Power Detector, Joyose, OS AI-asetukset, Käyttöoikeuksien hallinnoija ja Päivittäjä yhdistävät verkkoon. Älypalvelut yhdistää verkkoon ja käyttää sijaintiasi.</string>
   <string name="voice_assist_advice">Mi AI sallii ääniohjauksen käyttämisen, mutta se kuluttaa enemmän virtaa (+1% tunnissa).</string>
   <string name="voice_assist_condition">"Voit käyttää Mi AI:ta näissä tilanteissa:
 1. Kun näyttö on päällä.

@@ -41,7 +41,7 @@
      <string name="apply_succeed">Applied successfully</string>
      <string name="apply_success_not_enable_aod">Turn on Always-on display in the Settings first</string>
      <string name="apply_success_not_support_aod">"Can't combine Always-on display with themes on this device. The rest of this theme's components were applied successfully."</string>
-     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+     <string name="character_counter_overflowed_content_description">Merkkiraja ylitetty %1$d/%2$d</string>
      <string name="chinese_day_1">初一</string>
      <string name="chinese_day_10">初十</string>
      <string name="chinese_day_11">十一</string>
@@ -696,7 +696,7 @@ mm"</string>
   <string name="card_retry">Yritä uudelleen</string>
   <string name="change_host_hint">Vaihda isäntää</string>
   <string name="change_wallpaper">Taustakuva</string>
-  <string name="character_counter_content_description">Merkkiraja ylitetty %1$d / %2$d</string>
+  <string name="character_counter_content_description">Merkkejä syötetty %1$d/%2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_has_new_version">Päivitys saatavilla</string>
   <string name="classification_more_understand_you">Valitse suosikki kategoriasi</string>
@@ -834,10 +834,9 @@ mm"</string>
   <string name="home_apply_failured">Aloitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="home_apply_success">Aloitusnäytön taustakuva asetettu</string>
   <string name="in_the_end">Ei enempää näytettäviä kohteita</string>
-  <string name="incall_show_apply">Profiilivideo lähteville puheluille</string>
+  <string name="incall_show_apply">Aseta profiilivideoksi</string>
   <string name="incall_show_apply_fail">Ei voitu asettaa</string>
-  <string name="incall_show_apply_success">"Asetettiin onnistuneesti. Poistaaksesi tämän ominaisuuden käytöstä,
-siirry Asetukset &gt; Ääni &amp; värinä &gt; Profiilivideo."</string>
+  <string name="incall_show_apply_success">Asetettiin onnistuneesti</string>
   <string name="incall_show_apply_success_without_ringtone">"Asetettiin onnistuneesti. Tällä videolla ei ole ääntä. Alkuperäistä soittoääntä käytetään.
 Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp; värinä &gt; Profiilivideo."</string>
   <string name="incall_show_find_more">Etsi lisää</string>
@@ -847,7 +846,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="incall_show_remove_success">Poistettiin profiilivideo onnistuneesti</string>
   <string name="incall_show_title">Profiilivideot</string>
   <string name="incompatible_dialog_cancel">Älä aseta</string>
-  <string name="incompatible_dialog_message">Tämä teema ei ole yhteensopiva laitteellesi asennetun MIUI-version kanssa. Jotkut osat MIUI:ssa ei välttämättä toimi oikein jos asetat tämän teeman.</string>
+  <string name="incompatible_dialog_message">Tämä teema ei ole vielä kokonaan yhteensopiva tämän MIUI-version kanssa. Jotkin sivut eivät ehkä toimi oikein.</string>
   <string name="incompatible_dialog_ok">Selvä</string>
   <string name="incompatible_dialog_title">Yhteensopivuusongelmia</string>
   <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
@@ -857,8 +856,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="item_resource_audio_optional_phone_ring">Soittoääni</string>
   <string name="kuyin_user_agreement_content">Mukautetut soittoäänitilaukset tarjoaa iFlytek. Sinun täytyy hyväksyä %s ennen mukautettujen soittoäänitilauksien käyttämistä. Hyväksytkö?</string>
   <string name="kuyin_user_agreement_content_href">iFlytek Tietosuojakäytäntö</string>
-  <string name="lab">Teemalaboratorio</string>
-  <string name="like_list">Tykkäämäni kohteet</string>
+  <string name="lab">Teemat-laboratorio</string>
+  <string name="like_list">Tykkäykseni</string>
   <string name="live_wallpaper">Videotaustakuvat</string>
   <string name="loading">Odota hetki…</string>
   <string name="loading_resource_detail_fail">Lähdettä ei voi ladata</string>
@@ -1055,7 +1054,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_exchange_share_code_content">Olet vastaanottanut lahjakoodin (%2$s) teemalle %1$s MIUI:n Teemoissa. Käytä se nyt napauttamalla %3$s.</string>
   <string name="resource_exchange_share_code_dlg_content">Lahjakoodi teemalle %1$s: %2$s. Kun lähetät sen toiselle MIUI käyttäjälle, he voivat käyttää sen ja ladata tämän teeman.</string>
   <string name="resource_exchange_share_code_dlg_title">Lähetetään</string>
-  <string name="resource_exchange_success">Nauti! :)</string>
+  <string name="resource_exchange_success">Ostettu onnistuneesti</string>
   <string name="resource_exchange_unavailable">Syöttämäsi koodi, joka on liitettynä teemaan ei ole saatavilla.</string>
   <string name="resource_exchange_universal_finish">Käytä tätä koodia ladataksesi kohteita Teemat-sovelluksessa.</string>
   <string name="resource_exchange_universal_goon">Tätä koodia voi käyttää minkä tahansa teeman lataamiseen Teemakaupasta.</string>
@@ -1125,7 +1124,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_search_color_hint_red">Punainen</string>
   <string name="resource_search_color_hint_yellow">Keltainen</string>
   <string name="resource_search_list_empty">Tuloksia ei löytynyt.</string>
-  <string name="resource_see_more">Näytä lisää</string>
+  <string name="resource_see_more">Näytä kaikki</string>
   <string name="resource_select">Valitse</string>
   <string name="resource_select_alarm_audio_confirm">Valitaanko tämä ilmoituksen ääni?</string>
   <string name="resource_select_audio_confirm_picker">Valitaanko tämä ääni?</string>
@@ -1196,7 +1195,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="show_mamual_hide_font">Näytä piilotetut fontit</string>
   <string name="show_mamual_hide_theme">Näytä piilotetut teemat</string>
   <string name="show_mamual_hide_wallpaper">Näytä piilotetut taustakuvat</string>
-  <string name="swipe_find_more">Näytä lisää pyyhkäisemällä ylös</string>
+  <string name="swipe_find_more">Näytä lisää pyyhkäisemällä vasemmalle</string>
   <string name="system_precust">Esiasennettu</string>
   <string name="tag_ad">Mainos</string>
   <string name="the_picture_is_not_support">Kuvaa ei tueta</string>
@@ -1286,7 +1285,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="theme_yes">Kyllä</string>
   <string name="third_party_pickers_activity_title">Lisää %1$s</string>
   <string name="tips_theme_gate_transfer_fail">Tätä sivua ei voitu avata. Odota minuutti tai kaksi ja yritä uudelleen.</string>
-  <string name="title_component">Mukauta teema</string>
+  <string name="title_component">Teeman osat</string>
   <string name="title_my_audio_resource">Soittoääneni</string>
   <string name="title_my_miwallpaper_desktop_effects">Liikkuvat taustakuvat</string>
   <string name="title_my_miwallpaper_resource">Videotaustakuvani</string>
@@ -1299,7 +1298,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="transparency_pref_summary">Valitse kuinka läpinäkyvän haluat taustakuvasi olevan</string>
   <string name="transparency_pref_title">Läpinäkyvyyden taso</string>
   <string name="transparent_wallpaper">Läpinäkyvä taustakuva</string>
-  <string name="transparent_wallpaper_apply_success">Asetettiin onnistuneesti. Siirry Teemat &gt; Profiili &gt; Teemalaboratorio lisäominaisuuksia varten.</string>
+  <string name="transparent_wallpaper_apply_success">Asetettiin onnistuneesti.
+Siirry Teemat &gt; Tilini &gt; Teemat-laboratorio lisävalintoja varten.</string>
   <string name="transparent_wallpaper_disable">Pois käytöstä</string>
   <string name="transparent_wallpaper_enable">Käytössä</string>
   <string name="transparent_wallpaper_enable_success">Otettiin käyttöön onnistuneesti</string>
@@ -1371,8 +1371,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="wallpaper_loop_interval_title">Vaihda taustakuva</string>
   <string name="wallpaper_loop_manage">Hallinnoi</string>
   <string name="wallpaper_loop_more_options">Lisäasetukset</string>
-  <string name="wallpaper_loop_my_desk_wallpaper">Aloitusnäytön taustakuvani</string>
-  <string name="wallpaper_loop_my_lock_wallpaper">Lukitusnäytön taustakuvani</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Hallitse aloitusnäyttöä</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Hallitse lukitusnäyttöä</string>
   <string name="wallpaper_loop_order_desc">Valitse diasarjan näyttämisjärjestys</string>
   <string name="wallpaper_loop_order_loop">Alkuperäinen</string>
   <string name="wallpaper_loop_order_shuffle">Satunnainen</string>
@@ -1384,7 +1384,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="wallpaper_no_record">Täällä ei ole vielä kohteita.</string>
   <string name="wallpaper_online">Online-taustakuvat</string>
   <string name="wallpaper_online_no_more">Siinä kaikki tältä erää</string>
-  <string name="wallpaper_online_tip">Yhdistä verkkoon katsoaksesi lisää kohteita</string>
+  <string name="wallpaper_online_tip">Yhdistä verkkoon käyttääksesi lisää kohteita</string>
   <string name="wallpaper_scroll_type_tips">Taustakuvan vierintä</string>
   <string name="wallpaper_set_as_both">Aseta molempiin</string>
   <string name="wallpaper_set_as_desktop">Aseta Aloitusnäytölle</string>

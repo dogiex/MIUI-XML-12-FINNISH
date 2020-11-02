@@ -139,7 +139,7 @@
      <string name="qs_control_customize_sub_title">Drag added toggles to rearrange them</string>
      <string name="qs_control_customize_title">Added toggles</string>
      <string name="qs_control_expand_detail_title">My data</string>
-     <string name="qs_control_header_tiles_title">Control center</string>
+     <string name="qs_control_header_tiles_title">Ohjauskeskus</string>
      <string name="quick_settings_cellular_detail_dialog_message_turnoff">"If you turn off mobile data, you won't be able to use the internet unless you connect to WLAN. You'll still be able to send MMS. Turn off mobile data anyway?"</string>
      <string name="quick_settings_cellular_detail_dialog_message_turnon">Using mobile data may generate additional charges depending on your payment plan. Allow using mobile data anyway?</string>
      <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancel</string>

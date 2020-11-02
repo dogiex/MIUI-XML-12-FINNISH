@@ -1157,7 +1157,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="same_new_and_old_pwd">Ei voi olla sama, kuin nykyinen salasana</string>
     <string name="saturday">Lauantai</string>
     <string name="save">TALLENNA</string>
-    <string name="save_cancel_toast">Napauta \"Takaisin\" uudelleen peruuttaaksesi videon tallentamisen</string>
+    <string name="save_cancel_toast">Napauta uudelleen peruuttaaksesi tallentamisen</string>
     <string name="screenrecord_cancel">Yhteensopivuusongelmia</string>
     <string name="screenrecord_nosupport_record">Näytön nauhoittaja ei ole tällä hetkellä tuettu tällä laitteella.</string>
     <string name="search">Haku</string>
@@ -1181,7 +1181,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="share_ugc_waitting">Luodaan linkkiä…</string>
     <string name="sign_in">Kirjaudutaan sisään</string>
     <string name="sign_in_progress">Kirjaudutaan sisään…</string>
-    <string name="slid_fail_message">Videota ei voitu tallentaa</string>
+    <string name="slid_fail_message">Ei voitu tallentaa</string>
     <string name="slide_save_message">Luodaan videota…</string>
     <string name="sms_send_success">Lähetettiin onnistuneesti</string>
     <string name="sns_access_token_expired_warning">Istunto vanhentui. Kirjaudu sisään uudelleen yhdistääksesi tämän tilin uudelleen.</string>
@@ -1286,7 +1286,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="v_login">Kirjaudu sisään</string>
     <string name="v_menu_hide">Piilota</string>
     <string name="v_more">Lisää</string>
-    <string name="v_network_failed">Tapahtui verkkovirhe.</string>
+    <string name="v_network_failed">Verkkoyhteyttä ei voitu muodostaa</string>
     <string name="v_next">Seuraava</string>
     <string name="v_ok">OK</string>
     <string name="v_pw_need_update_app">Päivitä Mi Video käyttääksesi sen kaikkia ominaisuuksia</string>

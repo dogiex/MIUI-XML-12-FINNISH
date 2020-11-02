@@ -18,7 +18,7 @@
      <string name="all_app_category_personal">Personal</string>
      <string name="all_app_category_work">Work</string>
      <string name="all_apps_setting_classic_title">Classic</string>
-     <string name="app_name">matrix-android-commons</string>
+     <string name="app_name">smallWindow</string>
      <string name="auto_disable_screenbuttons_summary">Double tap any navigation button to re-enable</string>
      <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
      <string name="back">Back</string>
@@ -91,7 +91,7 @@
      <string name="open_personal_assistant_title_synonyms">负一屏</string>
      <string name="perfect_icons_switch_summary">Render animations on third party app icons</string>
      <string name="perfect_icons_switch_title">Global icon animations</string>
-     <string name="permdesc_uninstall_widget">Allows an app to remove widgets without requiring additional actions from the user.</string>
+     <string name="permdesc_uninstall_widget">Sallii sovelluksen poistaa widgettejä ilman käyttäjän toimia.</string>
      <string name="permlab_uninstall_widget">Uninstall widgets</string>
      <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
      <string name="process" />
@@ -490,10 +490,10 @@
     <string name="open_personal_assistant_dialog_title">Poista Sovellusholvi käytöstä</string>
     <string name="open_personal_assistant_title">Sovellusholvi</string>
     <string name="out_of_space">Tällä Aloitusnäytöllä ei ole enempää tilaa</string>
-    <string name="permdesc_install_shortcut">Sallii sovelluksen lisätä pikakuvakkeita ilman käyttäjän erillistä lupaa.</string>
-    <string name="permdesc_install_widget">Sallii sovelluksen lisätä widgettejä ilman käyttäjän erillistä lupaa.</string>
+    <string name="permdesc_install_shortcut">Sallii sovelluksen lisätä pikakuvakkeita ilman käyttäjän toimia.</string>
+    <string name="permdesc_install_widget">Sallii sovelluksen lisätä widgettejä ilman käyttäjän toimia.</string>
     <string name="permdesc_read_settings">Sallii sovelluksen lukea Aloitusnäytön asetuksia ja pikakuvakkeita.</string>
-    <string name="permdesc_uninstall_shortcut">Sallii sovelluksen poistaa pikakuvakkeita ilman käyttäjän erillistä lupaa.</string>
+    <string name="permdesc_uninstall_shortcut">Sallii sovelluksen poistaa pikakuvakkeita ilman käyttäjän toimia.</string>
     <string name="permdesc_write_settings">Sallii sovelluksen muuttaa Aloitusnäytön asetuksia ja pikakuvakkeita.</string>
     <string name="permlab_install_shortcut">Asenna pikakuvakkeita</string>
     <string name="permlab_install_widget">Asenna widgettejä</string>
