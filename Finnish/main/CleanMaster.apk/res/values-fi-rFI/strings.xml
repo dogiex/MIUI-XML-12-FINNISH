@@ -100,7 +100,7 @@
      <string name="notification_memory_clean_used_size">%s muistista on varattuna</string>
      <string name="notification_size_1.5_GB">%.1f</string>
      <string name="notification_size_1_GB">%d</string>
-     <string name="notification_uninstalled_clean_button_text">Katso</string>
+     <string name="notification_uninstalled_clean_button_text">Näytä</string>
      <string name="notification_uninstalled_clean_with_name">Sovelluksen %s jäännöstiedostot</string>
      <string name="notification_uninstalled_clean_without_name">Poistetut sovellukset jättävät jäännöstiedostoja</string>
      <string name="notification_whatsapp_clean_button_text">Tyhjennä</string>
