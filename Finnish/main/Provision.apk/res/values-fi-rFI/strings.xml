@@ -81,7 +81,7 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
   <string name="disagreement_function">Jos et hyväksy näitä käyttöoikeuksia tai et jaa ja lähetä henkilötietojasi, et voi käyttää tätä toimintoa. Voit valita olla käyttämättä tätä toimintoa tällaisissa tapauksissa.</string>
   <string name="disagreement_location_service">Jos et hyväksy näitä käyttöoikeuksia tai et jaa ja lähetä henkilötietojasi, et voi käyttää tätä palvelua.</string>
   <string name="disagreement_terminate_service">Jos et hyväksy näitä käyttöoikeuksia tai et jaa ja lähetä henkilötietojasi, et voi käyttää tätä sovellusta. Voit poistaa sovellukse, kirjautua siitä ulos tai rajoittaa sen käyttöoikeuksia Asetuksissa tällaisissa tapauksissa.</string>
-  <string name="download_introduction">Tämä sovellus hallitsee kaikkia latauksia, mukaan lukien GetAppsin, Mi Videon, Päivittäjän, Teeman sekä Selaimen.</string>
+  <string name="download_introduction">\"Lataukset\" käyttää Xunleita kohteiden lataamiseen laitteellesi. Tämä työkalu toimii GetAppsille, järjestelmän päivityksiin, teemoihin, videoihin ja selaimen latauksiin.</string>
   <string name="enable_accessibility_canceled">Esteettömyys peruutettiin.</string>
   <string name="enable_accessibility_dialog_message">Otit TalkBack-toiminnon käyttöön painamalla näyttöä kahdella sormella kauemmin, kuin 10 sekuntia. TalkBack tarjoaa äänipalautetta niille henkilöille, joilla on näköongelmia. Jos otit sen käyttöön vahingossa, napauta Peruuta-painiketta ja sen jälkeen tuplanapauta näyttöä.</string>
   <string name="enable_accessibility_dialog_negative_btn">Peruuta</string>

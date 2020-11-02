@@ -267,7 +267,7 @@
      <string name="friday">Friday</string>
      <string name="friday_short">Fri</string>
      <string name="friday_shortest">F</string>
-     <string name="gallery_wallpaper">Wallpaper Carousel</string>
+     <string name="gallery_wallpaper">Taustakuvakaruselli</string>
      <string name="gallery_wallpaper_count">100k+</string>
      <string name="gallery_wallpaper_count_tw">10w+</string>
      <string name="gallery_wallpaper_theme">Must-have wallpapers</string>
@@ -451,9 +451,9 @@ mm"</string>
      <string name="search_price_name">"Price: "</string>
      <string name="search_price_no_limit">Unlimited</string>
      <string name="search_sort_name">Sort</string>
-     <string name="search_sort_news">New first</string>
+     <string name="search_sort_news">Uusin ensin</string>
      <string name="search_sort_synthesize">General</string>
-     <string name="search_sort_top">Popular first</string>
+     <string name="search_sort_top">Suosittu ensin</string>
      <string name="service_btn_text_know">知道啦</string>
      <string name="service_btn_text_try">试试看</string>
      <string name="setting_font_online">Online fonts</string>
@@ -512,7 +512,7 @@ mm"</string>
      <string name="sunday">Sunday</string>
      <string name="sunday_short">Sun</string>
      <string name="sunday_shortest">S</string>
-     <string name="super_wallpaper">Super wallpapers</string>
+     <string name="super_wallpaper">Super-taustakuvat</string>
      <string name="support_theme_store_des">Good themes are always created by talented designers. Our app contains a small amount of ads which allow us to support their work.</string>
      <string name="support_theme_store_supported">Thanks for your support!</string>
      <string name="support_theme_store_title">Support our designers</string>
