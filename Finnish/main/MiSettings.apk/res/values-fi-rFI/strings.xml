@@ -406,7 +406,7 @@
      <string name="usage_optional_title">Valinnaiset käyttöoikeudet</string>
      <string name="usage_permisison_agree_desc_o">Saadaksesi Ruutuajan tilastoja, tämän sovelluksen täytyy kerätä seuraavat tiedot: laitteesi lukituksen avaamiskerrat, luettelo sovelluksistasi sekä sovellusten käyttöajat.</string>
      <string name="usage_permisison_agree_desc_p">Saadaksesi Ruutuajan sekä Keskittymistilan tilastoja, tämän sovelluksen täytyy kerätä seuraavat tiedot: laitteesi lukituksen avaamiskerrat, luettelo sovelluksistasi sekä sovellusten käyttöajat, kuinka monta kertaa näyttösi menee päälle ja Keskittymistilan asetukset.</string>
-     <string name="usage_permission_double_link" formatted="false"><Data>Tämän sovelluksen täytyy yhdistää internetiin ja kerätä tarvittavat henkilötiedot toimiakseen normaalisti. Ymmärtääksesi täysin oikeutesi käyttäjänä sekä sen, kuinka käytämme tietojasi, lue ja hyväksy meidän &lt;a href='%1s'>Käyttöehdot&lt;/a> ja &lt;a href='%2s'>Tietosuojakäytäntö&lt;/a>.</Data></string>
+     <string name="usage_permission_double_link" formatted="false"><Data>"Tämän sovelluksen täytyy yhdistää internetiin ja kerätä tarvittavat henkilötiedot toimiakseen normaalisti. Ymmärtääksesi täysin oikeutesi käyttäjänä sekä sen, kuinka käytämme tietojasi, lue ja hyväksy meidän &lt;a href='%1s'>Käyttöehdot&lt;/a> ja &lt;a href='%2s'>Tietosuojakäytäntö&lt;/a>."</Data></string>
      <string name="usage_permission_main_desc">"Tervetuloa Ruutuaikaan!
 Tämä sovellus tarvitsee internetin ja vaatii seuraavat käyttöoikeudet toimiakseen normaalisti:"</string>
      <string name="usage_permission_title">Huomio</string>
