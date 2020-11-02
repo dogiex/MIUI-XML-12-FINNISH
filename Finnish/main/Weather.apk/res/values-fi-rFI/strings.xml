@@ -111,7 +111,7 @@
      <string name="rain_sound_setting_title_text">Sound effects</string>
      <string name="rating_dialog_later">Later</string>
      <string name="rating_dialog_rate_now">Rate now</string>
-     <string name="request_cta_connect_net">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
+     <string name="request_cta_connect_net">Salli tämän sovelluksen yhdistää internetiin ja myönnä yllä luetellut pakolliset käyttöoikeudet.</string>
      <string name="required_permissions">;</string>
      <string name="settings_atmospheric_pressure_atm">Standard atmosphere (atm)</string>
      <string name="settings_atmospheric_pressure_default">0</string>

@@ -940,7 +940,7 @@
   <string name="add_countdown">Lisää laskenta</string>
   <string name="add_event">Lisää tapahtuma</string>
   <string name="address">Osoite</string>
-  <string name="agenda_month_empty_hint">Ei tapahtumia tänään</string>
+  <string name="agenda_month_empty_hint">Tälle päivälle ei ole suunniteltu tapahtumia. Luo sellainen napauttamalla.</string>
   <string name="agenda_tomorrow">HUOMENNA, %1$s</string>
   <string name="agenda_view">Tapahtumat</string>
   <string name="alarm_label">Selvä</string>
@@ -950,7 +950,7 @@
   <string name="anniversary_event_title">Vuosipäivä: %1$s</string>
   <string name="anniversary_secondary_tag">Vuosipäivä</string>
   <string name="app_label">Kalenteri</string>
-  <string name="app_name">recyclerview-animator</string>
+  <string name="app_name">Haptic</string>
   <string name="birthday_born">Syntymäpäivä</string>
   <string name="birthday_calendar_display_name">Syntymäpäivän muistutus</string>
   <string name="birthday_event_description_a_week_ago">Viimeviikolla</string>
@@ -1167,6 +1167,9 @@
   <string name="miuishare_wechat_timeline_title">WeChat Hetket</string>
   <string name="miuishare_wechat_title">WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Pilven synkronointi on pois käytöstä</string>
+  <string name="miuix_appcompat_cloud_state_finished">Synkronoitiin pilveen onnistuneesti</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Synkronoidaan pilven kanssa…</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Vedä päivittääksesi</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Päivittäminen valmis</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Päivitetään</string>

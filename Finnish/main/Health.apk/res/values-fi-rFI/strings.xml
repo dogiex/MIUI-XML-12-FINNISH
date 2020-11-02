@@ -464,10 +464,10 @@ Xiaomi Health will only notify you about important items."</string>
      <string name="emergency_contact">Emergency contact</string>
      <string name="empty" />
      <string name="empty_data">-</string>
-     <string name="enable">On</string>
-     <string name="enable_go_now">On</string>
-     <string name="enable_not_now">Off</string>
-     <string name="enable_right_now">On</string>
+     <string name="enable">Käytössä</string>
+     <string name="enable_go_now">Ota käyttöön</string>
+     <string name="enable_not_now">Ei nyt</string>
+     <string name="enable_right_now">Ota käyttöön</string>
      <string name="engrgy_format">%1$d W</string>
      <string name="enough">Enough</string>
      <string name="enter_mi_health">Open Xiaomi Health</string>
@@ -971,7 +971,7 @@ Wait until the circle turns red."</string>
      <string name="no_device_bound_to_the_account">"This device isn't associated with your account. Add the device first."</string>
      <string name="no_records">No items here yet.</string>
      <string name="no_snore">"You didn't snore or talk in your sleep"</string>
-     <string name="no_snore_1">"You didn't snore or talk in your sleep"</string>
+     <string name="no_snore_1">Täällä ei ole vielä mitään</string>
      <string name="no_sport_delete">Delete incorrect record</string>
      <string name="noon">PM</string>
      <string name="normal">Normal</string>
@@ -1130,7 +1130,7 @@ Wait until the circle turns red."</string>
      <string name="sedentary_time_is_too_long">Time to move! Drink some water and take a walk.</string>
      <string name="sedentary_title">Remind to move</string>
      <string name="sedentary_toggle_content">"Xiaomi Health will remind you to get up and walk if you've been inactive for a long period of time."</string>
-     <string name="sedentaty_hazard_description">"Sitting down doesn't benefit your health. 12 hours with stand-up breaks every day will help you avoid the risks of sedentary lifestyle."</string>
+     <string name="sedentaty_hazard_description">Istuminen ei auta terveyttäsi. 12 tuntia yhden minuutin seisontatauoilla joka päivä auttaa sinua välttämään paikalla olevan elämäntavan riskejä.</string>
      <string name="select_exercise_intensity">Select intensity</string>
      <string name="select_exercise_type">Select workout type</string>
      <string name="select_menstruation_end_date">Select the end date of this period</string>
@@ -1163,8 +1163,8 @@ Wait until the circle turns red."</string>
      <string name="sleep_deep">Deep sleep</string>
      <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
      <string name="sleep_deep_light_close_tip">Deep sleep analysis is off</string>
-     <string name="sleep_deep_light_no_data">No deep sleep record</string>
-     <string name="sleep_deep_light_no_data_improvement">The deep light sleep features are not identified, and efforts will be made to optimize the algorithm.</string>
+     <string name="sleep_deep_light_no_data">Täällä ei ole vielä tietoja</string>
+     <string name="sleep_deep_light_no_data_improvement">Univaiheita ei voitu havaita. Parannamme algoritmejamme. Pysy kuulolla!</string>
      <string name="sleep_detection_enable">Analyze sleep cycle</string>
      <string name="sleep_detection_feedback">Feedback</string>
      <string name="sleep_detection_guide_four_description">Sleep tracking will consume around 1% of your battery daily.</string>
@@ -1185,11 +1185,11 @@ Wait until the circle turns red."</string>
      <string name="sleep_detection_question_four_title">Why do different devices consume different amounts of power to track sleep?</string>
      <string name="sleep_detection_question_one_answer">"When your device is turned off, rebooted, or the battery is low, sleep tracking will be interrupted because sensors can't collect and analyze data. In such cases, sleep stats will appear incomplete.
 If this problem occurs frequently, check your device for scheduled shutdown tasks or overnight system updates."</string>
-     <string name="sleep_detection_question_one_answer_1">"Deep light sleep analysis relies on the body motion data collected by mobile phone sensors. The following conditions may result in no deep light sleep analysis results: 
-1. Data collection failure. Data collection and calculation may not be carried out normally due to the shutdown of mobile phone or insufficient power during sleep. 
-2. Data parsing failed. It may be that the mobile phone is placed far away from the body or still, resulting in the collected body movement is not obvious, and the deep light sleep characteristics cannot be analyzed temporarily. We will continue to optimize the algorithm."</string>
+     <string name="sleep_detection_question_one_answer_1">"Deep and light sleep phases are detected based on body movement data collected by the sensors of your device. Here's why you might not be able to see the stats:
+1. Xiaomi Health couldn't collect data. This might happen when your device powers off while you're sleeping, its battery is too low, or the app isn't allowed to work in the background. Allow Xiaomi Health to autostart, add it to Battery saver exceptions, and lock it in the background to prevent this from happening.
+2. Xiaomi Health couldn't analyze the collected data. This might happen when your phone is placed too far from your body when you sleep. Alternatively, your body movement might be too subtle to make any assumptions about your sleep cycle changes. We're constantly improving our algorithms to make Xiaomi Health analyze your sleep better."</string>
      <string name="sleep_detection_question_one_title">Why are my stats incomplete?</string>
-     <string name="sleep_detection_question_one_title_1">"Why isn't light and deep sleep recorded?"</string>
+     <string name="sleep_detection_question_one_title_1">Miksi en näe unisyklien tilastoja?</string>
      <string name="sleep_detection_question_three_answer">Your device tracks your body movement during sleep using built-in sensors. To make stats more accurate, place the device on a soft surface close to your body. Avoid placing it on bedside tables or too far away from the mattress.</string>
      <string name="sleep_detection_question_three_title">How can I make my stats more accurate?</string>
      <string name="sleep_detection_question_two_answer">"Your sleep cycles are analyzed on the device locally. Sleep tracking will work even when you aren't connected to the network or your current connection is interrupted."</string>
@@ -1239,18 +1239,14 @@ sleep data"</string>
      <string name="sleep_service">Sleep tracking service</string>
      <string name="sleep_service_background_running">Sleep tracking service is running in the background</string>
      <string name="sleep_setting_title">Sleep settings</string>
-     <string name="sleep_snore_audio_auto">Track your audio</string>
-     <string name="sleep_snore_audio_auto_desc">Records your talk when you are sleeping and store the file in your phone to protect your privacy safely.</string>
-     <string name="sleep_snore_audio_close_desc">You can disable it in sleep settings.</string>
-     <string name="sleep_snore_audio_enable">The detections is enable</string>
-     <string name="sleep_snore_audio_enable_desc">Tonight, your sleep will be tracked automatically.</string>
-     <string name="sleep_snore_audio_file_mamagement_desc">Turn on to keep 100 MB of the latest recordings on this device and delete older ones automatically to save storage space.</string>
-     <string name="sleep_snore_audio_file_mamagement_title">Clear recordings automatically</string>
-     <string name="sleep_snore_audio_file_saved">Recordings are stored locally</string>
-     <string name="sleep_snore_audio_file_saved_desc">An offline algorithm is used for detecting snoring and talking. All recordings will be stored locally on this device without disclosing your private info.</string>
-     <string name="sleep_snore_audio_hight_power_desc">Make sure your device is sufficiently charged before you go to bed.</string>
-     <string name="sleep_snore_detection">Detect snoring and talking</string>
-     <string name="sleep_snore_detection_desc">Track your sleep</string>
+     <string name="sleep_snore_audio_auto">Record snoring and talking automatically</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Health can record snoring and talking automatically based om your bedtime schedule. The recording will stop when you get up. To protect your privacy, all recorded files will be saved locally on your device using a built-in algorithm.</string>
+  <string name="sleep_snore_audio_close_desc">You can turn this feature off in the Settings anytime.</string>
+  <string name="sleep_snore_audio_enable">Automatic detection is on</string>
+  <string name="sleep_snore_audio_enable_desc">Your snoring and talking will be recorded automatically when you go to sleep.</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Remember that using this feature consumes a substantial amount of power. It's a good idea to keep your charger connected while you sleep to avoid unexpected interruptions."</string>
+  <string name="sleep_snore_detection">Detect snoring and talking</string>
+  <string name="sleep_snore_detection_desc">Detect snoring and talking to learn more about your sleep</string>
      <string name="sleep_sober">Awake</string>
      <string name="sleep_sober_times_title">Woke up</string>
      <string name="sleep_status">Sleep status</string>
@@ -1294,11 +1290,11 @@ sleep data"</string>
      <string name="snore_detection_sotp_opt_1">Stop and delete results</string>
      <string name="snore_detection_sotp_opt_2">Stop and save results</string>
      <string name="snore_detection_stop_pop_content">"You won't be able to resume this session if you end it now. Next session will start when you go to bed next time."</string>
-     <string name="snore_detection_stop_pop_title">End session now?</string>
+     <string name="snore_detection_stop_pop_title">Lopetetaanko nykyinen kuorsauksentunnistusistunto?</string>
      <string name="snore_detection_stopped_notification_title">Stopped detecting snoring and talking</string>
      <string name="snore_dream_talk">Snoring and talking</string>
-     <string name="snore_duration_label">Snore duration</string>
-     <string name="snore_label">Snore</string>
+     <string name="snore_duration_label">Kuorsauksen kesto</string>
+     <string name="snore_label">Kuorsaaminen</string>
      <string name="snore_record_audio_delete_message">"This recording is stored on your device only. You won't be able to restore it if you delete it.Delete anyway?"</string>
      <string name="snore_record_audio_delete_title">Delete recording?</string>
      <string name="snore_section">Snoring %1$s</string>
@@ -1497,8 +1493,8 @@ sleep data"</string>
      <string name="tb_picker_sleep_goal">Selected sleep goal: %1$s. Swipe vertically to select goal.</string>
      <string name="tb_picker_weight">Selected weight: %1$s. Swipe vertically to select weight.</string>
      <string name="tb_picker_year">Selected year: %1$d. Swipe vertically to select year.</string>
-     <string name="tb_play_next">Next audio</string>
-     <string name="tb_play_previous">Previous audio</string>
+     <string name="tb_play_next">Siirry seuraavaan nauhoitukseen</string>
+     <string name="tb_play_previous">Siirry edelliseen nauhoitukseen</string>
      <string name="tb_range">From %1$s to %2$s</string>
      <string name="tb_resting_heart_rate_avg">Average resting heart rate: %1$d. Status: %2$s.</string>
      <string name="tb_resting_heart_rate_avg2">Average resting heart rate. Highest: %1$d. Lowest: %2$d.</string>

@@ -344,7 +344,7 @@ http://www.miliao.com
 	<string name="new_pc_backup_restore_link">Mobiililaite</string>
 	<string name="new_pc_backup_summary1">Valitse kohteet ja napauta \"Varmuuskopioi\".</string>
 	<string name="new_pc_backup_summary2">Yhdistä mobiililaitteesi tietokoneeseen USB-kaapelilla.</string>
-	<string name="new_pc_backup_summary4">Huomautus: voit myös kopioida kuvat ja videot kansiosta MIUI-DCIM.</string>
+	<string name="new_pc_backup_summary4">Huomaa: voit myös kopioida kuvat ja videot kansiosta DCIM.</string>
 	<string name="new_pc_restore_content1">%d. Yhdistä mobiililaitteesi tietokoneeseen USB-kaapelilla.</string>
 	<string name="new_pc_restore_content2">%d. Kopioi varmuuskopio tietokoneeltasi kansioon MIUI-Backup-AllBackup.</string>
 	<string name="new_pc_restore_content3">%1$d. Avaa \"%2$s\" ja valitse palautettavat kohteet.</string>

@@ -75,8 +75,8 @@
         <item quantity="one">%1$d nauhoitus</item>
      </plurals>
      <plurals name="dream_talk_segment_unit">
-        <item quantity="other">nauhoitusta</item>
-        <item quantity="one">nauhoitus</item>
+        <item quantity="other">" tapausta"</item>
+        <item quantity="one">" tapaus"</item>
      </plurals>
      <plurals name="duration_unit_hour_format">
         <item quantity="other">%1$d tuntia</item>
