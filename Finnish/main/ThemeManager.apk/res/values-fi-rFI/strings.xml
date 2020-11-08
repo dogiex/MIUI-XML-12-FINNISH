@@ -1338,7 +1338,7 @@ Siirry Teemat &gt; Tilini &gt; Teemat-laboratorio lisävalintoja varten.</string
   <string name="update_title">UUSI PÄIVITYS SAATAVILLA</string>
   <string name="using_theme_has_update_tips">Päivitys on saatavilla tälle teemalle.</string>
   <string name="using_theme_next_automatic_update">Automaattiset päivitykset</string>
-  <string name="using_theme_next_automatic_update_summary">Päivitä ladatut teemat automaattisesti Wi-Fi-yhteydellä, kun näyttö on lukittu</string>
+  <string name="using_theme_next_automatic_update_summary">Päivitä ladatut teemat Wi-Fi-yhteydellä, kun laite on lukittu</string>
   <string name="using_theme_show_ad">Suositukset</string>
   <string name="version_update">Tarkista päivitykset</string>
   <string name="video_ad_click">Kokeile nyt</string>
