@@ -858,7 +858,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="kuyin_user_agreement_content_href">iFlytek Tietosuojakäytäntö</string>
   <string name="lab">Teemat-laboratorio</string>
   <string name="like_list">Tykkäykseni</string>
-  <string name="live_wallpaper">Videotaustakuvat</string>
+  <string name="live_wallpaper">Dynaaminen taustakuva</string>
   <string name="loading">Odota hetki…</string>
   <string name="loading_resource_detail_fail">Lähdettä ei voi ladata</string>
   <string name="loading_resource_detail_info">Odota hetki…</string>
@@ -1287,7 +1287,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="title_component">Teeman osat</string>
   <string name="title_my_audio_resource">Soittoääneni</string>
   <string name="title_my_miwallpaper_desktop_effects">Liikkuvat taustakuvat</string>
-  <string name="title_my_miwallpaper_resource">Videotaustakuvani</string>
+  <string name="title_my_miwallpaper_resource">Dynaamiset taustakuvani</string>
   <string name="title_my_miwallpaper_video_file_resource">Taustakuvaelokuvani</string>
   <string name="title_my_wallpaper_resource">Taustakuvani</string>
   <string name="title_system_audio_notification_resource">Järjestelmän ilmoitukset</string>

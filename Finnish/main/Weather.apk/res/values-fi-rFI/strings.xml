@@ -83,9 +83,9 @@
      <string name="index_item_download_pause">继续下载</string>
      <string name="indices_title_chance_of_rain">Chance of rain</string>
      <string name="indices_title_wind_speed">Wind speed</string>
-     <string name="international_details_chance_of_rain">CHANCE OF RAIN</string>
-     <string name="international_details_humidity">HUMIDITY</string>
-     <string name="international_details_real_feel_title">REAL FEEL®</string>
+     <string name="international_details_chance_of_rain">SATEEN MAHDOLLISUUS</string>
+     <string name="international_details_humidity">KOSTEUS</string>
+     <string name="international_details_real_feel_title">TUNTUU KUIN®</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
