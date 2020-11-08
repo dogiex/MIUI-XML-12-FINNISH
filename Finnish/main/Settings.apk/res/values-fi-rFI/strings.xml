@@ -4737,9 +4737,9 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_sos_contacts_category">Hätäyhteystiedot</string>
   <string name="miui_sos_emergency_contacts">Hätäyhteystiedot</string>
   <string name="miui_sos_emergency_delete">Poista</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) on jo hyväksynyt.</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s on jo hyväksynyt</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">Viestiä ei voitu lähettää henkilölle %1s (%2s).</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) vastaanotti viestin</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s vastaanotti viestin</string>
+  <string name="miui_sos_emergency_failed_sms">Viestiä ei voitu lähettää henkilölle %1$s (%2$s).</string>
   <string name="miui_sos_emergency_failed_sms_noname">Viestiä ei voitu lähettää henkilölle %1s.</string>
   <string name="miui_sos_enable_switch_summary">Paina Virta-painiketta nopeasti 5 kertaa lähettääksesi SOS-tekstiviestin sijaintisi tietojen kanssa hätäyhteystiedoillesi</string>
   <string name="miui_sos_enable_switch_title">Hätätila</string>

@@ -113,9 +113,9 @@
      <string name="small_window_select_title">Available apps</string>
      <string name="small_window_title_text">Tap to open a floating window</string>
      <string name="small_window_toast">You can add up to %d apps</string>
-     <string name="status_bar_recent_memory_giga">%1$s GB</string>
+     <string name="status_bar_recent_memory_giga">%1$s Gt</string>
      <string name="status_bar_recent_memory_info2" />
-     <string name="status_bar_recent_memory_mega">%1$s MB</string>
+     <string name="status_bar_recent_memory_mega">%1$s Mt</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="switch_screen_button_order">Mirror buttons</string>
      <string name="switch_screen_button_order_desc">Mirror Back and Menu buttons</string>
@@ -587,7 +587,7 @@
     <string name="sort_by_not_defined">Lajittele automaattisesti</string>
     <string name="start_activity_failed">Käynnistintä ei voi käynnistää</string>
     <string name="starting_preset_app">Käynnistetään…</string>
-    <string name="status_bar_recent_memory_info1">%1$s / %2$s käytettävissä</string>
+    <string name="status_bar_recent_memory_info1">%1$s/%2$s käytettävissä</string>
     <string name="status_downloaded">Ladattu</string>
     <string name="status_downloading">Ladataan</string>
     <string name="status_installing">Asennetaan</string>

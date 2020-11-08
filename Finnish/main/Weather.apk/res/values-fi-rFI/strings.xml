@@ -347,7 +347,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="hourly_forecast_title_hourly_desc">Tuntikohtainen ennustus</string>
   <string name="index_item_downloading">Ladataan</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
-  <string name="index_item_experience_now">Asenna nyt</string>
+  <string name="index_item_experience_now">Asenna nyt &gt;</string>
   <string name="index_item_install_now">Asenna nyt</string>
   <string name="index_item_installing">Asennetaan</string>
   <string name="index_item_installing2">Asennetaan</string>

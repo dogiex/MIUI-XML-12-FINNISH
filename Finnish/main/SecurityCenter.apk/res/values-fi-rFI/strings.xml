@@ -310,8 +310,8 @@
      <string name="gb_dialog_game_uninstall_tips_message_xspace">Kaikki sovellustiedot ja siihen liittyvät kaksoissovellukset poistetaan.</string>
      <string name="gb_dialog_game_uninstall_tips_title">Poista %s</string>
      <string name="gb_dialog_wlan_wifi_weak">460ms</string>
-     <string name="gb_game_video_type_ai_record">Record using AI</string>
-     <string name="gb_game_video_type_manual_record">Record manually</string>
+     <string name="gb_game_video_type_ai_record">Nauhoita käyttäen AI:ta</string>
+     <string name="gb_game_video_type_manual_record">Nauhoita käsin</string>
      <string name="gb_gpu_driver_btn_update">Check for updates</string>
      <string name="gb_gpu_driver_update">GPU Driver Updater</string>
      <string name="gb_gpu_driver_update_app">Update</string>
@@ -319,9 +319,9 @@
      <string name="gb_storage_game_uninstall">Poista pelejä</string>
      <string name="gb_storage_summary">Älä näytä pelilaatikkoon lisättyjä pelejä Aloitusnäytöllä</string>
      <string name="gb_storage_title">Poista lisätyt pelit Aloitusnäytöltä</string>
-     <string name="gb_wonderful_moment_toast_window_new_pop">"Record key moments
-of your gaming sessions"</string>
-     <string name="gb_wonderful_video_goto_box">Open Game Turbo</string>
+     <string name="gb_wonderful_moment_toast_window_new_pop">"Nauhoita peli-istuntojesi
+tärkeät hetket"</string>
+     <string name="gb_wonderful_video_goto_box">Avaa Game Turbo</string>
      <string name="ge">个</string>
      <string name="get_detail_by_click">Tap to view details</string>
      <string name="give_lucky_money">红包大派送</string>
@@ -1382,7 +1382,7 @@ Et menetä sovellustietoja."</string>
   <string name="banner_optimizemanage_summary">Vapauta muistia</string>
   <string name="banner_red_money_assist_button">Ota käyttöön</string>
   <string name="banner_red_money_assist_summary">Avaa punaiset kirjekuoret nopeammin</string>
-  <string name="battery_and_property">Akku &amp; suorituskyky</string>
+  <string name="battery_and_property">Akku</string>
   <string name="battery_can_use_time">%s jäljellä</string>
   <string name="battery_capacity_title">Akun kapasiteetti</string>
   <string name="battery_charge_estimating">Lasketaan</string>
@@ -2068,7 +2068,7 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="game_booster_title">Nopeuta</string>
   <string name="game_bootser_tab_settings">Nopeuttajan asetukset</string>
   <string name="game_else_function">Muu</string>
-  <string name="game_manual_record_setting_setting">Tietoja tästä ominaisuudesta</string>
+  <string name="game_manual_record_setting_setting">Asetukset</string>
   <string name="game_manual_record_setting_title">Avainhetket</string>
   <string name="game_more_improve">Rajoita taustatyöskentelyä ja latausnopeutta säästääksesi akkua ja kaistanleveyttä pelejä varten</string>
   <string name="game_setting">Peliasetukset</string>
@@ -2171,11 +2171,11 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gb_first_window_summary">Paranna nopeutta ja suorituskykyä järjestelmätasolla</string>
   <string name="gb_first_window_title">Game Turbo</string>
   <string name="gb_game_end_toast">Tarkista pelisi tärkeimmät hetket uudelleen</string>
-  <string name="gb_game_video_bottom_tips">Katso istuntojen nauhoituksia pelilaatikossa. Videoita säilytetään siellä seitsemän päivän ajan oletuksena.</string>
+  <string name="gb_game_video_bottom_tips">Koe peli-istuntojesi tärkeät hetket uudelleen Game Turbossa. Videot poistetaan automaattisesti seitsemän päivän jälkeen.</string>
   <string name="gb_game_video_item_tag">Avainhetki</string>
   <string name="gb_game_video_page_delete_success">Poistettiin onnistuneesti</string>
   <string name="gb_game_video_page_null">Nauhoita peli-istuntojesi avainhetket</string>
-  <string name="gb_game_video_record_finish_tips">Video tallennettiin onnistuneesti</string>
+  <string name="gb_game_video_record_finish_tips">Tallennettiin käsin nauhoitettu video Game Turboon</string>
   <string name="gb_game_video_save">Tallenna</string>
   <string name="gb_game_video_type_ai">AI</string>
   <string name="gb_game_video_type_manual">Manuaalinen</string>
@@ -2218,7 +2218,7 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gb_wonderful_video_date_format">"d. MMMM'ta'."</string>
   <string name="gb_wonderful_video_delete">Poista</string>
   <string name="gb_wonderful_video_header_title">Tänään</string>
-  <string name="gb_wonderful_video_save_suc">Tallennettiin onnistuneesti</string>
+  <string name="gb_wonderful_video_save_suc">Tallennettiin</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1-päivän parannus</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-päivän parannus</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-päivän parannus</string>
@@ -2247,12 +2247,11 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gs_dialog_confirm_close_title">Poista käytöstä</string>
   <string name="gs_forbid_autosync">Rajoita taustalla tapahtuvaa synkronointia</string>
   <string name="gs_game_ai_record">Nauhoita käyttäen AI:ta</string>
-  <string name="gs_game_ai_record_subtitle">Voit aloittaa nauhoittamisen työkalulaatikosta pelaamisen aikana. Videot, joissa on avainhetkiä luodaan automaattisesti ja poistetaan seitsemän päivän kuluttua oletuksena. Voit myös valita videoiden pysyvän tallentamisen.</string>
+  <string name="gs_game_ai_record_subtitle">Nauhoita tärkeät hetket automaattisesti ja luo videoita istunnon kohokohdilla. Videot poistetaan automaattisesti seitsemän päivän jälkeen. Voit tallentaa ne pysyvästi jokaisen peli-istunnon jälkeen.</string>
   <string name="gs_game_disturb_msg">Älä Häiritse</string>
   <string name="gs_game_duration">Aika</string>
   <string name="gs_game_manual_record">Nauhoita manuaalisesti</string>
-  <string name="gs_game_manual_record_subtitle">"Voit aloittaa nauhoittamisen työkalulaatikosta pelaamisen aikana. Enintään 30 sekunnin video voidaan nauhoittaa \"Nauhoita\"-painikkeen napauttamisen jälkeen.
-Videot tallennetaan kohteeseen Game Turbo &gt; Avainhetket."</string>
+  <string name="gs_game_manual_record_subtitle">Käytä kelluvaa pikakuvaketta nauhoittaaksesi enintään 30 sekunnin videoita. Videot poistetaan automaattisesti seitsemän päivän jälkeen.</string>
   <string name="gs_game_manual_record_subtitle_child">Saatat törmätä ongelmiin käyttäessäsi tätä ominaisuutta:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Peli-istuntojesi nauhoittaminen vaatii suurempaa virrankulutusta, mikä saattaa johtaa viiveeseen.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Muut näytön nauhoittamisominaisuudet ei välttämättä toimi oikein.</string>
@@ -2553,7 +2552,7 @@ vastausta"</string>
   <string name="menu_text_networkassistants_unit_kb">Kt</string>
   <string name="menu_text_networkassistants_unit_mb">Mt</string>
   <string name="menu_text_optimize_manage">Paranna nopeutta</string>
-  <string name="menu_text_power_manager">Akku &amp; suorituskyky</string>
+  <string name="menu_text_power_manager">Akku</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Poista poikkeuksista</string>
   <string name="menu_white">Lisää poikkeuksiin</string>
@@ -2811,7 +2810,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_search_keywords_battery_use">Akun käyttö</string>
   <string name="pc_search_keywords_capacity">Akun kapasiteetti</string>
   <string name="pc_search_keywords_property">Suorituskyky</string>
-  <string name="pc_settings_title">Akun &amp; suorituskyvyn asetukset</string>
+  <string name="pc_settings_title">Akku</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$d t %2$d min jäljellä</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d t %2$d min edellisestä latauksesta</string>
   <string name="pc_statistics_battery_use_summary">%s edellisestä latauksesta</string>
@@ -2917,7 +2916,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_center_super_save_title_text">Äärimmäinen virransäästö</string>
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
-  <string name="power_center_title">Akku &amp; suorituskyky</string>
+  <string name="power_center_title">Akku</string>
   <string name="power_consume_hardware_total_format">Laitteisto: %s</string>
   <string name="power_consume_other">Muu</string>
   <string name="power_consume_rank_hardware">Laitteisto</string>
