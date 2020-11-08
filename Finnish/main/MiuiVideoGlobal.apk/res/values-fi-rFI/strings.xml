@@ -470,7 +470,7 @@
   <string name="diagnosis_log_sent_format">"Lokit lähetettiin onnistuneesti.
 ID:%s
 Lähetä tämä koodi valvojalle."</string>
-    <string name="dialog_privacy_info_new2">Käyttääksesi palveluita, sinun täytyy hyväksyä, että %1$s kerää, käsittelee ja käyttää henkilötietojasi. Sinun oletetaan lukeneen ja hyväksyneen meidän &lt;a href=\"%2$s\"&gt;Tietosuojakäytännön&lt;/a&gt;, kun napautat alapuolella olevaa \"Hyväksyn\"-painiketta.</string>
+    <string name="dialog_privacy_info_new2">Käyttääksesi palveluita, sinun täytyy hyväksyä, että %1$s kerää, käsittelee ja käyttää henkilötietojasi. Sinun oletetaan lukeneen ja hyväksyneen meidän &lt;a href=%2$s&gt;Tietosuojakäytännön&lt;/a&gt;, kun napautat alapuolella olevaa \"Hyväksyn\"-painiketta.</string>
     <string name="dialog_privacy_title">Valtuuttaminen</string>
     <string name="dialog_revoke_privacy_info_new2">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimiltamme. Tämä tekee sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta?</string>
     <string name="dialog_revoke_privacy_title">Valtuutuksen peruuttaminen</string>
@@ -711,7 +711,7 @@ videoille"</string>
     <string name="lv_subtitle_onlinesub_loading">Ladataan tekstityksiä…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Ladataan tekstityksiä…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Vastuuvapauslauseke</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Hanki tekstityksiä &lt;br/&gt;&lt;br/&gt;osoitteesta &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Kaikki online-tekstitykset tarjoaa &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Hanki tekstityksiä &lt;br/&gt;&lt;br/&gt;osoitteesta &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Kaikki online-tekstitykset tarjoaa &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Tekstityksiä ei voitu lisätä</string>
     <string name="lv_subtitle_onlinesub_save_success">Tekstitykset lisättiin onnistuneesti</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Hae antamalla avainsanoja</string>
@@ -952,8 +952,8 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="passport_unknow_error">Tapahtui tuntematon virhe</string>
     <string name="passport_unknow_host_network_error">Tarkista verkkoasetuksesi ja yritä uudelleen</string>
     <string name="passport_unknow_network_error">Tapahtui verkkovirhe</string>
-    <string name="passport_user_agreement_link"><Data>Olen lukenut ja hyväksyn Xiaomin &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%2$s\"&gt;Tietosuojakäytännön&lt;/a&gt;.</Data></string>
-    <string name="passport_user_agreement_link_more"><Data>Olen lukenut ja hyväksyn seuraavat asiakirjat: Xiaomin &lt;a href=\"%1$s\"&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=\"%4$s\"&gt;Tietosuojakäytännön&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.</Data></string>
+    <string name="passport_user_agreement_link"><Data>Olen lukenut ja hyväksyn Xiaomin &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%2$s&gt;Tietosuojakäytännön&lt;/a&gt;.</Data></string>
+    <string name="passport_user_agreement_link_more"><Data>Olen lukenut ja hyväksyn seuraavat asiakirjat: Xiaomin &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%4$s&gt;Tietosuojakäytännön&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.</Data></string>
     <string name="passport_user_id_intro">Syötä salasana käyttäjälle %1$s</string>
     <string name="passport_v_code_error">Vahvistuskoodi on väärin</string>
     <string name="passport_vcode_notification_title">Kirjautumisesi vahvistaminen on kesken</string>
@@ -1054,7 +1054,7 @@ Päivitä Mi Video viimeisimpään versioon ensin."</string>
     <string name="plus_player_subtitle_local_add_success">Tekstitykset lisättiin onnistuneesti</string>
     <string name="plus_player_subtitle_no_file">Täällä ei ole tekstityksiä.</string>
     <string name="plus_player_subtitle_online">Online-tekstitykset</string>
-    <string name="plus_player_subtitle_online_declare_content">"Aiot hakea &lt;br/&gt;tekstityksiä &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; -sivuston tietokannasta. &lt;br/&gt;Kaikki tekstitykset tarjoaa &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+    <string name="plus_player_subtitle_online_declare_content">"Aiot hakea &lt;br/&gt;tekstityksiä &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; -sivuston tietokannasta. &lt;br/&gt;Kaikki tekstitykset tarjoaa &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
     <string name="plus_player_subtitle_online_declare_title">Vastuuvapauslauseke</string>
     <string name="plus_player_subtitle_online_download_fail">Tekstityksiä ei voitu ladata</string>
     <string name="plus_player_subtitle_online_download_start">Ladataan tekstityksiä…</string>

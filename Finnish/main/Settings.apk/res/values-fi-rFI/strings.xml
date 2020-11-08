@@ -4399,7 +4399,7 @@ numeroa, kuin Ensimmäisen tilan PIN-koodi."</string>
   <string name="lockpassword_choose_your_pin_header_for_fingerprint">Sormenjälki: aseta PIN-koodi</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Aseta Toisen tilan
 PIN-koodi"</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Anna %d-%d numeroa</string>
+  <string name="lockpassword_choose_your_pin_title">Syötä %1$d-%2$d numeroa</string>
   <string name="lockpassword_confirm_for_second_user">Vahvista Toisen tilan salasana</string>
   <string name="lockpassword_confirm_passwords_dont_match">Salasanat eivät täsmää</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-koodit eivät täsmää</string>
@@ -7432,7 +7432,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_password_title">Salasana</string>
   <string name="unlock_set_unlock_pattern_summary">Piirrä yksinkertainen kuvio sormellasi laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_pattern_title">Kuvio</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">Anna %d-%d numeroa laitteen lukituksen avaamiseksi</string>
+  <string name="unlock_set_unlock_pin_summary">Syötä %1$d-%2$d numeroa laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>
