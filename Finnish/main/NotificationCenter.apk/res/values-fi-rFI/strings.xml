@@ -438,7 +438,7 @@
   <string name="lock_screen_tip_toast">Salli Lukitusnäytön ilmoitukset \"Muodossa\"</string>
   <string name="lockscreen_notifications">Lukitusnäytön ilmoitukset</string>
   <string name="not_sent_recently">Ei viimeaikoina</string>
-  <string name="notch_and_status_bar_setting">Näyttölovi &amp; tilapalkki</string>
+  <string name="notch_and_status_bar_setting">Ohjauskeskus &amp; tilapalkki</string>
   <string name="notification_display_setting">Ilmoitusalue</string>
   <string name="notification_display_style">Ilmoituksen tyyli</string>
   <string name="notification_fold_summary">Kaikki ei-tärkeät ilmoitukset ilmestyy erilliseen kansioon</string>

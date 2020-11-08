@@ -296,7 +296,7 @@
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
   <string name="china_version_first_start_network_msg">Käyttääksesi Säätä, sinun täytyy hyväksyä Xiaomin %1$s ja %2$s. Sään on käytettävä sijaintitietojasi ja yhdistettävä internetiin toimiakseen normaalisti. Hyväksytkö?</string>
-  <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
+  <string name="city_exceeded_warning">Kaupunkeja ei voi lisätä enempää. Lisätäksesi uuden, poista olemassa oleva kaupunki ensin luettelosta.</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
   <string name="commercial">Mainos</string>
   <string name="common_loading_text">Odota hetki…</string>

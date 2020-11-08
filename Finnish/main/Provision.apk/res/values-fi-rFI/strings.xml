@@ -244,7 +244,7 @@ Sinun täytyy hyväksyä Käyttöehtomme ja Tietosuojakäytäntömme, ennen kuin
   <string name="terms_of_use_label_phrase">, Usein käytetyt lauseet</string>
   <string name="terms_of_use_label_systemhelper">, Itserekisteröity palvelu</string>
   <string name="terms_of_use_label_updater">, Päivittäjä</string>
-  <string name="terms_of_use_lable_apps">Mi-palvelut, Mi SIM -aktivointipalvelut, Xiaomi Cloud, Etsi laite, Aloitusnäyttö, Pelit, MIUI Daemon ja MSA-järjestelmän komponentit, käännöspalvelut, Pikasovellukset, Sovellusholvi, tilastot, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Mi-palvelut, Mi SIM -aktivointipalvelut, Xiaomi Cloud, Etsi laite, Aloitusnäyttö, Pelit, MIUI Daemon ja MSA-järjestelmän komponentit, käännöspalvelut, MIUI SDK, Pikasovellukset, Sovellusholvi, tilastot, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Sinun täytyy hyväksyä Facemoji:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
@@ -257,7 +257,7 @@ Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden
   <string name="terms_privacy_policy_input_method_kika">Kika:n Tietosuojakäytäntö</string>
   <string name="title_fingerprint">Aseta salasana</string>
   <string name="user_agreement">Käyttöehdot</string>
-  <string name="user_agreement_declare">Ennen MIUI:n käyttämistä, sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Laitteesi aktivoinnin aikana, Mi SIM-aktivointipalvelut, Xiaomi Cloud, Etsi laite, Aloitusnäyttö, Usein käytetyt lauseet, Käännöspalvelut, MIUI Daemon, HTML Viewer, AI Assistant, Akku ja suorituskyky, Power Detector, Joyose, OS AI-asetukset, Käyttöoikeuksien hallinnoija ja Päivittäjä yhdistävät verkkoon. Älypalvelut yhdistää verkkoon ja käyttää sijaintiasi.</string>
+  <string name="user_agreement_declare">Ennen MIUI:n käyttämistä, sinun täytyy lukea ja hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Laitteesi aktivoinnin aikana, Mi SIM-aktivointipalvelut, Xiaomi Cloud, Etsi laite, Aloitusnäyttö, Usein käytetyt lauseet, Käännöspalvelut, MIUI Daemon, HTML Viewer, MIUI SDK, AI Assistant, Akku ja suorituskyky, Power Detector, Joyose, OS AI-asetukset, Käyttöoikeuksien hallinnoija ja Päivittäjä yhdistävät verkkoon. Älypalvelut yhdistää verkkoon ja käyttää sijaintiasi.</string>
   <string name="voice_assist_advice">Mi AI sallii ääniohjauksen käyttämisen, mutta se kuluttaa enemmän virtaa (+1% tunnissa).</string>
   <string name="voice_assist_condition">"Voit käyttää Mi AI:ta näissä tilanteissa:
 1. Kun näyttö on päällä.
