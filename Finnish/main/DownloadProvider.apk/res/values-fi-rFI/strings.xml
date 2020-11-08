@@ -85,13 +85,13 @@
   <string name="warning_tip_content">Et ole enää yhteydessä Wi-Fi-verkkoon. Mobiilidatayhteyden käyttäminen tiedoston lataamiseen lisää datankäyttöä. Jos menet datakaton yli, operaattorisi voi veloittaa siitä lisähintaa.</string>
   <string name="warning_tip_ok">Pysäytä</string>
   <string name="warning_tip_title">Tiedonsiirtovaroitus</string>
-  <string name="wifi_recommended_body" formatted="false">"Aloittamalla tämän %s lataamisen nyt saattaa aiheuttaa mobiilidatayhteydellesi liiallista käyttöä, joka voi johtaa matkapuhelinoperaattorisi lisäkustannuksiin riippuen datapaketistasi.
+  <string name="wifi_recommended_body">"Aloittamalla tämän %1$s lataamisen nyt saattaa aiheuttaa mobiilidatayhteydellesi liiallista käyttöä, joka voi johtaa matkapuhelinoperaattorisi lisäkustannuksiin riippuen datapaketistasi.
 
-Napauta %s aloittaaksesi tämän lataamisen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
+Napauta %2$s aloittaaksesi tämän lataamisen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_recommended_title">Asetetaanko myöhemmin ladattavaksi?</string>
-  <string name="wifi_required_body" formatted="false">"Yhdistä Wi-Fi-verkkoon ladataksesi tämän %s latauksen loppuun.
+  <string name="wifi_required_body">"Yhdistä Wi-Fi-verkkoon ladataksesi tämän %1$s latauksen loppuun.
 
-Aloita lataus seuraavan kerran, kun yhdistät Wi-Fi-verkkoon, napauttamalla %s."</string>
+Napauta %2$s aloittaaksesi tämän lataamisen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_required_title">Tiedosto on liian suuri ladattavaksi mobiilidatalla</string>
   <string name="xl_speedup_experience_notify_context">Latausnopeus nopeutuu jokaiseen lataukseen, kun olet Xunlei-jäsen</string>
   <string name="xl_speedup_experience_notify_title">Xunlei jäsenyys</string>

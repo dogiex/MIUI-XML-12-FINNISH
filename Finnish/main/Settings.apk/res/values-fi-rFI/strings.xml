@@ -1233,9 +1233,9 @@ Update settings to:
   <string name="super_resolution_reboot_tips">Tämä ominaisuus mahdollistaa epäselvien WeChat- ja Toutiao-kuvien parantamisen. Käynnistä sovellukset uudelleen otettuasi ominaisuuden käyttöön.</string>
   <string name="super_resolution_title">Super-resoluutio</string>
   <string name="wifi_assistant">Wi-Fi avustaja</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Laitteesi käyttää mobiilidataa sen sijaan. Voit poistaa Wi-Fi avustajan käytöstä Asetuksista.</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Käytä mobiilidataverkkoja, kun laitteesi ei voi yhdistää internetiin käyttäen Wi-Fiä.</string>
   <string name="wifi_assistant_confirm_always">Älä näytä uudelleen</string>
-  <string name="wifi_assistant_confirm_connection_title">Vahvista</string>
+  <string name="wifi_assistant_confirm_connection_title">Valitse parhaat verkot automaattisesti</string>
   <string name="wifi_assistant_data_prompt">Näytä tiedonsiirtovaroitus</string>
   <string name="wifi_assistant_data_prompt_summary">Näytä tiedonsiirtovaroitus, kun Wi-Fi avustaja vaihtaa mobiilidataan</string>
   <string name="wifi_assistant_description">"Näin Wi-Fi avustaja toimii:
