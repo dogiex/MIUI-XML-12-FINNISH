@@ -333,8 +333,8 @@ http://www.miliao.com
 	<string name="new_local_detail_description">"Huomautus:
 %1$d. Kopioi varmuuskopiot tietokoneellesi välttääksesi tietojen menetyksiä. %2$s.
 %3$d. Varmuuskopiot tallentuvat kansioon MIUI-Backup-AllBackup."</string>
-	<string name="new_local_tab_backup">Varmuuskopioi mobiililaitteelle</string>
-	<string name="new_local_tab_restore">Palauta mobiililaitteelta</string>
+	<string name="new_local_tab_backup">Varmuuskopioi</string>
+	<string name="new_local_tab_restore">Palauta</string>
 	<string name="new_low_storage_title">Tallennustilaa ei ole tarpeeksi</string>
 	<string name="new_more_settings_label">Lisäasetukset</string>
 	<string name="new_pc_backup_content1">%1$d. Avaa \"%2$s\".</string>
@@ -357,8 +357,8 @@ http://www.miliao.com
 	<string name="new_select_third">Kolmannen osapuolen sovellukset ja sovellustiedot</string>
 	<string name="new_select_third_apk">Kolmannen osapuolen sovellukset</string>
 	<string name="new_select_third_data">Kolmannen osapuolen sovellustiedot</string>
-	<string name="new_tab_pc_backup">Varmuuskopioi tietokoneelle</string>
-	<string name="new_tab_pc_restore">Palauta tietokoneelta</string>
+	<string name="new_tab_pc_backup">Varmuuskopioi</string>
+	<string name="new_tab_pc_restore">Palauta</string>
 	<string name="new_task_finished">Valmis</string>
 	<string name="new_usb_detail_description">"Huomautus:
 %1$d. Tämä menetelmä sallii kolmannen osapuolen sovellusten ja sovellustietojen varmuuskopioinnin.
@@ -366,8 +366,8 @@ http://www.miliao.com
 	<string name="new_usb_disconnect_dialog_message">Yhdistä ensin USB-asema.</string>
 	<string name="new_usb_disconnect_dialog_title">USB-asemaa ei löytynyt</string>
 	<string name="new_usb_select_data_no_space">USB-asemallasi on tallennustilaa jäljellä vain %s. Vapauta tallennustilaa.</string>
-	<string name="new_usb_tab_backup">Varmuuskopioi USB-asemalle</string>
-	<string name="new_usb_tab_restore">Palauta USB-asemalta</string>
+	<string name="new_usb_tab_backup">Varmuuskopioi</string>
+	<string name="new_usb_tab_restore">Palauta</string>
 	<string name="no_encrypt_password">Ei salasanaa</string>
 	<string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
 	<string name="not_set">Ei asetettu</string>

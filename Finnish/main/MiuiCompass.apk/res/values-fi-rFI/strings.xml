@@ -30,7 +30,7 @@
      <string name="app_name">Preference</string>
      <string name="copy">Copy</string>
      <string name="cta_agree_desc">Allow this app to connect to the internet and grant optional permissions to be able to use all its features.</string>
-     <string name="dialog_body_no_network_china">Connect to WLAN or turn on mobile data.</string>
+     <string name="dialog_body_no_network_china">Yhdistä Wi-Fi-verkkoon tai ota mobiilidata käyttöön.</string>
      <string name="expand_button_title">Advanced</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
