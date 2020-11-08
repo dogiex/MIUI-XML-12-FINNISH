@@ -100,7 +100,7 @@
      <string name="enable_vice_volte_if_dual_ct">Turn on VoLTE for the secondary SIM automatically when two China Telecom SIM cards are installed.</string>
      <string name="fiveg_hosted_mode_summary">Switch to best available networks automatically when 5G connectivity is poor</string>
      <string name="fiveg_hosted_mode_title">5G Smart Switch</string>
-     <string name="fiveg_network_title">5G networks</string>
+     <string name="fiveg_network_title">5G-verkot</string>
      <string name="fiveg_sa_switch_title_slot0">SIM 1 SA mode</string>
      <string name="fiveg_sa_switch_title_slot1">SIM 2 SA mode</string>
      <string name="fiveg_sa_switch_warning_toast">Please reboot the phone to take effect.</string>
@@ -1396,8 +1396,8 @@ Valinta"</string>
   <string name="fiveg_sa_switch_summary">Salli yhteyden muodostaminen 5G-verkkoihin itsenäisessä tilassa</string>
   <string name="fiveg_sa_switch_title">SA-tila</string>
   <string name="fiveg_signal_strength1">5G signaalin voimakkuus :</string>
-  <string name="fiveg_switch_status1">5G kytkimen tila :</string>
-  <string name="fiveg_switch_title">5G-verkko</string>
+  <string name="fiveg_switch_status1">5G kytkimen tila:</string>
+  <string name="fiveg_switch_title">Käytä 5G-verkkoja</string>
   <string name="fiveg_upperlayer_indication1">Yläkerroksen osoitustila :</string>
   <string name="flash_when_ring_summary">Ilmoita saapuvista puheluista käyttämällä salamaa</string>
   <string name="flash_when_ring_title">Vilkuta soidessa</string>

@@ -66,8 +66,8 @@ Päivitykset eivät ole käytettävissä sinulle!"</string>
   <string name="server_error">Palvelin ei vastaa, sovellus ei välttämättä toimi kunnolla!</string>
   <string name="share_desc">MIUI-versiosi päivitettiin versioon %1$s, tarkista viimeisin muutosloki osoitteesta: %2$s</string>
   <string name="share_title">Jaa käyttäen</string>
-  <string name="stable">vakaa</string>
+  <string name="stable">Vakaa</string>
   <string name="version">Nykyinen versio:</string>
-  <string name="weekly">viikottainen</string>
+  <string name="weekly">Viikottainen</string>
   <string name="wifi_recommended">Wi-Fi-yhteyttä ei ole, jotta lataus voidaan aloittaa turvallisesti!</string>
 </resources>

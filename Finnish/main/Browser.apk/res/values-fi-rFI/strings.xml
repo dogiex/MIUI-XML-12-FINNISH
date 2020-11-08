@@ -217,7 +217,7 @@
      <string name="yesterday">Eilen</string>
     <string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_up_description">Siirry ylös</string>
-    <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+    <string name="abc_action_menu_overflow_description">Lisää vaihtoehtoja</string>
     <string name="abc_action_mode_done">Valmis</string>
     <string name="abc_action_mode_select_all">Valitse kaikki</string>
     <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
