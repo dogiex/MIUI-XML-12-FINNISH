@@ -22,10 +22,10 @@
      <string name="auto_disable_screenbuttons_summary">Double tap any navigation button to re-enable</string>
      <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
      <string name="back">Back</string>
-     <string name="common_home_search_delete">Removing search bar</string>
-     <string name="common_home_search_delete_cancle">Cancel</string>
-     <string name="common_home_search_delete_confirm">Remove</string>
-     <string name="common_home_search_delete_content">"You won't be able to use quick search after you remove the search bar from your Home screen. Remove anyway?"</string>
+     <string name="common_home_search_delete">Poistetaan hakupalkki</string>
+     <string name="common_home_search_delete_cancle">Peruuta</string>
+     <string name="common_home_search_delete_confirm">Poista</string>
+     <string name="common_home_search_delete_content">Et voi käyttää pikahakua sen jälkeen jos poistat hakupalkin Aloitusnäytöltä. Poistetaanko siitä huolimatta?</string>
      <string name="content_description_button_add">Tap to add to current apps</string>
      <string name="content_description_button_disable">"Can't add more current apps"</string>
      <string name="content_description_button_remove">Tap to remove from current apps</string>
