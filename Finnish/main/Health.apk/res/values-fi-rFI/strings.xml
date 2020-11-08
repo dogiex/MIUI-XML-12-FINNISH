@@ -52,19 +52,19 @@
      <string name="add_body_weight_record_button">Lisää painotiedot</string>
      <string name="add_data_source">Lisätään tietolähteitä</string>
      <string name="add_data_source_description">Lisää terveystietoja muista laitteista Xiaomi Healthiin parantaaksesi tilastojen tarkkuutta ja saadaksesi tarkempia terveysneuvoja.</string>
-     <string name="add_data_source_login_and_open_sync">Sign in to your Mi Account and turn on sync with the cloud to be able to add data sources.</string>
-     <string name="add_data_source_open_sync">Turn on sync with the cloud to be able to add data sources.</string>
-     <string name="add_data_source_process">How to add a data source</string>
-     <string name="add_data_source_support_step">"This device doesn't generate step count data. You can try switching to other data sources."</string>
-     <string name="add_data_type_datasource">Add data source (%1$s)</string>
-     <string name="add_model_card">"Tap the button in the upper left corner
-to add cards"</string>
-     <string name="add_owned_device">Available devices</string>
-     <string name="add_record">Add</string>
-     <string name="added_data_source">Added sources</string>
-     <string name="afternoon">PM</string>
-     <string name="all_records">All records</string>
-     <string name="allergic_drugs">Medication allergies</string>
+     <string name="add_data_source_login_and_open_sync">Kirjaudu sisään Mi-tilillesi ja ota pilven synkronointi käyttöön lisätäksesi tietolähteitä.</string>
+     <string name="add_data_source_open_sync">Ota pilven synkronointi käyttöön lisätäksesi tietolähteitä.</string>
+     <string name="add_data_source_process">Kuinka tietolähde lisätään</string>
+     <string name="add_data_source_support_step">Tämä laite ei luo askeltietoja. Voit yrittää vaihtaa toisiin tietolähteisiin.</string>
+     <string name="add_data_type_datasource">Lisää tietolähde (%1$s)</string>
+     <string name="add_model_card">"Napauta vasemmassa yläkulmassa olevaa painiketta
+lisätäksesi kortteja"</string>
+     <string name="add_owned_device">Käytettävissä olevat laitteet</string>
+     <string name="add_record">Lisää</string>
+     <string name="added_data_source">Lisätyt lähteet</string>
+     <string name="afternoon">ip.</string>
+     <string name="all_records">Kaikki tallenteet</string>
+     <string name="allergic_drugs">Lääke-allergiat</string>
      <string name="allergic_drugs_hint">Enter medication and reaction to it</string>
      <string name="allow_notice_periods">Active time period</string>
      <string name="altitude">Altitude</string>
