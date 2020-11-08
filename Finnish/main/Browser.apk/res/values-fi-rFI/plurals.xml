@@ -134,8 +134,8 @@ Seuraava toistetaan %d sekunnin kuluttua…"</item>
         <item quantity="one">%d kuva</item>
     </plurals>
     <plurals name="vo_short_video_play_count">
-        <item quantity="other">%s katselukertaa</item>
-        <item quantity="one">%s katselukerta</item>
+        <item quantity="other">%s</item>
+        <item quantity="one">%s</item>
     </plurals>
     <plurals name="vo_source_comment">
         <item quantity="other">%1$s | %2$s kommenttia</item>

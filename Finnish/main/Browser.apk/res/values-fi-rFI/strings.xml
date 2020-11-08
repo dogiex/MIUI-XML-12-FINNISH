@@ -217,7 +217,7 @@
      <string name="yesterday">Eilen</string>
     <string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_up_description">Siirry ylös</string>
-    <string name="abc_action_menu_overflow_description">Lisää vaihtoehtoja</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
     <string name="abc_action_mode_done">Valmis</string>
     <string name="abc_action_mode_select_all">Valitse kaikki</string>
     <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
@@ -719,6 +719,31 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="mw_color_picker_value">Arvo</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Kopiointi leikepöydälle epäonnistui</string>
+    <string name="mw_crash_label">Crash (%1$s) - [%2$s]</string>
+  <string name="mw_crash_report_button_text">Provide more info</string>
+  <string name="mw_crash_report_template">"IMPORTANT: Your crash has already been automatically reported to our crash system. You only need to fill this out if you can share more information like steps to reproduce the crash.
+
+Device name:
+Android OS version:
+WebView version (On Android L-M, this is the version of the \"Android System WebView\" app. On Android N-P, it's most likely Chrome's version. You can find the version of any app under Settings &gt; Apps &gt; the 3 dots in the upper right &gt; Show system.):
+Application: (Please link to its Play Store page if possible. You can get the link from inside the Play Store app by tapping the 3 dots in the upper right &gt; Share &gt; Copy to clipboard. Or you can find the app on the Play Store website: https://play.google.com/store/apps .)
+Application version:
+
+
+Steps to reproduce:
+(1)
+(2)
+(3)
+
+
+Expected result:
+(What should have happened?)
+
+
+****DO NOT CHANGE BELOW THIS LINE****
+Crash ID: http://crash/%1$s"</string>
+  <string name="mw_crashes_list_activity_title">WebView Crashes</string>
+  <string name="mw_crashes_num">Crashes (%1$d)</string>
     <string name="mw_data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, y    our carrier could charge you additional fees."</string>
     <string name="mw_data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit,     your carrier could charge you additional fees."</string>
     <string name="mw_data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plan’s data usage limit.</string>

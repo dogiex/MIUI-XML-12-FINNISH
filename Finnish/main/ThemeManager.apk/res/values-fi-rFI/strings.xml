@@ -578,7 +578,7 @@ mm"</string>
      <string name="theme_setting_all">All themes</string>
      <string name="theme_settings_title">Themes</string>
      <string name="theme_share_app_name">Mi Themes</string>
-     <string name="theme_wallpaper">Wallpaper categories</string>
+     <string name="theme_wallpaper">Taustakuvien kategoriat</string>
      <string name="thursday">Thursday</string>
      <string name="thursday_short">Thu</string>
      <string name="thursday_shortest">T</string>
@@ -1038,8 +1038,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_detail_update_log_title">Päivityksiä</string>
   <string name="resource_detail_window_title">%1$s tiedot</string>
   <string name="resource_download">Lataa</string>
-  <string name="resource_download_notification_title_many">%1$s teemaa ladattu</string>
-  <string name="resource_download_notification_title_one">Teema ladattu</string>
+  <string name="resource_download_notification_title_one">Ladattiin %1$s onnistuneesti</string>
   <string name="resource_download_trial">Kokeile</string>
   <string name="resource_downloaded_title">Ladatut lähteet</string>
   <string name="resource_downloading">Ladataan</string>
@@ -1054,7 +1053,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_exchange_share_code_content">Olet vastaanottanut lahjakoodin (%2$s) teemalle %1$s MIUI:n Teemoissa. Käytä se nyt napauttamalla %3$s.</string>
   <string name="resource_exchange_share_code_dlg_content">Lahjakoodi teemalle %1$s: %2$s. Kun lähetät sen toiselle MIUI käyttäjälle, he voivat käyttää sen ja ladata tämän teeman.</string>
   <string name="resource_exchange_share_code_dlg_title">Lähetetään</string>
-  <string name="resource_exchange_success">Ostettu onnistuneesti</string>
+  <string name="resource_exchange_success">Lunastettiin onnistuneesti</string>
   <string name="resource_exchange_unavailable">Syöttämäsi koodi, joka on liitettynä teemaan ei ole saatavilla.</string>
   <string name="resource_exchange_universal_finish">Käytä tätä koodia ladataksesi kohteita Teemat-sovelluksessa.</string>
   <string name="resource_exchange_universal_goon">Tätä koodia voi käyttää minkä tahansa teeman lataamiseen Teemakaupasta.</string>

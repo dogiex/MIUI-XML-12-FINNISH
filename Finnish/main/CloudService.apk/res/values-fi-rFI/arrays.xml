@@ -160,9 +160,9 @@
         <item>Pilvi;Varmuuskopiointi;Varmuuskopio;Palauta;Pilvipalvelut;Xiaomi Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Synkronoi Tietoturva Xiaomi Cloudin kanssa</item>
+        <item>Tietoturvan pilven synkronointi</item>
         <item>Ota synkronointi käyttöön</item>
-        <item>Tietoturva;Pilvi;Synkronointi;Pilvipalvelut;Xiaomi Cloud;Xiaomi Cloud</item>
+        <item>Tietoturva;Pilvi;Xiaomi Cloud;Synkronointi;Pilvipalvelut</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Synkronoi viestit Xiaomi Cloudin kanssa</item>

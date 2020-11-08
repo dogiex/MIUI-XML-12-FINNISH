@@ -431,7 +431,7 @@
   <string name="item_title_date_calculator">Päivämäärä</string>
   <string name="item_title_discount">Alennus</string>
   <string name="item_title_dress_size">Vaatteen koko</string>
-  <string name="item_title_emi">Henkilökohtainen laina</string>
+  <string name="item_title_emi">Lainalaskuri</string>
   <string name="item_title_gst">GST</string>
   <string name="item_title_length_conversion">Pituus</string>
   <string name="item_title_mortgage">Asuntolaina</string>
@@ -456,7 +456,7 @@
   <string name="label_first_repayment">Ensimmäinen takaisinmaksu</string>
   <string name="label_from_date">Mistä</string>
   <string name="label_history">Historia</string>
-  <string name="label_interest">Korko</string>
+  <string name="label_interest">Korko (prosentti)</string>
   <string name="label_loan_tenure">Lainakausi</string>
   <string name="label_months">Kuukaudet</string>
   <string name="label_no_history">Täällä ei ole vielä kohteita</string>
