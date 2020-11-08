@@ -479,7 +479,7 @@
   <string name="action_settings">Asetukset</string>
   <string name="ad_close">Sulje</string>
   <string name="ad_data_exception">Mainosdatan poikkeus!</string>
-  <string name="ad_recommend">Vastaanota suosituksia</string>
+  <string name="ad_recommend">Näytä mainoksia</string>
   <string name="ad_setting">Lisäasetukset</string>
   <string name="add_music">Lisää kappaleita</string>
   <string name="add_to_last_of_playlist">Lisää soittolistan loppuun.</string>

@@ -5,10 +5,10 @@
      <string name="accessibility_webview_share">分享</string>
      <string name="activity_alert_detail_title" />
      <string name="activity_main_one_alert" />
-     <string name="aqi_15_days_desc">15-day AQI forecast</string>
-     <string name="aqi_24_hours_desc">24-hour AQI forecast</string>
-     <string name="aqi_48_hours_desc">48-hour AQI forecast</string>
-     <string name="aqi_5_days_desc">5-day AQI forecast</string>
+     <string name="aqi_15_days_desc">15-day air quality forecast</string>
+     <string name="aqi_24_hours_desc">24-hour air quality forecast</string>
+     <string name="aqi_48_hours_desc">48-hour air quality forecast</string>
+     <string name="aqi_5_days_desc">5-day air quality forecast</string>
      <string name="aqi_alert_channel_name">AQI alerts</string>
      <string name="card_item_ad_text">广告</string>
      <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
@@ -163,6 +163,7 @@
      <string name="video_dialog_play" />
      <string name="video_dialog_subtitle" />
      <string name="video_dialog_title" />
+     <string name="weather_main_aqi_desc">Air quality</string>
      <string name="weather_main_minute_hour">2-hour precipitation</string>
      <string name="weather_main_speak_tips">Click to broadcast the weather by voice</string>
      <string name="wind_power_unit_default">0</string>
@@ -347,7 +348,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="hourly_forecast_title_hourly_desc">Tuntikohtainen ennustus</string>
   <string name="index_item_downloading">Ladataan</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
-  <string name="index_item_experience_now">Asenna nyt &gt;</string>
+  <string name="index_item_experience_now">Asenna nyt</string>
   <string name="index_item_install_now">Asenna nyt</string>
   <string name="index_item_installing">Asennetaan</string>
   <string name="index_item_installing2">Asennetaan</string>

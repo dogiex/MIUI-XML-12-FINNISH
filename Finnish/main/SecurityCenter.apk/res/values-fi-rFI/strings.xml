@@ -2222,7 +2222,7 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gb_xunyou_gift_type_one">Xunyou 1-päivän parannus</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-päivän parannus</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-päivän parannus</string>
-  <string name="gdpr_msg"><Data>"Käyttääksesi Tietoturvasovelluksen perustoimintoja, sinun täytyy hyväksyä, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi, mukaan lukien tietoja kuinka käytät Tietoturvasovelluksen toimintoja (esim. mobiilidatan käyttötilastoja, tiedot haittaohjelmista, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan meidän &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Tietosuojakäytännössä&lt;/a&gt;."</Data></string>
+  <string name="gdpr_msg"><Data>Jotta voimme havaita tietoturvariskit ja suojata tietosi, meidän täytyy kerätä tarpeellinen määrä tietoa laitteestasi. Lue ja hyväksy meidän &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt; ennen palveluidemme käyttämistä. Jos et salli meidän kerätä näitä tietoja, voit silti käyttää tätä sovellusta, mutta jotkin ominaisuudet ei ole sinulle käytettävissä."</Data></string>
   <string name="get_sys_info">Haetaan tietoa…</string>
   <string name="gigabyteShort">Gt</string>
   <string name="global_wa_setting_alert_dialog_content">Voit vapauttaa %s</string>
