@@ -412,7 +412,7 @@ Tämä sovellus tarvitsee internetin ja vaatii seuraavat käyttöoikeudet toimia
      <string name="usage_permission_title">Huomio</string>
      <string name="usage_reach_device_limit">"Time's up! You've reached your limit."</string>
      <string name="usage_reach_device_limit_warning_text">"You've reached your screen time limit for today"</string>
-     <string name="usage_remain_about_hour_miunte">≈%1$s%2$s</string>
+     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
      <string name="usage_remain_hour_miunte">%1$s %2$s</string>
      <string name="usage_runtime_per_des_summary">For saving your Screen time stats</string>
      <string name="usage_runtime_per_des_title">"Adding and deleting files on device's internal storage"</string>

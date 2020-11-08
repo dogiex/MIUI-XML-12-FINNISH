@@ -6034,7 +6034,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen">Näyttö</string>
   <string name="screen_cancel">Peruuta</string>
   <string name="screen_color_and_optimize">Värit &amp; kontrasti</string>
-  <string name="screen_color_and_optimize_disabled">Värien lämpötilansäätö ei toimi Lukutilassa</string>
+  <string name="screen_color_and_optimize_disabled">Värimallia ja värilämpötilaa ei voi säätää lukutilassa</string>
   <string name="screen_color_temperature">Värilämpötila</string>
   <string name="screen_color_temperature_and_saturation">Värit &amp; saturaatio</string>
   <string name="screen_compatibility_label">Ruudun yhteensopivuus</string>
@@ -6074,7 +6074,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_on_proximity_sensor_summary">Lukitse kosketukset puhelimen ollessa taskussa</string>
   <string name="screen_on_proximity_sensor_title">Tasku-tila</string>
   <string name="screen_optimize">Kontrasti</string>
-  <string name="screen_optimize_disabled">Kontrastia ei voi säätää, kun Lukutila on käytössä</string>
+  <string name="screen_optimize_disabled">Värimallia ei voi säätää lukutilassa</string>
   <string name="screen_paper_mode_adjust_level">Säädä</string>
   <string name="screen_paper_mode_apps_loading">Odota hetki…</string>
   <string name="screen_paper_mode_apps_title">Käytä Lukutilaa</string>

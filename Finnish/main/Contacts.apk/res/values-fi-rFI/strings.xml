@@ -416,7 +416,7 @@
   <string name="callrecordview_menu_batch_delete">Poista valitut</string>
   <string name="callrecordview_menu_blocklist">Estolista</string>
   <string name="callrecordview_menu_conference">Konferenssipuhelu</string>
-  <string name="callrecordview_menu_delete">Poista puheluloki</string>
+  <string name="callrecordview_menu_delete">Poista</string>
   <string name="callrecordview_menu_delete_accepted">Poista vastatut puhelutiedot</string>
   <string name="callrecordview_menu_delete_all">Poista puheluloki</string>
   <string name="callrecordview_menu_delete_called">Poista soitetut puhelutiedot</string>

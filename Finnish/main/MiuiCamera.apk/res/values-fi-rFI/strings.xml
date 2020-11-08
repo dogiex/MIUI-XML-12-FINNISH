@@ -756,7 +756,7 @@
      <string name="timbre_lady">Lady</string>
      <string name="timbre_normal">Original</string>
      <string name="timbre_robot">Robot</string>
-     <string name="timer_burst">Timed burst</string>
+     <string name="timer_burst">Ajastettu sarjakuvaus</string>
      <string name="timer_burst_manu_param_interval">Interval without exposure</string>
      <string name="timer_burst_param_interval">Interval</string>
      <string name="timer_burst_param_total_count">Number of photos</string>

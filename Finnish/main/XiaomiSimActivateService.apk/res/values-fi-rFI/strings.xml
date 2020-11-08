@@ -77,7 +77,7 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen."</string>
   <string name="activate_popup_title_manual">Aktivoi %s</string>
   <string name="activate_popup_title_new_sim_card">Uudelleenaktivoi %s</string>
   <string name="activate_popup_title_register_account">Luo Mi-tili</string>
-  <string name="activate_sms_postfix">Tätä tekstiviestiä käytetään Mi palveluidesi aktivointiin</string>
+  <string name="activate_sms_postfix">MI</string>
   <string name="activate_status_desc_acquire_phone_number">Vahvistetaan puhelinnumeroa…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Puhelinnumeron vahvistamisessa tapahtui palvelinvirhe</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Puhelinnumeron vahvistaminen epäonnistui</string>
