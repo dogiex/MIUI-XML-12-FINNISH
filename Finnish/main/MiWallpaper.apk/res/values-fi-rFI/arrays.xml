@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Koti</item>
+        <item>Taustakuva/Super-taustakuvat/Koti</item>
+        <item>Maa;Super-taustakuvat;Maa-versio;Taustakuva</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>The red planet</item>
+        <item>Taustakuva/Super-taustakuvat/Punainen planeetta</item>
+        <item>Mars;Mars-versio;Super-taustakuvat;Taustakuva</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Saturnuksen renkaat</item>
+        <item>Taustakuva/Super-taustakuvat/Saturnuksen renkaat</item>
+        <item>Planeetta;Saturnus;Super-taustakuva;Taustakuva</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super-taustakuvat</item>
+        <item>Taustakuva/Super-taustakuvat</item>
+        <item>Super-taustakuvat;Taustakuva;Dynaaminen taustakuva;3D-taustakuva</item>
+    </string-array>
+</resources>

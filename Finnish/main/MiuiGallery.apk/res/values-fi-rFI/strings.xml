@@ -1622,7 +1622,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
   <string name="cleaner_empty_value_description">Kaikki näyttää hyvältä</string>
   <string name="cleaner_photo_pick_delete_selected">Poista valitut kuvat</string>
-  <string name="cleaner_raw_action">Näytä</string>
+  <string name="cleaner_raw_action">Näytä tiedot</string>
   <string name="cleaner_raw_description">Vapauta tallennustilaa poistamalla suuria RAW-kuvia</string>
   <string name="cleaner_raw_title">Tyhjennä RAW-tiedostoja</string>
   <string name="cleaner_scan_description">Optimoimalla kohteet vapauttaa tallennustilaa laitteeltasi</string>
@@ -1636,7 +1636,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="cleaner_screen_shot_action">Näytä</string>
   <string name="cleaner_screen_shot_description">Poista kuvakaappaukset, joita et enää tarvitse.</string>
   <string name="cleaner_screen_shot_title">Poista kuvakaappauksia</string>
-  <string name="cleaner_similar_action">Näytä</string>
+  <string name="cleaner_similar_action">Näytä tiedot</string>
   <string name="cleaner_similar_description">Poista kuvien kaksoiskappaleet</string>
   <string name="cleaner_similar_title">Kuvien kaksoiskappaleet</string>
   <string name="cleaner_slim_action">Aloita optimointi</string>
@@ -1646,7 +1646,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="cleaner_space_description">voidaan vapauttaa</string>
   <string name="cleaner_space_detail_description">Tyhjennä Galleriasi kuvat vapauttaaksesi tallennustilaa</string>
   <string name="cleaner_stop_scan">Pysäytä skannaaminen</string>
-  <string name="cleaner_video_action">Näytä</string>
+  <string name="cleaner_video_action">Näytä tiedot</string>
   <string name="cleaner_video_description">Poista tallennustilaa vievät videot</string>
   <string name="cleaner_video_pick_delete_selected">Poista valitut videot</string>
   <string name="cleaner_video_title">Poista videoita</string>
@@ -2030,7 +2030,7 @@ on käytettävissä"</string>
   <string name="free_view_desc">3D-näkymä</string>
   <string name="gallery_setting">Asetukset</string>
   <string name="gallery_sync_disable_toast">Gallerian synkronointi ei ole käytössä</string>
-  <string name="generate_story_summary">MIUI analysoi kuvasi ja luo muistoja. Poista tämä ominaisuus käytöstä lopettaaksesi muistojen luomisen.</string>
+  <string name="generate_story_summary">Ota tarpeeksi valokuvia, kytke laturi ja sammuta näyttö, jotta muistot tulevat näkyviin</string>
   <string name="generate_story_title">Muistot</string>
   <string name="get_album_info_in_process">Haetaan jaetun albumin tietoja…</string>
   <string name="gif_tip">GIF</string>
@@ -2039,7 +2039,7 @@ on käytettävissä"</string>
   <string name="grant_permission_text">"Galleria tarvitsee pääsyn
 %s
  toimiakseen normaalisti, mene Käyttöoikeuksiin napauttamalla \"Aseta\"."</string>
-  <string name="grant_permission_title">Salli pääsy</string>
+  <string name="grant_permission_title">Salli käyttö</string>
   <string name="grant_permission_unlock_and_set">Avaa ja aseta</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: %1$s</string>
   <string name="have_known">Selvä</string>
@@ -2394,7 +2394,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_talkback_recently">Äskettäin käytetty</string>
   <string name="photo_editor_talkback_redo">Tee uudelleen</string>
   <string name="photo_editor_talkback_undo">Kumoa</string>
-  <string name="photo_editor_text">Teksti</string>
+  <string name="photo_editor_text">Vesileima</string>
   <string name="photo_font_cancel_download">Peruuta</string>
   <string name="photo_font_download">Lataa</string>
   <string name="photo_font_download_failed_for_notwork">Lataaminen epäonnistui. Yhdistä verkkoon ja yritä uudelleen.</string>
@@ -2742,8 +2742,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="text_edit_dialog_style_shadow">Varjo</string>
   <string name="text_edit_dialog_style_transparent">Läpinäkyvyys</string>
   <string name="text_edit_sub_menu_text">Kupla</string>
-  <string name="text_tab_bubble">Kuplat</string>
-  <string name="text_tab_watermark">Vesileimat</string>
+  <string name="text_tab_bubble">Kupla</string>
+  <string name="text_tab_watermark">Teksti</string>
   <string name="things_album_empty_title">Kuvia voi lajitella niissä esiintyvien esineiden mukaan</string>
   <string name="thumbnail_name">Esikatselukuva</string>
   <string name="tip_capture_location">Sijainti:</string>
