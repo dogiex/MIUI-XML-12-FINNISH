@@ -64,6 +64,10 @@
         <item quantity="other">%1$s kansiota</item>
         <item quantity="one">%1$s kansio</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s tehtävää</item>
+        <item quantity="one">%1$s tehtävä</item>
+    </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s muistiota</item>
         <item quantity="one">%1$s muistio</item>

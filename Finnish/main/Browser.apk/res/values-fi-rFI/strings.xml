@@ -217,7 +217,7 @@
      <string name="yesterday">Eilen</string>
     <string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_up_description">Siirry ylös</string>
-    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_menu_overflow_description">Lisävalinnat</string>
     <string name="abc_action_mode_done">Valmis</string>
     <string name="abc_action_mode_select_all">Valitse kaikki</string>
     <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
@@ -336,7 +336,7 @@
     <string name="app_downloading_ratio_text">Ladataan %s</string>
     <string name="app_downloading_text">Ladataan</string>
     <string name="app_installing_text">Asennetaan</string>
-    <string name="app_name">mediation-mi</string>
+    <string name="app_name">ad-sdk-native</string>
     <string name="app_new_version">Uusin versio tästä sovelluksesta on jo asennettuna</string>
     <string name="app_open_text">Avaa</string>
     <string name="app_task_download_exists_text">Lataus on jo olemassa</string>
