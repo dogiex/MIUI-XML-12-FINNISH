@@ -205,7 +205,7 @@
   <string name="edit_label">Muokkaa hälytyksen nimeä</string>
   <string name="edit_systemtime">Muokkaa järjestelmän aikaa</string>
   <string name="edit_systemtime_setting_summary">Päivämäärä, aika ja Kaksoiskello</string>
-  <string name="every_day">Joka päivä</string>
+  <string name="every_day">Päivittäin</string>
   <string name="expand_button_title">Lisäasetukset</string>
   <string name="expired_timers_dismissed">Hylättiin ajastin onnistuneesti</string>
   <string name="force_touch_add_alarm">Lisää hälytys</string>

@@ -98,7 +98,7 @@
      <string name="heavenly_stems_wu">戊</string>
      <string name="heavenly_stems_xin">辛</string>
      <string name="heavenly_stems_yi">乙</string>
-     <string name="miui_guide_accessibility_image_desc">Image</string>
+     <string name="miui_guide_accessibility_image_desc">Kuva</string>
      <string name="miui_guide_menu_privacy">Privacy Policy</string>
      <string name="miui_main_update_back_to_home">Preparing Home screen…</string>
      <string name="miui_mine_repair_mode_sub_title">售后维修时保证您的数据安全</string>
@@ -214,7 +214,7 @@
   <string name="miui_feedback_answer_detail_feedback_unresolved">No</string>
   <string name="miui_feedback_answer_detail_menu_online_service">Get help online</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Call customer support</string>
-  <string name="miui_feedback_answer_detail_relative_tip">This might be helpful</string>
+  <string name="miui_feedback_answer_detail_relative_tip">Liittyvät tiedot</string>
   <string name="miui_feedback_answer_detail_title">Details</string>
   <string name="miui_feedback_edit_action_submit">Send</string>
   <string name="miui_feedback_edit_add_original_images">Add photo</string>
@@ -282,7 +282,7 @@
   <string name="miui_feedback_main_menu_catch_full_log">Generate logs</string>
   <string name="miui_feedback_main_menu_feedback_list">View feedback history</string>
   <string name="miui_feedback_main_search_footer">"These aren't the questions you want to ask?"</string>
-  <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
+  <string name="miui_feedback_main_search_footer_submit">Lähetä palaute</string>
   <string name="miui_feedback_main_search_issue">Enter keywords to search</string>
   <string name="miui_feedback_main_start_submit">Submit feedback</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Submit</string>
@@ -381,11 +381,11 @@
   <string name="permission_device_info">Access device info</string>
   <string name="permission_device_introduce">For determining limited warranty period</string>
   <string name="permission_exit">Exit</string>
-  <string name="permission_external_storage_introduce">将您提交的反馈内容保存并上传</string>
+  <string name="permission_external_storage_introduce">Palautteesi tallentamista ja lähettämistä varten</string>
   <string name="permission_first_start_network_title">Terms and conditions</string>
-  <string name="permission_imei_disable_desc">请您同意应用联网。</string>
-  <string name="permission_imei_enable_desc">请您同意应用联网及以上必要权限。</string>
-  <string name="permission_location_introduce">展示离您最近的服务网点</string>
+  <string name="permission_imei_disable_desc">Salli tämän sovelluksen yhdistää internetiin.</string>
+  <string name="permission_imei_enable_desc">Salli tämän sovelluksen yhdistää internetiin ja myönnä yllä luetellut pakolliset käyttöoikeudet.</string>
+  <string name="permission_location_introduce">Lähellä olevien palvelupisteiden näyttämistä varten</string>
   <string name="permission_main_purpose">Displaying MIUI feature demos, submitting feedback, and applying for after-sales services.</string>
   <string name="permission_privacy">Privacy Policy (mandatory)</string>
   <string name="permission_region_version_msg">&lt;Data&gt;Before using \"Services &amp;amp;amp; feedback\", you must read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>

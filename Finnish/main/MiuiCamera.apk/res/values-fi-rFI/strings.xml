@@ -242,9 +242,9 @@
      <string name="ambilight_scene_silky_water">Oil painting</string>
      <string name="ambilight_scene_star_track">Star trails</string>
      <string name="ambilight_scene_traffic_light">Neon trails</string>
-     <string name="ambilight_tips_for_longtime_using_tripod">Use a tripod to capture a longer exposure</string>
-     <string name="ambilight_tips_for_suggest_using_tripod">Use a tripod</string>
-     <string name="ambilight_tips_for_using_tripod">Use a tripod</string>
+     <string name="ambilight_tips_for_longtime_using_tripod">Käytä jalustaa ottaaksesi pidemmän valotuksen</string>
+     <string name="ambilight_tips_for_suggest_using_tripod">Käytä jalustaa</string>
+     <string name="ambilight_tips_for_using_tripod">Käytä jalustaa</string>
      <string name="app_name">Preference</string>
      <string name="back_andromeda">2:MI MIX 3 5G:AI KAKSOISKAMERA</string>
      <string name="back_apollo">3:OTETTU MI-PUHELIMELLA</string>

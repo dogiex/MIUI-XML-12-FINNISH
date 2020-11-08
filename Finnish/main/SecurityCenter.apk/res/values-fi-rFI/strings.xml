@@ -304,11 +304,11 @@
      <string name="game_manual_record_setting_peace">和平精英</string>
      <string name="gb_add_game_loading_tips">Just a sec…</string>
      <string name="gb_advance_settings_vibration_4d_summary2">Vibrate during kills in the game</string>
-     <string name="gb_dialog_game_uninstall_deleting">Uninstalling…</string>
-     <string name="gb_dialog_game_uninstall_loading">Loading games…</string>
-     <string name="gb_dialog_game_uninstall_tips_message">All app data will be deleted.</string>
-     <string name="gb_dialog_game_uninstall_tips_message_xspace">All app data and related dual apps will be deleted.</string>
-     <string name="gb_dialog_game_uninstall_tips_title">Uninstall %s</string>
+     <string name="gb_dialog_game_uninstall_deleting">Poistetaan…</string>
+     <string name="gb_dialog_game_uninstall_loading">Ladataan pelejä…</string>
+     <string name="gb_dialog_game_uninstall_tips_message">Kaikki sovellustiedot myös poistetaan.</string>
+     <string name="gb_dialog_game_uninstall_tips_message_xspace">Kaikki sovellustiedot ja siihen liittyvät kaksoissovellukset poistetaan.</string>
+     <string name="gb_dialog_game_uninstall_tips_title">Poista %s</string>
      <string name="gb_dialog_wlan_wifi_weak">460ms</string>
      <string name="gb_game_video_type_ai_record">Record using AI</string>
      <string name="gb_game_video_type_manual_record">Record manually</string>
@@ -316,9 +316,9 @@
      <string name="gb_gpu_driver_update">GPU Driver Updater</string>
      <string name="gb_gpu_driver_update_app">Update</string>
      <string name="gb_gpu_driver_update_app_tips">Current version is up to date</string>
-     <string name="gb_storage_game_uninstall">Uninstall games</string>
-     <string name="gb_storage_summary">"Don't show the games that were added to the gamebox on the Home screen"</string>
-     <string name="gb_storage_title">Remove added games from Home screen</string>
+     <string name="gb_storage_game_uninstall">Poista pelejä</string>
+     <string name="gb_storage_summary">Älä näytä pelilaatikkoon lisättyjä pelejä Aloitusnäytöllä</string>
+     <string name="gb_storage_title">Poista lisätyt pelit Aloitusnäytöltä</string>
      <string name="gb_wonderful_moment_toast_window_new_pop">"Record key moments
 of your gaming sessions"</string>
      <string name="gb_wonderful_video_goto_box">Open Game Turbo</string>

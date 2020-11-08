@@ -191,9 +191,9 @@
      <string name="heavenly_stems_wu">戊</string>
      <string name="heavenly_stems_xin">辛</string>
      <string name="heavenly_stems_yi">乙</string>
-     <string name="high_fps_description">High screen refresh rate. Higher power consumption.</string>
+     <string name="high_fps_description">Korkea ruudun virkistystaajuus. Korkeampi virrankulutus.</string>
      <string name="less_than_one">&lt; %d</string>
-     <string name="low_fps_description">Low screen refresh rate. Lower power consumption.</string>
+     <string name="low_fps_description">Matala ruudun virkistystaajuus. Matalampi virrankulutus.</string>
      <string name="low_light_preview">Low light preview</string>
      <string name="midnight">Night</string>
      <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
@@ -412,7 +412,7 @@ Tämä sovellus tarvitsee internetin ja vaatii seuraavat käyttöoikeudet toimia
      <string name="usage_permission_title">Huomio</string>
      <string name="usage_reach_device_limit">"Time's up! You've reached your limit."</string>
      <string name="usage_reach_device_limit_warning_text">"You've reached your screen time limit for today"</string>
-     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+     <string name="usage_remain_about_hour_miunte">≈%1$s%2$s</string>
      <string name="usage_remain_hour_miunte">%1$s %2$s</string>
      <string name="usage_runtime_per_des_summary">For saving your Screen time stats</string>
      <string name="usage_runtime_per_des_title">"Adding and deleting files on device's internal storage"</string>
