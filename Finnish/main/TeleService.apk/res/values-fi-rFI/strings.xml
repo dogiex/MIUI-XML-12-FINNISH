@@ -1741,7 +1741,7 @@ Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="onscreenShowDialpadText">Näppäimistö</string>
   <string name="onscreenSwapCallsText">Vaihda</string>
   <string name="onscreenVideoCallText">Videopuh.</string>
-  <string name="open_miui">Avaa</string>
+  <string name="open_miui">Ota käyttöön</string>
   <string name="opened_dual_4g_confirm_prompt">Näyttää siltä, että sinulla on vain 4G SIM-kortti. Dual 4G otettiin käyttöön automaattisesti.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">SIM-kortti %1$s tukee vain 4G-yhteyttä. Varmistaaksesi, että SIM-korttisi toimii normaalisti, dual 4G otettiin käyttöön.</string>
   <string name="optional_summary">Valinnainen</string>
