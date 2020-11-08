@@ -336,7 +336,6 @@
     <string name="app_downloading_ratio_text">Ladataan %s</string>
     <string name="app_downloading_text">Ladataan</string>
     <string name="app_installing_text">Asennetaan</string>
-    <string name="app_name">ad-sdk-native</string>
     <string name="app_new_version">Uusin versio tästä sovelluksesta on jo asennettuna</string>
     <string name="app_open_text">Avaa</string>
     <string name="app_task_download_exists_text">Lataus on jo olemassa</string>

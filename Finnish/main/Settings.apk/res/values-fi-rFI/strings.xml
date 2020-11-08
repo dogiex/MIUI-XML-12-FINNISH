@@ -5104,7 +5104,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="not_battery_optimizing">Akun käytön optimointi ei käytössä</string>
   <string name="not_installed">Ei asennettu tälle käyttäjälle</string>
   <string name="not_set">Ei asetettu</string>
-  <string name="notch_and_status_bar_settings">Ohjauskeskus &amp; Ilmoitusalue</string>
+  <string name="notch_and_status_bar_settings">Ohjauskeskus &amp; tilapalkki</string>
   <string name="notch_force_black_desc">Ota käyttöön tummentaaksesi näyttöloven ympärillä oleva alue</string>
   <string name="notch_force_black_title">Piilota näyttölovi</string>
   <string name="notch_settings">Näyttölovi</string>
@@ -6877,7 +6877,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_show_lte_for_4g">Näytä LTE-kuvake 4G:n tilalla</string>
   <string name="status_bar_settings_show_weather">Näytä sää ilmoitusalueella</string>
   <string name="status_bar_settings_status_bar">Tilapalkki</string>
-  <string name="status_bar_title">Tilapalkki</string>
+  <string name="status_bar_title">Ohjauskeskus &amp; tilapalkki</string>
   <string name="status_bt_address">Bluetooth-osoite</string>
   <string name="status_data_state">Mobiiliverkon tila</string>
   <string name="status_icc_id">ICCID</string>
