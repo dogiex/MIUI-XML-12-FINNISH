@@ -1649,7 +1649,7 @@ Valitse seuraavista vaihtoehdoista:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Ladataan…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Lisätty Aloitusnäytölle</string>
-  <string name="yellowpage_provider_label">Tiedot tarjoaa</string>
+  <string name="yellowpage_provider_label">Soittajan/Lähettäjän ID:n tunnistuksen teknisen tuen tarjoaa</string>
   <string name="yellowpage_search_the_yellowpage">Etsi Hakemistosta</string>
   <string name="yellowpage_user_profile">Profiili</string>
   <string name="yesterday">Eilen</string>

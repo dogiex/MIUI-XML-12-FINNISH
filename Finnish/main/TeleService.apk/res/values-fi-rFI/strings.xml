@@ -604,9 +604,9 @@ Tällä tabletilla ei ole korvakuuloketta. Voit vaihtaa hands-free-tilaan tai k�
   <string name="administrative_enable">Järjestelmänhallinta käytössä</string>
   <string name="advanced_mobile_settings">Lisäasetukset</string>
   <string name="advanced_options_title">Lisäasetukset</string>
-  <string name="advanced_settings">Lisäasetukset</string>
-  <string name="advanced_settings_hide">▽ Piilota kaikki koskettamalla</string>
-  <string name="advanced_settings_show">▷ Näytä kaikki koskettamalla</string>
+  <string name="advanced_settings">Valinnaiset asetukset</string>
+  <string name="advanced_settings_hide">▽ Piilota kaikki napauttamalla</string>
+  <string name="advanced_settings_show">▷ Näytä kaikki napauttamalla</string>
   <string name="advertisements_disable">Mainokset pois käytöstä</string>
   <string name="advertisements_enable">Mainokset käytössä</string>
   <string name="alarm_template">kello %1$s</string>
@@ -1990,15 +1990,15 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="register_on_network">Rekisteröidään verkkoon %s…</string>
   <string name="registration_done">Rekisteröity verkkoon.</string>
   <string name="registration_status_checking_status">Tarkistetaan tilaa…</string>
-  <string name="registration_status_done">Vastaanottaa puheluita.</string>
-  <string name="registration_status_failed_try_later">Tilin rekisteröinti epäonnistui: (%s). Yritetään myöhemmin uudelleen.</string>
-  <string name="registration_status_invalid_credentials">Tilin rekisteröinti epäonnistui: virheellinen käyttäjänimi tai salasana.</string>
-  <string name="registration_status_no_data">Tilin rekisteröinti lopetettiin, koska internetyhteyttä ei ole.</string>
-  <string name="registration_status_no_wifi_data">Tilin rekisteröinti lopetettiin, koska Wi-Fi-yhteyttä ei ole.</string>
-  <string name="registration_status_not_receiving">Ei vastaanota puheluita.</string>
-  <string name="registration_status_not_running">Tilin rekisteröinti epäonnistui.</string>
+  <string name="registration_status_done">Tämä laite voi vastaanottaa puheluita.</string>
+  <string name="registration_status_failed_try_later">Tiliä ei voitu rekisteröidä: %s. Uusi yritys suoritetaan myöhemmin.</string>
+  <string name="registration_status_invalid_credentials">Tiliä ei voitu rekisteröidä. Virheellinen käyttäjänimi tai salasana.</string>
+  <string name="registration_status_no_data">Tiliä ei voitu rekisteröidä. Tämä laite ei ole yhteydessä internetiin.</string>
+  <string name="registration_status_no_wifi_data">Tiliä ei voitu rekisteröidä. Tämä laite ei ole yhteydessä Wi-Fi-verkkoon.</string>
+  <string name="registration_status_not_receiving">Puheluita ei voi vastaanottaa.</string>
+  <string name="registration_status_not_running">Tiliä ei voitu rekisteröidä.</string>
   <string name="registration_status_registering">Rekisteröidään…</string>
-  <string name="registration_status_server_unreachable">Tilin rekisteröinti epäonnistui: tarkista palvelimen nimi.</string>
+  <string name="registration_status_server_unreachable">Tiliä ei voitu rekisteröidä. Tarkista palvelimen nimi.</string>
   <string name="registration_status_still_trying">Yritetään edelleen…</string>
   <string name="reject_via_sms">Pikavastaukset</string>
   <string name="reject_via_sms_summary">Näytä painikkeet puhelun lopettamiselle ja tekstiviestin lähettämiselle</string>
@@ -2228,7 +2228,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="tethering_hardware_offload">Laitteistokiihdytyksen yhteyden jakaminen</string>
   <string name="tethering_hardware_offload_summary">Käytä laitteistokiihdytyksen yhteyden jakamista, jos se on käytettävissä</string>
   <string name="tethering_settings_not_available">Tämä käyttäjä ei voi käyttää yhteyden jakamisasetuksia</string>
-  <string name="third_party_account_summary">Tiliä käyttää tällä hetkellä sovellus %s.</string>
+  <string name="third_party_account_summary">Tätä tiliä käyttää tällä hetkellä sovellus %s.</string>
   <string name="throttle_current_usage">Nykyisellä jaksolla käytetyt tiedot</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s enimmäismäärä ylitetty
 Tiedonsiirtonopeus vähennetty nopeuteen%2$d kt/s"</string>

@@ -45,8 +45,8 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="passport_trust_device">Luota tähän laitteeseen</string>
   <string name="passport_vcode_prompt_long">Syötä varmennus-koodi</string>
   <string name="passport_verify">Varmenna</string>
-  <string name="password">Salasana</string>
-  <string name="phone_locked">Tämä laite on jo linkitettynä olemassaolevaan Mi-tiliin (%s). Kirjaudu sisään aktivoidaksesi tämän laitteen.</string>
+  <string name="password">Syötä salasana</string>
+  <string name="phone_locked">Tämä laite on linkitettynä Mi-tiliin (%s). Syötä salasana aktivoidaksesi laitteen.</string>
   <string name="phone_locked_account_email">, liitetty sähköposti: %s</string>
   <string name="phone_locked_account_phone">, liitetty puhelinnumero: %s</string>
   <string name="return_to_call">Palaa takaisin puheluun</string>
@@ -72,15 +72,15 @@ Ota yhteyttä myyjääsi lisätietoja varten."</string>
   <string name="unlock_error_unknown">Kirjautuminen epäonnistui</string>
   <string name="unlock_error_user_name">Väärä käyttäjänimi</string>
   <string name="unlock_error_wrong_vcode">Koodi, jonka syötit on väärin</string>
-  <string name="unlock_help">"Pysy yhteydessä verkkoon.
-Pidä huolta, että olet asentanut toimivan SIM-kortin (jos laitteesi tukee sitä), ja että laitteesi on yhdistettynä toimivaan Wi-Fi -verkkoon.
+  <string name="unlock_help">"Yhdistä verkkoon.
+Aseta toimiva SIM-kortti ja älä yhdistä ei-toimiviin Wi-Fi-verkkoihin.
 
-Unohtuiko salasana?
-Mene id.mi.com palauttaaksesi salasanasi.
+Unohditko salasanan?
+Siirry id.mi.com, valitse \"Unohdin salasanan\" ja seuraa ohjeita.
 
-Muut syyt
-Kirjaudu sisään osoitteessa i.mi.com ja yritä avata laitteesi lukitus sieltä."</string>
-  <string name="unlock_help_title">Apua avaamiseen:</string>
+Etkö voi aktivoida laitetta?
+Siirry i.mi.com/ss ja lähetä hakemus laitteesi avaamista varten."</string>
+  <string name="unlock_help_title">Ohje avaamiseen:</string>
   <string name="unlock_number">Lukituksenpoistokoodi: %s</string>
   <string name="unlock_wrong_captcha">Koodi, jonka syötit on väärin</string>
   <string name="unlocking">Aktivoidaan…</string>
