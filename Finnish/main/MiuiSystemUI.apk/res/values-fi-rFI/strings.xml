@@ -1211,8 +1211,8 @@ Looks like credential storage isn't enabled."</string>
      <string name="status_bar_clock_date_format_12">"E d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_time_format">"H.mm E d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_time_format_12">"h.mm aa E d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_weekday_format">"EEEE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_weekday_format_12">"EEEE d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_weekday_format">"E d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_weekday_format_12">"E d. MMMM'ta'"</string>
      <string name="status_bar_date_format">"E
      d. MMMM'ta'"</string>
      <string name="status_bar_date_format_12">"E
