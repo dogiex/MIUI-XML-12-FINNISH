@@ -123,7 +123,7 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen."</string>
   <string name="phone_verify_text">%1$s ei hae puhelinnumeroasi. Se on vahvistaa, että numero on kelvollinen. Hyväksytäänkö?</string>
   <string name="phone_verify_title">Salli %1$s vahvistaa puhelinnumerosi</string>
   <string name="privacy_revoke_failed_msg">Aktivointi vaatii valtuutuksen hyväksymisen, jotta Viesti -sovellus voi noutaa puhelinnumerosi</string>
-  <string name="privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietosi keräämisen ja poistaa kaikki tietosi palvelimilta. Synkronointi Mi Pilven kanssa, Mi Viesti ja muut Viestit -sovelluksen toiminnot ei ole enää käytettävissä. Peruutetaanko valtuutus siitä huolimatta?</string>
+  <string name="privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietosi keräämisen ja poistaa kaikki tietosi sen palvelimilta. Xiaomi Cloudin synkronointi, Mi Message ja muut viestintätoiminnot ei ole enää käytettävissä. Peruutetaanko valtuutus siitä huolimatta?</string>
   <string name="sim_unactivated_title">SIM-korttisi ei ole aktivoitu</string>
   <string name="waiting_sim_in_service">Odotetaan SIM-kortin aktivointia</string>
 </resources>

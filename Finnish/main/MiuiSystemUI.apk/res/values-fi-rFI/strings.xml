@@ -1182,7 +1182,7 @@ Looks like credential storage isn't enabled."</string>
      <string name="save">Tallenna</string>
      <string name="screenshot_failed_title">Kuvakaappausta ei voitu ottaa.</string>
      <string name="screenshot_failed_to_capture_text">Sovellus tai organisaatio ei salli kuvakaappauksen ottamista</string>
-     <string name="screenshot_failed_to_capture_title">Tämä sovellus ei salli kuvakaappauksien ottamista</string>
+     <string name="screenshot_failed_to_capture_title">Täällä ei voi ottaa kuvakaappauksia</string>
      <string name="screenshot_failed_to_save_text">Kuvakaappausta ei voi tallentaa rajoitetun tallennustilan takia.</string>
      <string name="screenshot_failed_to_save_title">Tallennustilaa ei ole riittävästi uusille kuvakaappauksille</string>
      <string name="screenshot_failed_to_save_unknown_text">Kuvakaappauksen tallentamisen aikana tapahtui virhe.</string>

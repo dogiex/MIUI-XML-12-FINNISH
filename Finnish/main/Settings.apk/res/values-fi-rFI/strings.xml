@@ -2522,9 +2522,9 @@ Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
   <string name="call_records_name_1">Maija Mehiläinen</string>
   <string name="call_records_name_2">Matti Meikäläinen</string>
   <string name="call_records_name_3">Jaakko Teppo</string>
-  <string name="call_records_summary_1">9.35 | 26 sekuntia</string>
-  <string name="call_records_summary_2">16. Elokuuta | 1 min 16 s</string>
-  <string name="call_records_summary_3">16. Elokuuta | 2 min 24 s</string>
+  <string name="call_records_summary_1">%1$d.%2$d ap. | %3$d sekuntia</string>
+  <string name="call_records_summary_2">%1$d. Elokuuta | %2$d min %3$d s</string>
+  <string name="call_records_summary_3">%1$d. Elokuuta | %2$d min %3$d s</string>
   <string name="call_settings_primary_user_only">Muuta puheluasetuksia Ensimmäisessä tilassa</string>
   <string name="call_settings_summary">Ota käyttöön puhelinvastaaja, soitonsiirrot, koputuspalvelu, soittajan tunnus</string>
   <string name="call_settings_title">Puheluasetukset</string>

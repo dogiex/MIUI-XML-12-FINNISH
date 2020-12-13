@@ -293,7 +293,7 @@
      <string name="back_gauguinpro_pro">4:OTETTU MI-PUHELIMELLA</string>
      <string name="back_gauguinpro_pro_global">4:OTETTU MI-PUHELIMELLA</string>
      <string name="back_ginkgo">4:REDMI NOTE 8:AI-NELOISKAMERA</string>
-     <string name="back_gram">0:POCO:OTETTU LAITTEELLA POCO M2 PRO</string>
+     <string name="back_gram">4:OTETTU LAITTEELLA POCO M2 PRO:AI-NELOISKAMERA:48MP NELOISKAMERA</string>
      <string name="back_grus">3:OTETTU LAITTEELLA MI 9 SE:AI-KOLMOISKAMERA</string>
      <string name="back_grus_mi_9_se_brown_edition">3:MI 9 SE BROWN EDITION:AI-KOLMOISKAMERA</string>
      <string name="back_hercules">3:OTETTU LAITTEELLA MI 9:AI-KOLMOISKAMERA</string>
@@ -816,7 +816,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_camera_record_stop">Lopetettiin videon nauhoittaminen</string>
   <string name="accessibility_camera_shutter_finish">Otettiin kuva onnistuneesti</string>
   <string name="accessibility_camera_switch_capture_recording">Siirry kuva- ja videotilojen välillä</string>
-  <string name="accessibility_closed">Poistettiin käytöstä</string>
+  <string name="accessibility_closed">Pois käytöstä</string>
   <string name="accessibility_effect_mode_button">Tehosteen painike</string>
   <string name="accessibility_filter_close_panel">Suljettiin suodattimen valikko</string>
   <string name="accessibility_filter_open_panel">Avattiin suodattimen valikko</string>
@@ -840,14 +840,14 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_intent_done_retry">Yritä uudelleen</string>
   <string name="accessibility_mode_dismiss_button">Sulje Tilan Valintapainike</string>
   <string name="accessibility_more">Lisää</string>
-  <string name="accessibility_open">Otettiin käyttöön</string>
+  <string name="accessibility_open">Käytössä</string>
   <string name="accessibility_peak">Tarkennuksen huippupainike</string>
   <string name="accessibility_portrait_button">Muotokuvatila</string>
   <string name="accessibility_protrait">Muotokuva</string>
   <string name="accessibility_pull_down_to_open_camera">Avaa kamera pyyhkäisemällä alas</string>
   <string name="accessibility_review_thumbnail">Viimeaikaisin kuva</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
-  <string name="accessibility_selected">Valitut kohteet</string>
+  <string name="accessibility_selected">Valittu</string>
   <string name="accessibility_setting">Asetukset</string>
   <string name="accessibility_setting_button">Lisäasetuksien painike</string>
   <string name="accessibility_shutter_button">Sulkijan painike</string>
@@ -886,10 +886,10 @@ ja säädä asetukset automaattisesti"</string>
   <string name="beauty_body_whole">Vartalo</string>
   <string name="beauty_clear">Tyhjennä</string>
   <string name="beauty_clear_toast">Tyhjennettiin Kauneustehosteet onnistuneesti</string>
-  <string name="beauty_fragment_tab_name_3d_beauty">Kauneus</string>
+  <string name="beauty_fragment_tab_name_3d_beauty">Kaunista</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Meikki</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
-  <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
+  <string name="beauty_fragment_tab_name_beauty">Kaunista</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
   <string name="beauty_mode_reset_toast">Tyhjennettiin uudelleenmuotoilutehosteet onnistuneesti</string>
   <string name="beauty_reset">Palauta</string>
@@ -1195,7 +1195,7 @@ näyttävät kuvissa suuremmilta"</string>
   <string name="mimoji_tips">Ota kuva napauttamalla. Nauhoita video painamalla ja pitämällä pohjassa.</string>
   <string name="miservice_notification_content">Opi lisää napauttamalla</string>
   <string name="miservice_notification_title">Opi lisää Kameran uusista toiminnoista</string>
-  <string name="module_name_beauty">Kaunistus</string>
+  <string name="module_name_beauty">Kaunista</string>
   <string name="module_name_capture">Kuva</string>
   <string name="module_name_fun">Lyhyt video</string>
   <string name="module_name_fun_ar">Mimoji</string>
@@ -1268,7 +1268,7 @@ Napauttamalla alla olevaa \"Hyväksyn\" painiketta, hyväksyt meidän &amp;lt;a 
   <string name="pic_flaw_blink_more">Näyttää siltä, että joku kehyksessä sulki silmänsä</string>
   <string name="pic_flaw_blink_one">Näyttää siltä, että henkilö kehyksessä sulki silmänsä</string>
   <string name="pic_flaw_cover">Näyttää siltä, että linssi on osittain peitetty</string>
-  <string name="popup_tip_3d_beauty_intro_text">3D-Kauneus</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D-Kaunista</string>
   <string name="portait_effect_entry_blackwhite">M&amp;V</string>
   <string name="portait_effect_entry_cool">Minttu</string>
   <string name="portait_effect_entry_dusk">Hämärä</string>
@@ -1705,7 +1705,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="user_notice_identify_summary_format">Ennen Kameran käyttämistä sinun täytyy hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Kameran täytyy yhdistää internetiin toimiakseen normaalisti. Hyväksytkö?</string>
   <string name="user_notice_title">Käyttöehdot</string>
   <string name="video_beauty_tip">Videon kaunistaminen</string>
-  <string name="video_beauty_tip_beautification">Kaunista</string>
+  <string name="video_beauty_tip_beautification">Suodattimet</string>
   <string name="video_beauty_tip_filter">Suodattimet</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Videokamera</string>
