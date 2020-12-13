@@ -4850,8 +4850,8 @@ Vanhaa palvelua (%2$s) ei peruuteta, jos %1$s otetaan käyttöön."</string>
   <string name="mqs_privacy_automatically_upload">Lähetä automaattisesti seuraavalla kerralla</string>
   <string name="mqs_privacy_dialog_cancel">Peruuta</string>
   <string name="mqs_privacy_dialog_confirm">Lähetä</string>
-  <string name="mqs_privacy_dialog_content">Lähetetäänkö lokitiedot auttaaksesi meitä paikantamaan ja ratkaisemaan tämän ongelman? Lokitiedot saattaa sisältää henkilötietojasi mukaan lukien sijaintitietosi.</string>
-  <string name="mqs_privacy_dialog_title">Tapahtui virhe</string>
+  <string name="mqs_privacy_dialog_content">Näyttää siltä, että laitteellasi on tapahtunut virheitä viimeaikoina. Voit lähettää lokitiedot auttaaksesi meitä paikantamaan ja ratkaisemaan tämän ongelman. Lokitiedot saattaa sisältää henkilötietojasi mukaan lukien sijaintitietosi. Lähetetäänkö nyt?</string>
+  <string name="mqs_privacy_dialog_title">Lokien lähettäminen</string>
   <string name="mr_button_content_description">Cast-painike</string>
   <string name="mr_cast_button_connected">Cast-painike. Yhdistetty</string>
   <string name="mr_cast_button_connecting">Cast-painike. Yhdistetään</string>
