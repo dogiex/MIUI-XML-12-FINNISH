@@ -478,7 +478,7 @@ d.M."</string>
   <string name="black_white_clock_panel">Kello</string>
   <string name="cancel">Peruuta</string>
   <string name="character_counter_content_description">Merkkien raja ylitetty %1$d/%2$d</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="choose_aod_style">Valitse teema</string>
   <string name="clock_panel_icon">Kellotaulu</string>
   <string name="color_change_with_time_description">Muuta tekstin väriä automaattisesti ajan myötä</string>
