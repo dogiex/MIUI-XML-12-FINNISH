@@ -5,13 +5,12 @@
      <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
      <string name="abc_menu_delete_shortcut_label">delete</string>
      <string name="abc_menu_enter_shortcut_label">enter</string>
-     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_function_shortcut_label">Fn+</string>
      <string name="abc_menu_meta_shortcut_label">Meta+</string>
-     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+     <string name="abc_menu_space_shortcut_label">välilyönti</string>
      <string name="abc_menu_sym_shortcut_label">Sym+</string>
-     <string name="abc_prepend_shortcut_label">Menu+</string>
-     <string name="actionbar_button_up_description">Back</string>
+     <string name="abc_prepend_shortcut_label">Valikko+</string>
      <string name="afternoon">Afternoon</string>
      <string name="am">AM</string>
      <string name="answer_call_btn_text">立即接听</string>
@@ -167,7 +166,7 @@
      <string name="error_icon_content_description">Error</string>
      <string name="evening">Afternoon</string>
      <string name="ew_title_back">Go back</string>
-     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+     <string name="exposed_dropdown_menu_content_description">Näytä avattava valikko</string>
      <string name="eye_protect_desc">屏幕颜色和亮度自动调节，保护宝贝视力</string>
      <string name="eye_protect_title">护眼模式</string>
      <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -670,7 +669,7 @@
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Avaa selaimessa</string>
-  <string name="password_toggle_content_description">Vaihda salasanan näkyvyys</string>
+  <string name="password_toggle_content_description">Näytä salasana</string>
   <string name="pc_activity_title">Optimoi akku</string>
   <string name="pm_lable_name">Tietoa root-oikeuksista</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>

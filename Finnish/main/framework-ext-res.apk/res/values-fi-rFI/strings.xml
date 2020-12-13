@@ -119,7 +119,7 @@
   <string name="autofill">Automaattinen täyttö</string>
   <string name="autofill_save_message">Sallitaanko MIUI:n tallentaa tilisi ja salasanasi?</string>
   <string name="autofill_save_ok">Salli</string>
-  <string name="autofill_save_sub_message">Voit hallita tallennettuja salasanoja asetuksista Asetukset &gt; Salasanat &amp; tietoturva &gt; %s.</string>
+  <string name="autofill_save_sub_message">Voit katsoa ja hallita salasanojasi asetuksissa Asetukset &gt; Salasanat &amp; Tietoturva &gt; %s.</string>
   <string name="autofill_save_title">Tallenna salasanat automaattisesti</string>
   <string name="autofill_service_name">Hallinnoi salasanoja</string>
   <string name="btn_cancel">Peruuta</string>

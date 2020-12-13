@@ -1065,7 +1065,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">Et ole yhteydessä Wi-Fi-verkkoon. Käyttämällä mobiilidataa saattaa lisätä lisämaksuja. Jatketaanko silti?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Lähetä sovellusten nimet ja tiedot</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Lähetä ja skannaa sovellusten nimet ja tiedot käyttäen internetistä haettuja virustunnisteita.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Jotta virukset voidaan havaita ja neutralisoida tehokkaammin, lähetämme sovellusten pakettien nimet ja niiden ominaisuudet skannataksemme ne käyttäen pilvimoottoria.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Tämä toiminto salaa ja lähettää laitteesi ID-numeron Avastin, AVL:n ja Tencentin palvelimille (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">Tietosuojakäytäntö</string>
