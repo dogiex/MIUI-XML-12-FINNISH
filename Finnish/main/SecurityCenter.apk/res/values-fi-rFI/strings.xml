@@ -400,12 +400,12 @@ tärkeät hetket"</string>
 Your device is %d%% faster now."</string>
      <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
      <string name="menu_item_notification_optimize_text">%d%% occupied</string>
-     <string name="menu_summary_garbage_cleanup_new">%d%% of storage space</string>
-     <string name="menu_summary_optimize_manage">Clear memory</string>
-     <string name="menu_summary_optimize_manage_1">Make your device %d%% faster</string>
+     <string name="menu_summary_garbage_cleanup_new">%d%% tallennustilaa</string>
+     <string name="menu_summary_optimize_manage">Tyhjennä muisti</string>
+     <string name="menu_summary_optimize_manage_1">Tee laitteestasi %d%% nopeampi</string>
      <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s occupied</string>
      <string name="menu_text_garbage_cleanup_danger">%s of trash</string>
-     <string name="menu_text_optimize_manage_1">Boost speed</string>
+     <string name="menu_text_optimize_manage_1">Nopeuta</string>
      <string name="mi_pay_lucky">小米钱包</string>
      <string name="miliao_lucky_warning">米聊红包</string>
      <string name="miui_optimization_close_final_tip">Turn off MIUI optimization?</string>
@@ -2530,7 +2530,7 @@ vastausta"</string>
   <string name="menu_summary_antivirus">Tarkista laitteesi viruksilta</string>
   <string name="menu_summary_app_manager">Päivitä ja poista sovelluksia</string>
   <string name="menu_summary_garbage_cleanup">Roskia ei löytynyt</string>
-  <string name="menu_summary_garbage_cleanup_ex">Tyhjennä %s edestä roskia</string>
+  <string name="menu_summary_garbage_cleanup_ex">Vapauta %s</string>
   <string name="menu_summary_networkassistants">Hallinnoi datasuunnitelmaasi</string>
   <string name="menu_summary_networkassistants_2">Meni rajan yli</string>
   <string name="menu_summary_networkassistants_3">Dataa on tarpeeksi jäljellä</string>

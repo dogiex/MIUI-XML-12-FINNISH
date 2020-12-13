@@ -883,9 +883,8 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="nav_launch_title">Yritä kokeilla seuraavia sovelluksia</string>
     <string name="nav_lunch_duokan">Avataan Duokania…</string>
     <string name="nav_screen_container_tab_incognito">Incognito välilehti</string>
-    <string name="nav_screen_incognito_message">"Selaus- ja hakuhistoriasi ei tallennu Incognito-tilassa.
-Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaan."</string>
-    <string name="nav_screen_incognito_title">Incognito-tila</string>
+    <string name="nav_screen_incognito_message">Voit selata nyt yksityisesti. Selainhistoriaasi, hakypyyntöjäsi eikä latauksia taltioida. Emme myöskään tallenna sivustotietoja.</string>
+    <string name="nav_screen_incognito_title">Siirryit Incognito-tilaan.</string>
     <string name="navigate_feedback_dislike">Ei kiinnosta</string>
     <string name="navigate_feedback_dislike_tips">Vähennetään tämänkaltaisia videosuosituksia</string>
     <string name="navigate_feedback_input_report_label">Muut syyt</string>
