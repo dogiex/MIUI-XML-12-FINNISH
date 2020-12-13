@@ -5394,7 +5394,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="password_toggle_content_description">Näytä salasana</string>
   <string name="password_turned_off_text">Salasana ei ole käytössä</string>
   <string name="password_turned_on_text">Salasana on käytössä</string>
-  <string name="password_unlock_title">Salasana</string>
+  <string name="password_unlock_title">Näytön lukitus</string>
   <string name="payment_summary">%1$s on oletus.</string>
   <string name="peek_notification_icon_title">Näytä kuvakkeet saapuville ilmoituksille</string>
   <string name="performance_category">Suorituskyky</string>
