@@ -158,7 +158,7 @@
   <string name="activate_email_notice">Muista aktivoida tilisi 24 tunnin kuluessa</string>
   <string name="activity_not_found_notice">Sovellusta ei löydy</string>
   <string name="add_account">Yhdistä tili</string>
-  <string name="agreement_and_privacy">Tietosuojakäytäntö ja Käyttöehdot</string>
+  <string name="agreement_and_privacy">Käyttöehdot</string>
   <string name="app_name">Mi-tili</string>
   <string name="auth_fail_warning">Istunto on vanhentunut, kirjaudu myöhemmin uudelleen</string>
   <string name="authorize_title">Valtuutus</string>
