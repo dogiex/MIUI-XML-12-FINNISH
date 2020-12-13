@@ -1207,16 +1207,16 @@ Looks like credential storage isn't enabled."</string>
      <string name="status_bar_airplane">Lentokonetila</string>
      <string name="status_bar_alarm">Hälytys</string>
      <string name="status_bar_clear_all_button">Tyhjennä</string>
-     <string name="status_bar_clock_date_format">"EE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_format_12">"EE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_time_format">"H.mm EE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_time_format_12">"h.mm aa EE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_weekday_format">"EE d. MMMM'ta'"</string>
-     <string name="status_bar_clock_date_weekday_format_12">"EE d. MMMM'ta'"</string>
-     <string name="status_bar_date_format">"EE
-     d. MMMM'ta'"</string>
-     <string name="status_bar_date_format_12">"EE
-     d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_format">"E d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_format_12">"E d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format">"H.mm E d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format_12">"h.mm aa E d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_weekday_format">"EEE d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_weekday_format_12">"EEE d. MMMM'ta'"</string>
+     <string name="status_bar_date_format">"E
+d. MMMM'ta'"</string>
+     <string name="status_bar_date_format_12">"E
+d. MMMM'ta'"</string>
      <string name="status_bar_ethernet">Ethernet</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Määritä syöttötavat</string>
      <string name="status_bar_latest_events_title">Ilmoitukset</string>

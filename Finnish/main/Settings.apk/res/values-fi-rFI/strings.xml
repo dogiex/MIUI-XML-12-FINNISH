@@ -3561,7 +3561,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="ethernet_data_usage">Ethernet-datan käyttö</string>
   <string name="every_day">Joka päivä</string>
   <string name="expand_button_title">Lisäasetukset</string>
-  <string name="expandable_under_keyguard_title">Laajennettavissa turvallisella Lukitusnäytöllä</string>
+  <string name="expandable_under_keyguard_title">Näytä Lukitusnäytöllä</string>
   <string name="experimental_category_title">Kokeellinen</string>
   <string name="experimental_preference">(Kokeellinen)</string>
   <string name="extended_power_menu">Laajennettu virtavalikko</string>
@@ -6347,7 +6347,7 @@ Näytön kiinnittäminen:
   <string name="search_sound_settings">Ääni;Äänenvoimakkuus;värinä;Poista kohina;melunvaimennus</string>
   <string name="search_status_bar_settings">Ilmoitukset &amp; tilapalkki;Ilmoitukset;Tilapalkki</string>
   <string name="search_status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä;Operaattorin nimi</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Laajennettavissa turvallisella Lukitusnäytöllä;laajennettavissa turvallisella lukitusnäytöllä</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Näytä Lukitusnäytöllä;näytä lukitusnäytöllä</string>
   <string name="search_status_bar_settings_manage_notification">Sovellusilmoitukset;Ilmoitukset</string>
   <string name="search_status_bar_settings_show_carrier">Näytä operaattorin nimi;Operaattorin nimi</string>
   <string name="search_status_bar_settings_show_network_speed">Näytä yhteyden nopeus;yhteyden nopeus</string>

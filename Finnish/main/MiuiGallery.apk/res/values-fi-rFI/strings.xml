@@ -117,9 +117,9 @@
      <string name="chinese_symbol_animals_snake">蛇</string>
      <string name="chinese_symbol_animals_tiger">虎</string>
      <string name="choose_video_compress_quality">Select resolution</string>
-     <string name="cleaner_empty">Clear all</string>
-     <string name="cleaner_title">Cleaner</string>
-     <string name="clearable_edittext_clear_description">Clear</string>
+     <string name="cleaner_empty">Tyhjennä kaikki</string>
+     <string name="cleaner_title">Puhdistaja</string>
+     <string name="clearable_edittext_clear_description">Tyhjennä</string>
      <string name="clip_menu_back">Back</string>
      <string name="clip_menu_cut">Cut</string>
      <string name="clip_menu_remove">Delete</string>

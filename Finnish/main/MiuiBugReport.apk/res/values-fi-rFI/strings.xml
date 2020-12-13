@@ -428,7 +428,10 @@ Send this code to the supervisor."</string>
   <string name="feedback_delete_images">Poista kuvat</string>
   <string name="feedback_description">Kuvaus</string>
   <string name="feedback_description_bugreport_hint">Jossain tapauksissa (…) puhelimeni käyttäytyy omituisesti (…).</string>
-  <string name="feedback_description_hint">Kuvaile ongelmaasi</string>
+  <string name="feedback_description_hint">"Kuvaile havaitsemasi ongelma täällä.
+%1$d. Missä sovelluksessa tai millä sivulla havaitsit ongelman?
+%2$d. Minkä tekemäsi toiminnon jälkeen ongelma ilmeni?
+%3$d. Anna meille lisätietoja, jotka saattavat auttaa korjaamaan ongelman."</string>
   <string name="feedback_description_hint_suggestion">Kerro meille kuinka parantaisit MIUI:ta.</string>
   <string name="feedback_description_label">Kuvaus</string>
   <string name="feedback_description_suggest_hint">Haluaisin, että lisäätte uuden ominaisuuden (…) koska tarvitsen (…)."</string>
@@ -605,7 +608,7 @@ Send this code to the supervisor."</string>
   <string name="title_same_question_feedback_main">MIUI keskustelupalstalla samankaltaisia ongelmia</string>
   <string name="title_system_app">MIUI sovellukset</string>
   <string name="title_user_guide">Käyttöopas</string>
-  <string name="toast_app_tag_required">Valitse ongelma</string>
+  <string name="toast_app_tag_required">Valitse ongelma ensin</string>
   <string name="toast_catch_full_log_catching">Voit luoda vain yhden lokin kerrallaan.</string>
   <string name="toast_catch_full_log_open_failed">Lokin nauhoittamista ei voitu aloittaa.</string>
   <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>

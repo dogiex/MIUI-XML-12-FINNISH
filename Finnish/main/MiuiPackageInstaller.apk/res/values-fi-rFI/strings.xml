@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_bar_report_link_des">App alert</string>
+  <string name="action_bar_report_link_des">Sovellushälytys</string>
      <string name="ads_summary_default_value">People who installed this app also liked</string>
-     <string name="exit_install_button">"Don't install"</string>
+     <string name="exit_install_button">Älä asenna</string>
      <string name="install_confirm_dialog_message">This app is made by Google. You should install Google Play services to be able to use this app normally. Installing this app now might make your device misbehave. Install anyway?</string>
-     <string name="install_confirm_dialog_negative_button">Cancel</string>
-     <string name="install_confirm_dialog_positive_button">Install</string>
-     <string name="install_confirm_dialog_title">Attention</string>
+     <string name="install_confirm_dialog_negative_button">Peruuta</string>
+     <string name="install_confirm_dialog_positive_button">Asenna</string>
+     <string name="install_confirm_dialog_title">Huomio</string>
      <string name="install_confirm_question_des_10">"If you're willing to take the risks and want to proceed with the installation, authorize the installation in Security > Manage apps > Permissions > Apps with possible risks. If you can't find \"Apps with possible risks\", update your Security app and try again."</string>
      <string name="install_confirm_text_gms">This app is made by Google. Install Google Play services before installing this app. Without this framework, the app might not work properly.</string>
      <string name="install_continue">继续安装</string>

@@ -361,7 +361,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_checking_input">Tarkistetaan…</string>
   <string name="passport_click_email_to_valid">Aktivoi tilisi seuraamalla linkkiä, jonka lähetimme sähköpostiisi.</string>
   <string name="passport_completed">Valmis</string>
-  <string name="passport_confirm_login">Jatka</string>
+  <string name="passport_confirm_login">Kirjaudu sisään</string>
   <string name="passport_confirm_recycle_account">Kyllä</string>
   <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Näyttää siltä&lt;/font&gt;, että numero %s on kierrätetty operaattorisi toimesta ja Mi-tili on liitettynä siihen. Onko tämä tili sinun?</string>
   <string name="passport_continue">Jatka</string>
@@ -513,8 +513,8 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_setting">Asetetaan…</string>
   <string name="passport_skip_login">Ohita</string>
   <string name="passport_skip_register">Ohita rekisteröinti</string>
-  <string name="passport_skip_setup_account_msg">Voit asettaa Mi-tilin myöhemmin Asetuksissa.</string>
-  <string name="passport_skip_setup_account_title">Etkö käytä Xiaomi Cloudia?</string>
+  <string name="passport_skip_setup_account_msg">Kirjautumalla sisään Mi-tilille voit käyttää Xiaomi Cloud -palveluita. Ohitetaanko tämä vaihe silti?</string>
+  <string name="passport_skip_setup_account_title">Mi-tili ja Xiaomi Cloud</string>
   <string name="passport_sms_send_success">Lähetetty</string>
   <string name="passport_sms_verification_code_login">Kirjaudu sisään käyttäen tekstiviestiä</string>
   <string name="passport_sms_verification_code_login_or_register">Kirjaudu sisään tai luo tili käyttäen tekstiviestiä</string>

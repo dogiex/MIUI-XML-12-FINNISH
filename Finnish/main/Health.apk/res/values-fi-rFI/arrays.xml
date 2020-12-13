@@ -225,8 +225,8 @@
         <item>Napauta \"Jatka\" lisätietojen saamiseksi ja tämän toiminnon käyttöönottamiseksi.</item>
      </string-array>
      <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health oppii laitteesi käytön mukaan nousitko seisomaan. Jos liikettä ei havaita yhteen tuntiin, sinua muistutetaan seisomaan ylös tai kirjaamaan seisomisen tiedot manuaalisesti.</item>
-        <item>Tämä toiminto seuraa liikettäsi ja lähettää muistutuksia.</item>
+        <item>Xiaomi Health havaitsee ja taltioi milloin nouset seisomaan. Voit myös vastaanottaa muistutuksia seisomisesta yhden tunnin tekemättömyyden jälkeen.</item>
+        <item>Tämä ominaisuus seuraa liikettäsi ja lähettää muistutuksia tulosten perusteella.</item>
      </string-array>
      <string-array name="temperature_unit">
         <item>℃</item>
