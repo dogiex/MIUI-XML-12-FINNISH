@@ -58,7 +58,7 @@
      <string name="sa_channel_key_class_5">sa_channel_key_class_5</string>
      <string name="sa_channel_key_class_6">sa_channel_key_class_6</string>
      <string name="state_local_test_alert">Valtion-/Paikallistesti</string>
-     <string name="test_alert_title">Hälytyksen kokeilu</string>
+     <string name="test_alert_title">Hälytystesti</string>
      <string name="tw_alert_message_dialog_title">警訊通知</string>
      <string name="tw_emergency_alert_dialog_title">緊急警報</string>
      <string name="tw_presidential_alert_dialog_title">國家級警報</string>
@@ -67,8 +67,8 @@
      <string name="use_full_volume_title">Käytä täyttä äänenvoimakkuutta</string>
      <string name="warning_alert_title">Varoitus hälytyksestä</string>
   <string name="add_channel">Lisää kanava</string>
-  <string name="alert_reminder_interval_title">Ilmoitusmuistutus</string>
-  <string name="app_label">Lähetysviestit</string>
+  <string name="alert_reminder_interval_title">Hälytysmuistutusääni</string>
+  <string name="app_label">Hätähälytykset</string>
   <string name="button_cancel">Peruuta</string>
   <string name="button_delete">Poista</string>
   <string name="button_dismiss">OK</string>
