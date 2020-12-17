@@ -8,9 +8,9 @@
   <string name="antispam_provider">Tunnistanut %s</string>
   <string name="callFailed_cb_enabled">Et voi soittaa, jos puhelunesto on käytössä.</string>
   <string name="callFailed_congestion">Verkko varattu</string>
-  <string name="callFailed_dialToDial">Dial request modified to dial with different number.</string>
-  <string name="callFailed_dialToSs">Dial request modified to SS request.</string>
-  <string name="callFailed_dialToUssd">Dial request modified to USSD request.</string>
+  <string name="callFailed_dialToDial">Soittopyyntö muokattu soittamaan eri numerosta.</string>
+  <string name="callFailed_dialToSs">Soittopyyntö muokattu SS-pyynnöksi.</string>
+  <string name="callFailed_dialToUssd">Soittopyyntö muokattu USSD-pyynnöksi.</string>
   <string name="callFailed_dsac_restricted">Käyttörajoitus rajoittaa puheluita.</string>
   <string name="callFailed_dsac_restricted_emergency">Käyttörajoitus rajoittaa hätäpuheluita.</string>
   <string name="callFailed_dsac_restricted_normal">Käyttörajoitus rajoittaa normaaleja puheluita.</string>
