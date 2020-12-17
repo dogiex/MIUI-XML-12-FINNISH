@@ -297,7 +297,7 @@
   <string name="screen_on_proximity_sensor_summary">Älä peitä näytöllä näkyvää oranssia aluetta</string>
   <string name="screen_on_proximity_sensor_title">Estä taskusoittaminen</string>
   <string name="screen_paper_mode_enter_toast">Lukutila on käytössä. Voit poistaa ominaisuuden käytöstä menemällä Asetukset &gt; Näyttö &gt; Lukutila.</string>
-  <string name="screen_rotation_freeze_message">Automaattinen kääntäminen pois käytöstä.</string>
+  <string name="screen_rotation_freeze_message">Lukittu näytön suunta vaakatilassa</string>
   <string name="screenshot_gesture_detect_alert_button">Ota käyttöön Asetuksissa</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Älä näytä uudelleen</string>
   <string name="screenshot_gesture_detect_alert_msg">Otetaanko kuvakaappaus pyyhkäisemällä kolmea sormea alas?</string>
@@ -351,7 +351,7 @@
   <string name="status_bar_toggle_paper_mode">Lukutila</string>
   <string name="status_bar_toggle_power_mode">Suorituskyky</string>
   <string name="status_bar_toggle_quiet_mode">Älä häiritse</string>
-  <string name="status_bar_toggle_rotate">Kierto pois</string>
+  <string name="status_bar_toggle_rotate">Lukitse suunta</string>
   <string name="status_bar_toggle_screen_button">Painikkeet</string>
   <string name="status_bar_toggle_screenshot">Kuvakaappaus</string>
   <string name="status_bar_toggle_sync">Synkronointi</string>
