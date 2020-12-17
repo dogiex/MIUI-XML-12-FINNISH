@@ -606,7 +606,7 @@
   <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>
   <string name="megabyteShort">Mt</string>
   <string name="memeory_check_content">%1$d sovellusta, muisti %2$s</string>
-  <string name="memory_clean_icon_text">RAM Jet</string>
+  <string name="memory_clean_icon_text">Nopeuta</string>
   <string name="memory_clean_no_trash_tip">Kaikki näyttää hyvältä</string>
   <string name="menu_add_to_white_list">Lisää poikkeuksiin</string>
   <string name="menu_clear">Tyhjennä</string>
