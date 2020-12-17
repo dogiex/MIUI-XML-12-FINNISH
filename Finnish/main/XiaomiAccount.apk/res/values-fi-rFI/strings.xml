@@ -400,7 +400,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_extra_gdpr_license">Luomalla Mi-tilisi hyväksyt, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien tietoja (esim. vahvistuskoodit), Toisen tilan tietoja (esim. tietoja kuinka käytät Toista tilaa, Ensimmäisessä- ja Toisessa tilassa käytettävät ID:t) sekä muita Tietosuojakäytännössämme määriteltyjä tietoja. Tutustu Tietosuojakäytäntöömme ja lue lisää, kuinka käsittelemme ja käytämme henkilötietoja.</string>
   <string name="passport_failed_to_send_activate_email">Aktivointisähköpostin lähettäminen epäonnistui</string>
   <string name="passport_find_password_on_web_msg">Palauta salasanasi osoitteessa account.mi.com.</string>
-  <string name="passport_first_login_prompt">Mi-tili luodaan automaattisesti, kun kirjaudut sisään ensimmäisen kerran.</string>
+  <string name="passport_first_login_prompt">Mi-tili luodaan automaattisesti, kun käytät puhelinnumeroasi ensimmäisen kerran.</string>
   <string name="passport_forget_password">Unohtuiko salasana</string>
   <string name="passport_forget_password_no_underline">Unohtuiko salasana</string>
   <string name="passport_get_back_pwd">Palauta tilin salasana</string>

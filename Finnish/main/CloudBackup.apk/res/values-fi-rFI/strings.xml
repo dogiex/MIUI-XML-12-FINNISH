@@ -67,9 +67,9 @@ Huomaa: Asennettujen sovellusten tietoja (dataa) ei varmuuskopioida Xiaomi Cloud
   <string name="back_up_task_unfinished">Ei voitu varmuuskopioida</string>
   <string name="backing_up_to_micloud">Varmuuskopioidaan…</string>
   <string name="backup_fail_wifi_needed">Varmuuskopiointi epäonnistui, Wi-Fi vaaditaan.</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi Cloudissa ei ole tarpeeksi tallennustilaa. Päivitä suunnitelmasi tai vapauta tallennustilaa.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Tälle varmuuskopiolle ei ole tarpeeksi pilven tallennustilaa. Päivitä suunnitelmasi tai vapauta tallennustilaa pilvestä.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Tallennustilaa ei ole tarpeeksi. Vapauta tallennustilaa ensin.</string>
-  <string name="backup_failed_reason_network_error">Verkkovirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="backup_failed_reason_network_error">Tarkista verkkoasetuksesi ja yritä uudelleen</string>
   <string name="backup_finished_notification_content">Varmuuskopioitiin Aloitusnäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
