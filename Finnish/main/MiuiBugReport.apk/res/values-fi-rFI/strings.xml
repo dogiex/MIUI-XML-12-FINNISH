@@ -611,7 +611,7 @@ Send this code to the supervisor."</string>
   <string name="toast_app_tag_required">Valitse ongelma ensin</string>
   <string name="toast_catch_full_log_catching">Voit luoda vain yhden lokin kerrallaan.</string>
   <string name="toast_catch_full_log_open_failed">Lokin nauhoittamista ei voitu aloittaa.</string>
-  <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>
+  <string name="toast_description_required">Kuvaile ongelma ensin</string>
   <string name="toast_feedback_collect_store">Kerätään lokeja…</string>
   <string name="toast_feedback_network_unavailable">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="toast_feedback_pending_wlan">Raportit lähetetään, kun olet yhteydessä Wi-Fi verkkoon</string>

@@ -893,7 +893,7 @@ Looks like credential storage isn't enabled."</string>
      <string name="miui_ringer_standard_description">Mykistä saapuvien puheluiden ja ilmoituksien soittoäänet</string>
      <string name="miui_ringer_total">Älä häiritse</string>
      <string name="miui_ringer_total_description">Mykistä äänet ja poista värinä käytöstä kaikille kohteille paitsi herätyskellolle</string>
-     <string name="miui_screen_rotation_freeze_message">Automaattinen kierto poistettu käytöstä.</string>
+     <string name="miui_screen_rotation_freeze_message">Lukittu näytön suunta vaakatilassa</string>
      <string name="miui_toast_zen_dnd_to_off">Älä häiritse -tila poistettiin käytöstä. Äänet ja värinä palautettiin normaaliksi.</string>
      <string name="miui_toast_zen_standard_to_off">Äänetön tila poistettiin käytöstä. Soittoäänet palautettiin normaaliksi.</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media">Äänetön tila poistettiin käytöstä. Soittoäänet, mukaan lukien ilmoitukset ja median äänet toistetaan.</string>
