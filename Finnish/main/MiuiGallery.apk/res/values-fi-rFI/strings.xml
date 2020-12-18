@@ -664,7 +664,7 @@ Transcoding might take some time when you use this feature for the first time."<
      <string name="video_compress_download_failed_for_notwork">"Couldn't download. Check your network settings and try again."</string>
      <string name="video_compress_encode_video">Compressing video…</string>
      <string name="video_compress_lib_download">Download video compression plug-in</string>
-     <string name="video_compress_lib_download_without_wifi">"Looks like your device isn't connected to Wi-Fi. You can use mobile data to download the video compression plug-in (1.3MB)."</string>
+     <string name="video_compress_lib_download_without_wifi">"Looks like your device isn't connected to Wi-Fi. You can use mobile data to download the video compression plug-in (%2$d MB)."</string>
      <string name="video_compress_not_with_8k">"Can't compress 8K videos"</string>
      <string name="video_compress_not_with_format">"Video compression isn't supported for this format"</string>
      <string name="video_compress_not_with_low_quality">Current resolution is the lowest</string>
@@ -2187,7 +2187,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="movie_download">Lataa</string>
   <string name="movie_download_failed">Ei voitu ladata</string>
   <string name="movie_download_failed_for_notwork">Ei voitu ladata. Yhdistä verkkoon ja yritä uudelleen.</string>
-  <string name="movie_download_sdk_without_wifi_msg">Näyttää siltä, että laitteesi ei ole yhdistettynä Wi-Fi-verkkoon. Ladataanko vaadittu liitännäinen (3 Mt) käyttäen mobiilidataa?</string>
+  <string name="movie_download_sdk_without_wifi_msg">Näyttää siltä, että laitteesi ei ole yhdistettynä Wi-Fi-verkkoon. Ladataanko vaadittu liitännäinen (%2$d Mt) käyttäen mobiilidataa?</string>
   <string name="movie_download_sdk_without_wifi_title">Lataa käyttäen mobiilidataa</string>
   <string name="movie_download_with_metered_network_msg">Alkuperäisien tiedostojen lataaminen saattaa lisätä operaattorimaksuja. Ladataanko siitä huolimatta?</string>
   <string name="movie_download_with_metered_network_title">Olet yhteydessä maksulliseen verkkoon</string>
@@ -2355,7 +2355,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_miui_beauty_no_face">Kasvoja ei tunnisteta</string>
   <string name="photo_editor_mosaic">Mosaiikki</string>
   <string name="photo_editor_navigator_cancel">Peruuta</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">%s lataaminen vaatii noin 4 Mt edestä mobiilidataa. Ladataanko nyt?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">%s lataaminen vaatii noin %2$d Mt edestä mobiilidataa. Ladataanko nyt?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Tiedonsiirtovaroitus</string>
   <string name="photo_editor_navigator_export">Tallenna</string>
   <string name="photo_editor_navigator_module_download_failed">%s lataaminen epäonnistui</string>
@@ -2665,10 +2665,10 @@ mukauttaaksesi Galleriasi"</string>
   <string name="slim_cost_time_minute">%d min jäljellä</string>
   <string name="slim_cost_time_minute_and_second">%1$d m %2$d s jäljellä</string>
   <string name="slim_cost_time_second">%d s jäljellä</string>
-  <string name="slim_description_dialog_detail">Vähennä laitteessa olevien kuvien tiedostokokoa. Alkuperäiset tiedostot säilytetään Xiaomi Cloudissa.</string>
+  <string name="slim_description_dialog_detail">Pakkaa kuvat ja jätä pienemmät korkealaatuiset kopiot tälle laitteelle säilyttäen alkuperäiset tiedostot pilvessä.</string>
   <string name="slim_description_dialog_ok">Selvä</string>
   <string name="slim_description_dialog_slim_after">"Jälkeen:  167 Kt"</string>
-  <string name="slim_description_dialog_slim_before">"Ennen:  3.07 Mt"</string>
+  <string name="slim_description_dialog_slim_before">Ennen:  %2$d Mt</string>
   <string name="slim_exit_dialog_positive">Lopeta</string>
   <string name="slim_exit_dialog_title">Lopeta optimointi</string>
   <string name="slim_running">Optimoidaan…</string>

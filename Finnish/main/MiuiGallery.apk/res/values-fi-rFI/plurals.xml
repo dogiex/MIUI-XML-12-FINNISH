@@ -43,8 +43,8 @@
         <item quantity="one">Downloading %d remaining file</item>
      </plurals>
      <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d files (%2$dMB) aren't downloaded yet. Download using mobile data?"</item>
-        <item quantity="one">"%1$d file (%2$dMB) isn't downloaded yet. Download using mobile data?"</item>
+        <item quantity="other">"%1$d files (%2$d MB) aren't downloaded yet. Download using mobile data?"</item>
+        <item quantity="one">"%1$d file (%2$d MB) isn't downloaded yet. Download using mobile data?"</item>
      </plurals>
      <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d installation packages (%3$s) from %1$s</item>
@@ -343,7 +343,7 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">Ohitettiin %1$d kuvaa, joita ei voitu renderöidä.</item>
-        <item quantity="one">Ohitettiin kuva, jota ei voitu renderöidä.</item>
+        <item quantity="one">Ohitettiin %1$d kuva, jota ei voitu renderöidä.</item>
     </plurals>
     <plurals name="file_count_format">
         <item quantity="other">Yhteensä %1$d kohdetta</item>
@@ -378,7 +378,7 @@
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d kuvaa</item>
-        <item quantity="one">1 kuva</item>
+        <item quantity="one">%1$d kuva</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d kuvaa odottaa synkronointia</item>
@@ -398,7 +398,7 @@
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d videota</item>
-        <item quantity="one">1 video</item>
+        <item quantity="one">%1$d video</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d videota odottaa synkronointia</item>
@@ -434,7 +434,7 @@
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
-        <item quantity="one">Kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
+        <item quantity="one">%1$d kuvan lataaminen epäonnistui, yhdistä verkkoon ja yritä uudelleen</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui (%2$d Mt), yhdistä verkkoon ja yritä uudelleen</item>
@@ -442,11 +442,11 @@
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui, yritetäänkö uudelleen?</item>
-        <item quantity="one">Kuvan lataaminen epäonnistui, yritetäänkö uudelleen?</item>
+        <item quantity="one">%1$d kuvan lataaminen epäonnistui, yritetäänkö uudelleen?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">%1$d kuvan lataaminen epäonnistui (%2$d Mt), yritetäänkö uudelleen?</item>
-        <item quantity="one">Kuvan lataaminen epäonnistui (%2$d Mt), yritetäänkö uudelleen?</item>
+        <item quantity="one">%1$d kuvan lataaminen epäonnistui (%2$d Mt), yritetäänkö uudelleen?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Ohitettiin %d kuvaa, jotka ei ole laitteella.</item>
@@ -454,7 +454,7 @@
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Löytyi %1$d uutta kuvaa</item>
-        <item quantity="one">Löytyi uusi kuva</item>
+        <item quantity="one">Löytyi %1$d uusi kuva</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Yhteensä %d kuvaa</item>
