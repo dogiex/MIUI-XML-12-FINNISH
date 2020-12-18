@@ -7144,7 +7144,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="sync_enable">Synkronoi</string>
   <string name="sync_enabled">Synkronointi on käytössä</string>
   <string name="sync_error">Synkronointivirhe</string>
-  <string name="sync_failed">Synkronointi epäonnistui</string>
+  <string name="sync_failed">Ei voitu synkronoida. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synkronoidaan nyt...</string>
   <string name="sync_is_failing">Synkronoinnissa on tällä hetkellä ongelmia. Palvelu palaa käyttöön hetken kuluttua.</string>
