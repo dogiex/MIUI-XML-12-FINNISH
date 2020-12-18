@@ -1497,7 +1497,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_video_focusmode_entry_auto">Napauta</string>
   <string name="pref_video_focusmode_entry_continuous">CAF (automaattitarkennus)</string>
   <string name="pref_video_focusmode_title">Tarkennustila</string>
-  <string name="pref_video_hfr_title">Video HFR</string>
+  <string name="pref_video_hfr_title">Kuvanopeus</string>
   <string name="pref_video_quality_title">Videon kuvanlaatu</string>
   <string name="pref_video_speed_entry_fast">Nopea</string>
   <string name="pref_video_speed_entry_normal">Normaali</string>
