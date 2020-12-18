@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Delete %d installation packages</item>
+        <item quantity="one">Delete %d installation package</item>
+     </plurals>
     <plurals name="install_find_application">
         <item quantity="other">Hae %d sovelluksen joukosta</item>
         <item quantity="one">Hae %d sovelluksen joukosta</item>

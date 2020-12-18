@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cloud_backup_detail_frequence_every_7_day">Back up every %d days</string>
+     <string name="cloud_backup_detail_frequence_every_day">Back up every day</string>
+     <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
   <string name="backup_action_buy_cloud_space">Hanki lisää tallennustilaa</string>
      <string name="backup_action_check_network">Tarkista verkkoasetukset</string>
      <string name="backup_action_clean_disk_space">Vapauta tilaa</string>

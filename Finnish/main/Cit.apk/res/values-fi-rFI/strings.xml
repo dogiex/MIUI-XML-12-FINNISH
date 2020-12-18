@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cit_tool_bluetooth_rse">Enter Bluetooth RSE Test Mode</string>
+     <string name="cit_tool_bluetooth_rse_chain">antenna:</string>
+     <string name="cit_tool_bluetooth_rse_channel">channel:</string>
+     <string name="cit_tool_bluetooth_rse_mode">mode:</string>
+     <string name="cit_tool_bluetooth_rse_power">Pwr/Lv:</string>
+     <string name="cit_tool_bluetooth_tx_rse">"TX: RSE     "</string>
+     <string name="cit_tool_bluetooth_tx_rse_run">RUN</string>
   <string name="ANT_set_title">aseta ant</string>
      <string name="DSI_configuration_set">aseta DSI</string>
      <string name="DSI_setting">DSI</string>

@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="bh_day">
+        <item quantity="other">" days"</item>
+        <item quantity="one">" day"</item>
+     </plurals>
+     <plurals name="bh_hour">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+     </plurals>
+     <plurals name="bh_minute">
+        <item quantity="other">" mins"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d phone numbers</item>
+        <item quantity="one">%d phone number</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Delete %d phone numbers?</item>
+        <item quantity="one">Delete %d phone number?</item>
+     </plurals>
+     <plurals name="search_group_contacts_result">
+        <item quantity="other">%s results</item>
+        <item quantity="one">%s result</item>
+     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Tunti sitten</item>
     </plurals>
