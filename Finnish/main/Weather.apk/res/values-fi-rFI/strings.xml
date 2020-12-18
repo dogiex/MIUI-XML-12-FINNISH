@@ -290,7 +290,7 @@
   <string name="button_not_allow">Peruuta</string>
   <string name="button_settings_cancel">Peruuta</string>
   <string name="button_settings_confirm">Peruuta valtuutus</string>
-  <string name="button_settings_confirm_to_revoke_msg">Et voi käyttää Sää-sovellusta valtuutuksen peruuttamisen jälkeen.</string>
+  <string name="button_settings_confirm_to_revoke_msg">Poistamalla valinnan kytkimestä, peruutat suostumuksesi Sään Tietosuojakäytäntöön. Lopetamme henkilötietosi keräämisen. Jo kerätyt ja säilytetyt henkilötiedot poistetaan tietyn ajan kuluessa sovellettavan lain vaatimalla tavalla. Weatherin on kerättävä tarvittavat henkilökohtaiset tiedot peruspalveluiden tarjoamiseksi. Peruuttamasi suostumus sen tietosuojakäytäntöön katsotaan kieltäytyvän hyväksymästä sen palveluita kerättyjen henkilökohtaisten tietojen perusteella.</string>
   <string name="button_settings_confirm_to_revoke_title">Peruutetaanko valtuutus?</string>
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
@@ -440,7 +440,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="precipitation_degree_two">Kevyt</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="privacy_grant_failed">Valtuutusta ei voitu hyväksyä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
-  <string name="privacy_grant_or_revoke_settings">Valtuutuksen hyväksyminen &amp; peruuttaminen</string>
+  <string name="privacy_grant_or_revoke_settings">Suostumuksen peruuttaminen</string>
   <string name="privacy_grant_success">Valtuutus hyväksyttiin onnistuneesti</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="privacy_revoke_failed">Valtuutusta ei voitu peruuttaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
