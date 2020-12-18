@@ -579,7 +579,7 @@ Transcoding might take some time when you use this feature for the first time."<
      <string name="sort">Sort</string>
      <string name="special_type_8k">AI 8K</string>
      <string name="special_type_ai_audio">AI Audio</string>
-     <string name="special_type_hdr10">HDR10</string>
+     <string name="special_type_hdr10">HDR</string>
      <string name="special_type_heif">HEIF</string>
      <string name="special_type_real_8k">8K</string>
      <string name="status_bar_notification_info_overflow">999+</string>
@@ -1783,7 +1783,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="document_provider_guide_step_3">3. Napauta sivuvalikkopainiketta.</string>
   <string name="document_provider_guide_step_4">4. Valitse \"SD-kortti\".</string>
   <string name="document_provider_guide_step_5">5. Napauta \"Valitse\".</string>
-  <string name="double_tap_to_higher_definition">Tuplanapauta uudelleen HD esikatselua varten</string>
+  <string name="double_tap_to_higher_definition">Tuplanapauta uudelleen avataksesi HD-esikatselun</string>
   <string name="download_canceled">Lataaminen peruutettu</string>
   <string name="download_error_format">%s lataaminen epäonnistui</string>
   <string name="download_error_tip">. Lataukset keskeytyi.</string>
