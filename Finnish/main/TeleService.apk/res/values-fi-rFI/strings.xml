@@ -98,7 +98,7 @@
      <string name="emm_cause_7_8_12_13_15_16_17_22">"You can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
      <string name="enable_dual_4g_if_dual_ct">Prefer 4G networks for both SIM cards to use VoLTE on the secondary SIM when two China Telecom SIM cards are installed.</string>
      <string name="enable_vice_volte_if_dual_ct">Turn on VoLTE for the secondary SIM automatically when two China Telecom SIM cards are installed.</string>
-     <string name="fiveg_hosted_mode_summary">Switch to best available networks automatically when 5G connectivity is poor</string>
+     <string name="fiveg_hosted_mode_summary">Select best network automatically to save battery</string>
      <string name="fiveg_hosted_mode_title">5G Smart Switch</string>
      <string name="fiveg_network_title">5G-verkot</string>
      <string name="fiveg_sa_switch_title_slot0">SIM 1 SA mode</string>

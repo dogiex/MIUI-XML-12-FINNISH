@@ -300,7 +300,7 @@
      <string name="custom_tint_color_sky_blue">Blue</string>
      <string name="custom_tint_color_sky_cyan">Cyan</string>
      <string name="custom_watermark_tips_gen2">Up to %1$d Chinese characters or %2$d letters.</string>
-     <string name="document_blur_warn">文字拍摄模糊</string>
+     <string name="document_blur_warn">Teksti on sumennettu</string>
      <string name="edit_makeup">Makeup</string>
      <string name="emoticon">Sticker pack</string>
      <string name="expand_button_title">Advanced</string>
