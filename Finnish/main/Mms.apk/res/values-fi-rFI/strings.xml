@@ -203,7 +203,7 @@
      <string name="friday">Friday</string>
      <string name="friday_short">Fri</string>
      <string name="friday_shortest">Fri</string>
-     <string name="google_message_promo_content">Xiaomi recommends switching to Messages by Google. It allows you to text on Wi-Fi, share high-quality media, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">View details</a></font>.</string>
+     <string name="google_message_promo_content">Xiaomi recommends upgrading to Messages by Google. Install now to get high quality photo sharing, chat on Wi-Fi, and more. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Learn more</a></font></string>
      <string name="google_message_promo_title">Upgrade your messaging app</string>
      <string name="heavenly_stems_bing">丙</string>
      <string name="heavenly_stems_ding">丁</string>
@@ -217,8 +217,8 @@
      <string name="heavenly_stems_yi">乙</string>
      <string name="home_tab_ad">Promotional</string>
      <string name="home_tab_common">Regular</string>
-     <string name="installed_google_message_promo_content">Xiaomi recommends using Messages by Google. It allows you to text on Wi-Fi, share high-quality media, and more.</string>
-     <string name="installed_google_message_promo_title">Start using Messages</string>
+     <string name="installed_google_message_promo_content">Xiaomi recommends using Messages by Google. Open Messages to get high quality photo sharing, chat on Wi-Fi, and more.</string>
+     <string name="installed_google_message_promo_title">Open Messages for better chat</string>
      <string name="menu_correct_as_ad">Move to promotional</string>
      <string name="menu_correct_as_normal">Move to regular</string>
      <string name="menu_multi_select">Select</string>
@@ -1021,7 +1021,7 @@ Tämä viesti saattaa olla ei-toivottu."</string>
   <string name="pref_show_photo_word_summary">Aseta kuva automaattisesti yhteystiedoille, jossa ei ole vielä kuvaa</string>
   <string name="pref_show_sms_template_entry_summary">Tunnista kertakäyttösalasanat ja näytä pikavalikot</string>
   <string name="pref_show_sms_template_in_summary">Tunnista automaattisesti kertakäyttösalasanat tekstiviesteistä</string>
-  <string name="pref_show_sms_template_summary">Kopioi ja täyty automaattisesti vahvistuskoodit</string>
+  <string name="pref_show_sms_template_summary">Kopioi kertakäyttösalasanat, seuraa toimitusta, tarkista puhelimen saldo ja näytä liput ja laskut kortteina automaattisesti</string>
   <string name="pref_smart_messages_settings">Älyviestit</string>
   <string name="pref_sms_storage_title">Tallennustila</string>
   <string name="pref_sms_theme_title">Näyttäminen</string>
