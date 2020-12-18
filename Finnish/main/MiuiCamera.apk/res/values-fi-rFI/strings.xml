@@ -406,7 +406,7 @@
      <string name="module_name_edit_title">Features</string>
      <string name="module_name_edit_unfavorite_title">More features</string>
      <string name="module_name_more">More</string>
-     <string name="module_name_multi_camera">Front &amp; back</string>
+     <string name="module_name_multi_camera">Multicam</string>
      <string name="module_name_professional">Pro</string>
      <string name="module_name_super_moon">Supermoon</string>
      <string name="module_name_vlog">VLOG</string>
@@ -578,7 +578,7 @@
      <string name="pref_custom_shutter_sound_title">Sound</string>
      <string name="pref_custom_tint_title">Colors</string>
      <string name="pref_customization_title">Customize</string>
-     <string name="pref_dual_camera_video">Front &amp; back</string>
+     <string name="pref_dual_camera_video">Dual video</string>
      <string name="pref_front_denoise_summary">Reduce noises generated behind the front camera</string>
      <string name="pref_front_denoise_title">Selfie noise filter</string>
      <string name="pref_google_lens_default">true</string>
