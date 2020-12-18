@@ -6044,7 +6044,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_dark_mode_select_time_error_summary">Aloitusaika ja päättymisaika ei voi olla sama</string>
   <string name="screen_dark_mode_smart_dark_summary">Aseta tummatila myös kolmannen osapuolen sovelluksiin. Jotkut sovellukset voivat näkyä väärin.</string>
   <string name="screen_dark_mode_smart_dark_title">Globaali tummatila</string>
-  <string name="screen_dark_mode_time_title">Ajastus</string>
+  <string name="screen_dark_mode_time_title">Ajasta Tummatila</string>
   <string name="screen_effect">Värit</string>
   <string name="screen_fps_summary_power_save">Kiinteän arvon käyttäminen kuluttaa vähemmän virtaa</string>
   <string name="screen_fps_summary_smooth">Jotkin sovellukset nostavat virkistystaajuutta automaattisesti parantaakseen kuvanlaatua</string>
