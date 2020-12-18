@@ -153,7 +153,7 @@
   <string name="noon">ip.</string>
   <string name="pm">ip.</string>
   <string name="privacy_disagree">Kun poistat hyväksynnän tietosuojakäytäntömme ehdoista, Mi Laskin lopettaa tietojen keräämisen ja kaikki niihin liittyvät tiedot poistetaan palvelimilta. Et voi välttämättä käyttää joitakin sovelluksen toimintoja. Poistetaanko hyväksyntä siitä huolimatta?</string>
-  <string name="privacy_switch">Hyväksyn tietosuojakäytännön</string>
+  <string name="privacy_switch">Suostumuksen peruuttaminen</string>
   <string name="privacy_switch_disagree">En hyväksy</string>
   <string name="sin_mathematical_value">sin</string>
   <string name="tan_mathematical_value">tan</string>
