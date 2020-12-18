@@ -766,10 +766,10 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_bluetooth_tx_burst_run">SUORITA</string>
   <string name="cit_tool_bluetooth_tx_chain">antenni:</string>
   <string name="cit_tool_bluetooth_tx_channel">kanava:</string>
-  <string name="cit_tool_bluetooth_tx_h">Siirry Bluetooth BR/EDR 2.480GHz Freq testitilaan</string>
-  <string name="cit_tool_bluetooth_tx_l">Siirry Bluetooth BR/EDR 2.402GHz Freq testitilaan</string>
+  <string name="cit_tool_bluetooth_tx_h">Siirry Bluetooth-operaattorin 2.480GHz Freq testitilaan</string>
+  <string name="cit_tool_bluetooth_tx_l">Siirry Bluetooth-operaattorin 2.402GHz Freq testitilaan</string>
   <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
-  <string name="cit_tool_bluetooth_tx_m">Siirry Bluetooth BR/EDR 2.441GHz taajuuden testitilaan</string>
+  <string name="cit_tool_bluetooth_tx_m">Siirry Bluetooth-operaattorin 2.441GHz taajuuden testitilaan</string>
   <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
   <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
   <string name="cit_tool_cal_accelerometer">Kiihtyvyysanturin kalibrointityökalu</string>

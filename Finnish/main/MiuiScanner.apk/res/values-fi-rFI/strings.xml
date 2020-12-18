@@ -64,7 +64,7 @@
      <string name="filename_cannot_beempty">"Can't save files without a name"</string>
      <string name="function">Features</string>
      <string name="general_error">"Couldn't recognize"</string>
-     <string name="general_feedback">Report wrong result</string>
+     <string name="general_feedback">Report mistakes</string>
      <string name="general_location">Allow Scanner to access your location to get location-based services</string>
      <string name="general_location_dialog">Some features of object recognition are provided by Dianping. If you want to recognize objects in stores, Dianping needs to use the photos you take while using this feature along with their location info in order to provide the relevant results to you.</string>
      <string name="general_location_prompt">Location access</string>
@@ -186,7 +186,7 @@
      <string name="submitting">Submitting…</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="take_a_picture">Camera</string>
-     <string name="take_the_word">Long press the button below to take the word</string>
+     <string name="take_the_word">Put the word in the box and press to get the word</string>
      <string name="text_to_be_translated_cannot_be_empty">Scanner needs text to translate</string>
      <string name="textrecognition_results">Recognized text</string>
      <string name="translation_type_chat">Chat</string>
@@ -387,7 +387,7 @@
   <string name="note">Huomautus:</string>
   <string name="now_state">"Nykyinen tila: "</string>
   <string name="once">Vain kerran</string>
-  <string name="open_url">Avaa URL-osoite</string>
+  <string name="open_url">Vieraile</string>
   <string name="password_toggle_content_description">Näytä salasana</string>
   <string name="pay_no_tip">Älä näytä uudelleen</string>
   <string name="pay_save_this_choose">Muista valintani</string>
@@ -483,7 +483,7 @@
   <string name="translation_prompt_word">Aseta sana kehyksen sisälle</string>
   <string name="translation_see_more">Katso määritelmä</string>
   <string name="translation_type_sentence">Lause</string>
-  <string name="translation_type_word">Sana</string>
+  <string name="translation_type_word">Käännä keskustelu</string>
   <string name="uninstall_prompt">Jos asennuksen aikana ilmenee ongelmia, mene Asetukset &gt; Sovellukset &gt; Hallinnoi sovelluksia &gt; Lukija, napauta \"Poista\" ja yritä asentaa sovellus uudelleen.</string>
   <string name="url_is_phish">Tämä saattaa olla phishing verkkosivu</string>
   <string name="url_is_safety">Tämä verkkosivu on turvallinen</string>

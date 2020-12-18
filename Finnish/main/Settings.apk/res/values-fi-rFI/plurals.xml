@@ -113,12 +113,12 @@
         <item quantity="one">Poistettu käytöstä %d sovelluksessa</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Älä ota pois käytöstä %d sovellukselle</item>
-        <item quantity="one">Älä ota pois käytöstä yhdelle sovellukselle</item>
+        <item quantity="other">Älä koskaan poista käytöstä %d sovelluksesta</item>
+        <item quantity="one">Älä koskaan poista käytöstä %d sovelluksesta</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Aina pois käytöstä %d sovellukselle</item>
-        <item quantity="one">Aina pois käytöstä yhdelle sovellukselle</item>
+        <item quantity="other">Poista aina käytöstä %d sovelluksesta</item>
+        <item quantity="one">Poista aina käytöstä %d sovelluksesta</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d sovellusta saavat käynnistyä automaattisesti</item>
