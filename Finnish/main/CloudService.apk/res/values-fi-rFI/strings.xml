@@ -372,7 +372,7 @@ Paikanna ja lukitse laitteesi, mikäli kadotat sen."</string>
   <string name="micloud_privacy_warning_title">Huomio</string>
   <string name="micloud_proceed">Jatka</string>
   <string name="micloud_request_permission_confirm">Selvä</string>
-  <string name="micloud_request_permission_content">Xiaomi Cloud tarvitsee datan synkronointiin käyttöoikeuksia. Salli Xiaomi Cloudille pääsy Kalenteriin, Yhteystietoihin, Mi-tiliin, SIM-kortin tilaan, puheluhistoriaan ja viesteihin.</string>
+  <string name="micloud_request_permission_content">Jotta kalenteritapahtumasi, viestisi, puheluhistoriasi, kuvasi, videosi ja muut kohteet voidaan synkronoida, Xiaomi Cloud tarvitsee käyttöoikeuden käyttää kalenteriasi, yhteystietojasi, tilejäsi, SIM-tilaa, puheluhistoriaa, viestejä, kuvia ja videoita.</string>
   <string name="micloud_request_permission_title">Xiaomi Cloud tarvitsee käyttöoikeuksia</string>
   <string name="micloud_request_sync_too_frequent">Liian monta pyyntöä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="micloud_setting_antispam_summary">Poikkeukset ja estetyt puhelinnumerot</string>

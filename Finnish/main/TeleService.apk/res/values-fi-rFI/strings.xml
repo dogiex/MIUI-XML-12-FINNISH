@@ -929,7 +929,7 @@ Valinta"</string>
   <string name="call_description_recording">Nauhoitetaan…</string>
   <string name="call_forward_option">Soitonsiirto</string>
   <string name="call_forwarding_number_hint">Siirrä puhelut numeroon</string>
-  <string name="call_forwarding_settings">Soitonsiirtoasetukset</string>
+  <string name="call_forwarding_settings">Soitonsiirto</string>
   <string name="call_forwarding_settings_with_label">Soitonsiirtoasetukset (%s)</string>
   <string name="call_record_add_numbers">Lisää numerot</string>
   <string name="call_record_auto_always">Kaikki numerot</string>

@@ -512,8 +512,11 @@ Jotkut kaksoissovellukset vaativat Google Services Frameworkin tuen. Näissä ta
   <string name="xspace_disable">Ei luotu</string>
   <string name="xspace_enable">Luotu</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Käytä kahta tiliä ilman, että vaihdat niiden välillä</string>
-  <string name="xspace_guide_title">Luo kaksoissovellus</string>
+  <string name="xspace_guide_content_bound">Käytettävissä olevat sovellukset</string>
+  <string name="xspace_guide_des">Kaksoissovelluksella voit käyttää kahta tiliä samanaikaisesti</string>
+  <string name="xspace_guide_description">"Jokainen tili
+ansaitsee oman sovelluksensa"</string>
+  <string name="xspace_guide_title">Kokeile kaksoissovellusta</string>
   <string name="xspace_header">Kaksoissovellukset</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_install_completed">Kuvake lisätty Aloitusnäytölle</string>

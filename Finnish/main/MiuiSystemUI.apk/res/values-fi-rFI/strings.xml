@@ -1137,7 +1137,7 @@ Looks like credential storage isn't enabled."</string>
      <string name="quick_settings_rssi_emergency_only">Vain hätäpuhelut</string>
      <string name="quick_settings_rssi_label">RSSI</string>
      <string name="quick_settings_screenbutton_label">Painikkeet</string>
-     <string name="quick_settings_screenlock_label">Lukitse näyttö</string>
+     <string name="quick_settings_screenlock_label">Lukitse</string>
      <string name="quick_settings_screenshot_label">Kuvakaappaus</string>
      <string name="quick_settings_secondary_label_until">%s asti</string>
      <string name="quick_settings_settings_label">Asetukset</string>
@@ -1635,9 +1635,9 @@ Siirtonopeus"</string>
   <string name="connected_via_passpoint">Yhdistetty seuraavan kautta: %1$s</string>
   <string name="content_description_menu_button">Valikko</string>
   <string name="convert_to_fbe_warning">"Muunna dataosio tiedostopohjaiseksi salaukseksi.
-Varoitus! Kaikki tiedot poistetaan.
+!!Varoitus!! Kaikki tiedot poistetaan.
 Tämä ominaisuus on alfavaiheessa eikä välttämättä toimi oikein.
-Jatka painamalla Poista ja muunna…"</string>
+Jatka painamalla 'Poista ja muunna…'"</string>
   <string name="convert_to_file_encryption">Muunna tiedostojen salaukseksi</string>
   <string name="convert_to_file_encryption_done">Tiedostot on salattu</string>
   <string name="convert_to_file_encryption_enabled">Muunna…</string>

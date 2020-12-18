@@ -2820,9 +2820,9 @@ Tämän toiminnon voi poistaa käytöstä Asetuksissa."</string>
   <string name="controls_subtitle">Säädä virrankäyttöä</string>
   <string name="convenience_key_category_title">Järjestelmän hallinta</string>
   <string name="convert_to_fbe_warning">"Muunna dataosio tiedostopohjaiseksi salaukseksi.
-Varoitus! Kaikki tiedot poistetaan.
+!!Varoitus!! Kaikki tiedot poistetaan.
 Tämä ominaisuus on alfavaiheessa eikä välttämättä toimi oikein.
-Jatka painamalla Poista ja muunna…"</string>
+Jatka painamalla 'Poista ja muunna…'"</string>
   <string name="convert_to_file_encryption">Muunna tiedostojen salaukseksi</string>
   <string name="convert_to_file_encryption_done">Tiedostot on jo salattu.</string>
   <string name="convert_to_file_encryption_enabled">Muunna…</string>
@@ -8453,7 +8453,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "<b>Takaisin</b>.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud synkronoi kuvasi, varmuuskopioi sovelluksesi ja asetuksesi ja auttaa sinua löytämään puhelimesi käyttäen Etsi laite -toimintoa.</string>
   <string name="xiaomi_cloud_service_disabled">Pois käytöstä</string>
   <string name="xiaomi_cloud_service_unknown">Tuntematon</string>
-  <string name="xiaomi_money_service">Mi Krediitti</string>
+  <string name="xiaomi_money_service">Mi Kolikot</string>
   <string name="xiaomi_router_available_notif_summary">Näytä lisää tietoa napauttamalla.</string>
   <string name="xiaomi_router_available_notif_title">Mi Reititin saatavilla</string>
   <string name="xiaomi_router_notif_summary">Ilmoita minulle, kun Mi Reititin on saatavilla</string>
