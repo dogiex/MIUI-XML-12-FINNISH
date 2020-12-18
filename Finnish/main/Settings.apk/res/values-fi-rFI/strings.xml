@@ -2425,7 +2425,7 @@ Siirtonopeus"</string>
   <string name="bootloader_status_locked">Lukittu</string>
   <string name="bootloader_status_locked_info">Tämä laite on lukittu</string>
   <string name="bootloader_status_locked_summary">Puhelin on turvassa</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlockin tulee saada Mi-tilisi, CPU ID:si, IMEI:si, IMSI:si käyttöoikeus toimiakseen oikein. Keräämme, käytämme ja käsittelemme tietojasi %s mukaisesti. Hyväksytkö?</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlockin tulee saada Mi-tilisi, CPU ID:si, IMSI:si käyttöoikeus toimiakseen oikein. Keräämme, käytämme ja käsittelemme tietojasi %s mukaisesti. Hyväksytkö?</string>
   <string name="bootloader_status_privacy_dialog_no">Peruuta</string>
   <string name="bootloader_status_privacy_dialog_title">Käyttöoikeuksia vaaditaan</string>
   <string name="bootloader_status_privacy_dialog_url_text">Tietosuojakäytäntö</string>
