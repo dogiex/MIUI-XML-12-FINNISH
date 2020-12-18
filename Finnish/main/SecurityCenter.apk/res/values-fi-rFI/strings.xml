@@ -2128,7 +2128,7 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gb_advance_settings_edge_gear4">Suuri</string>
   <string name="gb_advance_settings_edge_suppression">Kosketusta rajoitettu alue</string>
   <string name="gb_advance_settings_edge_suppression_summary">Rajoita kosketusherkkyyttä reunojen lähellä välttääksesi kosketusohjainten painallukset. Pidä laitettasi korostetuilta alueilta, jotta et tuki kaiuttimia.</string>
-  <string name="gb_advance_settings_finger_up">Toistuvien napautuksien herkkyys</string>
+  <string name="gb_advance_settings_finger_up">Herkkyys jatkuville napautuksille</string>
   <string name="gb_advance_settings_follow_up">Kosketusvaste</string>
   <string name="gb_advance_settings_reset">Palauta oletusasetukset</string>
   <string name="gb_advance_settings_reset_dialog_content">Palautetaanko oletusasetukset nyt?</string>
