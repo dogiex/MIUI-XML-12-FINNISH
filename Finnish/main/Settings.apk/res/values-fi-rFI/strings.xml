@@ -188,7 +188,7 @@ To improve device experience, apps and services can still scan for nearby device
      <string name="classic_mode_summary">Switch to warmer colors to reduce the amount of blue light</string>
      <string name="classic_mode_title">Classic</string>
      <string name="clear_all_data">Erase all data</string>
-     <string name="clear_data_alert_info">All backups stored on this device will be deleted permanently. Back up important items to your computer and Xiaomi Cloud before you continue.</string>
+     <string name="clear_data_alert_info">All backups stored on this device will be deleted permanently. Back up important items to your computer and Xiaomi Cloud before performing a factory reset.</string>
      <string name="clear_phone_data_category">Erase the following items</string>
      <string name="cloud_category_text">Cloud</string>
      <string name="cloud_restore_section_summary_new">Back up Home screen layout, apps, system settings, and more</string>
@@ -260,14 +260,14 @@ To improve device experience, apps and services can still scan for nearby device
      <string name="device_oaid_desc">Instead of your unique identifier, MIUI will provide a virtual ID (OAID) to installed apps. It prevents apps from tracking your behavior and preferences, and protects your privacy.</string>
      <string name="device_oaid_title">Virtual ID</string>
      <string name="device_of_someone">"%1$s's %2$s"</string>
-     <string name="device_opcust_version">Customized version</string>
+     <string name="device_opcust_version">Operator version</string>
      <string name="devices_title">Devices</string>
      <string name="dialog_background_check_message">"Your phone can't manage battery normally because %1$s keeps waking up your phone.
 
 To try to fix this issue, you can stop %1$s and prevent it from running in the background."</string>
      <string name="dialog_background_check_ok">Turn off</string>
      <string name="dialog_background_check_title">Turn off background usage &amp; stop app?</string>
-     <string name="dialog_backup_title">Update backups before performing the factory reset?</string>
+     <string name="dialog_backup_title">Back up items first?</string>
      <string name="dialog_check_button_negative">Try again</string>
      <string name="dialog_check_button_positive">Connect to WLAN</string>
      <string name="dialog_check_context">"Your device can't connect to the internet now.
