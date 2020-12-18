@@ -3923,7 +3923,7 @@ Lisää saldoa napauttamalla."</string>
   <string name="virus_wait_network_dialog_message">Puhelimesi ei ole nyt yhteydessä Wi-Fi-verkkoon. Käytetäänkö mobiilitiedonsiirtoa?</string>
   <string name="voltage_symbol">V</string>
   <string name="vtb_func_desc">Tietoja tästä ominaisuudesta</string>
-  <string name="vtb_func_display_style_desc1">Valittuja tehosteita ei käytetä HDR-videoihin.</string>
+  <string name="vtb_func_display_style_desc1">Valittuja tehosteita ei käytetä HDR-videoihin valituilla laitteilla.</string>
   <string name="vtb_func_display_style_desc2">Näitä tehosteita ei voi käyttää kuvakaappauksiin.</string>
   <string name="vtb_func_frc_desc0">Liikkeen tasoitus vähentää epäterävyyttä ja lisää yksityiskohtia liikkuviin kohteisiin. Tämän ominaisuuden käyttäminen lisää virrankulutusta.</string>
   <string name="vtb_func_frc_desc1">Liikkeen tasoitus ei toimi seuraavissa olosuhteissa:</string>

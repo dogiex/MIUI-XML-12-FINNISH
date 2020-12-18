@@ -470,7 +470,7 @@
   <string name="dlg_info_creating_message">Luodaan viestiä…</string>
   <string name="dlg_message_password_reset">Piilotettujen muistioiden salasana korvataan Yksityisyydensuojan salasanalla, joka toimii myös viesteihin, kuviin, ja piilotettuihin kansioihin</string>
   <string name="dlg_message_set_password">Yksityisyydensuojan salasana toimii viesteihin, kuviin, ja piilotettuihin kansioihin</string>
-  <string name="dlg_message_use_privacy_password">Käytä Yksityisyydensuojan salasanaa. Se toimii viesteihin, kuviin, ja piilotettuihin kansioihin</string>
+  <string name="dlg_message_use_privacy_password">Käytä Yksityisyydensuojan salasanaa. Se toimii viesteihin, kuviin, ja piilotettuihin kansioihin.</string>
   <string name="dlg_move_message">Siirretään…</string>
   <string name="dlg_quick_delete_title">Nopea poistaminen</string>
   <string name="dlg_restore_message">Palautetaan…</string>

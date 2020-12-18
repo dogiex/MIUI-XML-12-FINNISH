@@ -372,7 +372,7 @@
   <string name="talk_back_water_mark_string2">Paina ja pidä pohjassa \"Äänenvoimakkuus+\" ja \"Äänenvoimakkuus-\" kolmen sekunnin ajan poistaaksesi sen käytöstä</string>
   <string name="throwing_print">Tulosta</string>
   <string name="throwing_screen">Suoratoista</string>
-  <string name="tips_prompt_enable_midrop">Jaa tiedostoja lähellä olevien laitteiden kanssa</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="total">Älä häiritse</string>
   <string name="total_description">Mykistää äänet ja poistaa värinän käytöstä kaikilta kohteilta paitsi herätyskellolta</string>
   <string name="total_title">Älä häiritse</string>
