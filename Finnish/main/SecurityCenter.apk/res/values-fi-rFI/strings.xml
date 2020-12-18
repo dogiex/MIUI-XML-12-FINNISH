@@ -2195,8 +2195,8 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="gb_shortcut_pref_title">Aloitusnäytön pikakuvake</string>
   <string name="gb_sign_gift">Kirjaudu sisään saadaksesi palkintoja</string>
   <string name="gb_sign_gift_button_text">Vastaanota</string>
-  <string name="gb_sign_notification_summary">Kirjaudu sisään päivittäin vastaanottaaksesi Xunyou parannuksen</string>
-  <string name="gb_sign_notification_title">Paranna verkon nopeutta pelejä varten</string>
+  <string name="gb_sign_notification_summary">Pelaa pelejä ilman verkon viivettä</string>
+  <string name="gb_sign_notification_title">Kokeile Game Turboa ilmaiseksi</string>
   <string name="gb_signed_gift_loading_fail">Ei voitu ladata</string>
   <string name="gb_signed_gift_loading_summary">Odota hetki…</string>
   <string name="gb_signed_title">Kirjauduttu sisään tässä kuussa</string>

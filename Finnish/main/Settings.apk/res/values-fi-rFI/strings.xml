@@ -3386,7 +3386,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dual_wifi_switching_prompt">Vaihdetaan verkkojen välillä</string>
   <string name="dual_wifi_switching_summary">Dual band Wi-Fi-nopeuttajan on käytettävä kahta eri Wi-Fi-kaistaa. Jos yhdistät toiseen pääverkkoon, yhteys apuverkkoon katkaistaan.</string>
   <string name="dump_log">Hae ongelmaan liittyvät lokit</string>
-  <string name="dump_log_summary">"Tämä toiminto on luotu luomaan 284 lokin MIUI:n Alpha- ja Beta-versioissa. Käytä sitä varoen.
+  <string name="dump_log_summary">"Tämä toiminto on luotu luomaan 284 lokin MIUI:n Beta-versiossa. Käytä sitä varoen.
 Voit katsoa luotuja lokeja Tiedostohallinnassa."</string>
   <string name="dump_log_title">Tietoja tästä toiminnosta</string>
   <string name="edge_mode_back">Palaa takaisin</string>
