@@ -1883,7 +1883,7 @@ Sinun täytyy lukea ja hyväksyä meidän Tietosuojakäytäntö ennen tämän om
   <string name="exit">Poistu</string>
   <string name="exit_dialog_garbage_clean_message">Laitteessasi olevien roskien koko on yli %s. Puhdistetaanko roskat?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Puhdista</string>
-  <string name="exit_dialog_garbage_clean_title">Puhdista roskat</string>
+  <string name="exit_dialog_garbage_clean_title">Vapauta tallennustilaa</string>
   <string name="exit_dialog_homepage_optimise_message">Laitteesi suorituskykypisteet on alle 80 pistettä. Optimoidaanko nyt?</string>
   <string name="exit_dialog_release_storage_message">Laitteesi tallennustilasta on enemmän kuin 80% käytössä. Vapauta tilaa poistamalla sovelluksia, joita et käytä.</string>
   <string name="exit_dialog_release_storage_positive_button">Vapauta tilaa</string>
@@ -3160,7 +3160,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="renew_now">Uusi</string>
   <string name="repair">Korjaa</string>
   <string name="repair_loading_text">Odota hetki…</string>
-  <string name="repeated_marked_number_summary">Älä estä toista puhelua samasta ilmoitetusta numerosta, jos ne ovat 3 minuutin sisällä toisistaan</string>
+  <string name="repeated_marked_number_summary">Älä estä toista puhelua samasta ilmoitetusta numerosta, jos ne ovat %d minuutin sisällä toisistaan</string>
   <string name="repeated_marked_number_title">Älä estä toistuvia puheluita ilmoitetuista numeroista</string>
   <string name="replace_dns">Korvaa DNS automaattisesti</string>
   <string name="report">Ilmoita</string>
@@ -3398,7 +3398,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_msg_settings">Tekstiviestien estolista</string>
   <string name="st_msg_stranger_group">Estä viestit tuntemattomilta</string>
   <string name="st_settings_name">Estolistan asetukset</string>
-  <string name="st_share_settings">Käytä SIM 1 asetuksia</string>
+  <string name="st_share_settings">Käytä SIM %d asetuksia</string>
   <string name="st_sub_title_customize_mode_name">Nimi</string>
   <string name="st_sub_title_whiteblack_list_group">Estolista</string>
   <string name="st_sum_call_wait">Poissaoloviestisi toistetaan myös varattu-signaalina saapuville puheluille.</string>

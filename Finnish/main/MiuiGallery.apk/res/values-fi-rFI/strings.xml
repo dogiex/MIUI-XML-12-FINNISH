@@ -1210,7 +1210,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="burst_image_download_item_title" formatted="false">Lataa alkuperäinen (%s|%s)</string>
   <string name="burst_preview_title">Sarjakuva</string>
   <string name="burst_save_all">Pidä kaikki kuvat</string>
-  <string name="burst_save_choice_title" formatted="false">Valittuna %d/%d</string>
+  <string name="burst_save_choice_title">Valittuna %1$d/%2$d</string>
   <string name="burst_save_error_msg">Ei voitu tallentaa</string>
   <string name="burst_save_processing">Käsitellään…</string>
   <string name="buy_member_tip">Ryhdy jäseneksi</string>
