@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -115,7 +115,7 @@
   <string name="account_crop_user_avatar">Rajaa kuva</string>
   <string name="account_empty_user_name">Syötä Mi-tilisi käyttäjänimi</string>
   <string name="account_error_all_space_user_name">Nimi ei voi sisältää vain välilyöntimerkkejä</string>
-  <string name="account_error_invalid_user_name">Nimi ei voi sisältää &lt;, &gt;, /</string>
+  <string name="account_error_invalid_user_name">Nimi ei voi sisältää &lt;, >, /</string>
   <string name="account_error_longer_user_name">Nimi ei saa ylittää 20 merkkiä</string>
   <string name="account_error_shorter_user_name">Nimen pitää olla pidempi, kuin 2 merkkiä</string>
   <string name="account_error_user_birthday">Syöttämäsi syntymäpäivä on virheellinen</string>
@@ -180,7 +180,7 @@ Voit nyt kirjautua Mi-tilillesi käyttäen %s."</string>
   <string name="change_phone_number">Vaihda puhelinnumero</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Generoi diagnostiikkaloki</string>
-  <string name="com_facebook_device_auth_instructions">Vieraile osoitteessa facebook.com/device ja syötä yllä näkyvä koodi.</string>
+  <string name="com_facebook_device_auth_instructions">Vieraile osoitteessa &lt;b>facebook.com/device&lt;/b> ja syötä yllä näkyvä koodi.</string>
   <string name="com_facebook_image_download_unknown_error">Odottamaton virhe kuvan lataamisessa.</string>
   <string name="com_facebook_internet_permission_error_message">WebView-kirjautuminen vaatii internetin käyttöoikeuden</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest Virhe</string>
@@ -329,7 +329,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="notify_network_restricted_title">Mi-tili ei saa yhteyttä verkkoon</string>
   <string name="oauth_get_scopes_failed">Tilitietojen haku epäonnistui</string>
   <string name="oauth_getting_scopes">Todennetaan tiliä…</string>
-  <string name="oauth_scopes_intro">%2$s saa seuraavat käyttöoikeudet: %3$s</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> saa seuraavat käyttöoikeudet:&lt;br> &lt;br> %3$s</string>
   <string name="oauth_title">Kirjaudu Mi-tilillä</string>
   <string name="ok">OK</string>
   <string name="optional_permissions">Valinnaiset käyttöoikeudet</string>
@@ -355,7 +355,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_barcode_add_account_prompt">Yhdistä tili skannaamalla QR-koodi uudelleen kirjautumisen jälkeen.</string>
   <string name="passport_btn_change_account">Vaihda tiliä</string>
   <string name="passport_can_not_receive_verification_code">Etkö saa vahvistuskoodia?</string>
-  <string name="passport_change_account">&lt;u&gt;Vaihda tiliä&lt;/u&gt;</string>
+  <string name="passport_change_account"><u>Vaihda tiliä</u></string>
   <string name="passport_change_phone_number">Vaihda numeroita</string>
   <string name="passport_checking_account">Tarkistetaan salasanaa…</string>
   <string name="passport_checking_input">Tarkistetaan…</string>
@@ -363,7 +363,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_completed">Valmis</string>
   <string name="passport_confirm_login">Kirjaudu sisään</string>
   <string name="passport_confirm_recycle_account">Kyllä</string>
-  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Näyttää siltä&lt;/font&gt;, että numero %s on kierrätetty operaattorisi toimesta ja Mi-tili on liitettynä siihen. Onko tämä tili sinun?</string>
+  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Näyttää siltä&lt;/font>, että numero %s on kierrätetty operaattorisi toimesta ja Mi-tili on liitettynä siihen. Onko tämä tili sinun?</string>
   <string name="passport_continue">Jatka</string>
   <string name="passport_copy_message_text_success">Kopioitu onnistuneesti</string>
   <string name="passport_copy_message_vcode">Kopioi koodi</string>
@@ -401,12 +401,12 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_failed_to_send_activate_email">Aktivointisähköpostin lähettäminen epäonnistui</string>
   <string name="passport_find_password_on_web_msg">Palauta salasanasi osoitteessa account.mi.com.</string>
   <string name="passport_first_login_prompt">Mi-tili luodaan automaattisesti, kun käytät puhelinnumeroasi ensimmäisen kerran.</string>
-  <string name="passport_forget_password">Unohtuiko salasana</string>
+  <string name="passport_forget_password"><u>Unohtuiko salasana</u></string>
   <string name="passport_forget_password_no_underline">Unohtuiko salasana</string>
   <string name="passport_get_back_pwd">Palauta tilin salasana</string>
   <string name="passport_get_innetdate_agree">Tarkista</string>
   <string name="passport_get_innetdate_disagree">Ei</string>
-  <string name="passport_get_innetdate_msg">Näyttää siltä, että numero %s on kierrätetty operaattorisi toimesta. Tarkistetaanko milloin numero on tullut verkkoon?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Näyttää siltä&lt;/font>, että numero %s on kierrätetty operaattorisi toimesta. Tarkistetaanko milloin numero on tullut verkkoon?</string>
   <string name="passport_get_innetdate_title">Tarkista milloin numero on tullut verkkoon</string>
   <string name="passport_get_verify_code">Hae koodi</string>
   <string name="passport_getting_activator_phone">Haetaan SIM-tietoja…</string>
@@ -459,7 +459,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_quick_login_step2_title">2-vaiheinen vahvistus</string>
   <string name="passport_quick_login_title">Syötä salasanasi</string>
   <string name="passport_quick_register">Rekisteröidy</string>
-  <string name="passport_quick_register_notice">Eikö sinulla ole Mi-tiliä? Luo sellainen.</string>
+  <string name="passport_quick_register_notice"><u>Eikö sinulla ole Mi-tiliä? Luo sellainen.</u></string>
   <string name="passport_re_get_verify_code">Hae koodi uudelleen</string>
   <string name="passport_re_register">Luo tili uudelleen</string>
   <string name="passport_recycle_account_prompt">Onko tämä Mi-tilisi?</string>
@@ -473,7 +473,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_reg_success">Tili luotu</string>
   <string name="passport_reg_success_summary">%1$s on liitetty tiliisi. Voit käyttää sitä kirjautimiseen tai salasanasi palauttamiseen.</string>
   <string name="passport_reg_type_email">Sähköpostiosoite</string>
-  <string name="passport_reg_using_other_phone">Käytä vaihtoehtoista puhelinnumeroa</string>
+  <string name="passport_reg_using_other_phone"><u>Käytä vaihtoehtoista puhelinnumeroa</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Luo uusi tili käyttäen "</string>
   <string name="passport_reg_using_phone_number_prompt">Luo tili käyttäen puhelinnumeroa</string>
   <string name="passport_reg_via_sms_alert">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
@@ -481,7 +481,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_register">Luo tili</string>
   <string name="passport_register_account_goto_email">Mene sähköpostiisi</string>
   <string name="passport_register_account_verified_confirm">Tili vahvistettu</string>
-  <string name="passport_register_by_email">Luo tili käyttäen sähköpostiosoitetta</string>
+  <string name="passport_register_by_email"><u>Luo tili käyttäen sähköpostiosoitetta</u></string>
   <string name="passport_register_restricted">Liian monta tiliä on liitettynä tämän numeron kanssa, kokeile toista</string>
   <string name="passport_register_restricted_title">Tätä puhelinnumeroa ei voi käyttää</string>
   <string name="passport_register_using_other_ways">Muita tapoja luoda tili</string>
@@ -529,7 +529,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="passport_use_generated_pwd_message">Varmista, että muistat salasanasi. Voit käyttää sitä muiden Mi palveluiden kirjautumiseen.</string>
   <string name="passport_use_generated_pwd_title">Muista salasanasi!</string>
   <string name="passport_user_agreement">Käyttäjäsopimus</string>
-  <string name="passport_user_agreement_link"><Data>"Olen lukenut ja hyväksyn Xiaomin &lt;a href=%1$s&gt;Käyttöehdot&lt;/a&gt; ja &lt;a href=%2$s&gt;Tietosuojakäytännön&lt;/a&gt;."</Data></string>
+  <string name="passport_user_agreement_link"><Data>Olen lukenut ja hyväksyn Xiaomin &lt;a href=%1$s>Käyttöehdot&lt;/a> ja &lt;a href=%2$s>Tietosuojakäytännön&lt;/a>.</Data></string>
   <string name="passport_user_agreement_required">Käyttöehdot (pakollinen)</string>
   <string name="passport_user_id_notice">Mi-tilisi ID on %s.</string>
   <string name="passport_user_reg_region">Maa/Alue</string>

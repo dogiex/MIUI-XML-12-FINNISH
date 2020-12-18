@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="home_search_bar_app">Search bar provider</string>
-     <string name="home_search_gesture_app">Swipe up search provider</string>
+  <string name="home_search_bar_app">Hakupalkin tarjoaja</string>
+     <string name="home_search_gesture_app">Pyyhkäise ylös -haun tarjoaja</string>
      <string name="status_bar_notification_info_overflow">999+</string>
   <string name="add">Lisää</string>
   <string name="app_name">Xiaomi.eu -laajennus</string>

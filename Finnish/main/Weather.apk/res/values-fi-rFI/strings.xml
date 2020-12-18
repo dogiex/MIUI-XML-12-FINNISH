@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abrupt_weather_alert_channel_name">Weather alerts</string>
      <string name="accessibility_ad_close">关闭推荐内容</string>

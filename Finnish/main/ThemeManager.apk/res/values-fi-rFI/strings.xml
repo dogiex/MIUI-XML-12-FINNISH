@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
      <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>

@@ -7622,7 +7622,7 @@ tai kuulokkeita, joissa on 3,5 mm liitin."</string>
   <string name="use_otg_file_transfers_summary">Hitaampi 500 mA lataus ja tiedostojen siirtäminen</string>
   <string name="use_otg_title">USB On-The-Go</string>
   <string name="use_personalized_ad_service">Henkilökohtaiset mainossuositukset</string>
-  <string name="use_personalized_ad_service_summary">Kun suositusominaisuus on pois käytöstä, näet silti saman määrän mainoksia, mutta et sinun käyttäytymistietojesi tai henkilökohtaisten tietojesi perusteella olevia mainoksia.</string>
+  <string name="use_personalized_ad_service_summary">Kun räätälöidyt mainossuositukset eivät ole käytössä, näet edelleen saman määrän mainoksia kuin ominaisuuden ollessa käytössä. Mainokset eivät kuitenkaan ole enää merkityksellisiä, koska ne eivät perustu henkilökohtaisiin mieltymyksiisi.</string>
   <string name="use_privacy_password_immediate">Käytä</string>
   <string name="use_system_language_to_select_input_method_subtypes">Käytä järjestelmän kieltä</string>
   <string name="use_this_wlan">Käytä tätä Wi-Fi-yhteyttä</string>

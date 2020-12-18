@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="channel_service">Updater Background Service</string>
-     <string name="notif_service_summary">Hold to disable \"Background Service\" notification!</string>
-     <string name="notif_service_title">App is running in background…</string>
+  <string name="channel_service">Päivittäjän taustapalvelu</string>
+  <string name="notif_service_summary">Pidä pohjassa poistaaksesi \"Taustapalvelu\" -ilmoituksen käytöstä!</string>
+     <string name="notif_service_title">Sovellus on käynnissä taustalla…</string>
   <string name="app_name">Päivittäjä</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;Liitä laturisi&lt;/font&gt;</string>
+  <string name="battery_islow">&lt;font color=#f37981>Liitä laturisi&lt;/font></string>
   <string name="battery_islow_desc">Akun taso on liian alhainen zip-tiedoston turvallista asentamista varten. Liitä laturisi ja yritä myöhemmin uudelleen!</string>
   <string name="btn_changelog">Muutosloki</string>
   <string name="btn_download">Lataa (%1$s)</string>
@@ -35,7 +35,7 @@
   <string name="downloading">Ladataan:</string>
   <string name="downloading_desc">Lataaminen on käynnissä, tarkista tila ilmoitusalueella.</string>
   <string name="fetching_data">Noudetaan latauslinkkiä, odota hetki…</string>
-  <string name="install_desc">Laite käynnistyy uudelleen Recoverytilaan ja asentaa valitun tiedoston: %1$s"
+  <string name="install_desc">Laite käynnistyy uudelleen Recoverytilaan ja asentaa valitun tiedoston: <b>%1$s</b>"
 Tietoja ei poisteta."</string>
   <string name="install_title">Haluatko varmasti jatkaa?</string>
   <string name="menu_title_current_version_log">Mitä on uutta?</string>
