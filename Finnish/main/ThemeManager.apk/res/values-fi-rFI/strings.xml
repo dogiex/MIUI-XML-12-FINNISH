@@ -697,7 +697,7 @@ mm"</string>
   <string name="change_host_hint">Vaihda isäntää</string>
   <string name="change_wallpaper">Taustakuva</string>
   <string name="character_counter_content_description">Merkkejä syötetty %1$d/%2$d</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="check_has_new_version">Päivitys saatavilla</string>
   <string name="classification_more_understand_you">Valitse suosikki kategoriasi</string>
   <string name="close">Sulje</string>
