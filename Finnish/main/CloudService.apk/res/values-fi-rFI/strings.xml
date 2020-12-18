@@ -254,7 +254,7 @@ Sijaintitietoja ei ehkä ilmoiteta, jos verkkoyhteys on heikko."</string>
 Paikanna ja lukitse laitteesi, mikäli kadotat sen."</string>
   <string name="micloud_dspt_provision">Käytä Xiaomi Cloudia datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
   <string name="micloud_dspt_provision_xms">Käytä Xiaomi Cloudia tietojen synkronointiin.</string>
-  <string name="micloud_find_device_close_alert_content">Jos poistat Etsi laite -ominaisuuden käytöstä, et voi enää paikantaa laitettasi käyttäen tätä ominaisuutta. Jos puhelimesi tukee NFC:tä, kaikki pankkikorttisi ja avainkorttisi poistetaan Mi Pay:stä.</string>
+  <string name="micloud_find_device_close_alert_content">Jos poistat Etsi laite -ominaisuuden käytöstä, et voi enää paikantaa laitettasi käyttäen tätä ominaisuutta. Jos laitteesi tukee NFC:tä, kaikki pankkikorttisi ja avainkorttisi poistetaan Mi Pay:stä. Ihmiset, joiden kanssa jaat sijainnin, eivät myöskään voi saada päivityksiä sijainnistasi.</string>
   <string name="micloud_find_device_close_alert_negtive">Poista käytöstä siitä huolimatta</string>
   <string name="micloud_find_device_close_alert_positive">Pidä käytössä</string>
   <string name="micloud_find_device_close_alert_title">Poistetaanko Etsi laite käytöstä?</string>
