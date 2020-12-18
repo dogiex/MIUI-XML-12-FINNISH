@@ -59,8 +59,8 @@
   <string name="altitude_uncalibrate_tip">Kalibroimaton tieto</string>
   <string name="altitude_unit">m</string>
   <string name="angle">%.0f</string>
-  <string name="app_description_content">Kompassia käytetään navigointiin ja suuntaamiseen ja näyttää sinulle suunnan. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
-  <string name="app_description_title">Tietoja kompassista</string>
+  <string name="app_description_content">Kompassi on järjestelmäsovellus. Et voi käyttää sitä suunnan, koordinaattien, ilmanpaineen tai nykyisen korkeuden tarkistamiseen asennuksen poistamisen jälkeen.</string>
+  <string name="app_description_title">Poistetaanko Kompassi?</string>
   <string name="app_label">Kompassi</string>
   <string name="calibrate_failed">Korkeuden kalibrointi epäonnistui</string>
   <string name="calibrate_failed_no_location">Ei voi kalibroida</string>

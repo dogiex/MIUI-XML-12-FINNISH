@@ -914,7 +914,7 @@ Transcoding might take some time when you use this feature for the first time."<
   <string name="throwing_screen">Suoratoista</string>
   <string name="thumbnail_build_error">Esikatselukuvaa ei voitu ladata</string>
   <string name="thumbnail_error_log_cleared">Puhdistus onnistui</string>
-  <string name="tips_prompt_enable_midrop">Jaa tiedostoja lähellä olevien laitteiden kanssa</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="unrecognized_manufacture">Tuntematon</string>
   <string name="unrecognized_model">Tuntematon laite</string>
   <string name="added_to_favorites_desc">Lisättiin suosikkeihin</string>

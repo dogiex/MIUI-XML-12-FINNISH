@@ -43,9 +43,9 @@
   <string name="refocus_save_to_video">Tallenna videona</string>
   <string name="refocus_saving">Tallennetaan…</string>
   <string name="refocus_title">Sumenna</string>
-  <string name="refocus_type_relighting">Studiovalaistus</string>
+  <string name="refocus_type_relighting">Studio</string>
   <string name="refocus_type_relighting_no_face">Kasvoja ei löytynyt</string>
   <string name="refocus_type_relighting_small_face">Studiovalaistus toimii kuviin, joissa kasvot vievät eniten tilaa.</string>
-  <string name="refocus_type_static">Sumennustaso</string>
+  <string name="refocus_type_static">Sumenna</string>
   <string name="refocus_type_video">Valon jäljet</string>
 </resources>
