@@ -7689,9 +7689,9 @@ Kaikki käyttäjät voivat päivittää sovelluksia muille käyttäjille."</stri
   <string name="user_exit_guest_confirm_title">Poistetaanko vieras?</string>
   <string name="user_exit_guest_dialog_remove">Poista</string>
   <string name="user_exit_guest_title">Poista vieras</string>
-  <string name="user_experience_program">Käyttäjäkokemusohjelma</string>
-  <string name="user_experience_program_summary">Auta meitä parantamaan tuotteitamme ja palveluitamme jakamalla käyttötilastosi kanssamme</string>
-  <string name="user_experience_program_title">Käyttäjäkokemusohjelma</string>
+  <string name="user_experience_program">Käyttökokemusohjelma</string>
+  <string name="user_experience_program_summary">Anna Xiaomin kerätä ja analysoida käyttäjätietoja tuotteidemme ja palvelujemme parantamiseksi. Lue lisätietoja käyttökokemusohjelmamme ehdoista saadaksesi lisätietoja.</string>
+  <string name="user_experience_program_title">Käyttökokemusohjelma</string>
   <string name="user_guest">Vieras</string>
   <string name="user_image_choose_photo">Valitse kuva</string>
   <string name="user_image_photo_selector">Valitse valokuva</string>

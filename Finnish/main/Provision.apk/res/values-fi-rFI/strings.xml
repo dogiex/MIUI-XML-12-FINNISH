@@ -117,8 +117,9 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
   <string name="next_fingerprint">Seuraava</string>
   <string name="note_introduction">Tällä sovelluksella voit luoda, katsoa ja muokata muistiinpanoja.</string>
   <string name="other_settings">Lisäasetukset</string>
-  <string name="other_settings_ad_dialog_content">"Kun olet poistanut tämän ominaisuuden käytöstä, et enää saa henkilökohtaisia mainoksia. Saat kuitenkin silti mainoksia, joilla ei ole merkitystä kiinnostuksen kohteidesi suhteen. Lisätietoja henkilökohtaisista mainoksista on Xiaomin tietosuojakäytännössä.
-Poistetaanko henkilökohtaiset mainokset käytöstä joka tapauksessa?"</string>
+  <string name="other_settings_ad_dialog_agree">Ota käyttöön</string>
+  <string name="other_settings_ad_dialog_content">Kun räätälöidyt mainossuositukset eivät ole käytössä, näet edelleen saman määrän mainoksia kuin ominaisuuden ollessa päällä. Mainokset eivät kuitenkaan ole enää merkityksellisiä, koska ne eivät perustu henkilökohtaisiin mieltymyksiisi.</string>
+<string name="other_settings_ad_dialog_disagree">Poista käytöstä</string>
   <string name="other_settings_ad_disable_summary">Ota käyttöön henkilökohtaiset mainokset</string>
   <string name="other_settings_ad_enable">Henkilökohtaiset mainokset</string>
   <string name="other_settings_ad_enable_summary">Muokkaa mainoksia kiinnostuksen kohteidesi perusteella</string>
