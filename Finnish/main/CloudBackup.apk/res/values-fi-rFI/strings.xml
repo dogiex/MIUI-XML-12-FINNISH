@@ -116,7 +116,7 @@ Huomaa: Asennettujen sovellusten tietoja (dataa) ei varmuuskopioida Xiaomi Cloud
 *  MIUI ja järjestelmäasetukset
 Huomio: Asennettujen sovellusten datatietoja ei varmuuskopioida Xiaomi Cloudiin. Käytä sitä varten paikallista varmuuskopiointia."</string>
   <string name="cloud_back_up_frequence_choice_title">Varmuuskopion ajastus</string>
-  <string name="cloud_back_up_frequence_long">7 päivän välein</string>
+  <string name="cloud_back_up_frequence_long">%d päivän välein</string>
   <string name="cloud_back_up_frequence_short">Joka päivä</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fi-Verkkoyhteyttä ei voi muodostaa</string>
   <string name="cloud_back_up_ok_btn">OK</string>
