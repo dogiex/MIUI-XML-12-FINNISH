@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="HA_AFFILIATE_ID">1268</string>
      <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
@@ -69,7 +69,7 @@
      <string name="default_filedownloader_notification_title">FileDownloader</string>
      <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
      <string name="define_roundedimageview" />
-     <string name="dialog_privacy_info_new3">"To be able to use this service, you need to allow %1$s to collect, process, and use your personal information in accordance with the Privacy Policy. By tapping \"Agree\" below, you're agreeing to Xiaomi's &lt;a href=%2$s>Privacy Policy&lt;/a> and &lt;a href=%3$s>User Agreement&lt;/a>. &lt;br/>&lt;br/>Tapping \"Agree\" also allows Mi Video to access the list of apps installed on your device. With this permission, Mi Video will be able to share items, understand whether an app is installed on your device, which version of an app is installed, and whether an app is secure."</string>
+     <string name="dialog_privacy_info_new3">"To be able to use this service, you need to allow %1$s to collect, process, and use your personal information in accordance with the Privacy Policy. By tapping \"Agree\" below, you're agreeing to Xiaomi's &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and &lt;a href=%3$s&gt;User Agreement&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Tapping \"Agree\" also allows Mi Video to access the list of apps installed on your device. With this permission, Mi Video will be able to share items, understand whether an app is installed on your device, which version of an app is installed, and whether an app is secure."</string>
      <string name="download">Download</string>
      <string name="download_checking_tip">Preparing to download…</string>
      <string name="download_complete">Downloaded</string>

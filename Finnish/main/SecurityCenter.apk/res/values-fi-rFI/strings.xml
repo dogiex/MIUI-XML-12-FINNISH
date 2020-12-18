@@ -3004,7 +3004,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_settings_number">Prosentti</string>
   <string name="power_settings_saver_title">Virransäästö</string>
   <string name="power_settings_shape">Graafinen</string>
-  <string name="power_settings_title">Aseta</string>
   <string name="power_settings_top">Yläpalkki</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_about_traffic_title">Datan käytön asetukset</string>

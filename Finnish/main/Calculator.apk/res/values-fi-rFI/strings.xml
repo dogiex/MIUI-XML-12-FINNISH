@@ -352,7 +352,7 @@
   <string name="description_title">Tietoja Laskimesta</string>
   <string name="deselect_all">Poista valinnat</string>
   <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
-  <string name="dialog_privacy_content">Laskimen perustoimintojen lisäksi sovelluksemme sisältää tieteellisen laskimen ja monikäyttöisen muuntimen. Jotkut toiminnot tarvitsevat internetyhteyden toimiakseen normaalisti. Sinun täytyy lukea ja hyväksyä meidän %1$s ja %2$s ennen Laskimen käyttämistä.</string>
+  <string name="dialog_privacy_content"><Data>Laskimen perustoimintojen lisäksi sovelluksemme sisältää tieteellisen laskimen ja monikäyttöisen muuntimen. Jotkut toiminnot tarvitsevat internetyhteyden toimiakseen normaalisti. Sinun täytyy lukea ja hyväksyä meidän &amp;lt;a href=\"%1$s\"&amp;gt;Käyttöehdot&amp;lt;/a&amp;gt; ja &amp;lt;a href=\"%2$s\"&amp;gt;Tietosuojakäytäntö&amp;lt;/a&amp;gt; ennen Laskimen käyttämistä.</Data></string>
   <string name="dialog_privacy_title">Käyttöehdot</string>
   <string name="dialog_rating_desc_ask">Mitä mieltä olet Laskimesta?</string>
   <string name="dialog_rating_desc_less">Voisitko antaa meille myös palautetta?</string>
