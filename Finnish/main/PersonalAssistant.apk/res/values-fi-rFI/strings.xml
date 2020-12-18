@@ -582,7 +582,6 @@
      <string name="vertical_separator">|</string>
      <string name="vr_pay_not_support">本次已创建的订单不支持VR支付，建议稍后进入订单列表支付。</string>
   <string name="location_permission_desc">Navigointireittien rakentamiseen ja autonkorjauspalvelujen tarjoamiseen</string>
-  <string name="app_name">miot-device-lib</string>
   <string name="app_setting">Sovellusholvin asetukset</string>
   <string name="app_setting_account">Tilit</string>
   <string name="app_setting_account_binding">Lisää</string>

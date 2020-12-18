@@ -462,7 +462,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="no_sim">SIM-korttia ei löytynyt</string>
   <string name="not_set">Ei asetettu</string>
   <string name="pay_info_dialog_confirm_to_pay">Maksa %s</string>
-  <string name="pay_info_dialog_mibi_balance_prefix">Käytä jäljellä olevia Mi Krediittejä: %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Käytä jäljellä olevia Mi Kolikoita: %s</string>
   <string name="pay_info_dialog_title">Valitse maksutapa</string>
   <string name="phone_number_required_dspt_provision">"Tämä palvelu vaatii puhelinnumerosi. "</string>
   <string name="picker_list_empty">Ei yhteystietoja</string>
