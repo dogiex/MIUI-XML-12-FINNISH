@@ -1582,7 +1582,7 @@ Tarkista seurantanumerosi."</string>
   <string name="search_setting_description">Otsikot suosikeissa</string>
   <string name="search_tip">Haetaan…</string>
   <string name="security">Tietoturva</string>
-  <string name="selected_shortcuts_title">Ominaisuudet</string>
+  <string name="selected_shortcuts_title">Aloitussivu</string>
   <string name="send_action_title">Lisää suosikkeihin</string>
   <string name="send_express">Pikakuljetus</string>
   <string name="service_unavailiable">Yhdistä verkkoon ja yritä uudelleen.</string>

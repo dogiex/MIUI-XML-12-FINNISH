@@ -6875,7 +6875,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>
   <string name="status_bar_settings_qs_layout">Pika-asetuksien ulkoasu</string>
   <string name="status_bar_settings_show_lte_for_4g">Näytä LTE-kuvake 4G:n tilalla</string>
-  <string name="status_bar_settings_show_weather">Näytä sää ilmoitusalueella</string>
+  <string name="status_bar_settings_show_weather">Näytä säätiedot</string>
   <string name="status_bar_settings_status_bar">Tilapalkki</string>
   <string name="status_bar_title">Ohjauskeskus &amp; tilapalkki</string>
   <string name="status_bt_address">Bluetooth-osoite</string>
