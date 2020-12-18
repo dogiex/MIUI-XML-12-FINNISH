@@ -165,7 +165,6 @@ Mi Roaming needs to connect to the internet and access your location info to wor
      <string name="err_dont_install_mipay">Install Mi Pay to complete payment.</string>
      <string name="feedback">Feedback</string>
      <string name="flow_use_analyse">Usage stats</string>
-     <string name="from_account_format">%1$s</string>
      <string name="hide_app_description_content">"Contacts is a system app. You'll still be able to use it via the Phone app after you remove the Home screen shortcut."</string>
      <string name="hide_app_description_title">Remove \"Contacts\" from Home screen?</string>
      <string name="pay_fail">"Couldn't complete payment"</string>
@@ -177,7 +176,6 @@ Mi Roaming needs to connect to the internet and access your location info to wor
      <string name="permission_dailog_title">Permissions required</string>
      <string name="permission_record_audio_desc">For using your voice during ID verification</string>
      <string name="permission_write_external_storage_desc">For saving app data</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
      <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes, and hidden folders.</string>
      <string name="privacy_password_message3">Your password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
@@ -200,8 +198,6 @@ Mi Roaming needs to connect to the internet and access your location info to wor
      <string name="search_open_new_funcation">Turn on</string>
      <string name="search_open_new_funcation_tip">When this feature is on, your calls will be recorded automatically allowing you to find the calls during which certain words were mentioned.</string>
      <string name="search_open_new_funcation_title">Voice call search</string>
-     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="text_msim_balance">Used today</string>
      <string name="text_vsim_remain_time">Remaining minutes</string>
      <string name="undefined">Not set</string>

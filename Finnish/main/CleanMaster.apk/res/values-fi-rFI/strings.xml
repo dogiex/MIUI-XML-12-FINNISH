@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
-     <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
-     <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
-     <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
      <string name="browser_scan_history_desc">Browser History</string>
      <string name="browser_search_history_desc">Searched items</string>
      <string name="call_log">Call Logs</string>
      <string name="clip_board_history_desc">Copied/cut contents</string>
      <string name="clipboard">Clipboard</string>
-     <string name="empty">" "</string>
-     <string name="hints_header_left">%d</string>
      <string name="notification_checker_installed_apk_hint">No need to keep APKs after installation</string>
      <string name="notification_checker_picture_hint_a">Cached images can take up a lot of storage space</string>
      <string name="notification_checker_picture_hint_b">Free up storage space by deleting the items you no longer need</string>
@@ -43,13 +37,7 @@
      <string name="notification_wechat_clean_middle_level_text_a">"WeChat's trash takes up a lot of storage space"</string>
      <string name="notification_wechat_clean_middle_level_text_b">"WeChat's trash slows the app down"</string>
      <string name="phone_search">Google Search</string>
-     <string name="preference_category_information_setting">category_information_setting</string>
-     <string name="preference_key_information_setting_close">key_information_setting_close</string>
-     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
      <string name="preference_key_qqclean_scan_engine">key_qqclean_scan_engine</string>
-     <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
-     <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
-     <string name="preference_key_wechat_garbage_cleanup_auto_check_time">key_wechat_timed_auto_scan_interval</string>
      <string name="privacy_appdata_chrome_history_des">Visited websites</string>
      <string name="search_history">Search history</string>
      <string name="sms">SMS/MMS</string>

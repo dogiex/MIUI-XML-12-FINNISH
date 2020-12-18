@@ -14,8 +14,6 @@
      <string name="error_timeout">Request timed out</string>
      <string name="error_token_expired">Sign in to your Mi Account again</string>
      <string name="error_unsupported">"This feature isn't supported on this device"</string>
-     <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="keybag_dialog_cancel">Cancel</string>
      <string name="keybag_dialog_ok">OK</string>
      <string name="keybag_password_check_screen_lock">Enter screen lock</string>
@@ -40,15 +38,8 @@
      <string name="keybag_set_password_success_get">Got it</string>
      <string name="keybag_set_password_success_tip">"Set successfully. You'll have to enter this passcode on other devices to be able to access the encrypted items."</string>
      <string name="keybag_set_password_title">Attention</string>
-     <string name="ks_key_download_button">ks_key_download_button</string>
-     <string name="ks_key_status">ks_key_status</string>
-     <string name="ks_key_udpate_time">ks_key_udpate_time</string>
-     <string name="ks_key_version">ks_key_version</string>
      <string name="loading_enable_keybag">Turning on Password manager…</string>
      <string name="loading_server_key_info">Loading items…</string>
-     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-     <string name="micloud_footer_international_url">mi.com/micloud</string>
-     <string name="micloud_footer_normal_url">i.mi.com</string>
      <string name="notification_reinstall_key_text">Verify your identity and try again</string>
      <string name="notification_sync_fail_title">"Couldn't sync"</string>
      <string name="notification_update_key_text">Your passcode was reset</string>
@@ -146,8 +137,6 @@
      <string name="share_sdk_user_info_role_organizer">Organizer</string>
      <string name="share_sdk_user_info_role_sharer">Member</string>
      <string name="share_sdk_user_info_wechat_user">WeChat users</string>
-     <string name="sync_dspt_provision2">i.mi.com</string>
-     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
      <string name="sync_item_autofill_summary">Encrypt your passwords and sync them with the cloud automatically</string>
      <string name="sync_item_autofill_title">Sync automatically</string>
      <string name="sync_off_confirm_content">"You won't be able to sync new passwords after turning off Password manager."</string>

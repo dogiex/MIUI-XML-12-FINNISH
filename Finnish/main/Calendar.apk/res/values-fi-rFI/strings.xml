@@ -3,7 +3,6 @@
      <string name="account_type">com.android.calendar</string>
      <string name="click_for_create_event">Click create event for %s</string>
      <string name="click_paste">Click for paste</string>
-     <string name="date_time_fmt">%1$s, %2$s</string>
      <string name="icon_add_description">Add a Home screen shortcut</string>
      <string name="icon_remove_confirm">Remove</string>
      <string name="icon_remove_description_content">"Calendar is a system app. It allows you to create events and manage them. You'll still be able to use Calendar via the Home screen widget ot App vault after you remove the Home screen shortcut."</string>
@@ -23,8 +22,6 @@
      <string name="share_by_wechat_friends">朋友圈</string>
      <string name="share_by_wechat_friends_original">发送到朋友圈</string>
      <string name="share_by_wechat_original">发送给朋友</string>
-     <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
-     <string name="tag_feed_list_container">feed_list_container</string>
   <string name="accessibility_month_page_selected_prefix">Kuukausinäkymä kohteelle %1$d.%2$d. Valittu päivämäärä: %3$d.%4$d.%5$d.</string>
      <string name="accessibility_year_item_selected">Valittu kuukausi: %d. Avaa kuukausinäkymä napauttamalla.</string>
      <string name="accessibility_year_page_selected">Vuosinäkymä kohteelle %d. Pyyhkäise vasemmalle tai oikealle vaihtaaksesi vuosien välillä ja valitse kuukausia napauttamalla.</string>
