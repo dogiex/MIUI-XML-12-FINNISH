@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_one">(1)</string>
+     <string name="directory_info_divider">"  |  "</string>
+     <string name="fileSizeSuffix">%1$s %2$s</string>
+     <string name="launcher_icon_add_description">Lisää aloitusnäytön pikakuvake</string>
+     <string name="launcher_icon_remove_description_content">Tiedostot on järjestelmäsovellus. Et voi hallita laitteesi tiedostoja poistettuasi aloitusnäytön pikakuvakkeen.</string>
+     <string name="launcher_icon_remove_description_title">Poistetaanko \"Tiedostot\" aloitusnäytöltä?</string>
+     <string name="mirror_can_not_drag_mask">Vedä käyttääksesi Mi Share -sovellusta</string>
+     <string name="mirror_new_name">Luo kansio (%s)</string>
+     <string name="mirror_new_name_first">Luo kansio</string>
+     <string name="mirror_paste_no_file">Tätä tiedostoa ei ole olemassa</string>
+     <string name="mirror_progress_copy">Kopioidaan…</string>
+     <string name="mirror_side_bar_tab_app_name">Sovellukset</string>
+     <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
+     <string name="mirror_side_bar_tab_phone_name">Matkapuhelimen tallennustila</string>
+     <string name="mirror_side_bar_tab_recent_name">Äskettäin</string>
+     <string name="mirror_side_bar_tab_type_name">Tiedostot</string>
+     <string name="mirror_storage_internal_desc">Matkapuhelimen tallennustila</string>
+     <string name="mirror_tip_add_file">Luo kansio</string>
+     <string name="mirror_tip_backward">Takaisin</string>
+     <string name="mirror_tip_cloud">Mi Drive</string>
+     <string name="mirror_tip_forward">Eteenpäin</string>
+     <string name="mirror_tip_grid">Ruudukko</string>
+     <string name="mirror_tip_list">Luettelo</string>
+     <string name="mirror_tip_refresh">Päivitä</string>
+     <string name="mirror_tip_show_type">Lajittele</string>
+     <string name="operation_new_folder">Luo kansio</string>
+     <string name="operation_open">Avaa</string>
+     <string name="operation_paste_to_folder">Liitä kansioon</string>
+     <string name="operation_send_to_pc">Siirrä tietokoneelle</string>
      <string name="cancel_msg">Poistetaanko valinnat?</string>
      <string name="des_hide_pwd">隐藏密码</string>
      <string name="des_show_pwd">显示密码</string>
