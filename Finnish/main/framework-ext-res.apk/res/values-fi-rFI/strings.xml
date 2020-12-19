@@ -3,7 +3,6 @@
   <string name="android_config_provision_app_timeout_ms">86400000</string>
   <string name="bottom_bar_smallwindow_text">Kiinnitä vapauttamalla</string>
   <string name="notification_channel_hotspot">Hotspot-ilmoitus</string>
-  <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff>&lt;br/>(%2$s)&lt;/font></string>
   <string name="send_files_by">Jaa tiedostoja käyttäen</string>
   <string name="application_cannot_open_alipay_payment_code">Alipay-maksukoodia ei voitu avata</string>
      <string name="application_cannot_open_alipay_scanner">Alipay-skanneria ei voitu avata</string>

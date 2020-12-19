@@ -4,7 +4,6 @@
      <string name="ai_mode_manual">Manuaalisesti</string>
      <string name="ai_mode_subtitles">Tekstitykset</string>
      <string name="description_incoming_video">Profiilivideo saapuville puheluille</string>
-     <string name="phone_info_divider">" ｜ "</string>
   <string name="description_icon_sim_card">SIM %1$d</string>
   <string name="ai_assistant">AI Call Assistant</string>
   <string name="ai_assistant_not_installed">Asenna ensin AI Call Assistant</string>

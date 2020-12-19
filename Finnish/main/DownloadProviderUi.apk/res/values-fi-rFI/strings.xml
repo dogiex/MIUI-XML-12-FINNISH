@@ -1,16 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_size">%1$s</string>
      <string name="download_description_content">Lataukset on järjestelmäsovellus. Et voi hallita latauksiasi poistamisen jälkeen.</string>
      <string name="download_description_title">Poistetaanko \"Lataukset\" aloitusnäytöltä?</string>
-     <string name="download_num_size">%1$s | %2$s</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="marketSdkVersion">3.2.6</string>
      <string name="thunder_download_speedup">Nopeutetaan käyttäen Xunleita…</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ei nyt</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Päivitä</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Päivitys on saatavilla</string>
-     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="app_name">Asetukset</string>
      <string name="info_rank_show">Suosittele suosittuja kohteita</string>
      <string name="search_app_name">下载管理</string>
