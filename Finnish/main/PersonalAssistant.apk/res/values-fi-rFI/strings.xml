@@ -1480,7 +1480,7 @@ Tarkista seurantanumerosi."</string>
   <string name="payment_pref_enabled_title">Salli maksaminen</string>
   <string name="payment_pref_notification_enabled_title">Ilmoita onnistuneista ja epäonnistuneista tallennuksista</string>
   <string name="payment_pref_privacy_category_title">Yksityisyys</string>
-  <string name="payment_pref_privacy_security_summary">Käytä MIUI:n Yksityisyydensuojan salasanaa piilottaaksesi tilitietosi</string>
+  <string name="payment_pref_privacy_security_summary">Käytä MIUI:n tietosuojasalasanaa piilottaaksesi tilitietosi</string>
   <string name="payment_pref_privacy_security_title">Salasana</string>
   <string name="payment_pref_report_category_title">Ilmoita</string>
   <string name="payment_pref_report_failed_record_title">Ilmoita käsittelemättömät laskut</string>

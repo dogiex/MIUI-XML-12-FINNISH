@@ -84,7 +84,7 @@
      <string name="chinese_symbol_animals_tiger">虎</string>
      <string name="current_rate_remind_commercial" />
      <string name="current_rate_remind_fund" />
-     <string name="date_format">MMM dd, yyyy</string>
+     <string name="date_format">"d. MMMM'ta' yyyy"</string>
      <string name="date_picker_label_day" />
      <string name="date_picker_label_month" />
      <string name="date_picker_label_year" />
@@ -92,9 +92,9 @@
      <string name="default_separator_text">的</string>
      <string name="default_text">我</string>
      <string name="default_web_client_id">724101103579-a7hcqq8g7rq6co2t4jne62mnu3v59j4r.apps.googleusercontent.com</string>
-     <string name="dialog_privacy_disagree_msg">By toggling off the switch, you withdraw your consent to the Privacy Policy of Calculator. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period as required by applicable laws. Calculator needs to collect necessary personal information to provide you with basic services. Your withdrawal of consent to its Privacy Policy will be held as refusing to accept its services based on collected personal information.</string>
-     <string name="dialog_privacy_revoke_btn_ok">Withdraw</string>
-     <string name="dialog_privacy_revoke_title">Withdrawal of consent</string>
+     <string name="dialog_privacy_disagree_msg">Poistamalla valinnan kytkimestä, peruutat suostumuksesi Laskimen tietosuojakäytäntöön. Lopetamme henkilötietojesi keräämisen. Jo kerätyt ja säilytetyt henkilötiedot poistetaan tietyn ajan kuluessa sovellettavien lakien edellyttämällä tavalla. Laskimen on kerättävä tarvittavat henkilökohtaiset tiedot voidakseen tarjota sinulle peruspalveluja. Peruuttamasi suostumus sen tietosuojakäytäntöön katsotaan kieltäytyvän hyväksymästä sen palveluita kerättyjen henkilökohtaisten tietojen perusteella.</string>
+     <string name="dialog_privacy_revoke_btn_ok">Peruuta suostumus</string>
+     <string name="dialog_privacy_revoke_title">Suostumuksen peruuttaminen</string>
      <string name="e_mathematical_value">e</string>
      <string name="earthly_branches_chen">辰</string>
      <string name="earthly_branches_chou">丑</string>
@@ -146,15 +146,15 @@
      <string name="l_digit7">%d</string>
      <string name="l_digit8">%d</string>
      <string name="l_digit9">%d</string>
-     <string name="l_name_discount">Discount (%s off)</string>
+     <string name="l_name_discount">Alennus (%s alennus)</string>
      <string name="localised_number">%d</string>
      <string name="month" />
      <string name="mother">妈妈</string>
-     <string name="new_privacy_string"><Data>"Welcome to Calculator!&lt;br/>This app contains the following features:&lt;br/>• Basic calculator&lt;br/>• Scientific calculator&lt;br/>• Universal converter (e.g. currency, units of measurement, etc.)&lt;br/>• Calculation templates for loans, investment, EMI, and more&lt;br/>Calculator needs to collect necessary personal information to provide you with basic services. You can learn how we handle the information we collect in our &lt;a href= \"%1$s\">Privacy Policy&lt;/a>. Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a> before using Calculator. You can withdraw your consent to the Privacy Policy of Calculator in the Settings at any time. If you don't agree to our Privacy Policy, you won't be able to use some features of this app; however, its basic functionality will still be available to you."</Data></string>
+     <string name="new_privacy_string"><Data>Tervetuloa Laskimeen!&lt;br/>Tämä sovellus sisältää seuraavat ominaisuudet:&lt;br/>• Peruslaskin&lt;br/>• Tieteellinen laskin&lt;br/>• Yleismuunnin (esim. valuutta, mittayksiköt jne.)&lt;br/>• Lainojen, sijoitusten, EMI:n ja muiden laskentamalleja&lt;br/>Laskimen on kerättävä tarvittavat henkilökohtaiset tiedot voidakseen tarjota sinulle peruspalveluja. Voit lukea, kuinka käsittelemme keräämämme tiedot meidän &lt;a href= \"%1$s\">Tietosuojakäytännöstämme&lt;/a>. Lue ja hyväksy meidän &lt;a href=\"%2$s\">Käyttöehdot&lt;/a> ja &lt;a href=\"%3$s\">Tietosuojakäytäntö&lt;/a> ennen Laskimen käyttämistä. Voit milloin tahansa peruuttaa suostumuksesi Laskimen tietosuojakäytäntöön Asetuksissa. Jos et hyväksy tietosuojakäytäntöämme, et voi käyttää joitain tämän sovelluksen ominaisuuksia; sen perustoiminnot ovat kuitenkin edelleen käytettävissäsi.</Data></string>
      <string name="percent" />
-     <string name="privacy_dialog_title">Privacy</string>
-     <string name="privacy_revoke_error">"Couldn't withdraw. Try again."</string>
-     <string name="privacy_revoke_progress">Withdrawing…</string>
+     <string name="privacy_dialog_title">Tietosuoja</string>
+     <string name="privacy_revoke_error">Suostumusta ei voitu peruuttaa. Yritä uudelleen.</string>
+     <string name="privacy_revoke_progress">Peruutetaan suostumusta…</string>
      <string name="project_id">mi-calculator-edb61</string>
      <string name="required_permissions">android.permission.READ_PHONE_STATE;</string>
      <string name="social_security" />
@@ -230,9 +230,9 @@
      <string name="times" />
      <string name="unit_per_ten_thousand">‱</string>
      <string name="unit_times" />
-     <string name="user_experience_program_title">User Experience Program</string>
+     <string name="user_experience_program_title">Käyttökokemusohjelma</string>
      <string name="wife">妻子</string>
-     <string name="withdraw_network_error">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
+     <string name="withdraw_network_error">Laitteesi on muodostettava yhteys verkkoon, jotta voit peruuttaa suostumuksesi. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
      <string name="word_figure_big_unit_fen">分</string>
      <string name="word_figure_big_unit_jiao">角</string>
      <string name="word_figure_big_unit_wan">"万 "</string>

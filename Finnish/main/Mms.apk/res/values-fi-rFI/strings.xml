@@ -1079,12 +1079,12 @@ Tämä viesti saattaa olla ei-toivottu."</string>
   <string name="priority_low">Alhainen</string>
   <string name="priority_normal">Normaali</string>
   <string name="privacy_mode_hint">Viestejä ei voi lähettää Vierastilassa</string>
-  <string name="privacy_password_message1">Yksityisyydensuojan salasana toimii sovelluksissa, muistioissa ja piilotetuissa kansioissa.</string>
-  <string name="privacy_password_message2">Käytä Yksityisyydensuojan salasanaa. Se toimii sovelluksissa, kuvissa, muistioissa ja piilotetuissa kansioissa.</string>
-  <string name="privacy_password_message3">Viestinnän salasana korvataan Yksityisyydensuojan salasanalla, joka toimii sovelluksissa, muistioissa ja piilotetuissa kansioissa.</string>
+  <string name="privacy_password_message1">Tietosuojasalasana toimii sovelluksissa, muistioissa ja piilotetuissa kansioissa.</string>
+  <string name="privacy_password_message2">Käytä tietosuojasalasanaa. Se toimii sovelluksissa, kuvissa, muistioissa ja piilotetuissa kansioissa.</string>
+  <string name="privacy_password_message3">Viestinnän salasana korvataan tietosuojasalasanalla, joka toimii sovelluksissa, muistioissa ja piilotetuissa kansioissa.</string>
   <string name="privacy_password_set_password">Aseta</string>
   <string name="privacy_password_title1">Aseta salasana</string>
-  <string name="privacy_password_title2">Käytä Yksityisyydensuojan salasanaa</string>
+  <string name="privacy_password_title2">Käytä tietosuojasalasanaa</string>
   <string name="privacy_password_title3">Päivitä salasanasi</string>
   <string name="privacy_password_title4">Salasana päivitetty</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>

@@ -442,7 +442,7 @@
   <string name="server_control_settings">Asetukset</string>
   <string name="set_pattern">Salasana päivitettiin</string>
   <string name="set_pattern_btn">Aseta</string>
-  <string name="set_pattern_msg">Aseta salasanasi uudelleen. Yksityisyydensuojan salasana toimii myös kuvissa ja viesteissä.</string>
+  <string name="set_pattern_msg">Aseta salasanasi uudelleen. tietosuojasalasana toimii myös kuvissa ja viesteissä.</string>
   <string name="skip_file">Ohita</string>
   <string name="smb_loading">Odota hetki…</string>
   <string name="sort_hint_name">Lajiteltu nimen mukaan</string>
@@ -489,7 +489,7 @@
   <string name="ui_main_toast_favorite_removed">Poistettu suosikeista</string>
   <string name="ui_main_toast_operation_failed">%1$s ei voi poistaa suosikeista</string>
   <string name="unknown_error">Tapahtui tuntematon virhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
-  <string name="unlock_pattern_msg">Yksityisyydensuojan salasana toimii myös kuvissa ja viesteissä.</string>
+  <string name="unlock_pattern_msg">Tietosuojasalasana toimii myös kuvissa ja viesteissä.</string>
   <string name="unlock_pattern_title">Uusi salasana</string>
   <string name="upload_user_photo">Lähetä</string>
   <string name="usb_label">USB</string>

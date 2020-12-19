@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="account_type">com.android.calendar</string>
-     <string name="click_for_create_event">Click create event for %s</string>
-     <string name="click_paste">Click for paste</string>
-     <string name="icon_add_description">Add a Home screen shortcut</string>
-     <string name="icon_remove_confirm">Remove</string>
-     <string name="icon_remove_description_content">"Calendar is a system app. It allows you to create events and manage them. You'll still be able to use Calendar via the Home screen widget ot App vault after you remove the Home screen shortcut."</string>
-     <string name="icon_remove_description_title">Remove \"Calendar\" from Home screen?</string>
+     <string name="click_for_create_event">Napauta lisätäksesi tapahtuman %s</string>
+     <string name="click_paste">Liitä napauttamalla</string>
+     <string name="icon_add_description">Lisää Aloitusnäytön pikakuvake</string>
+     <string name="icon_remove_confirm">Poista</string>
+     <string name="icon_remove_description_content">Kalenteri on järjestelmäsovellus. Sen avulla voit luoda tapahtumia ja hallita niitä. Pystyt silti käyttämään Kalenteria aloitusnäytön widgetin tai Sovellusholvin kautta, kun olet poistanut aloitusnäytön pikakuvakkeen.</string>
+     <string name="icon_remove_description_title">Poistetaanko \"Kalenteri\" Aloitusnäytöltä?</string>
      <string name="save_to_gallery_failure_message">无法保存到相册</string>
      <string name="save_to_gallery_icon_name">保存相册</string>
      <string name="save_to_gallery_success_message">成功保存到相册</string>
