@@ -378,7 +378,7 @@
      <string name="usage_device_limit_notifation_title">Jäljellä oleva aika tänään</string>
      <string name="usage_device_limit_time_over">Olet saavuttanut tämän päivän rajan (%1$s)</string>
      <string name="usage_home_premission_second_summary_double_link_prefix">Suojelemme henkilökohtaisia tietojasi asiaankuuluvien lakien, asetusten ja tietosuojakäytäntöjen mukaisesti. Jos et suostu myöntämään tällaisia käyttöoikeuksia tai jakamaan ja lähettämään henkilökohtaisia tietojasi, et voi käyttää tätä sovellusta. voi peruuttaa valtuutuksesi kohdassa Ruutuaika > Asetukset > Poista ruutuaika käytöstä.</string>
-     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>Ennen tämän sovelluksen käyttöä, lue ja hyväksy meidän &lt;a href='%1s'>Käyttöehdot&lt;/a> ja &lt;a href='%2s'>Tietosuojakäytäntö&lt;/a>.</Data></string>
+     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Ennen tämän sovelluksen käyttöä, lue ja hyväksy meidän &lt;a href='%1s'>Käyttöehdot&lt;/a> ja &lt;a href='%2s'>Tietosuojakäytäntö&lt;/a>."</Data></string>
      <string name="usage_new_home_app_limit_summary">Aseta päivittäinen ruudun aikaraja tälle sovellukselle</string>
      <string name="usage_new_home_app_limit_title">Rajoita ruutuaikaa</string>
      <string name="usage_new_home_average">"Keskim. "</string>
