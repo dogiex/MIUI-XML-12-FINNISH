@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="icon_add_description">Lisää aloitusnäytön pikakuvake</string>
+     <string name="icon_remove_confirm">Poista</string>
+     <string name="icon_remove_description_content">\"Palvelut &amp; palaute\" on järjestelmäsovellus. Voit silti käyttää sitä Asetusten kautta poistettuasi aloitusnäytön pikakuvakkeen.</string>
+     <string name="icon_remove_description_title">Poistetaanko \"Palvelut &amp; palaute\" aloitusnäytöltä?</string>
   <string name="app_name">app_main</string>
      <string name="chinese_day_1">初一</string>
      <string name="chinese_day_10">初十</string>

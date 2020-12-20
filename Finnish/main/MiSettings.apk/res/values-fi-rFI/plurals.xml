@@ -1,96 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Keskim. %.2f kertaa</item>
+        <item quantity="one">Keskim. %.2f kerran</item>
+     </plurals>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 tunti sitten</item>
      </plurals>
      <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 tunti sitten</item>
      </plurals>
      <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Puoli tuntia sitten</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Tunnin kuluttua</item>
      </plurals>
      <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Puolentunnin kuluttua</item>
      </plurals>
      <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Heti</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">minuutin kuluttua</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Juuri nyt</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">minuutti sitten</item>
      </plurals>
      <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Puolituntia sitten</item>
      </plurals>
      <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Tunnin kuluttua</item>
      </plurals>
      <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Puolentunnin kuluttua</item>
      </plurals>
      <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Heti</item>
      </plurals>
      <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">minuutin kuluttua</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Juuri nyt</item>
      </plurals>
      <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">minuutti sitten</item>
      </plurals>
      <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">"You've used your device for %d minutes without interruptions"</item>
-        <item quantity="one">"You've used your device for %d minute without interruptions"</item>
+        <item quantity="other">Olet käyttänyt laitettasi %d minuutin ajan ilman keskeytyksiä</item>
+        <item quantity="one">Olet käyttänyt laitettasi %d minuutin ajan ilman keskeytyksiä</item>
      </plurals>
      <plurals name="steady_on_screen_time_pick">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
      </plurals>
      <plurals name="usage_new_home_avg_unlockc">
-        <item quantity="other">%.2f times a day on average</item>
-        <item quantity="one">%.2f time a day on average</item>
+        <item quantity="other">Keskim. %.2f kertaa päivässä</item>
+        <item quantity="one">Keskim. %.2f kerran päivässä</item>
      </plurals>
      <plurals name="usage_new_home_total_unlocks">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">Avattu %d kertaa</item>
+        <item quantity="one">Avattu %d kerran</item>
      </plurals>
      <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Unlocked %1$d times on %2$s</item>
-        <item quantity="one">Unlocked %1$d time on %2$s</item>
+        <item quantity="other">Avattu %1$d kertaa ajalla %2$s</item>
+        <item quantity="one">Avattu %1$d kerran ajalla %2$s</item>
      </plurals>
      <plurals name="usage_new_home_total_week_unlocks">
-        <item quantity="other">Unlocked %d times</item>
-        <item quantity="one">Unlocked %d time</item>
+        <item quantity="other">Avattu %d kertaa</item>
+        <item quantity="one">Avattu %d kerran</item>
      </plurals>
      <plurals name="usage_remain_about_hour">
-        <item quantity="other">≈%s hrs</item>
-        <item quantity="one">≈%s hr</item>
+        <item quantity="other">≈%s tuntia</item>
+        <item quantity="one">≈%s tunti</item>
      </plurals>
      <plurals name="usage_remain_about_miunte">
-        <item quantity="other">≈%s mins</item>
-        <item quantity="one">≈%s min</item>
+        <item quantity="other">≈%s minuuttia</item>
+        <item quantity="one">≈%s minuutti</item>
      </plurals>
      <plurals name="usage_stats_remain_hour">
-        <item quantity="other">%s hrs</item>
-        <item quantity="one">%s hr</item>
+        <item quantity="other">%s tuntia</item>
+        <item quantity="one">%s tunti</item>
      </plurals>
      <plurals name="usage_stats_remain_miunte">
-        <item quantity="other">%s mins</item>
-        <item quantity="one">%s min</item>
+        <item quantity="other">%s minuuttia</item>
+        <item quantity="one">%s minuutti</item>
      </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d päivää</item>
