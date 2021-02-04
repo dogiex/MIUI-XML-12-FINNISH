@@ -27,6 +27,9 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+        <item>Å</item>
+        <item>Ä</item>
+        <item>Ö</item>
         <item>\#</item>
      </string-array>
      <string-array name="alphabet_table_with_starred">
@@ -57,6 +60,9 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+        <item>Å</item>
+        <item>Ä</item>
+        <item>Ö</item>
         <item>\#</item>
      </string-array>
      <string-array name="bh_array_switch_unit">
