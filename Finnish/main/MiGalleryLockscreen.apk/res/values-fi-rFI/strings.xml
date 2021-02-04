@@ -478,7 +478,7 @@ mm"</string>
   <string name="passport_error_unknown">Tuntematon virhe</string>
   <string name="passport_error_user_agreement_error">Hyväksy käyttöehdot ensin</string>
   <string name="passport_error_user_name">Antamasi käyttäjänimi on virheellinen</string>
-  <string name="passport_forget_password">&lt;u&gt;Unohdin salasanan&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Unohdin salasanan</u></string>
   <string name="passport_get_verify_code">Hanki koodi</string>
   <string name="passport_getting_verify_code">Odota hetki…</string>
   <string name="passport_identification_expired">Vahvistuskoodi on vanhentunut. Aloita alusta.</string>
@@ -537,6 +537,7 @@ mm"</string>
   <string name="passport_wrong_vcode">Syöttämäsi koodi on väärin</string>
   <string name="passport_wrong_voice">Syöttämäsi koodi on väärin</string>
   <string name="password_toggle_content_description">Näytä salasana</string>
+  
   <string name="permission_account_tip">Pääsy tilitietoihin</string>
   <string name="permission_storage_read_tip">Pääsy laitteelle tallennettuihin kuviin</string>
   <string name="permission_storage_tip">Tallenna ladatut kohteet laitteellesi</string>
