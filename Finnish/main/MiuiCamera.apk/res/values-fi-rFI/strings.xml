@@ -28,7 +28,6 @@
      <string name="dual_video_user_guide_main_title">Usean kameran video</string>
      <string name="dual_video_user_guide_merge_content">Kuvaa kahdella kameralla samaan aikaan ja yhdistä nauhoitukset jaettuun näkymään tai kuva-kuvassa-videoon.</string>
      <string name="dual_video_user_guide_standalone_content">Kuvaa kahdella kameralla samaan aikaan ja tallenna molemmat nauhoitukset erillisinä videoina.</string>
-     <string name="empty">" "</string>
      <string name="fastmotion_pro_adjust_name">Parametrit</string>
      <string name="fastmotion_pro_save_time_infinity">Rajoittamaton kesto</string>
      <string name="fastmotion_pro_save_time_min_and_sec">Kesto: %1$s %2$s</string>
